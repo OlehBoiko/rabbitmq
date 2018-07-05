@@ -1,0 +1,1 @@
+{"name":"Mr. Modesto Walter","email":"ebogisich@yahoo.com","address":"274 Murphy Corners\nSengerton, MI 26807-1599","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Vincenza Effertz","email":"jeffry29@pollich.com","address":"7804 Granville Mall\nGusikowskishire, IL 34461-2464","subscribed":true}

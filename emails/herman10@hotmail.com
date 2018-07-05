@@ -1,0 +1,1 @@
+{"name":"Mr. Bernard Kuhn IV","email":"herman10@hotmail.com","address":"13931 Sammy Port Apt. 148\nNew Katharina, IA 84172-8568","subscribed":true}

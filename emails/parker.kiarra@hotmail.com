@@ -1,0 +1,1 @@
+{"name":"Mr. Jamir Hegmann","email":"parker.kiarra@hotmail.com","address":"3416 Kozey Fields\nWildermanberg, KS 06358-3851","subscribed":true}

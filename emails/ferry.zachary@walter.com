@@ -1,0 +1,1 @@
+{"name":"Jettie Kunde","email":"ferry.zachary@walter.com","address":"964 Lockman Drive Suite 068\nKulasmouth, NC 89590","subscribed":true}

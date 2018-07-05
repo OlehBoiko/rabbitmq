@@ -1,0 +1,1 @@
+{"name":"Prof. Emanuel Strosin","email":"reichert.tyreek@gmail.com","address":"7240 Langosh Square\nPort Layneside, DE 15614","subscribed":true}

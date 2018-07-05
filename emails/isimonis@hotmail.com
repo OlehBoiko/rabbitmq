@@ -1,0 +1,1 @@
+{"name":"Manley Brown","email":"isimonis@hotmail.com","address":"7829 Boyd Meadow Suite 526\nKuhnburgh, AL 38779-8537","subscribed":true}

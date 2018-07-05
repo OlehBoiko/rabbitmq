@@ -1,0 +1,1 @@
+{"name":"Osvaldo Reichel","email":"fokuneva@hotmail.com","address":"4535 Rippin Skyway\nMariachester, VT 63340","subscribed":true}

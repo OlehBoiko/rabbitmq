@@ -1,0 +1,1 @@
+{"name":"Nigel Rosenbaum V","email":"ike96@mosciski.org","address":"2602 Lincoln Crossroad\nWuckertberg, KY 47546-7772","subscribed":true}

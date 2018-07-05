@@ -1,0 +1,1 @@
+{"name":"Malvina Lind","email":"vbaumbach@price.org","address":"270 Bartell Plaza Apt. 661\nLake Glenniefurt, MA 63244-8525","subscribed":true}

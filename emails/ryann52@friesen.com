@@ -1,0 +1,1 @@
+{"name":"Domenica Robel Sr.","email":"ryann52@friesen.com","address":"6680 Natalia Roads\nPort Laverna, OR 94813-1882","subscribed":true}

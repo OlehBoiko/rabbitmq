@@ -1,0 +1,1 @@
+{"name":"Neha Kuvalis","email":"schroeder.wyatt@tremblay.com","address":"53666 Tyra Port Apt. 237\nCharleystad, OH 20655-4927","subscribed":true}

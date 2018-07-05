@@ -1,0 +1,1 @@
+{"name":"Mr. Kennedy O'Connell DVM","email":"anika.walker@hotmail.com","address":"4775 Ritchie Oval Suite 595\nLeannonstad, CO 76258","subscribed":true}

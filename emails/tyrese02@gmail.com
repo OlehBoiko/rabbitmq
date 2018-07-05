@@ -1,0 +1,1 @@
+{"name":"Malcolm Maggio","email":"tyrese02@gmail.com","address":"68013 Fay Glen Apt. 946\nWeissnatmouth, MA 97864","subscribed":true}

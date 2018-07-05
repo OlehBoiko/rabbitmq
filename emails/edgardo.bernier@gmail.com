@@ -1,0 +1,1 @@
+{"name":"Manuela Christiansen","email":"edgardo.bernier@gmail.com","address":"413 Shanahan Harbor\nMicahbury, VT 20746","subscribed":true}

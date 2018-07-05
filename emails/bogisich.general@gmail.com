@@ -1,0 +1,1 @@
+{"name":"Mr. Hershel Dickens","email":"bogisich.general@gmail.com","address":"824 Judson Ridges Suite 450\nWest Nelschester, MN 72521-9135","subscribed":true}

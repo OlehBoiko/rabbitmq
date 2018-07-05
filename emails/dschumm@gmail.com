@@ -1,0 +1,1 @@
+{"name":"Alexane Fritsch","email":"dschumm@gmail.com","address":"36725 Candelario Squares\nWest Josefa, IA 95139","subscribed":true}

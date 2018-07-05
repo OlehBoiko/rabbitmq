@@ -1,0 +1,1 @@
+{"name":"Hannah Cruickshank","email":"constantin.kulas@hotmail.com","address":"744 Satterfield Squares\nPort Ora, ND 14235","subscribed":true}

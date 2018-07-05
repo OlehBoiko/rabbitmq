@@ -1,0 +1,1 @@
+{"name":"Prof. Forest Gulgowski II","email":"jackie69@auer.org","address":"77840 Norris Locks Suite 248\nNorth Rosalynland, WA 12455","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Fritz Daugherty","email":"genesis.rowe@waters.com","address":"66536 Jamey Burg Apt. 077\nLoisberg, MI 92677-7085","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Dr. Lucius Bauch Sr.","email":"sauer.olen@cummings.org","address":"26295 Ellis Fields Apt. 762\nLake Elenora, RI 13351-7110","subscribed":true}

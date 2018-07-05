@@ -1,0 +1,1 @@
+{"name":"Prof. Bo Moore Sr.","email":"anjali.cummerata@leannon.com","address":"1966 Idell Coves\nAdamsburgh, NY 23957","subscribed":true}

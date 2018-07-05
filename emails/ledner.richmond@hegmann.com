@@ -1,0 +1,1 @@
+{"name":"Mack Hartmann","email":"ledner.richmond@hegmann.com","address":"207 Celine Drive Suite 393\nKuphalburgh, MN 41870-7355","subscribed":true}

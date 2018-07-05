@@ -1,0 +1,1 @@
+{"name":"Garfield Kuphal II","email":"wilfred93@conroy.com","address":"20004 Walsh Valley Apt. 051\nEast Hayley, WA 24274-7011","subscribed":true}

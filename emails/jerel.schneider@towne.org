@@ -1,0 +1,1 @@
+{"name":"Prof. Arthur Runolfsdottir DVM","email":"jerel.schneider@towne.org","address":"78261 Rutherford Freeway\nPort Nicolaview, CA 09475","subscribed":true}

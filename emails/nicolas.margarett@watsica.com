@@ -1,0 +1,1 @@
+{"name":"Mr. Ulices Rodriguez I","email":"nicolas.margarett@watsica.com","address":"477 Hegmann Spring\nSouth Gennarofurt, WV 48582","subscribed":true}

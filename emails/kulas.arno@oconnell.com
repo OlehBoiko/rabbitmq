@@ -1,0 +1,1 @@
+{"name":"Ernestina Mayer","email":"kulas.arno@oconnell.com","address":"9478 Kaylie Hill\nGustaveside, OK 93207-3864","subscribed":true}

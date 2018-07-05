@@ -1,0 +1,1 @@
+{"name":"Prof. Angus Hartmann","email":"deckow.edwardo@yahoo.com","address":"424 Estrella Coves Apt. 171\nWest Alphonsoton, ME 34656","subscribed":true}

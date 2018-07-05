@@ -1,0 +1,1 @@
+{"name":"Prof. Marina Ratke II","email":"johnathan.krajcik@gmail.com","address":"4800 Raul Station Apt. 341\nNew Kelsie, FL 92835","subscribed":true}

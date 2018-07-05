@@ -1,0 +1,1 @@
+{"name":"Tate Luettgen DDS","email":"bkunde@gmail.com","address":"9981 Beier Shoal\nGibsontown, NE 39809-9011","subscribed":true}

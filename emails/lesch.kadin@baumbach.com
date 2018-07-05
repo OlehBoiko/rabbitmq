@@ -1,0 +1,1 @@
+{"name":"Ward Daugherty","email":"lesch.kadin@baumbach.com","address":"79568 Maggio Rest\nPort Nyabury, AZ 50647-5181","subscribed":true}

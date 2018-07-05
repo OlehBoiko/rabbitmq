@@ -1,0 +1,1 @@
+{"name":"Fritz Buckridge","email":"ekozey@yahoo.com","address":"143 Nader Extension\nNorth Emmieton, NE 16519-8302","subscribed":true}

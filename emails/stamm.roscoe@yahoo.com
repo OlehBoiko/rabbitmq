@@ -1,0 +1,1 @@
+{"name":"Shaun Pfannerstill","email":"stamm.roscoe@yahoo.com","address":"2336 Marquardt Shores\nAldenshire, RI 24454-9250","subscribed":true}

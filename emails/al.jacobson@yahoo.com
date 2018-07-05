@@ -1,0 +1,1 @@
+{"name":"Aida Bernhard","email":"al.jacobson@yahoo.com","address":"449 Stoltenberg Center Suite 483\nLisetteville, MA 13346","subscribed":true}

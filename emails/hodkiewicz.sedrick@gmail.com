@@ -1,0 +1,1 @@
+{"name":"Mandy Ullrich","email":"hodkiewicz.sedrick@gmail.com","address":"359 Cormier Drive\nSouth Marcelino, KS 37800-9854","subscribed":true}

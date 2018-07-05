@@ -1,0 +1,1 @@
+{"name":"Piper Legros","email":"janick.cruickshank@block.com","address":"9605 Green Summit Suite 771\nGusikowskifort, IA 83289","subscribed":true}

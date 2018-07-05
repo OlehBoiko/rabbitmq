@@ -1,0 +1,1 @@
+{"name":"Mr. Oscar Marvin II","email":"fkuvalis@johnson.com","address":"15904 Vincenzo Spring\nPort Elody, AZ 86798","subscribed":true}

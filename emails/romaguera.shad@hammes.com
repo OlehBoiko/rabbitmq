@@ -1,0 +1,1 @@
+{"name":"Mrs. Lavada Torphy","email":"romaguera.shad@hammes.com","address":"6704 Leora Hills Suite 698\nGracielafort, ME 23133","subscribed":true}

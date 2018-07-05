@@ -1,0 +1,1 @@
+{"name":"Gilbert Wuckert V","email":"isaias15@hotmail.com","address":"642 Ullrich Hill Apt. 641\nNorth Berenice, OH 80905","subscribed":true}

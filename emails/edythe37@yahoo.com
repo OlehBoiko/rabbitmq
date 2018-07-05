@@ -1,0 +1,1 @@
+{"name":"Ignatius Aufderhar","email":"edythe37@yahoo.com","address":"76421 Kuphal Avenue\nGranvilleborough, AR 64231-1844","subscribed":true}

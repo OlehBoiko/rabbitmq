@@ -1,0 +1,1 @@
+{"name":"Magali Marvin","email":"barney39@bechtelar.com","address":"4554 Shaylee Groves Apt. 641\nEzratown, GA 28120","subscribed":true}

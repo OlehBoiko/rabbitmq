@@ -1,0 +1,1 @@
+{"name":"Donato Bernier Sr.","email":"frami.kayla@lubowitz.com","address":"94765 Grady Stream\nLake Carleychester, MN 68944-6359","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Alvis Mante Sr.","email":"kunde.chasity@yahoo.com","address":"600 Greenfelder Villages Suite 111\nRebeccabury, NJ 83393","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prudence Swaniawski","email":"delores29@barrows.com","address":"5638 Deontae Summit Apt. 827\nConroyhaven, LA 96550","subscribed":true}

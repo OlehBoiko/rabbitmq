@@ -1,0 +1,1 @@
+{"name":"Prof. Jules Veum PhD","email":"laurie22@gmail.com","address":"590 O'Connell Mews\nSouth Deannaburgh, MS 37548","subscribed":true}

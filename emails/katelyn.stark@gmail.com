@@ -1,0 +1,1 @@
+{"name":"Waldo Stamm","email":"katelyn.stark@gmail.com","address":"7217 Robel Gateway\nWest Westleyland, WI 89915-3937","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Alfredo Herman","email":"estiedemann@yahoo.com","address":"623 Quigley Locks Suite 461\nNorth Kellenshire, RI 71935","subscribed":true}

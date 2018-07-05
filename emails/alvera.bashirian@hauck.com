@@ -1,0 +1,1 @@
+{"name":"Zack Batz IV","email":"alvera.bashirian@hauck.com","address":"55254 Fae Street\nSouth Nathanborough, DC 29443","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Camden Schimmel","email":"kuhlman.nathanial@yahoo.com","address":"536 King Crescent\nPacochaville, MA 91357-1767","subscribed":true}

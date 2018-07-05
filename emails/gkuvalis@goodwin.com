@@ -1,0 +1,1 @@
+{"name":"Izaiah Dietrich","email":"gkuvalis@goodwin.com","address":"40049 Yasmeen Pike Suite 014\nOberbrunnerberg, NH 67431","subscribed":true}

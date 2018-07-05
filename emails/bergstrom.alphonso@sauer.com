@@ -1,0 +1,1 @@
+{"name":"Zachary Ankunding","email":"bergstrom.alphonso@sauer.com","address":"23473 Leo Mountain Apt. 831\nAlvashire, OK 19883","subscribed":true}

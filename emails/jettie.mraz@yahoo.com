@@ -1,0 +1,1 @@
+{"name":"Casimir Morar Sr.","email":"jettie.mraz@yahoo.com","address":"865 Larkin Trafficway Suite 438\nJohnsonton, MS 74577","subscribed":true}

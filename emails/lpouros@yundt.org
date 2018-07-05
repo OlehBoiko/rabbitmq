@@ -1,0 +1,1 @@
+{"name":"Prof. Ronny Wunsch Sr.","email":"lpouros@yundt.org","address":"9425 Emely Mission Suite 049\nWest Jay, VT 15653-0068","subscribed":true}

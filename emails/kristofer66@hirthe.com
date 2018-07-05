@@ -1,0 +1,1 @@
+{"name":"Prof. Polly Casper","email":"kristofer66@hirthe.com","address":"223 Bergnaum Points Apt. 289\nAnaiston, NH 44069-1819","subscribed":true}

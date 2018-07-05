@@ -1,0 +1,1 @@
+{"name":"Barney Lubowitz","email":"samir.gleichner@turcotte.com","address":"681 Hahn Rapid Apt. 921\nBartstad, DE 95748-2582","subscribed":true}

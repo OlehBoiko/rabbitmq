@@ -1,0 +1,1 @@
+{"name":"Davonte Langosh","email":"daniel.mina@yost.com","address":"454 Alayna Keys Suite 897\nEast Faustino, IA 23729","subscribed":true}

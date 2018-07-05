@@ -1,0 +1,1 @@
+{"name":"Colten Klein","email":"mann.rita@dickinson.com","address":"12567 Schuster Bridge\nMariettaport, IA 04670","subscribed":true}

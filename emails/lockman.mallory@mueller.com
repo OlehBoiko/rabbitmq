@@ -1,0 +1,1 @@
+{"name":"Jewell Schuppe V","email":"lockman.mallory@mueller.com","address":"63966 Adelia Cape Suite 238\nDandretown, DE 80962-4809","subscribed":true}

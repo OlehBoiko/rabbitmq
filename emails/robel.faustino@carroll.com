@@ -1,0 +1,1 @@
+{"name":"Prof. Geraldine Wisozk IV","email":"robel.faustino@carroll.com","address":"115 Clementine Skyway\nPort Gerardoland, AK 77961","subscribed":true}

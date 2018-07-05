@@ -1,0 +1,1 @@
+{"name":"Amani Mante","email":"mariana.bergnaum@hotmail.com","address":"799 Lubowitz Estates Suite 798\nNorth Mozellton, KS 12669-5610","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Kaden Ritchie","email":"lowe.anabelle@wunsch.org","address":"236 Korbin Track Apt. 606\nNew Domenica, NM 34541","subscribed":true}

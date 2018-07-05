@@ -1,0 +1,1 @@
+{"name":"Mrs. Ara Fritsch","email":"zlockman@yahoo.com","address":"116 Shields Key Apt. 110\nWeldonton, GA 54958","subscribed":true}

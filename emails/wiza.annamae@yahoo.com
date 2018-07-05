@@ -1,0 +1,1 @@
+{"name":"Mrs. Margaretta Kulas","email":"wiza.annamae@yahoo.com","address":"4716 Erin Land Apt. 064\nMcLaughlinshire, AR 33199-0367","subscribed":true}

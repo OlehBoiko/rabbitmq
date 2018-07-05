@@ -1,0 +1,1 @@
+{"name":"Prof. Braulio Welch","email":"makenna.vandervort@gmail.com","address":"86842 Carissa Heights\nEast Sisterville, CA 49443-5453","subscribed":true}

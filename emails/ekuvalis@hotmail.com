@@ -1,0 +1,1 @@
+{"name":"Prof. Maryse Runolfsdottir","email":"ekuvalis@hotmail.com","address":"47194 Walsh Street\nLake Justine, NV 01066","subscribed":true}

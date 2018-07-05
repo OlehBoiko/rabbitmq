@@ -1,0 +1,1 @@
+{"name":"Lula Schuppe","email":"hoppe.jessyca@yahoo.com","address":"4313 Bednar Branch\nPort Jalenshire, MA 31962","subscribed":true}

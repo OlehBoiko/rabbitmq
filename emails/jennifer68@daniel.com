@@ -1,0 +1,1 @@
+{"name":"Minnie Strosin","email":"jennifer68@daniel.com","address":"8930 Toy Stream Apt. 501\nHassieville, ND 30022","subscribed":true}

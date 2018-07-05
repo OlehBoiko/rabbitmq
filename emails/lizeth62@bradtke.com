@@ -1,0 +1,1 @@
+{"name":"Prof. Delaney Shields","email":"lizeth62@bradtke.com","address":"648 Olson Port Apt. 045\nVincenzoside, WV 74294-6282","subscribed":true}

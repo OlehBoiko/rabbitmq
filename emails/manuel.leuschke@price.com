@@ -1,0 +1,1 @@
+{"name":"Mrs. Felicita Braun","email":"manuel.leuschke@price.com","address":"44551 Ward Brook\nKrajcikborough, DC 16237","subscribed":true}

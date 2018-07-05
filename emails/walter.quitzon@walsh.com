@@ -1,0 +1,1 @@
+{"name":"Kenya D'Amore","email":"walter.quitzon@walsh.com","address":"196 Cole Port Apt. 980\nSouth Rocky, DC 79507","subscribed":true}

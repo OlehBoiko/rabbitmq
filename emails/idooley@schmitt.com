@@ -1,0 +1,1 @@
+{"name":"Prof. Parker Runolfsson","email":"idooley@schmitt.com","address":"1671 Crooks Stravenue\nNew Elliottborough, NE 72946-2065","subscribed":true}

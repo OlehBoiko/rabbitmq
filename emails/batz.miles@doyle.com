@@ -1,0 +1,1 @@
+{"name":"Dr. Alexandro Kuvalis","email":"batz.miles@doyle.com","address":"2783 Terence Ranch\nEast Vestaberg, AR 99009-4081","subscribed":true}

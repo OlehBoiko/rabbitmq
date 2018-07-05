@@ -1,0 +1,1 @@
+{"name":"Prof. Jordane Blanda PhD","email":"grady46@haley.org","address":"604 Marquardt Mills\nNew Rollin, CT 65733-5094","subscribed":true}

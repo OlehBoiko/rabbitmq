@@ -1,0 +1,1 @@
+{"name":"Leonor Schuster","email":"bruce.quigley@yahoo.com","address":"4649 Johns Crest\nNew Jovanhaven, OR 60432-9234","subscribed":true}

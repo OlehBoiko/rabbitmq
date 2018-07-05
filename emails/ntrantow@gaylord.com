@@ -1,0 +1,1 @@
+{"name":"Hubert Stehr PhD","email":"ntrantow@gaylord.com","address":"373 Patience Forks Apt. 786\nNorth Albertochester, NH 45225","subscribed":true}

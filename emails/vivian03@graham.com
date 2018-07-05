@@ -1,0 +1,1 @@
+{"name":"Mr. Clark Bosco","email":"vivian03@graham.com","address":"42915 Angelita Square Suite 972\nNew Camylle, ID 06542","subscribed":true}

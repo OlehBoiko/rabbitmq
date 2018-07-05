@@ -1,0 +1,1 @@
+{"name":"Prof. Angelo Bayer","email":"tod.hartmann@hotmail.com","address":"494 Boehm Rapids Apt. 910\nNorth Robbiehaven, AR 89779","subscribed":true}

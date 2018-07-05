@@ -1,0 +1,1 @@
+{"name":"Armando Hamill","email":"xritchie@hotmail.com","address":"74365 Buckridge Oval Apt. 665\nSchuppeberg, ID 59081","subscribed":true}

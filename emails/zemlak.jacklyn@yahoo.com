@@ -1,0 +1,1 @@
+{"name":"Gregoria Swift","email":"zemlak.jacklyn@yahoo.com","address":"757 Reinger Roads\nMaudmouth, MN 36246-6250","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Nasir Runolfsson","email":"nicolas.clementina@gmail.com","address":"1164 Rosenbaum Ridge Suite 973\nSouth Arturotown, NV 49343","subscribed":true}

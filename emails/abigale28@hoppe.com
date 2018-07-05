@@ -1,0 +1,1 @@
+{"name":"Mrs. Janie Bradtke","email":"abigale28@hoppe.com","address":"329 Kemmer Lodge\nEast Jairo, VT 10732","subscribed":true}

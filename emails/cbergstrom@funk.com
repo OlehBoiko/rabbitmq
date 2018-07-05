@@ -1,0 +1,1 @@
+{"name":"Danyka Bednar Jr.","email":"cbergstrom@funk.com","address":"235 Dare Springs\nPort Lloyd, HI 77772","subscribed":true}

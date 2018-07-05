@@ -1,0 +1,1 @@
+{"name":"Ms. Berenice Swift","email":"schulist.joannie@boyle.com","address":"255 Nikolaus Loaf Apt. 514\nLake Nicoside, NY 80285-1497","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Denis Aufderhar","email":"ijacobson@king.com","address":"1308 Elenora Trace\nSouth Brooke, NY 09962-4535","subscribed":true}

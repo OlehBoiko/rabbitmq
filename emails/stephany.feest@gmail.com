@@ -1,0 +1,1 @@
+{"name":"Cali Nicolas","email":"stephany.feest@gmail.com","address":"565 Kale Walk\nNew Deanna, IL 22225","subscribed":true}

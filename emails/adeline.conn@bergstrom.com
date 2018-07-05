@@ -1,0 +1,1 @@
+{"name":"Prof. Jamaal Mayert I","email":"adeline.conn@bergstrom.com","address":"9945 Hayes Ways Apt. 153\nLake Julianport, MD 40273","subscribed":true}

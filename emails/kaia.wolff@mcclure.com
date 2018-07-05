@@ -1,0 +1,1 @@
+{"name":"Prof. Mable Wilderman","email":"kaia.wolff@mcclure.com","address":"724 Michale Park Suite 617\nKihnbury, AK 88967-3066","subscribed":true}

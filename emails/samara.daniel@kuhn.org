@@ -1,0 +1,1 @@
+{"name":"Tevin King","email":"samara.daniel@kuhn.org","address":"4038 Alexander Street Apt. 860\nWelchfurt, AL 85158","subscribed":true}

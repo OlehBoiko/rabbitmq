@@ -1,0 +1,1 @@
+{"name":"Mr. Michael Bergstrom","email":"ondricka.colten@stamm.com","address":"5470 Ebert Club\nJustenville, SD 91592-4768","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Jack Kuvalis","email":"jade.stiedemann@yahoo.com","address":"6784 Hank Flat\nCathymouth, MN 26861","subscribed":true}

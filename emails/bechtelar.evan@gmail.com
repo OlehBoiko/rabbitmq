@@ -1,0 +1,1 @@
+{"name":"Vidal Kuvalis","email":"bechtelar.evan@gmail.com","address":"4274 Hermiston Brooks\nLuettgenport, IN 96576","subscribed":true}

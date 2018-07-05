@@ -1,0 +1,1 @@
+{"name":"Lamar Halvorson DDS","email":"vilma.crist@west.com","address":"209 Jose Harbor\nGerholdstad, OH 59316-7067","subscribed":true}

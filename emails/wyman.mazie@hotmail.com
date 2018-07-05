@@ -1,0 +1,1 @@
+{"name":"Dr. Lowell Mitchell","email":"wyman.mazie@hotmail.com","address":"99485 Witting Branch Apt. 978\nBriannemouth, MN 37656","subscribed":true}

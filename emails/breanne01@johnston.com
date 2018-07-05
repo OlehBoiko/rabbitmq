@@ -1,0 +1,1 @@
+{"name":"Malinda Swaniawski","email":"breanne01@johnston.com","address":"14280 Gleichner Divide Suite 063\nNorth Ferne, MO 60136","subscribed":true}

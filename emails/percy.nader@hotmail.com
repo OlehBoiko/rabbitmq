@@ -1,0 +1,1 @@
+{"name":"Luella Yundt","email":"percy.nader@hotmail.com","address":"1670 Gabriel Motorway\nNorth Rylanville, ND 69829","subscribed":true}

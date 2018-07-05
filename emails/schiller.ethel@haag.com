@@ -1,0 +1,1 @@
+{"name":"Dr. Janick Mante DDS","email":"schiller.ethel@haag.com","address":"697 Yost Shoals Apt. 153\nSouth Coopershire, NH 09613-7298","subscribed":true}

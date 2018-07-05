@@ -1,0 +1,1 @@
+{"name":"Prof. Morgan D'Amore","email":"mayer.lizeth@grant.com","address":"7339 Stroman Passage\nSouth Penelope, WI 54546-1358","subscribed":true}

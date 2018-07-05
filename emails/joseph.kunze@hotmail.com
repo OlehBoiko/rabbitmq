@@ -1,0 +1,1 @@
+{"name":"Susana Legros","email":"joseph.kunze@hotmail.com","address":"7260 Sabrina Manor\nBeckermouth, CA 11947","subscribed":true}

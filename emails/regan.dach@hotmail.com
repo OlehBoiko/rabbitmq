@@ -1,0 +1,1 @@
+{"name":"Amparo Hodkiewicz","email":"regan.dach@hotmail.com","address":"284 Abner Throughway\nTessieburgh, RI 94838","subscribed":true}

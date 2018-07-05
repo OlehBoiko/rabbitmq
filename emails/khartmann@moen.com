@@ -1,0 +1,1 @@
+{"name":"Magnolia Beer MD","email":"khartmann@moen.com","address":"371 Dach Parkway Apt. 562\nWest Else, NC 69295","subscribed":true}

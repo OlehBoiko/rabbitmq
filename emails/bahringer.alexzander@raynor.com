@@ -1,0 +1,1 @@
+{"name":"Mrs. Samara Schuppe","email":"bahringer.alexzander@raynor.com","address":"68343 Rice Turnpike\nGaylordmouth, PA 55800","subscribed":true}

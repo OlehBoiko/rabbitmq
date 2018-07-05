@@ -1,0 +1,1 @@
+{"name":"Prof. Lincoln Macejkovic PhD","email":"mayert.treva@gmail.com","address":"236 Terry Field\nMitchellside, OK 76904","subscribed":true}

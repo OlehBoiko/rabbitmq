@@ -1,0 +1,1 @@
+{"name":"Giovanny Friesen","email":"nasir.kertzmann@yahoo.com","address":"2856 Mraz Mountain\nLake Russchester, KS 10133-8093","subscribed":true}

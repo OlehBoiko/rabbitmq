@@ -1,0 +1,1 @@
+{"name":"Prof. Jarret Wolf Sr.","email":"hgoyette@hotmail.com","address":"816 Gorczany Turnpike\nSouth Lilaburgh, NV 37649","subscribed":true}

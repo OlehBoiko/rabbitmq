@@ -1,0 +1,1 @@
+{"name":"Ms. Chasity Friesen Sr.","email":"thoeger@nikolaus.com","address":"244 Hermann Shores\nQuitzonberg, AL 13479","subscribed":true}

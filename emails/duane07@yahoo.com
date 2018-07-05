@@ -1,0 +1,1 @@
+{"name":"Prof. Jerrold Fadel","email":"duane07@yahoo.com","address":"2364 Fabian Viaduct\nWest Darlene, CA 01060-2714","subscribed":true}

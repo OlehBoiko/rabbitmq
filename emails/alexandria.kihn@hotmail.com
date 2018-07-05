@@ -1,0 +1,1 @@
+{"name":"Prof. Janie Crooks","email":"alexandria.kihn@hotmail.com","address":"857 Brennon Summit Suite 080\nFreedaburgh, KS 90320","subscribed":true}

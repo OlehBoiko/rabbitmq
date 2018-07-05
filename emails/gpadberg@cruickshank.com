@@ -1,0 +1,1 @@
+{"name":"Mrs. Marielle Rolfson Jr.","email":"gpadberg@cruickshank.com","address":"566 Kovacek Streets Apt. 937\nNew Delta, KS 91674-5769","subscribed":true}

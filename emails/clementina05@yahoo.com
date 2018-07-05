@@ -1,0 +1,1 @@
+{"name":"Prof. Mckenzie Prosacco","email":"clementina05@yahoo.com","address":"5413 Antonietta Port Suite 028\nNorth Karsonborough, ME 57351","subscribed":true}

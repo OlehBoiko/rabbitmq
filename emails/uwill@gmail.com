@@ -1,0 +1,1 @@
+{"name":"Prof. Loy Schaden","email":"uwill@gmail.com","address":"88341 Perry Plaza\nSouth Eulastad, DC 51805-9630","subscribed":true}

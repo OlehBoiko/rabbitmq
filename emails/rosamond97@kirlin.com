@@ -1,0 +1,1 @@
+{"name":"Mr. Howell Rogahn Sr.","email":"rosamond97@kirlin.com","address":"693 Greenfelder Lakes Suite 649\nPort Petrafurt, NJ 13540","subscribed":true}

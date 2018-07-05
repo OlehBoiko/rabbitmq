@@ -1,0 +1,1 @@
+{"name":"Augustine Kling","email":"agnes11@yahoo.com","address":"17786 Zieme Burgs Suite 191\nRosaleeside, MN 51722","subscribed":true}

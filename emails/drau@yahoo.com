@@ -1,0 +1,1 @@
+{"name":"Prof. Brigitte Nienow","email":"drau@yahoo.com","address":"211 Connor Union Suite 246\nSouth Ezequiel, KS 62381","subscribed":true}

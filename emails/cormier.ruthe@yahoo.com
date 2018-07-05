@@ -1,0 +1,1 @@
+{"name":"Abelardo Sipes","email":"cormier.ruthe@yahoo.com","address":"39913 Walker Glens\nDevantetown, ME 10544","subscribed":true}

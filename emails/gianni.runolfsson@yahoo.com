@@ -1,0 +1,1 @@
+{"name":"Erick Bogisich","email":"gianni.runolfsson@yahoo.com","address":"94444 Eichmann Green\nLake Arnoldo, ND 67490","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Miss Meda Swaniawski III","email":"lrempel@hintz.com","address":"5550 Oberbrunner Coves\nEast Svenborough, OH 24290-1524","subscribed":true}

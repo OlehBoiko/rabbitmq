@@ -1,0 +1,1 @@
+{"name":"Prof. Vesta Raynor PhD","email":"babshire@gmail.com","address":"106 Labadie Alley Suite 238\nPort Jeramieside, WA 99086-7636","subscribed":true}

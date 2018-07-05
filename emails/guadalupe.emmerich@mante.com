@@ -1,0 +1,1 @@
+{"name":"Rowan Franecki","email":"guadalupe.emmerich@mante.com","address":"3630 Fisher Drive\nVivianfort, IN 05127","subscribed":true}

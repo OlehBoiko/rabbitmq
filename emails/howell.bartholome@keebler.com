@@ -1,0 +1,1 @@
+{"name":"Mr. Ricky Mann II","email":"howell.bartholome@keebler.com","address":"952 Michele Burgs Apt. 719\nNorth Warren, DC 56398","subscribed":true}

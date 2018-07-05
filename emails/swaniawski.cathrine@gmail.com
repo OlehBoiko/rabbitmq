@@ -1,0 +1,1 @@
+{"name":"Eddie Hyatt","email":"swaniawski.cathrine@gmail.com","address":"5483 Stoltenberg Mills Apt. 847\nKihnton, RI 73023-2525","subscribed":true}

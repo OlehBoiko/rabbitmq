@@ -1,0 +1,1 @@
+{"name":"Mr. Clemens Quigley","email":"kuhn.philip@mayert.com","address":"9915 Heidenreich Bridge Suite 060\nWest Auroremouth, OR 90413-4245","subscribed":true}

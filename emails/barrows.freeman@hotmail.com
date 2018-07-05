@@ -1,0 +1,1 @@
+{"name":"Prof. Jed Jakubowski","email":"barrows.freeman@hotmail.com","address":"439 Macejkovic Circle\nPort Idellabury, MO 88635-6365","subscribed":true}

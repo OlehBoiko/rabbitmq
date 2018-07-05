@@ -1,0 +1,1 @@
+{"name":"Madelynn Langworth","email":"gus06@hotmail.com","address":"272 Kamille Place Apt. 253\nKassulkeside, IN 60372","subscribed":true}

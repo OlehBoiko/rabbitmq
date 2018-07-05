@@ -1,0 +1,1 @@
+{"name":"Callie Deckow","email":"bernier.magali@hoeger.com","address":"48754 Thompson Pine\nGiovannaburgh, WV 06391","subscribed":true}

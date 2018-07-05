@@ -1,0 +1,1 @@
+{"name":"Prof. Aditya Casper","email":"uward@gmail.com","address":"266 Miller Extension\nNorth Chaya, GA 13067","subscribed":true}

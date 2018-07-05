@@ -1,0 +1,1 @@
+{"name":"Amalia Maggio","email":"boyle.ruby@gleichner.com","address":"18646 Faustino Island Apt. 932\nEichmannton, MI 37808","subscribed":true}

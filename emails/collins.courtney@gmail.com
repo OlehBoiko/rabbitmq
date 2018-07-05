@@ -1,0 +1,1 @@
+{"name":"Dangelo McCullough Jr.","email":"collins.courtney@gmail.com","address":"386 Annetta Heights\nWalshborough, CO 84253","subscribed":true}

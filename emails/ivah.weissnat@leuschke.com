@@ -1,0 +1,1 @@
+{"name":"Ms. Opal Murray","email":"ivah.weissnat@leuschke.com","address":"3795 Baby Terrace\nReganberg, ID 54096-0392","subscribed":true}

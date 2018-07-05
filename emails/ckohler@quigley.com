@@ -1,0 +1,1 @@
+{"name":"Prof. Austen Morissette Jr.","email":"ckohler@quigley.com","address":"4683 Rutherford Shoal Apt. 172\nHowellhaven, NV 14547-4674","subscribed":true}

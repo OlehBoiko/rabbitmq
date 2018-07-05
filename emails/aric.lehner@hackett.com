@@ -1,0 +1,1 @@
+{"name":"Samanta Strosin","email":"aric.lehner@hackett.com","address":"6426 Stracke Parks\nHowetown, TN 42341-8127","subscribed":true}

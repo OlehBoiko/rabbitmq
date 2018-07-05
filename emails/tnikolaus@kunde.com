@@ -1,0 +1,1 @@
+{"name":"Raymundo Osinski","email":"tnikolaus@kunde.com","address":"6519 Alanis Locks Apt. 015\nPort Everardo, MT 73856","subscribed":true}

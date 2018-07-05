@@ -1,0 +1,1 @@
+{"name":"Ms. Ruthie Thompson","email":"imogene.kling@satterfield.org","address":"81849 Rosenbaum Keys Suite 180\nLake Kendra, CA 44605","subscribed":true}

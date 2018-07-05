@@ -1,0 +1,1 @@
+{"name":"Jules Stamm","email":"clint.fritsch@pollich.org","address":"62429 Margot Shoal\nEast Idell, TN 53360","subscribed":true}

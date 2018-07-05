@@ -1,0 +1,1 @@
+{"name":"Prof. Erwin Swaniawski","email":"kelly.harber@hotmail.com","address":"800 Thompson Inlet\nWest Joanniefort, IA 07036","subscribed":true}

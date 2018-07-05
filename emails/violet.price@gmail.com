@@ -1,0 +1,1 @@
+{"name":"Prof. Yasmine Cormier I","email":"violet.price@gmail.com","address":"76376 Botsford Field\nSouth Isabelle, NC 68365-7444","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Miss Mireya Lakin","email":"dmurazik@hansen.com","address":"195 Beier Turnpike\nPort Immanuel, WI 73075","subscribed":true}

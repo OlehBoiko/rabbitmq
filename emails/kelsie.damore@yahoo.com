@@ -1,0 +1,1 @@
+{"name":"Prof. Ariel Prohaska","email":"kelsie.damore@yahoo.com","address":"4702 Cartwright Meadow Suite 827\nWest Fletaview, TN 73214","subscribed":true}

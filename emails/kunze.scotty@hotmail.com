@@ -1,0 +1,1 @@
+{"name":"Bettie Paucek","email":"kunze.scotty@hotmail.com","address":"55114 Gaylord Shores\nNorth Johnson, MN 65969","subscribed":true}

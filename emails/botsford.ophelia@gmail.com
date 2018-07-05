@@ -1,0 +1,1 @@
+{"name":"Kattie Klocko","email":"botsford.ophelia@gmail.com","address":"247 Kristopher Lodge Apt. 298\nLake Rickie, CO 66740","subscribed":true}

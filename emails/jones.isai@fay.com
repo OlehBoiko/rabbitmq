@@ -1,0 +1,1 @@
+{"name":"Prof. Alfonso Ratke","email":"jones.isai@fay.com","address":"5651 Macy Corner\nLuettgenbury, OK 10765","subscribed":true}

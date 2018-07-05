@@ -1,0 +1,1 @@
+{"name":"Marianna Kub","email":"elza14@gmail.com","address":"119 Magali Road Suite 563\nRogahnmouth, IN 68635","subscribed":true}

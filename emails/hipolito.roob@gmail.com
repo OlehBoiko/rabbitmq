@@ -1,0 +1,1 @@
+{"name":"Prof. Ewell Sanford","email":"hipolito.roob@gmail.com","address":"192 Orlando Stream Apt. 925\nNoemifort, IL 59998-3338","subscribed":true}

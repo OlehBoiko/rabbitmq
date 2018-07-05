@@ -1,0 +1,1 @@
+{"name":"Breanne Kris","email":"dkassulke@lubowitz.com","address":"4535 Ella Turnpike\nPort Quincyfurt, PA 64424-0656","subscribed":true}

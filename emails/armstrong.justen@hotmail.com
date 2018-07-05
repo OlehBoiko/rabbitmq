@@ -1,0 +1,1 @@
+{"name":"Mr. Jamel Blick","email":"armstrong.justen@hotmail.com","address":"258 Domenico Highway Apt. 595\nPredovicberg, WV 04226-2094","subscribed":true}

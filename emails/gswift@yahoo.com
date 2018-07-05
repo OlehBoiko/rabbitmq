@@ -1,0 +1,1 @@
+{"name":"Prof. Jonathon Larkin I","email":"gswift@yahoo.com","address":"46339 Chase Common Suite 812\nEast Claudiaberg, RI 05691-5190","subscribed":true}

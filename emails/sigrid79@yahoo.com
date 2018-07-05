@@ -1,0 +1,1 @@
+{"name":"Prof. Marc Gibson I","email":"sigrid79@yahoo.com","address":"3740 Mireya Meadows Suite 622\nAshafort, WA 07849-8839","subscribed":true}

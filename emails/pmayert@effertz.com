@@ -1,0 +1,1 @@
+{"name":"Prof. Jacky Daniel","email":"pmayert@effertz.com","address":"4633 Kshlerin Gateway Apt. 003\nLake Guyside, VT 22177","subscribed":true}

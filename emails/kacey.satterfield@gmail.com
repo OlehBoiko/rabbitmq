@@ -1,0 +1,1 @@
+{"name":"Seth Huels PhD","email":"kacey.satterfield@gmail.com","address":"1371 Florence Alley Suite 786\nWest Samaraland, IN 07823","subscribed":true}

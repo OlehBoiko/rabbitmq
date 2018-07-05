@@ -1,0 +1,1 @@
+{"name":"Prof. Braeden Heaney III","email":"xwintheiser@witting.com","address":"29101 Arvel Landing Suite 943\nLillianamouth, CT 36617-2466","subscribed":true}

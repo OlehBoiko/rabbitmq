@@ -1,0 +1,1 @@
+{"name":"Rasheed Kuphal I","email":"ron.luettgen@gmail.com","address":"2296 Jaren Lane\nLake Karina, IA 59450","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Drew Weissnat Jr.","email":"tmann@jast.org","address":"653 Miller Causeway\nPort Deannaview, NH 33660","subscribed":true}

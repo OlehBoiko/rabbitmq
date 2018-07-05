@@ -1,0 +1,1 @@
+{"name":"Dr. Marvin Stamm Jr.","email":"cullen67@yahoo.com","address":"724 Blick Mount\nWest Isom, KS 15226-8043","subscribed":true}

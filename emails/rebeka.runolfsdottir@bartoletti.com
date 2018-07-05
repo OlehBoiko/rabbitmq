@@ -1,0 +1,1 @@
+{"name":"Royce Langworth","email":"rebeka.runolfsdottir@bartoletti.com","address":"93900 Shannon Ville\nBoyerberg, IN 73583-1643","subscribed":true}

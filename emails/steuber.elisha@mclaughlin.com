@@ -1,0 +1,1 @@
+{"name":"Prof. Electa Daugherty","email":"steuber.elisha@mclaughlin.com","address":"3058 Charlene Fork Suite 770\nSouth Isadoremouth, DC 59644","subscribed":true}

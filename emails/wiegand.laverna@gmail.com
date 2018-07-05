@@ -1,0 +1,1 @@
+{"name":"Mrs. Rosemary Kling","email":"wiegand.laverna@gmail.com","address":"632 Kaylin Groves Apt. 250\nBradfordberg, TX 28126","subscribed":true}

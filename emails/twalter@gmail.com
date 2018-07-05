@@ -1,0 +1,1 @@
+{"name":"Prof. Blake Hane","email":"twalter@gmail.com","address":"2958 Dibbert Junctions Suite 376\nVolkmantown, CT 35806","subscribed":true}

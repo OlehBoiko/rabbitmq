@@ -1,0 +1,1 @@
+{"name":"Prof. Rudy Douglas","email":"jimmie.medhurst@bartoletti.org","address":"3569 Austin Junction\nEast Emmanuelle, IA 92546","subscribed":true}

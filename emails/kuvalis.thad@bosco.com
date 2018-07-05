@@ -1,0 +1,1 @@
+{"name":"Franz Robel","email":"kuvalis.thad@bosco.com","address":"90841 Rosalyn Ville Apt. 490\nTommieshire, OH 09252-0543","subscribed":true}

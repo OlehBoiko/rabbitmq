@@ -1,0 +1,1 @@
+{"name":"Halie Kuhlman","email":"farrell.weldon@hotmail.com","address":"93545 Broderick Springs\nSouth Martinberg, NY 40810","subscribed":true}

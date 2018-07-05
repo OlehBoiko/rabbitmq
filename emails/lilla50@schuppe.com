@@ -1,0 +1,1 @@
+{"name":"Prof. Vella Smith V","email":"lilla50@schuppe.com","address":"208 Padberg Station Suite 233\nLeolaside, UT 40551-9848","subscribed":true}

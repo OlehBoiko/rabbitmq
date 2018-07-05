@@ -1,0 +1,1 @@
+{"name":"Dr. Issac Feest","email":"richard.watsica@lockman.com","address":"9750 Fadel Ways Apt. 220\nSouth Georgianna, IA 96331","subscribed":true}

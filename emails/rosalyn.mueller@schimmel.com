@@ -1,0 +1,1 @@
+{"name":"Otis Wuckert","email":"rosalyn.mueller@schimmel.com","address":"202 Devon Walk\nHettingerview, AR 55688-0143","subscribed":true}

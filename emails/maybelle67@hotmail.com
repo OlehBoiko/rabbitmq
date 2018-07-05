@@ -1,0 +1,1 @@
+{"name":"Prof. Jerome Haag","email":"maybelle67@hotmail.com","address":"90021 Wilderman Terrace\nNew Terrill, RI 75322","subscribed":true}

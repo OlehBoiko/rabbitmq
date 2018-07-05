@@ -1,0 +1,1 @@
+{"name":"Mr. Nash Goldner","email":"altenwerth.clement@ullrich.com","address":"8068 Kathryn Mountain\nEllsworthberg, ND 14663-0465","subscribed":true}

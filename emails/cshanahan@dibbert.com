@@ -1,0 +1,1 @@
+{"name":"Waldo Ledner","email":"cshanahan@dibbert.com","address":"528 Labadie Vista\nConnellyton, OH 45685","subscribed":true}

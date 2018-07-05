@@ -1,0 +1,1 @@
+{"name":"Prof. Juliana Huel","email":"ehammes@hotmail.com","address":"7133 Madaline Viaduct\nEast Grahamchester, ME 05294-2393","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Chris Murray","email":"isabella.langosh@zboncak.org","address":"37711 Pfeffer Bypass\nLake Minervachester, KS 68448","subscribed":true}

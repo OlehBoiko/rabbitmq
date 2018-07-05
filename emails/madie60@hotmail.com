@@ -1,0 +1,1 @@
+{"name":"Prof. Rylan Nikolaus","email":"madie60@hotmail.com","address":"6015 Rudy Crescent Suite 339\nJadonchester, CT 74161","subscribed":true}

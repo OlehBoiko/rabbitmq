@@ -1,0 +1,1 @@
+{"name":"Prof. Cristobal Kling","email":"eloise.walker@bruen.com","address":"61518 Gerhold Fall\nCydneyville, OH 05344-8596","subscribed":true}

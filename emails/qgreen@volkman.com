@@ -1,0 +1,1 @@
+{"name":"Prof. Earnest Flatley","email":"qgreen@volkman.com","address":"51054 Bailey Station\nThompsonborough, KS 87285","subscribed":true}

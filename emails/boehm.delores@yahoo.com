@@ -1,0 +1,1 @@
+{"name":"Colt Jakubowski","email":"boehm.delores@yahoo.com","address":"6463 Alexandrine Trail\nWest Stephanyfort, NE 27564-0092","subscribed":true}

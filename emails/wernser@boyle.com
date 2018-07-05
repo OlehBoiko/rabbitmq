@@ -1,0 +1,1 @@
+{"name":"Ulises Franecki","email":"wernser@boyle.com","address":"11382 Cruz Meadows Suite 841\nAricfort, NH 33699","subscribed":true}

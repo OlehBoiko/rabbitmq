@@ -1,0 +1,1 @@
+{"name":"Prof. Solon Parisian","email":"cydney.roob@hahn.com","address":"637 Pfannerstill Lakes\nJuniusville, AK 93732","subscribed":true}

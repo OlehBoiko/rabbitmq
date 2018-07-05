@@ -1,0 +1,1 @@
+{"name":"Miss Madelyn Kovacek Jr.","email":"blanda.durward@yahoo.com","address":"678 Myah Hollow Apt. 495\nKaitlynhaven, LA 36169","subscribed":true}

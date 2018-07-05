@@ -1,0 +1,1 @@
+{"name":"Sigurd Macejkovic","email":"kbradtke@mann.com","address":"4936 Samantha Vista\nNew Sheashire, CO 80530","subscribed":true}

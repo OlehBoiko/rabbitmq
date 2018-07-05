@@ -1,0 +1,1 @@
+{"name":"Prof. Lura Schoen III","email":"bergnaum.mohamed@jacobs.com","address":"9524 Icie Course\nSouth Charlene, KS 82213","subscribed":true}

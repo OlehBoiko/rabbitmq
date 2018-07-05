@@ -1,0 +1,1 @@
+{"name":"Marisa Nitzsche","email":"aschowalter@bartell.com","address":"8752 Howe Street Suite 017\nSengerchester, UT 44242","subscribed":true}

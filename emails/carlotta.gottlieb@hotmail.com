@@ -1,0 +1,1 @@
+{"name":"Anna Rosenbaum","email":"carlotta.gottlieb@hotmail.com","address":"142 Jacobi Path\nLavinaberg, AL 17763","subscribed":true}

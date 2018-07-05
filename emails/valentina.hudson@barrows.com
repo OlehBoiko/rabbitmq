@@ -1,0 +1,1 @@
+{"name":"Prof. Dariana Abbott","email":"valentina.hudson@barrows.com","address":"455 Medhurst Island Apt. 147\nHirtheburgh, IL 94136","subscribed":true}

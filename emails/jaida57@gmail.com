@@ -1,0 +1,1 @@
+{"name":"Rosendo Auer","email":"jaida57@gmail.com","address":"6725 Lynch Springs\nKuvalisview, HI 76405-6670","subscribed":true}

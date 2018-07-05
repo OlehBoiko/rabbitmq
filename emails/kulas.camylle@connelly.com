@@ -1,0 +1,1 @@
+{"name":"Prof. Easter Schuppe","email":"kulas.camylle@connelly.com","address":"57636 Ruthie Mills\nNew Ashtynshire, ME 34938-3071","subscribed":true}

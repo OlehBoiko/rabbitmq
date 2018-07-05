@@ -1,0 +1,1 @@
+{"name":"Dr. Elinor Hand PhD","email":"augustus.aufderhar@kirlin.com","address":"432 Blick Inlet\nNorth Fayeside, MO 86628-6363","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Chelsie Fadel IV","email":"moconnell@gmail.com","address":"2428 Williamson Throughway\nNew Alyce, OK 19512-5832","subscribed":true}

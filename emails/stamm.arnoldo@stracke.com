@@ -1,0 +1,1 @@
+{"name":"Alfonzo Yundt","email":"stamm.arnoldo@stracke.com","address":"797 Christiansen Knoll\nPort Isabellville, MT 39419-3336","subscribed":true}

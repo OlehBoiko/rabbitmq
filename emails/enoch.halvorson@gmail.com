@@ -1,0 +1,1 @@
+{"name":"Prof. Deangelo Gutmann","email":"enoch.halvorson@gmail.com","address":"329 Sarina Flat Suite 702\nLanceside, MT 72520","subscribed":true}

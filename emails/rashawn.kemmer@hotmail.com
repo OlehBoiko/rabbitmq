@@ -1,0 +1,1 @@
+{"name":"Prof. Lennie Schinner Sr.","email":"rashawn.kemmer@hotmail.com","address":"3022 Cody Plain Suite 959\nLake Thorastad, SD 32663","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Lonnie Ward","email":"waelchi.keagan@gmail.com","address":"7083 Richard Club Suite 689\nPort Daishafurt, HI 47707-8333","subscribed":true}

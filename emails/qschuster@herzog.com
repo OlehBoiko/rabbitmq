@@ -1,0 +1,1 @@
+{"name":"Madelyn Kunze","email":"qschuster@herzog.com","address":"642 Queen Locks Suite 046\nEast Darrinberg, AR 45126-3552","subscribed":true}

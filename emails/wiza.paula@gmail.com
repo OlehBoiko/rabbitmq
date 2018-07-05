@@ -1,0 +1,1 @@
+{"name":"Tevin Lubowitz","email":"wiza.paula@gmail.com","address":"7636 Lubowitz Ville\nCrawfordfurt, KY 53543-1529","subscribed":true}

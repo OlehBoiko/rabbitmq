@@ -1,0 +1,1 @@
+{"name":"Marianna Quigley Sr.","email":"clubowitz@gmail.com","address":"9216 Jensen Street\nEveretteside, NE 97284","subscribed":true}

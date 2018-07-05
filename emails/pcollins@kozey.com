@@ -1,0 +1,1 @@
+{"name":"Taryn Daugherty","email":"pcollins@kozey.com","address":"8994 Alfreda Land\nEast Pierre, GA 06749","subscribed":true}

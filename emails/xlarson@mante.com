@@ -1,0 +1,1 @@
+{"name":"Verner Shanahan","email":"xlarson@mante.com","address":"251 Haley Street\nNorth Forestfort, SD 96202-5005","subscribed":true}

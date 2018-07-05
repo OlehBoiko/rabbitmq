@@ -1,0 +1,1 @@
+{"name":"Ebony Kuvalis","email":"tpadberg@rolfson.com","address":"336 Kaden Lane\nSouth Clement, KY 33147-0209","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Kennith Rice","email":"schoen.dave@kassulke.com","address":"902 Wunsch Pike Apt. 134\nEast Edythfort, OR 44292-3553","subscribed":true}

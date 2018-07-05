@@ -1,0 +1,1 @@
+{"name":"Rory Halvorson","email":"jasen72@johnston.com","address":"46839 Andreanne Locks Suite 675\nPowlowskiville, TX 16758","subscribed":true}

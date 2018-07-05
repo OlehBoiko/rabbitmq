@@ -1,0 +1,1 @@
+{"name":"Prof. Joanie Wiza","email":"clementine.bartoletti@gmail.com","address":"4508 Benny Lodge Apt. 400\nNitzscheberg, NJ 86948","subscribed":true}

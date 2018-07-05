@@ -1,0 +1,1 @@
+{"name":"Joel Ward","email":"connelly.wellington@kozey.com","address":"38817 Langosh Loop Apt. 791\nLake Wardstad, MI 35193-1851","subscribed":true}

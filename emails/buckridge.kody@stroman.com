@@ -1,0 +1,1 @@
+{"name":"Judy Mayert MD","email":"buckridge.kody@stroman.com","address":"959 Franecki Walk\nNorth Penelopemouth, AL 86669","subscribed":true}

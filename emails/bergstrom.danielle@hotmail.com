@@ -1,0 +1,1 @@
+{"name":"Prof. Uriel Bashirian","email":"bergstrom.danielle@hotmail.com","address":"41073 Wolf Pines Suite 522\nKochside, OR 79932","subscribed":true}

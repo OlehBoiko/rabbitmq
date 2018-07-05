@@ -1,0 +1,1 @@
+{"name":"Rosetta Stamm","email":"turner79@yahoo.com","address":"317 Marks Village Suite 307\nWest Virginie, LA 50069","subscribed":true}

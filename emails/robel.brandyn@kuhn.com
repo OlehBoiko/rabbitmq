@@ -1,0 +1,1 @@
+{"name":"Constantin Sipes PhD","email":"robel.brandyn@kuhn.com","address":"35764 Wallace Drive\nRubyfurt, DE 05113","subscribed":true}

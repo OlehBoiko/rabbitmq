@@ -1,0 +1,1 @@
+{"name":"Prof. Estevan Hand III","email":"marlon27@turcotte.com","address":"89125 Genevieve Path Apt. 251\nAnnetteton, CA 94916","subscribed":true}

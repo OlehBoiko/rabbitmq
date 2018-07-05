@@ -1,0 +1,1 @@
+{"name":"Mr. Stephan Lubowitz","email":"zella16@shields.com","address":"548 Frami Forest\nRippinstad, NJ 39570-6118","subscribed":true}

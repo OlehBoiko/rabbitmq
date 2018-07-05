@@ -1,0 +1,1 @@
+{"name":"Cindy Stamm","email":"ghammes@gmail.com","address":"2956 Shanna Fork Apt. 623\nLeannonport, SD 45761-0059","subscribed":true}

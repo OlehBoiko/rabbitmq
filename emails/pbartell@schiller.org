@@ -1,0 +1,1 @@
+{"name":"Maxie Bode","email":"pbartell@schiller.org","address":"12686 Parker Ways\nLake Candiceland, KY 24050","subscribed":true}

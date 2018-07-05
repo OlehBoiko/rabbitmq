@@ -1,0 +1,1 @@
+{"name":"Prof. Juvenal Purdy PhD","email":"sgerlach@gmail.com","address":"37385 Molly Manor\nRogeliostad, NC 82482-4465","subscribed":true}

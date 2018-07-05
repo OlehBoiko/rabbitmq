@@ -1,0 +1,1 @@
+{"name":"Jedidiah Howe","email":"rosetta38@yahoo.com","address":"71827 Zulauf Glen Suite 419\nQuitzonbury, MN 00694","subscribed":true}

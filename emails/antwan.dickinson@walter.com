@@ -1,0 +1,1 @@
+{"name":"Toy Kuvalis","email":"antwan.dickinson@walter.com","address":"84614 Ezequiel Parkway\nEzekielside, UT 40423","subscribed":true}

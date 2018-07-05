@@ -1,0 +1,1 @@
+{"name":"Janick Lindgren","email":"schroeder.luisa@yahoo.com","address":"13482 Corwin Land\nNorth Consuelo, HI 13735","subscribed":true}

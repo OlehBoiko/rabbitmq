@@ -1,0 +1,1 @@
+{"name":"Mrs. Alda Greenfelder","email":"pruecker@yahoo.com","address":"422 Arianna Knolls\nNew Barton, KS 42829","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Kelli Schuppe Jr.","email":"ayundt@kihn.com","address":"2051 Cassin Estates Apt. 512\nWest Kaylahaven, SD 75550-0152","subscribed":true}

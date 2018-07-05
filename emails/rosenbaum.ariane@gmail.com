@@ -1,0 +1,1 @@
+{"name":"Leann Baumbach","email":"rosenbaum.ariane@gmail.com","address":"1297 Goyette Loaf Suite 307\nNew Keyonborough, NH 83512","subscribed":true}

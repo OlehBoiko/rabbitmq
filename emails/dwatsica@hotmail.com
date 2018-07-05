@@ -1,0 +1,1 @@
+{"name":"Dr. Garland Eichmann","email":"dwatsica@hotmail.com","address":"2814 Jaden Way Apt. 581\nKuvalisville, RI 48992","subscribed":true}

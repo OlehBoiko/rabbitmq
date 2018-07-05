@@ -1,0 +1,1 @@
+{"name":"Miss Danika Schmeler Jr.","email":"gonzalo.kohler@weimann.org","address":"5229 Roger Roads Suite 867\nEast Owenchester, NE 67699","subscribed":true}

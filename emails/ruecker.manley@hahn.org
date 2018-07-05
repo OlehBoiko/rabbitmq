@@ -1,0 +1,1 @@
+{"name":"Mrs. Gladyce Weissnat","email":"ruecker.manley@hahn.org","address":"766 Satterfield Trace\nEast Julientown, NJ 41124","subscribed":true}

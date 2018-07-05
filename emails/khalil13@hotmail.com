@@ -1,0 +1,1 @@
+{"name":"Prof. Lukas Kunde","email":"khalil13@hotmail.com","address":"88701 Towne Estates\nRusselshire, OK 50964","subscribed":true}

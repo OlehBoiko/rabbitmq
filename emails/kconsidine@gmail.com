@@ -1,0 +1,1 @@
+{"name":"Shanon Rodriguez","email":"kconsidine@gmail.com","address":"712 Herzog Wall\nLake Tarastad, RI 19321-0840","subscribed":true}

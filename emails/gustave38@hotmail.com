@@ -1,0 +1,1 @@
+{"name":"Jacinto Rodriguez","email":"gustave38@hotmail.com","address":"5151 Asia Corners Apt. 485\nBartholomemouth, AZ 44713","subscribed":true}

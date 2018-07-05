@@ -1,0 +1,1 @@
+{"name":"Prof. Wyman Purdy III","email":"caleb99@swift.com","address":"260 Dickinson Trace Suite 081\nAniyashire, SC 03830","subscribed":true}

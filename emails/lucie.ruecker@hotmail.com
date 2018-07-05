@@ -1,0 +1,1 @@
+{"name":"Mr. Omer Wiza IV","email":"lucie.ruecker@hotmail.com","address":"374 Hoeger Freeway\nSouth Cathryn, UT 89578","subscribed":true}

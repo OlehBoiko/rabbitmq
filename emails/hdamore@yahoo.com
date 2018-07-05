@@ -1,0 +1,1 @@
+{"name":"Vladimir Schuster","email":"hdamore@yahoo.com","address":"868 Buster Green Apt. 938\nMarisachester, IN 12317","subscribed":true}

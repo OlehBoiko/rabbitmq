@@ -1,0 +1,1 @@
+{"name":"Dagmar Spinka","email":"krajcik.yvonne@hotmail.com","address":"755 Durgan Plains\nMcKenzieview, CO 97958","subscribed":true}

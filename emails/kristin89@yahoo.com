@@ -1,0 +1,1 @@
+{"name":"Prof. Oran Macejkovic V","email":"kristin89@yahoo.com","address":"7213 Lorine Route\nWest Arnoldo, SD 62624-2864","subscribed":true}

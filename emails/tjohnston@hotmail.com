@@ -1,0 +1,1 @@
+{"name":"Maxie Schamberger PhD","email":"tjohnston@hotmail.com","address":"20994 Abigale Roads Apt. 514\nNelsonmouth, KS 44068","subscribed":true}

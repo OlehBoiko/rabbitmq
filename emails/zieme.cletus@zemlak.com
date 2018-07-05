@@ -1,0 +1,1 @@
+{"name":"Prof. Rico McCullough Jr.","email":"zieme.cletus@zemlak.com","address":"2272 Theo Road\nVeummouth, MI 66968","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Cleo Mante","email":"cemmerich@flatley.com","address":"63541 Daugherty View\nQuigleychester, FL 95470","subscribed":true}

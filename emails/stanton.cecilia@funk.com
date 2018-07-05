@@ -1,0 +1,1 @@
+{"name":"Prof. Davonte Fritsch","email":"stanton.cecilia@funk.com","address":"600 Elena Dam\nNorth Lynn, MT 28886","subscribed":true}

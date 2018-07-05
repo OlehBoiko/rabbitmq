@@ -1,0 +1,1 @@
+{"name":"Kaleigh Blanda","email":"stoltenberg.gaetano@mraz.com","address":"86150 Denesik Wall Suite 247\nWilkinsonview, CT 58572-3871","subscribed":true}

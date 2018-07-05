@@ -1,0 +1,1 @@
+{"name":"Nelle Gutkowski","email":"bennett.mcdermott@hotmail.com","address":"5133 Kuhlman Highway Suite 035\nLake Arnaldo, MN 88003","subscribed":true}

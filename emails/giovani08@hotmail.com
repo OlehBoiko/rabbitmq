@@ -1,0 +1,1 @@
+{"name":"Thalia Rowe","email":"giovani08@hotmail.com","address":"7091 Alessandro Unions\nEast Meagan, TX 10019","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Sigmund Eichmann","email":"alejandrin.rowe@wintheiser.com","address":"332 Amira Orchard\nCasimerchester, GA 75696","subscribed":true}

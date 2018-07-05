@@ -1,0 +1,1 @@
+{"name":"Mozell Konopelski","email":"werner20@mayer.com","address":"84489 Heller Ranch\nEast Stuartfurt, WY 15133","subscribed":true}

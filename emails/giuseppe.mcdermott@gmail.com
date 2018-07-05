@@ -1,0 +1,1 @@
+{"name":"Mr. Watson Ratke Jr.","email":"giuseppe.mcdermott@gmail.com","address":"99118 Adriana Locks\nJeradfurt, TN 57582","subscribed":true}

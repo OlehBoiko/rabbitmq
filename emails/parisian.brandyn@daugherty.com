@@ -1,0 +1,1 @@
+{"name":"Miss Kaya Effertz Sr.","email":"parisian.brandyn@daugherty.com","address":"21350 Margot Dam Apt. 011\nNew Yasmineberg, TN 48812","subscribed":true}

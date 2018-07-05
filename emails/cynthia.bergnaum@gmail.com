@@ -1,0 +1,1 @@
+{"name":"Prof. Marisa Hettinger","email":"cynthia.bergnaum@gmail.com","address":"104 Pfeffer Lake Suite 653\nTracechester, AR 26869","subscribed":true}

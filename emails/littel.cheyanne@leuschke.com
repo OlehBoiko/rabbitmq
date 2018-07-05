@@ -1,0 +1,1 @@
+{"name":"Mr. Cleveland Kulas","email":"littel.cheyanne@leuschke.com","address":"811 Smitham Cove Apt. 099\nBarrowsberg, UT 62974","subscribed":true}

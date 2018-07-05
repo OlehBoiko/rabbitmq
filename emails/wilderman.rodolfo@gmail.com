@@ -1,0 +1,1 @@
+{"name":"Jovan Gulgowski","email":"wilderman.rodolfo@gmail.com","address":"997 Madeline Land Apt. 403\nKozeybury, CO 56234","subscribed":true}

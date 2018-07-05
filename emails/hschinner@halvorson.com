@@ -1,0 +1,1 @@
+{"name":"Ariane Marquardt Jr.","email":"hschinner@halvorson.com","address":"9694 Jedidiah Light Apt. 450\nSouth Marilyneshire, IN 51351","subscribed":true}

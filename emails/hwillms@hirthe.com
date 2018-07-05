@@ -1,0 +1,1 @@
+{"name":"Bernhard Boyle","email":"hwillms@hirthe.com","address":"455 Leatha Place\nWolfstad, MT 13165","subscribed":true}

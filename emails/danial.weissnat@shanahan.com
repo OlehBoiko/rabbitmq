@@ -1,0 +1,1 @@
+{"name":"Leopold Beer","email":"danial.weissnat@shanahan.com","address":"759 Arvel Mission Suite 722\nCummeratachester, MI 98717-8583","subscribed":true}

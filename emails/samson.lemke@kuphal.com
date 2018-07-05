@@ -1,0 +1,1 @@
+{"name":"Leonardo Torphy Jr.","email":"samson.lemke@kuphal.com","address":"24885 Wolf Village Apt. 565\nMedhurststad, NH 11261-3316","subscribed":true}

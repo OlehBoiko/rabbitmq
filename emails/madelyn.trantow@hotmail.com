@@ -1,0 +1,1 @@
+{"name":"Napoleon Weimann","email":"madelyn.trantow@hotmail.com","address":"168 Jerde Wall Suite 996\nLockmanview, IA 06200-9430","subscribed":true}

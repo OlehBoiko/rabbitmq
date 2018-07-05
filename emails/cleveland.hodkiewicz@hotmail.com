@@ -1,0 +1,1 @@
+{"name":"Prof. Isadore Schamberger","email":"cleveland.hodkiewicz@hotmail.com","address":"16293 Weissnat Viaduct\nDonnellyburgh, SD 19656-4201","subscribed":true}

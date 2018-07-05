@@ -1,0 +1,1 @@
+{"name":"Prof. Adolphus Flatley","email":"fanny58@gmail.com","address":"25289 Wilhelm Flats Suite 203\nWest Dolores, MT 06087-7715","subscribed":true}

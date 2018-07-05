@@ -1,0 +1,1 @@
+{"name":"Mr. Madison Fritsch V","email":"pollich.fanny@towne.com","address":"901 Rice Stream Apt. 027\nEast Ronmouth, TX 19847","subscribed":true}

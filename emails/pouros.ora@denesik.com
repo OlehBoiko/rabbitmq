@@ -1,0 +1,1 @@
+{"name":"Prof. Madie Emard","email":"pouros.ora@denesik.com","address":"14275 Raul Bridge Suite 860\nWest Toby, SD 47033","subscribed":true}

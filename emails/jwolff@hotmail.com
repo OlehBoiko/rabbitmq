@@ -1,0 +1,1 @@
+{"name":"Mr. Claude Pfeffer Sr.","email":"jwolff@hotmail.com","address":"2785 Thiel Row Apt. 462\nFannyside, WA 87081","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Hulda Brekke","email":"delfina92@lindgren.com","address":"8195 Athena Knoll Suite 123\nSipestown, KY 59478","subscribed":true}

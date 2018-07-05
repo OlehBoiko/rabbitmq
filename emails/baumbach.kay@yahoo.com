@@ -1,0 +1,1 @@
+{"name":"Miss Clementine Rowe","email":"baumbach.kay@yahoo.com","address":"1762 Crooks Underpass\nPercyfort, RI 17823","subscribed":true}

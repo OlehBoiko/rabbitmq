@@ -1,0 +1,1 @@
+{"name":"Prof. Kenneth Ortiz Jr.","email":"alphonso27@yahoo.com","address":"853 Krajcik Summit Suite 920\nSouth Jaycee, NV 43580-0874","subscribed":true}

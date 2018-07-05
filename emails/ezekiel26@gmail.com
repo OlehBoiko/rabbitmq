@@ -1,0 +1,1 @@
+{"name":"Prof. Bradley Kulas I","email":"ezekiel26@gmail.com","address":"693 Windler Ville Suite 510\nNorth Giaton, AZ 07425-5460","subscribed":true}

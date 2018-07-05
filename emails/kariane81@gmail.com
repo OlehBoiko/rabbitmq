@@ -1,0 +1,1 @@
+{"name":"Prof. Jamison Wunsch V","email":"kariane81@gmail.com","address":"99601 Adolphus Center\nKulasbury, SD 05263-6780","subscribed":true}

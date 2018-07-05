@@ -1,0 +1,1 @@
+{"name":"Mr. Julius Kunze","email":"kaylah56@mayert.com","address":"25638 Schultz Cape Apt. 270\nFarrellfurt, AZ 22293","subscribed":true}

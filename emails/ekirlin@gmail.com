@@ -1,0 +1,1 @@
+{"name":"Prof. Howell Mante V","email":"ekirlin@gmail.com","address":"142 Roberts Orchard\nSouth Iva, NJ 95889","subscribed":true}

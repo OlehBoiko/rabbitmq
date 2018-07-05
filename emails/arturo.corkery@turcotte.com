@@ -1,0 +1,1 @@
+{"name":"Haskell Keeling","email":"arturo.corkery@turcotte.com","address":"47407 Daniel Bypass Suite 922\nWest Hal, AR 61945","subscribed":true}

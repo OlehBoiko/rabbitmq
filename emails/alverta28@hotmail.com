@@ -1,0 +1,1 @@
+{"name":"Prof. Monte Dach PhD","email":"alverta28@hotmail.com","address":"594 Weber Plain Apt. 172\nRippinfort, LA 03648-3645","subscribed":true}

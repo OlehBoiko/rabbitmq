@@ -1,0 +1,1 @@
+{"name":"Fredy Rosenbaum IV","email":"bbeier@hudson.com","address":"51966 Julianne Common Suite 319\nPort Loufurt, DE 88784-6962","subscribed":true}

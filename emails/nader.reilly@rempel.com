@@ -1,0 +1,1 @@
+{"name":"Bernadine Cartwright","email":"nader.reilly@rempel.com","address":"5422 Trycia Junctions Suite 403\nWest Jenifermouth, MT 42769","subscribed":true}

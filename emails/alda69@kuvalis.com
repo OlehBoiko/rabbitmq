@@ -1,0 +1,1 @@
+{"name":"Ms. Katelynn Schowalter I","email":"alda69@kuvalis.com","address":"64793 Cartwright Groves\nNorth Vida, UT 24663","subscribed":true}

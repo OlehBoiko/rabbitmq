@@ -1,0 +1,1 @@
+{"name":"Mr. Adolf Durgan V","email":"fjast@hotmail.com","address":"805 Vicky Street Apt. 675\nEast Osbaldoport, IN 04315","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Madelynn Marks","email":"bboehm@stamm.com","address":"603 Kory Well\nKelsitown, NC 82855","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Quinten Halvorson","email":"armstrong.darien@mohr.com","address":"6082 Sipes Court\nMilesmouth, OK 79179","subscribed":true}

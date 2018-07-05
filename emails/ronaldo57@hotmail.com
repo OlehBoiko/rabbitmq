@@ -1,0 +1,1 @@
+{"name":"Ted Nitzsche","email":"ronaldo57@hotmail.com","address":"45078 Schuppe Tunnel\nAnkundingmouth, KY 35443-9068","subscribed":true}

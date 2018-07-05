@@ -1,0 +1,1 @@
+{"name":"Julia Lemke Sr.","email":"hkassulke@schamberger.com","address":"5262 Dietrich Club Suite 015\nHuelsview, MN 40352-3309","subscribed":true}

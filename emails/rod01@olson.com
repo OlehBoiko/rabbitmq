@@ -1,0 +1,1 @@
+{"name":"Prof. Louie Dickinson PhD","email":"rod01@olson.com","address":"13347 Bauch Roads Suite 407\nPrudenceland, NE 33075","subscribed":true}

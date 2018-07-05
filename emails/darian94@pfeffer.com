@@ -1,0 +1,1 @@
+{"name":"Prof. Charles Bernier V","email":"darian94@pfeffer.com","address":"36503 Earlene Extension\nChristaborough, ID 77677-6125","subscribed":true}

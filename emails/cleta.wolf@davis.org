@@ -1,0 +1,1 @@
+{"name":"Prof. Krystal Prohaska II","email":"cleta.wolf@davis.org","address":"41817 Maiya Trail Apt. 809\nDietrichfurt, NM 65015","subscribed":true}

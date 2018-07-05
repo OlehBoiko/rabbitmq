@@ -1,0 +1,1 @@
+{"name":"Prof. Shanel Fadel","email":"brekke.keven@gmail.com","address":"946 Legros Heights\nLake Connie, NC 65795","subscribed":true}

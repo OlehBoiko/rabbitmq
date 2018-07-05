@@ -1,0 +1,1 @@
+{"name":"Jacklyn Moen","email":"mayer.neoma@farrell.com","address":"7649 Astrid Coves Suite 115\nLennieside, AZ 49392","subscribed":true}

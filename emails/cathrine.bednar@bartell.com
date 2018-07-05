@@ -1,0 +1,1 @@
+{"name":"Emil McDermott","email":"cathrine.bednar@bartell.com","address":"206 Zulauf Center\nNew Immanuel, KS 33599","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Brionna Parker II","email":"bauch.keven@hotmail.com","address":"365 Dallas Prairie Apt. 147\nGonzaloborough, IN 44547","subscribed":true}

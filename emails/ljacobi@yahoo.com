@@ -1,0 +1,1 @@
+{"name":"Prof. Maryam Bernier V","email":"ljacobi@yahoo.com","address":"1452 Rodriguez Mountains Suite 907\nHaileeview, ND 19944","subscribed":true}

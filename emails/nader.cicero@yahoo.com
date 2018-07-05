@@ -1,0 +1,1 @@
+{"name":"Prof. Chauncey Pfannerstill","email":"nader.cicero@yahoo.com","address":"4889 Bartell Fields Apt. 462\nErnserbury, NY 02865","subscribed":true}

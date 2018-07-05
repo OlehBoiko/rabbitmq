@@ -1,0 +1,1 @@
+{"name":"Mr. Maxwell Moore IV","email":"stamm.adele@hotmail.com","address":"95035 Frieda Point Apt. 499\nMagalibury, WV 88770","subscribed":true}

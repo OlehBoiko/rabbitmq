@@ -1,0 +1,1 @@
+{"name":"Savannah Brakus","email":"quigley.adrien@waelchi.com","address":"873 Arnaldo Rue Suite 636\nLegrosberg, WI 46338-9367","subscribed":true}

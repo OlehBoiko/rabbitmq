@@ -1,0 +1,1 @@
+{"name":"Prof. Gretchen Glover Sr.","email":"lacy.osinski@dare.com","address":"303 Cleo Loaf Apt. 484\nLynchburgh, UT 46781","subscribed":true}

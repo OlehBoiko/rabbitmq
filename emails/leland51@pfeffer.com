@@ -1,0 +1,1 @@
+{"name":"Ms. Mozell Denesik","email":"leland51@pfeffer.com","address":"8995 Daniel Trail Suite 480\nSchneiderborough, IA 66066-2398","subscribed":true}

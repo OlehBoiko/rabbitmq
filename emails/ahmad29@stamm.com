@@ -1,0 +1,1 @@
+{"name":"Michel Wisozk","email":"ahmad29@stamm.com","address":"740 Bria Stravenue Apt. 451\nBatzberg, DC 98908","subscribed":true}

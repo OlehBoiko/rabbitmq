@@ -1,0 +1,1 @@
+{"name":"Godfrey Spinka","email":"johnathan.sauer@yahoo.com","address":"6032 Ansley Mountains Suite 851\nPort Christinefurt, VA 92938","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Vance Hettinger","email":"sporer.dessie@gleichner.com","address":"58349 Ludie Greens\nTorpborough, UT 04063-4564","subscribed":true}

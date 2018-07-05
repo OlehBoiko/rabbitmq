@@ -1,0 +1,1 @@
+{"name":"Prof. Arely Yundt","email":"johanna.homenick@yahoo.com","address":"545 Hyatt Radial\nPort Martaland, VT 91341-0125","subscribed":true}

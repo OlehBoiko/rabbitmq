@@ -1,0 +1,1 @@
+{"name":"Alverta Effertz","email":"marlee.cormier@brakus.com","address":"30878 Ward Parkway Suite 315\nSouth Quinten, OR 11099","subscribed":true}

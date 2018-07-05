@@ -1,0 +1,1 @@
+{"name":"Myron Doyle MD","email":"uhegmann@gmail.com","address":"82617 Kuvalis Pike Suite 282\nGutkowskimouth, WY 59415-6744","subscribed":true}

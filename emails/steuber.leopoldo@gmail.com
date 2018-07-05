@@ -1,0 +1,1 @@
+{"name":"Lisandro Mante","email":"steuber.leopoldo@gmail.com","address":"7387 Buckridge Well Apt. 375\nEdgarmouth, UT 75358","subscribed":true}

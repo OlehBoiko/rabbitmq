@@ -1,0 +1,1 @@
+{"name":"Prof. Litzy Durgan","email":"dessie.okeefe@hotmail.com","address":"34755 Doyle Pine Suite 822\nBruenton, KS 71645","subscribed":true}

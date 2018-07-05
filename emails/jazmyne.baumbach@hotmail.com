@@ -1,0 +1,1 @@
+{"name":"Ines Adams","email":"jazmyne.baumbach@hotmail.com","address":"7508 Miller Valley Suite 903\nSouth Jonathan, DE 31348","subscribed":true}

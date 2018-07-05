@@ -1,0 +1,1 @@
+{"name":"Prof. Alyson Greenfelder","email":"rahul.mayert@hessel.com","address":"922 Kellen Alley Suite 380\nCorineburgh, RI 71489-8541","subscribed":true}

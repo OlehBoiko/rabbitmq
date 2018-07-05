@@ -1,0 +1,1 @@
+{"name":"Prof. Katheryn Goyette I","email":"kayden.keebler@yahoo.com","address":"308 Heaney Keys Apt. 757\nEast Alivialand, AZ 48152","subscribed":true}

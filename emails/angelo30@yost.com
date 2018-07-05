@@ -1,0 +1,1 @@
+{"name":"Cale Adams","email":"angelo30@yost.com","address":"8789 Corene Via\nRicemouth, WV 58547-2794","subscribed":true}

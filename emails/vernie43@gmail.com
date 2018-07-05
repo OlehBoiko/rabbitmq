@@ -1,0 +1,1 @@
+{"name":"Prof. Raphael Senger","email":"vernie43@gmail.com","address":"8513 Halvorson Cliffs\nGinamouth, MS 53966-2185","subscribed":true}

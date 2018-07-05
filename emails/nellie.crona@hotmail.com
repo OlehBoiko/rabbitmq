@@ -1,0 +1,1 @@
+{"name":"Abelardo Klocko I","email":"nellie.crona@hotmail.com","address":"44155 Labadie Prairie Suite 122\nKemmerfort, MA 48166-7287","subscribed":true}

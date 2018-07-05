@@ -1,0 +1,1 @@
+{"name":"Kristoffer Ruecker","email":"mikel.ferry@gusikowski.com","address":"558 Vandervort Estates Apt. 725\nHerminiaburgh, OR 65780","subscribed":true}

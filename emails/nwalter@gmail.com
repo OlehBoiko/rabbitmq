@@ -1,0 +1,1 @@
+{"name":"Whitney Kuphal","email":"nwalter@gmail.com","address":"7992 Kessler Highway Apt. 683\nRatkefurt, MO 34222","subscribed":true}

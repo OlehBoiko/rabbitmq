@@ -1,0 +1,1 @@
+{"name":"Osvaldo Wiza","email":"rosa62@gmail.com","address":"35114 Bechtelar Lane\nNorth Adrienland, SD 63118-7411","subscribed":true}

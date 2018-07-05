@@ -1,0 +1,1 @@
+{"name":"Mr. Rollin Hyatt Jr.","email":"gina.fay@swaniawski.com","address":"93119 Daryl Inlet Suite 880\nNew Howell, IL 85715","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Annetta Wiza","email":"patience.schroeder@heathcote.org","address":"113 Smitham Summit\nPort Golda, HI 59038-8145","subscribed":true}

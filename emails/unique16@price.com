@@ -1,0 +1,1 @@
+{"name":"Roberto Zulauf","email":"unique16@price.com","address":"50678 Strosin Highway\nEast Tomasafurt, MI 01130-2992","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Mr. Oran Fritsch PhD","email":"madilyn.botsford@king.com","address":"752 Herzog Mission\nNew Jaydebury, IL 63569","subscribed":true}

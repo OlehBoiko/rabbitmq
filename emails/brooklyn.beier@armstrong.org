@@ -1,0 +1,1 @@
+{"name":"Thomas Batz","email":"brooklyn.beier@armstrong.org","address":"81599 Ewell Corner Suite 383\nPort Toy, NE 98870-7413","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Bert Hudson I","email":"amalia18@ledner.com","address":"78469 Cole Loaf Apt. 884\nNorth Carmine, MN 72219-7908","subscribed":true}

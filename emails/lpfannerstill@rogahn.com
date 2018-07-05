@@ -1,0 +1,1 @@
+{"name":"Leonardo Torp","email":"lpfannerstill@rogahn.com","address":"1181 Kathlyn Brooks Apt. 390\nNorth Litzyhaven, RI 06202-9572","subscribed":true}

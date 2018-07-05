@@ -1,0 +1,1 @@
+{"name":"Maida Hane","email":"gking@schulist.com","address":"248 Callie Island Suite 651\nGoldnertown, KY 91777-3625","subscribed":true}

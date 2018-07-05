@@ -1,0 +1,1 @@
+{"name":"Bulah Wuckert","email":"valentin.hilpert@marvin.org","address":"360 Ebert Parkways\nBrekkemouth, NC 65894","subscribed":true}

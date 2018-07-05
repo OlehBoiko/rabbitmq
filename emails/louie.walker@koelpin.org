@@ -1,0 +1,1 @@
+{"name":"Mr. Ricardo Haag","email":"louie.walker@koelpin.org","address":"8233 Hagenes Burgs\nHauckburgh, ND 26559","subscribed":true}

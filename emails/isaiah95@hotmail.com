@@ -1,0 +1,1 @@
+{"name":"Lucinda King MD","email":"isaiah95@hotmail.com","address":"182 Rath Drive Suite 009\nChristiansenton, NE 28033","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Frank Davis","email":"damore.adriel@hotmail.com","address":"15427 Kozey Road Suite 677\nReingerfurt, CO 07439-3628","subscribed":true}

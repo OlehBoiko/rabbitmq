@@ -1,0 +1,1 @@
+{"name":"Mrs. Imelda Zemlak","email":"schulist.davonte@hotmail.com","address":"99441 Hyatt Light Suite 857\nNew Cleorashire, MN 07628","subscribed":true}

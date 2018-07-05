@@ -1,0 +1,1 @@
+{"name":"Prof. Granville Gusikowski","email":"mac25@metz.com","address":"346 Jeanette Spring Apt. 307\nLake Chestertown, MO 74472-9510","subscribed":true}

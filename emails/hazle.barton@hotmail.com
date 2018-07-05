@@ -1,0 +1,1 @@
+{"name":"Daisha Huel","email":"hazle.barton@hotmail.com","address":"949 Beahan Streets\nManteborough, RI 31108-9344","subscribed":true}

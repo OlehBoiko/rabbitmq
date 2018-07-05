@@ -1,0 +1,1 @@
+{"name":"Prof. Maynard Turcotte","email":"vincenza.simonis@bednar.com","address":"946 Hammes Parkway Apt. 978\nDeltamouth, ME 61129","subscribed":true}

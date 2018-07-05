@@ -1,0 +1,1 @@
+{"name":"Prof. Rylan Upton","email":"norene.buckridge@king.com","address":"70547 Robert Bridge Suite 932\nPort Joanahaven, NE 90003-3277","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Josie Jaskolski DVM","email":"clair.gislason@leffler.com","address":"54801 Twila Cape Apt. 324\nCarrollberg, MN 41867-4604","subscribed":true}

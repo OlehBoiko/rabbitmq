@@ -1,0 +1,1 @@
+{"name":"Arch Bernhard","email":"sonia.kuhn@mclaughlin.com","address":"3414 Barton Ports\nAddieberg, AK 24868-8520","subscribed":true}

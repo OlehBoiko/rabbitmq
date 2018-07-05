@@ -1,0 +1,1 @@
+{"name":"Carolyn Jakubowski","email":"ethelyn.wunsch@hotmail.com","address":"819 Rolando Harbor Apt. 717\nDurganburgh, MI 93177","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Gianni Hauck","email":"jwest@anderson.org","address":"398 Hank Point Suite 407\nWest Ceasarfort, PA 24646-5555","subscribed":true}

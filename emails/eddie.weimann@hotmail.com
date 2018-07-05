@@ -1,0 +1,1 @@
+{"name":"Prof. Marion Hartmann","email":"eddie.weimann@hotmail.com","address":"28405 Garland Villages Suite 391\nGoldnermouth, RI 40361","subscribed":true}

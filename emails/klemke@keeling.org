@@ -1,0 +1,1 @@
+{"name":"Prof. Ruthe Nicolas","email":"klemke@keeling.org","address":"91491 Raynor Stravenue Apt. 524\nNorth Wyatt, OK 82609","subscribed":true}

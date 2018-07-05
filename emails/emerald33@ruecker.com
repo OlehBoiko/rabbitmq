@@ -1,0 +1,1 @@
+{"name":"Prof. Payton Wiegand","email":"emerald33@ruecker.com","address":"848 Yazmin Mews Apt. 960\nKathrynfurt, SD 98753-7774","subscribed":true}

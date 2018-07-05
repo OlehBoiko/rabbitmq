@@ -1,0 +1,1 @@
+{"name":"Rodrigo Bailey","email":"mstrosin@stroman.com","address":"53011 Augustine Green Suite 779\nWiegandside, RI 39279-2071","subscribed":true}

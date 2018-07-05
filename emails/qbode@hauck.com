@@ -1,0 +1,1 @@
+{"name":"Marta Casper","email":"qbode@hauck.com","address":"2480 Luciano Station\nTristianstad, WV 83789","subscribed":true}

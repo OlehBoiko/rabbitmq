@@ -1,0 +1,1 @@
+{"name":"Dr. Dayne Kuphal PhD","email":"cschumm@reichert.org","address":"661 Johnston Valley Suite 049\nDanielmouth, OR 57840-7068","subscribed":true}

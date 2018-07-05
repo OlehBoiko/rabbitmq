@@ -1,0 +1,1 @@
+{"name":"Mr. Frederick Rogahn Jr.","email":"sabrina.hettinger@bins.org","address":"45975 Bulah Creek Apt. 939\nMillsburgh, MA 46340-6039","subscribed":true}

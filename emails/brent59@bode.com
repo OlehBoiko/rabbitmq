@@ -1,0 +1,1 @@
+{"name":"Prof. Trystan Hand","email":"brent59@bode.com","address":"4628 Weissnat Shoals\nLake Carmelaton, NE 57045-7790","subscribed":true}

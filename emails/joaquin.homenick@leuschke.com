@@ -1,0 +1,1 @@
+{"name":"Mikayla Daugherty","email":"joaquin.homenick@leuschke.com","address":"74191 VonRueden Freeway\nMarilieland, IA 34292","subscribed":true}

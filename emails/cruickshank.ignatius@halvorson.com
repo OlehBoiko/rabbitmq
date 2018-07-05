@@ -1,0 +1,1 @@
+{"name":"Domenica Beier","email":"cruickshank.ignatius@halvorson.com","address":"6067 Karli Springs Apt. 445\nCooperfort, DE 92163-4228","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Mr. Isai Rippin","email":"gbuckridge@rempel.org","address":"2880 Rosemary Viaduct\nJerrellstad, AL 72725-0006","subscribed":true}

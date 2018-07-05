@@ -1,0 +1,1 @@
+{"name":"Cecilia Ruecker","email":"leannon.malinda@gmail.com","address":"905 Abby Well\nNew Kristopherside, RI 69012","subscribed":true}

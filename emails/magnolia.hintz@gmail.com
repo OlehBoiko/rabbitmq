@@ -1,0 +1,1 @@
+{"name":"Mrs. Jennie Wisoky DDS","email":"magnolia.hintz@gmail.com","address":"5528 Mosciski Shore\nWest Ivory, RI 81943","subscribed":true}

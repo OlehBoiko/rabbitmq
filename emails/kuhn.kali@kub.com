@@ -1,0 +1,1 @@
+{"name":"Judson Schneider","email":"kuhn.kali@kub.com","address":"24493 Declan Canyon Apt. 769\nPort Alfurt, DC 95591","subscribed":true}

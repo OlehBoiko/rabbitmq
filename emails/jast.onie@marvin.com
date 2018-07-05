@@ -1,0 +1,1 @@
+{"name":"Prof. Tomas Eichmann","email":"jast.onie@marvin.com","address":"21099 Fritsch Streets\nJuniusmouth, CT 38722","subscribed":true}

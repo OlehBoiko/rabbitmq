@@ -1,0 +1,1 @@
+{"name":"Celestino Gutkowski","email":"hruecker@berge.com","address":"3418 Cruickshank Mission\nBauchton, CA 34148","subscribed":true}

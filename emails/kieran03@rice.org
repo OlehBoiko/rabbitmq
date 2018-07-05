@@ -1,0 +1,1 @@
+{"name":"Prof. Wilber Kerluke I","email":"kieran03@rice.org","address":"82194 Fahey Neck\nEast Otisberg, CA 25737","subscribed":true}

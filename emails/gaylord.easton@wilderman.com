@@ -1,0 +1,1 @@
+{"name":"Miss Shany Rodriguez","email":"gaylord.easton@wilderman.com","address":"3794 Ortiz Prairie\nWunschbury, OH 75166-7635","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Bernie Gaylord","email":"jules38@yahoo.com","address":"42547 Brooklyn Port Apt. 597\nNorth Johannaton, NE 02679","subscribed":true}

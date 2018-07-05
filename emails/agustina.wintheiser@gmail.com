@@ -1,0 +1,1 @@
+{"name":"Prof. Jennings Hamill PhD","email":"agustina.wintheiser@gmail.com","address":"8211 Homenick Squares Suite 903\nShanelleborough, IN 15730","subscribed":true}

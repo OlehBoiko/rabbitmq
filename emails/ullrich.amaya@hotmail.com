@@ -1,0 +1,1 @@
+{"name":"Prof. Favian McGlynn IV","email":"ullrich.amaya@hotmail.com","address":"63056 Roxanne View Apt. 661\nSouth Elainachester, OR 10696","subscribed":true}

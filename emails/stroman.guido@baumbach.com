@@ -1,0 +1,1 @@
+{"name":"Mr. Christopher Haag","email":"stroman.guido@baumbach.com","address":"66584 Barrows Radial\nNikolausburgh, RI 77314-1622","subscribed":true}

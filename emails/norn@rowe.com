@@ -1,0 +1,1 @@
+{"name":"Kira Fritsch","email":"norn@rowe.com","address":"374 Makayla Summit Suite 652\nJaidaton, TN 71595-5862","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"June Maggio","email":"maximo85@hotmail.com","address":"92565 Metz Station\nPort Domenickshire, WI 55025","subscribed":true}

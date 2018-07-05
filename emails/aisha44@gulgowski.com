@@ -1,0 +1,1 @@
+{"name":"Prof. Prince Feeney I","email":"aisha44@gulgowski.com","address":"9858 Gleichner Ferry Suite 887\nDiegoburgh, MS 83171","subscribed":true}

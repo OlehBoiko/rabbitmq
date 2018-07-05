@@ -1,0 +1,1 @@
+{"name":"Kali Lindgren","email":"cullen.quigley@rippin.com","address":"1390 Crist Ville\nEast Joanie, SD 98684","subscribed":true}

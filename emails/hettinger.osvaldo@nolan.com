@@ -1,0 +1,1 @@
+{"name":"Richmond Kuhic","email":"hettinger.osvaldo@nolan.com","address":"3780 Clair Squares\nCorwinchester, WY 31046-9522","subscribed":true}

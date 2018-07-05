@@ -1,0 +1,1 @@
+{"name":"Dr. Etha Hegmann","email":"amos95@yahoo.com","address":"428 Gardner Square Apt. 534\nLindgrenborough, NV 49817-3588","subscribed":true}

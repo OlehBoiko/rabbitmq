@@ -1,0 +1,1 @@
+{"name":"Seamus Bradtke","email":"may.rogahn@rempel.com","address":"20971 Abel Locks\nSouth Trenton, CT 81120-9781","subscribed":true}

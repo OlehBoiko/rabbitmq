@@ -1,0 +1,1 @@
+{"name":"Misty Howe PhD","email":"annabel.schultz@monahan.com","address":"30899 Morissette Fort Suite 188\nEast Euna, MO 24683-5865","subscribed":true}

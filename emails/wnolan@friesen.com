@@ -1,0 +1,1 @@
+{"name":"Mossie Jakubowski","email":"wnolan@friesen.com","address":"2348 Goyette Gateway Suite 262\nEast Norwood, MS 11414","subscribed":true}

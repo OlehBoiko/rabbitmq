@@ -1,0 +1,1 @@
+{"name":"Prof. Dale Hessel","email":"nathanael.hessel@yahoo.com","address":"72707 Delmer Orchard\nEast Antonia, HI 14395-6277","subscribed":true}

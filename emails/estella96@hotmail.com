@@ -1,0 +1,1 @@
+{"name":"Ms. Addison Cassin","email":"estella96@hotmail.com","address":"976 Batz Glen\nBergestad, NE 58335","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Magdalena McClure","email":"kaley26@block.com","address":"59232 Little Hollow\nLake Rethabury, ME 98840-5184","subscribed":true}

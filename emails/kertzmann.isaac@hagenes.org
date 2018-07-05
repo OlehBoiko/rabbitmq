@@ -1,0 +1,1 @@
+{"name":"Furman Marquardt","email":"kertzmann.isaac@hagenes.org","address":"25736 Waters Field Suite 603\nArnobury, AL 59644","subscribed":true}

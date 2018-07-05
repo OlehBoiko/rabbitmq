@@ -1,0 +1,1 @@
+{"name":"Amani Hintz","email":"murphy.duane@fadel.com","address":"63970 Hayes Dale Suite 927\nNew Tatyanaside, UT 06962-0620","subscribed":true}

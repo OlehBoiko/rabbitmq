@@ -1,0 +1,1 @@
+{"name":"Brittany Paucek MD","email":"orn.nicholaus@yahoo.com","address":"1582 Taryn Parkways Suite 092\nNew Charlesview, MI 95754-5431","subscribed":true}

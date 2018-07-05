@@ -1,0 +1,1 @@
+{"name":"Cortez Fritsch MD","email":"dovie54@yahoo.com","address":"785 Katherine Plaza\nKunzeshire, OH 22841","subscribed":true}

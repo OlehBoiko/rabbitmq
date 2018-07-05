@@ -1,0 +1,1 @@
+{"name":"Prof. Felton Denesik","email":"lawson.maggio@hotmail.com","address":"8242 Walker Throughway\nJohnstonfort, CT 50042","subscribed":true}

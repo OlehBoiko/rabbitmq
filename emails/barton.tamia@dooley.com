@@ -1,0 +1,1 @@
+{"name":"Dr. Ressie Ratke DDS","email":"barton.tamia@dooley.com","address":"28965 Orlando Causeway Suite 242\nNew Callie, OR 66598-1488","subscribed":true}

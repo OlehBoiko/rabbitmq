@@ -1,0 +1,1 @@
+{"name":"Domingo Lakin","email":"fadel.tony@gmail.com","address":"7277 Kuhn Avenue Apt. 304\nMarcoshaven, OR 94129-0808","subscribed":true}

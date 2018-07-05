@@ -1,0 +1,1 @@
+{"name":"Jack Pfannerstill","email":"langworth.bridie@hickle.com","address":"82247 Ignacio Squares Apt. 007\nNitzscheland, OH 55021-1315","subscribed":true}

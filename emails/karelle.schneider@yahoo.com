@@ -1,0 +1,1 @@
+{"name":"Marcella Bogisich","email":"karelle.schneider@yahoo.com","address":"20644 Wisoky Wall Suite 818\nSchmittchester, ID 16670","subscribed":true}

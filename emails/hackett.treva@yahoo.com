@@ -1,0 +1,1 @@
+{"name":"Oswald Rogahn","email":"hackett.treva@yahoo.com","address":"788 Cora Passage Apt. 691\nKerlukehaven, OH 45383","subscribed":true}

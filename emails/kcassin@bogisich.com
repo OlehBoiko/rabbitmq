@@ -1,0 +1,1 @@
+{"name":"Prof. Eliseo Osinski","email":"kcassin@bogisich.com","address":"858 Larkin Valleys Apt. 238\nEast Enidstad, WV 97571","subscribed":true}

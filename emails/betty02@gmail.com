@@ -1,0 +1,1 @@
+{"name":"Chaz Jakubowski","email":"betty02@gmail.com","address":"27220 Reyes Trail\nPort Christinaberg, AL 50928","subscribed":true}

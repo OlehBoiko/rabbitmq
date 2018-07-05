@@ -1,0 +1,1 @@
+{"name":"Jaleel Rosenbaum V","email":"roob.randall@sporer.com","address":"101 Quigley Summit\nSouth Rafaelfort, CT 66623","subscribed":true}

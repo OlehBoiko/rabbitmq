@@ -1,0 +1,1 @@
+{"name":"Miss Yoshiko Osinski","email":"aylin51@yahoo.com","address":"2869 Koss Centers\nGreenfelderport, CA 99024","subscribed":true}

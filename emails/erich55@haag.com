@@ -1,0 +1,1 @@
+{"name":"King Bauch","email":"erich55@haag.com","address":"30948 Clark Pike Apt. 194\nPort Mabelle, OR 22345","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Josefina D'Amore","email":"enid.friesen@oconnell.org","address":"130 Manuel Rapid\nEast Marcel, TX 39510","subscribed":true}

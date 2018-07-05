@@ -1,0 +1,1 @@
+{"name":"Prof. Douglas Gleason","email":"labadie.stephon@gmail.com","address":"221 Boyer Ways Suite 450\nRippinville, AZ 80114-3561","subscribed":true}

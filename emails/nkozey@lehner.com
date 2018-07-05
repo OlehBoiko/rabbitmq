@@ -1,0 +1,1 @@
+{"name":"Maurice Bahringer","email":"nkozey@lehner.com","address":"469 Glennie Branch Suite 662\nBrooklynbury, UT 50718-2070","subscribed":true}

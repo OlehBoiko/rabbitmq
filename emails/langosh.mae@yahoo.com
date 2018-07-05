@@ -1,0 +1,1 @@
+{"name":"Mr. Kevin Schumm","email":"langosh.mae@yahoo.com","address":"775 Lubowitz Harbor Suite 243\nRobertoshire, VA 72644-7806","subscribed":true}

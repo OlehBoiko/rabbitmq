@@ -1,0 +1,1 @@
+{"name":"Prof. Donato Adams Jr.","email":"ekuhlman@lebsack.org","address":"3781 Crooks Ridges Apt. 338\nLake Dario, UT 62750","subscribed":true}

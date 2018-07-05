@@ -1,0 +1,1 @@
+{"name":"Prof. Emmanuel Kling","email":"lucienne.donnelly@schulist.com","address":"377 Prosacco Summit Apt. 219\nJonashaven, ID 77988","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Adan McGlynn","email":"grunte@kuhn.com","address":"477 Ron Stream Apt. 969\nSouth Ilianaland, NY 79531-5505","subscribed":true}

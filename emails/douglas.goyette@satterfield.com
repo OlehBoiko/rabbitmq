@@ -1,0 +1,1 @@
+{"name":"Miss Lea Franecki Sr.","email":"douglas.goyette@satterfield.com","address":"3739 Chaim Stream Apt. 930\nRoweside, IA 95879","subscribed":true}

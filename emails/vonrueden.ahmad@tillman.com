@@ -1,0 +1,1 @@
+{"name":"Osvaldo Wiegand DVM","email":"vonrueden.ahmad@tillman.com","address":"8598 Annabell Turnpike Apt. 970\nKarianefurt, MO 57383-8448","subscribed":true}

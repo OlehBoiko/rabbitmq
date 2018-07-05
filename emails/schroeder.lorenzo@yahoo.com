@@ -1,0 +1,1 @@
+{"name":"Dr. Ransom Stiedemann DVM","email":"schroeder.lorenzo@yahoo.com","address":"37291 Doyle Haven\nTraceyview, WV 36055-6435","subscribed":true}

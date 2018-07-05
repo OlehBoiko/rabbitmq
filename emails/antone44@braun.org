@@ -1,0 +1,1 @@
+{"name":"Prof. Neva Jakubowski V","email":"antone44@braun.org","address":"138 Wolff Roads\nWest Kara, NM 15289-0089","subscribed":true}

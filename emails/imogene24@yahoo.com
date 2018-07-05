@@ -1,0 +1,1 @@
+{"name":"Prof. Emie Cummings II","email":"imogene24@yahoo.com","address":"204 Predovic Gardens Suite 911\nTownebury, AK 34221-5305","subscribed":true}

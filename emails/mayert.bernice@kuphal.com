@@ -1,0 +1,1 @@
+{"name":"Prof. Hank Jast","email":"mayert.bernice@kuphal.com","address":"77547 Raina Mountain\nLake Hipolitofurt, MA 03582-9672","subscribed":true}

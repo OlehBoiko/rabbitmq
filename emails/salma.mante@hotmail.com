@@ -1,0 +1,1 @@
+{"name":"Miss Rosanna Aufderhar","email":"salma.mante@hotmail.com","address":"9898 Sadie Village\nRodolfoville, WA 74680-0201","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Madison Johnson","email":"baumbach.gerardo@franecki.org","address":"6188 Hardy Spring Suite 845\nNorth Eugeniatown, OK 78430","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Shanelle Hansen IV","email":"goldner.aurelia@schulist.com","address":"1110 Gerlach Flats\nOttoberg, SD 03586","subscribed":true}

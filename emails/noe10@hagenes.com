@@ -1,0 +1,1 @@
+{"name":"Waldo Gottlieb","email":"noe10@hagenes.com","address":"49006 Rae Heights Apt. 623\nEast Dasia, IN 31853","subscribed":true}

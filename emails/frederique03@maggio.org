@@ -1,0 +1,1 @@
+{"name":"Alvis Ferry","email":"frederique03@maggio.org","address":"722 Jettie Ferry Suite 066\nRyanview, RI 08181","subscribed":true}

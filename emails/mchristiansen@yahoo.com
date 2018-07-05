@@ -1,0 +1,1 @@
+{"name":"Augusta Lynch","email":"mchristiansen@yahoo.com","address":"104 Jacobs Square\nBreitenbergland, NH 18519-8608","subscribed":true}

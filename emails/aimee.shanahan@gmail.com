@@ -1,0 +1,1 @@
+{"name":"Rowland Cartwright","email":"aimee.shanahan@gmail.com","address":"7849 Smith Estate Apt. 461\nNorth Stella, WV 40767-5256","subscribed":true}

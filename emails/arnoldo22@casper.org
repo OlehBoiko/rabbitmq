@@ -1,0 +1,1 @@
+{"name":"Vincenzo Jaskolski DVM","email":"arnoldo22@casper.org","address":"19024 Mayert Greens Apt. 454\nNew Jamir, MN 98842-9980","subscribed":true}

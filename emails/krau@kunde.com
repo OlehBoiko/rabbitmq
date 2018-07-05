@@ -1,0 +1,1 @@
+{"name":"Matt Daniel","email":"krau@kunde.com","address":"1033 Maggio Well Apt. 684\nBoehmville, PA 34788-0260","subscribed":true}

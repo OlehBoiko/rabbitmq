@@ -1,0 +1,1 @@
+{"name":"Prof. Nasir Senger","email":"lukas06@corwin.com","address":"877 Harber Brook\nNew Delilah, NM 02376-0790","subscribed":true}

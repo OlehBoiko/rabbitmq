@@ -1,0 +1,1 @@
+{"name":"Prof. Lamar Leuschke Sr.","email":"reichert.vaughn@hotmail.com","address":"1193 Rosenbaum Freeway\nSouth Alexandra, KS 45851-0538","subscribed":true}

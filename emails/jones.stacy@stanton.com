@@ -1,0 +1,1 @@
+{"name":"Dr. Keyon Fritsch","email":"jones.stacy@stanton.com","address":"301 Laverne Ramp Apt. 988\nNew Kenny, KS 72289-8863","subscribed":true}

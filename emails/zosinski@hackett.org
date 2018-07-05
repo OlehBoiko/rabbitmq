@@ -1,0 +1,1 @@
+{"name":"Prof. Garett Adams","email":"zosinski@hackett.org","address":"315 Huel Rue Apt. 655\nLake Shawn, KS 39089-3039","subscribed":true}

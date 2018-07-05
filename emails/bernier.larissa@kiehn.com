@@ -1,0 +1,1 @@
+{"name":"Prof. Vicky Hane","email":"bernier.larissa@kiehn.com","address":"5872 Leffler Wells\nWest Silas, NC 44971","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Bailee Berge","email":"fritsch.karli@douglas.com","address":"85720 Cartwright Burgs\nLake Cheyenneburgh, AR 70785","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Rodrick Krajcik","email":"delaney.hansen@zulauf.com","address":"89975 Hansen Manors Apt. 879\nNew Carrollstad, MD 20334","subscribed":true}

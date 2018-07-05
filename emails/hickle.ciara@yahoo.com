@@ -1,0 +1,1 @@
+{"name":"Adolf Mante","email":"hickle.ciara@yahoo.com","address":"519 Kunze Ranch Apt. 411\nNew Keagan, MN 29562","subscribed":true}

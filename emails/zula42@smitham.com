@@ -1,0 +1,1 @@
+{"name":"Prof. Serena Wiegand","email":"zula42@smitham.com","address":"110 Kasey Mountain\nJanessabury, VT 65566-5930","subscribed":true}

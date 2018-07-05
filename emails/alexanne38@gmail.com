@@ -1,0 +1,1 @@
+{"name":"Kali Jacobi Sr.","email":"alexanne38@gmail.com","address":"69932 Zieme Mills Suite 060\nWest Edatown, ME 94815-0779","subscribed":true}

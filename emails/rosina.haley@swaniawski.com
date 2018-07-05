@@ -1,0 +1,1 @@
+{"name":"Alda Rosenbaum IV","email":"rosina.haley@swaniawski.com","address":"8602 Maeve Via Apt. 810\nMantehaven, LA 47831","subscribed":true}

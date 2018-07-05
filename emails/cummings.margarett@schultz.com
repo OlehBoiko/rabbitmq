@@ -1,0 +1,1 @@
+{"name":"Mr. Ronny Runolfsson","email":"cummings.margarett@schultz.com","address":"6036 Delpha Rest Apt. 967\nHermanland, RI 83053","subscribed":true}

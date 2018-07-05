@@ -1,0 +1,1 @@
+{"name":"Prof. Candido Littel","email":"wrempel@hotmail.com","address":"6493 Barton Fork Apt. 282\nCummerataport, NM 09148-8707","subscribed":true}

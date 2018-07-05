@@ -1,0 +1,1 @@
+{"name":"Prof. Mandy Murazik PhD","email":"darwin84@gmail.com","address":"6113 Otha Flats\nWest Emelie, WA 79510","subscribed":true}

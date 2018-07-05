@@ -1,0 +1,1 @@
+{"name":"Bernadette Satterfield","email":"armstrong.minerva@hotmail.com","address":"86534 Moen Glens\nSouth Mariloumouth, DE 74535","subscribed":true}

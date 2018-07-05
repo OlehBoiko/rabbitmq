@@ -1,0 +1,1 @@
+{"name":"Dudley Fisher","email":"lbaumbach@hermiston.org","address":"7137 Stark Spur\nDickinsonville, IA 78228","subscribed":true}

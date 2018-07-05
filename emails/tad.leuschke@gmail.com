@@ -1,0 +1,1 @@
+{"name":"Gerda Kuphal","email":"tad.leuschke@gmail.com","address":"715 Evan Turnpike\nSwaniawskiburgh, SC 11594","subscribed":true}

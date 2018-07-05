@@ -1,0 +1,1 @@
+{"name":"Prof. Neva Schulist","email":"stracke.rebekah@hotmail.com","address":"52535 Alexander Lake Apt. 629\nNamehaven, UT 39134","subscribed":true}

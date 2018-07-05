@@ -1,0 +1,1 @@
+{"name":"Dr. Rosemarie Senger I","email":"wuckert.christophe@gmail.com","address":"3273 Maximo Estate Suite 106\nLake Daija, IA 73860-8331","subscribed":true}

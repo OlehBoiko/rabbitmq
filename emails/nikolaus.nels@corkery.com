@@ -1,0 +1,1 @@
+{"name":"Oliver Wuckert Sr.","email":"nikolaus.nels@corkery.com","address":"8917 Grimes Shoal\nSouth Dagmarfort, CA 01323","subscribed":true}

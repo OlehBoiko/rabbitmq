@@ -1,0 +1,1 @@
+{"name":"Meggie Schumm III","email":"effie.lindgren@gmail.com","address":"266 Gleichner Shore Apt. 660\nSouth Laurettaberg, CT 82371-1526","subscribed":true}

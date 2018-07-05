@@ -1,0 +1,1 @@
+{"name":"Mr. Zane Bayer","email":"burley.rosenbaum@lang.com","address":"4660 Kreiger Forks Suite 571\nEast Sabinafurt, KY 25265","subscribed":true}

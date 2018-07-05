@@ -1,0 +1,1 @@
+{"name":"Prof. Elliot Blanda IV","email":"htowne@halvorson.com","address":"3096 Mayer Turnpike Apt. 037\nHalliemouth, WY 83951","subscribed":true}

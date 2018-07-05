@@ -1,0 +1,1 @@
+{"name":"Prof. Harold Mueller","email":"stokes.riley@hotmail.com","address":"6320 Hagenes Square Apt. 377\nNorth Fausto, DE 28968","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Kyla Stracke Sr.","email":"margaret.adams@yahoo.com","address":"4907 Chaya Parks Suite 554\nFidelbury, WV 29882","subscribed":true}

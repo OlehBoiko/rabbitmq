@@ -1,0 +1,1 @@
+{"name":"Prof. Jordi Kozey","email":"aric.ullrich@farrell.com","address":"53675 Pat Forge\nMarceloland, WV 71185-3159","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Vern Nitzsche PhD","email":"jose19@hotmail.com","address":"18343 Ledner Haven Suite 906\nEast Micah, MD 76526","subscribed":true}

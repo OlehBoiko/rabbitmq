@@ -1,0 +1,1 @@
+{"name":"Elaina Franecki","email":"walsh.shyanne@daugherty.com","address":"49213 Romaguera Forge\nSouth Vincenzo, IL 01780-6191","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Miss Danielle Rosenbaum","email":"axel.rosenbaum@ward.com","address":"9619 Johnson Via\nTreutelland, LA 96711-6596","subscribed":true}

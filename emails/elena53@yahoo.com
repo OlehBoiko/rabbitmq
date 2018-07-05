@@ -1,0 +1,1 @@
+{"name":"Mrs. Bernadette Wisoky","email":"elena53@yahoo.com","address":"91333 Dewitt Locks Suite 077\nWest Jerrell, NV 68904","subscribed":true}

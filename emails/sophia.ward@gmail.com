@@ -1,0 +1,1 @@
+{"name":"Mr. Devin Cummerata V","email":"sophia.ward@gmail.com","address":"567 Jenkins Prairie Apt. 890\nPfannerstillville, NY 82455-3977","subscribed":true}

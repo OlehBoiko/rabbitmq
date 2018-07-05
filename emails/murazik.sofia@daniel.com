@@ -1,0 +1,1 @@
+{"name":"Lue Borer","email":"murazik.sofia@daniel.com","address":"10613 Kirk Cliff\nWest Guiseppemouth, MS 72632","subscribed":true}

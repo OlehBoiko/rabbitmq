@@ -1,0 +1,1 @@
+{"name":"Sophia Goodwin","email":"reggie.hickle@jacobson.com","address":"87431 Kassulke Squares\nMullerborough, CO 69450","subscribed":true}

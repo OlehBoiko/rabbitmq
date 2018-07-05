@@ -1,0 +1,1 @@
+{"name":"Frida Fritsch","email":"oda.wolf@gmail.com","address":"836 Narciso Light\nKeelinghaven, MO 12371","subscribed":true}

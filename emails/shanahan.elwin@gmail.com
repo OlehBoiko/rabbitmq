@@ -1,0 +1,1 @@
+{"name":"Madelyn Funk","email":"shanahan.elwin@gmail.com","address":"671 Reinhold Isle Apt. 895\nNew Joannehaven, RI 96448-4956","subscribed":true}

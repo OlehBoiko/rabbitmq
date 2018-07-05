@@ -1,0 +1,1 @@
+{"name":"Jonas Schimmel","email":"telly.kertzmann@schneider.com","address":"494 Bernier Parkway Suite 717\nBernierport, MA 37752-2555","subscribed":true}

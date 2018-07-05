@@ -1,0 +1,1 @@
+{"name":"Prof. Elna Bauch","email":"jdickens@lind.com","address":"5609 Homenick Viaduct Suite 104\nLonzoborough, ID 70136","subscribed":true}

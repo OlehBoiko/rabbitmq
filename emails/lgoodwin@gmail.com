@@ -1,0 +1,1 @@
+{"name":"Freddie Goodwin","email":"lgoodwin@gmail.com","address":"27322 Pansy Landing Apt. 933\nNew Triston, RI 41319","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Lynn Skiles","email":"arturo61@hotmail.com","address":"91421 Rodolfo Extensions\nJacobsonborough, MA 52386","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Bertram Fritsch","email":"tvandervort@lubowitz.org","address":"48791 Waino Islands Apt. 279\nOdieborough, DC 93311-5928","subscribed":true}

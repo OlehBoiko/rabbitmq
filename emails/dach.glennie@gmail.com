@@ -1,0 +1,1 @@
+{"name":"Prof. Roslyn Corwin","email":"dach.glennie@gmail.com","address":"62991 Morton Dam Suite 230\nSouth Jeradview, WY 70945","subscribed":true}

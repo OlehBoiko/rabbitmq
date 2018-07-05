@@ -1,0 +1,1 @@
+{"name":"Hulda Daugherty","email":"jaydon.kunze@gmail.com","address":"9207 Isom Square Suite 790\nNew Reta, MN 57486","subscribed":true}

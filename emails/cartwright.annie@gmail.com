@@ -1,0 +1,1 @@
+{"name":"Cordell Schuppe","email":"cartwright.annie@gmail.com","address":"47339 Dicki Pike Apt. 243\nMandyfurt, CA 70352-8989","subscribed":true}

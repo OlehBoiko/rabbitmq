@@ -1,0 +1,1 @@
+{"name":"Rozella Kassulke","email":"stanton61@ferry.com","address":"882 Kathleen Avenue Apt. 130\nNorth Chadd, WI 66012-8125","subscribed":true}

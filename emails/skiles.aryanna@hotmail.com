@@ -1,0 +1,1 @@
+{"name":"Madalyn Kuphal","email":"skiles.aryanna@hotmail.com","address":"815 Kautzer Spurs Apt. 996\nAdelberttown, AZ 23194-5020","subscribed":true}

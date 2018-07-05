@@ -1,0 +1,1 @@
+{"name":"Heloise Cummings","email":"spinka.jairo@yahoo.com","address":"172 Baby Fork\nRyanport, MT 03714","subscribed":true}

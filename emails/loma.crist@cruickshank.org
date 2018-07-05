@@ -1,0 +1,1 @@
+{"name":"Dr. Madyson Blick","email":"loma.crist@cruickshank.org","address":"742 Streich Overpass Apt. 912\nPort Luraside, WI 21482","subscribed":true}

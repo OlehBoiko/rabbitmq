@@ -1,0 +1,1 @@
+{"name":"Mrs. Danika Kulas","email":"gfriesen@mcdermott.com","address":"55602 Romaguera Garden\nPort Darian, ME 83419","subscribed":true}

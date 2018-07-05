@@ -1,0 +1,1 @@
+{"name":"Prof. Shany Morissette IV","email":"kerluke.mandy@halvorson.com","address":"45035 Hoppe Path\nNedton, OH 00574","subscribed":true}

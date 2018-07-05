@@ -1,0 +1,1 @@
+{"name":"Prof. Doug Shanahan","email":"erdman.eleanora@hotmail.com","address":"6405 Halie Villages Suite 271\nEast Lois, AR 73674","subscribed":true}

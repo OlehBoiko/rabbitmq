@@ -1,0 +1,1 @@
+{"name":"Mr. Evans Schultz","email":"rbergnaum@gmail.com","address":"6389 Koch Square Suite 012\nJoshuahfurt, CT 59704","subscribed":true}

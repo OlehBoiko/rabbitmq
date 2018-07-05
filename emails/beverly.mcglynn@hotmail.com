@@ -1,0 +1,1 @@
+{"name":"Gladyce Klein Sr.","email":"beverly.mcglynn@hotmail.com","address":"36828 Zula Plaza\nLake Logan, RI 81410","subscribed":true}

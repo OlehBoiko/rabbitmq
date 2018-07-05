@@ -1,0 +1,1 @@
+{"name":"Prof. Trey McDermott Sr.","email":"rippin.berneice@yahoo.com","address":"8962 Dejon Crest\nNorth Eldora, CO 02032-9861","subscribed":true}

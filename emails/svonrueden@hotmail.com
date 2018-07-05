@@ -1,0 +1,1 @@
+{"name":"Abbey Cummings","email":"svonrueden@hotmail.com","address":"353 Bashirian Well\nNew Hermanborough, CA 84228","subscribed":true}

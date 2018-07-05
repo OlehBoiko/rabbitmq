@@ -1,0 +1,1 @@
+{"name":"Malcolm Doyle","email":"kassulke.aida@hotmail.com","address":"8016 Schoen Passage Apt. 113\nWest Magdalen, OH 80775-2569","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Gay Hartmann","email":"valentina.denesik@jacobs.com","address":"342 Rodriguez Fords\nNew Penelopeborough, AZ 46632","subscribed":true}

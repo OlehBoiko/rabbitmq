@@ -1,0 +1,1 @@
+{"name":"Prof. Jerod Schamberger","email":"damore.osbaldo@yahoo.com","address":"289 Haylee Light\nRomastad, CO 51030-1872","subscribed":true}

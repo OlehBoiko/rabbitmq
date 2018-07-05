@@ -1,0 +1,1 @@
+{"name":"Prof. Tomasa Hoppe","email":"dayna19@buckridge.com","address":"7350 Emmerich Street\nPort Vantown, OK 76133-6312","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Miguel Daugherty I","email":"omedhurst@parker.com","address":"86808 Imogene Valleys Suite 686\nWisokystad, ID 03041-6226","subscribed":true}

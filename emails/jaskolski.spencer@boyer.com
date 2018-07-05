@@ -1,0 +1,1 @@
+{"name":"Lorenz Aufderhar","email":"jaskolski.spencer@boyer.com","address":"77196 Zion Bypass Apt. 080\nGleasonville, VT 33404","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Carli Daniel Jr.","email":"einar88@hotmail.com","address":"6525 Alverta Roads Suite 606\nNew Margeshire, KY 60932","subscribed":true}

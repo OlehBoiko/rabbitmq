@@ -1,0 +1,1 @@
+{"name":"Prof. Alessandra Trantow V","email":"greenholt.dedric@hotmail.com","address":"29422 Bednar Spur\nEast Cadenville, OR 33251-6780","subscribed":true}

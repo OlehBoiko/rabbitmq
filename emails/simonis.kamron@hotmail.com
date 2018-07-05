@@ -1,0 +1,1 @@
+{"name":"Prof. Garnet Wisoky","email":"simonis.kamron@hotmail.com","address":"8782 O'Connell Inlet Suite 711\nEast Taramouth, MD 68458","subscribed":true}

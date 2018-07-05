@@ -1,0 +1,1 @@
+{"name":"Emmanuelle Hoppe","email":"koch.claire@wolf.com","address":"70068 Loma Circles\nRosenbaumfort, OH 00752","subscribed":true}

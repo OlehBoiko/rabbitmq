@@ -1,0 +1,1 @@
+{"name":"Lazaro Swift","email":"nkoch@yahoo.com","address":"142 Wunsch Motorway\nNew Ramona, ME 49673","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Neva Senger","email":"cborer@heller.com","address":"2378 Osinski Ridge\nMcGlynnton, ME 26211","subscribed":true}

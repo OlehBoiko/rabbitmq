@@ -1,0 +1,1 @@
+{"name":"Brigitte Bradtke","email":"egislason@conn.org","address":"622 Trey Crossing Apt. 695\nMorissettetown, IL 24586","subscribed":true}

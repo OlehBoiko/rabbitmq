@@ -1,0 +1,1 @@
+{"name":"Clair Hansen","email":"llittel@yahoo.com","address":"98618 Bartell Locks\nMiatown, ME 58629","subscribed":true}

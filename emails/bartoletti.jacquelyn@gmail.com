@@ -1,0 +1,1 @@
+{"name":"Miss Catharine Connelly Jr.","email":"bartoletti.jacquelyn@gmail.com","address":"75788 Parker Forge Apt. 757\nBrekkefort, DE 85798","subscribed":true}

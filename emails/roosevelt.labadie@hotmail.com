@@ -1,0 +1,1 @@
+{"name":"Dr. Vada Friesen I","email":"roosevelt.labadie@hotmail.com","address":"146 Kunde Green Suite 753\nWest Kristachester, NJ 34353-4939","subscribed":true}

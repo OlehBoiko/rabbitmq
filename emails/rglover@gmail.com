@@ -1,0 +1,1 @@
+{"name":"Prof. Hector Stokes","email":"rglover@gmail.com","address":"73187 Schowalter Parkway\nSouth Mervinside, MO 83790-1390","subscribed":true}

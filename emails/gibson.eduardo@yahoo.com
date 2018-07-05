@@ -1,0 +1,1 @@
+{"name":"Prof. Felipe Streich","email":"gibson.eduardo@yahoo.com","address":"2377 Ashley Lake Apt. 755\nLeliahaven, RI 01734","subscribed":true}

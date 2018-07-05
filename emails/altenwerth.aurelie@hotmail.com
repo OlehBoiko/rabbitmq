@@ -1,0 +1,1 @@
+{"name":"Alfonzo Schinner I","email":"altenwerth.aurelie@hotmail.com","address":"6307 Alexandrine Squares\nBreitenbergbury, VT 93072","subscribed":true}

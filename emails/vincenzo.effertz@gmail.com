@@ -1,0 +1,1 @@
+{"name":"Cruz Stiedemann","email":"vincenzo.effertz@gmail.com","address":"3353 Josefa Parks Apt. 635\nSchadenport, OK 46845","subscribed":true}

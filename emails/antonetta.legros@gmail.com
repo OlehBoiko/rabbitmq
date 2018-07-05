@@ -1,0 +1,1 @@
+{"name":"Catalina Bogisich","email":"antonetta.legros@gmail.com","address":"405 Adell Parkway Apt. 896\nAlizaburgh, HI 23668","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Dr. Doyle Schuppe Jr.","email":"emmerich.amalia@kunze.com","address":"84864 Newell Vista Suite 934\nSouth Jett, NH 52250","subscribed":true}

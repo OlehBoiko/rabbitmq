@@ -1,0 +1,1 @@
+{"name":"Florine Kulas I","email":"cathrine.prohaska@yahoo.com","address":"7207 White Curve Suite 490\nShanieshire, WI 07360","subscribed":true}

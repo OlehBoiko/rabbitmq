@@ -1,0 +1,1 @@
+{"name":"Mrs. Reta Jast PhD","email":"schuppe.maye@gmail.com","address":"62409 Hirthe Alley Apt. 003\nLake Lauryn, IA 37933","subscribed":true}

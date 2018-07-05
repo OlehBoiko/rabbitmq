@@ -1,0 +1,1 @@
+{"name":"Mr. Linwood Pollich PhD","email":"lucio30@yahoo.com","address":"9104 Gerhold River Apt. 954\nBoehmfort, UT 99027","subscribed":true}

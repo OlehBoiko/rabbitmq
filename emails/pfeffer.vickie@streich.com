@@ -1,0 +1,1 @@
+{"name":"Bonita Aufderhar","email":"pfeffer.vickie@streich.com","address":"428 Flavio Harbor Suite 511\nMyrtismouth, UT 50337","subscribed":true}

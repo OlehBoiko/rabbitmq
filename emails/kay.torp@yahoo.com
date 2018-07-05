@@ -1,0 +1,1 @@
+{"name":"Jewell Blanda","email":"kay.torp@yahoo.com","address":"375 Gonzalo Creek Suite 071\nFredrickfurt, MT 02190","subscribed":true}

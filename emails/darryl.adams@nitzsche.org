@@ -1,0 +1,1 @@
+{"name":"Prof. Alford Waelchi I","email":"darryl.adams@nitzsche.org","address":"29887 Lorena Rapids Apt. 876\nNew Jermeyfurt, HI 20426","subscribed":true}

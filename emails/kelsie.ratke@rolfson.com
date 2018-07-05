@@ -1,0 +1,1 @@
+{"name":"Vilma Spinka","email":"kelsie.ratke@rolfson.com","address":"7366 Nedra Trail\nJacobsonport, AL 92141-1722","subscribed":true}

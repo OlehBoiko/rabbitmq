@@ -1,0 +1,1 @@
+{"name":"Krystina Friesen","email":"furman99@batz.com","address":"68457 Lacey Glens\nNorth Augustine, CT 13349-5997","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Zachary Friesen","email":"wendy60@yahoo.com","address":"36366 Nikolaus Parks\nNew Magdalen, AZ 99209","subscribed":true}

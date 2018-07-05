@@ -1,0 +1,1 @@
+{"name":"Malvina Jacobson","email":"sofia.welch@gmail.com","address":"6627 Kraig Shore\nWest Vincenzatown, CT 27260","subscribed":true}

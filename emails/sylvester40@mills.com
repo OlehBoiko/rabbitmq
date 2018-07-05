@@ -1,0 +1,1 @@
+{"name":"Dr. Carmel Kuhic I","email":"sylvester40@mills.com","address":"4978 Chance Meadows Apt. 786\nSouth Keirahaven, WY 02849","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Shaylee Buckridge","email":"teagan07@weber.com","address":"88023 Ari Walk Apt. 654\nWest Josh, MT 25680-7350","subscribed":true}

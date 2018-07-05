@@ -1,0 +1,1 @@
+{"name":"Mr. Jared Goodwin","email":"kory55@gmail.com","address":"39585 Thompson Mountain Suite 362\nVonRuedenfurt, MO 50004-3262","subscribed":true}

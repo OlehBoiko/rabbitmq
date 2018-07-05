@@ -1,0 +1,1 @@
+{"name":"Angela Daniel","email":"wauer@ankunding.com","address":"235 Doyle Manors\nJacintheberg, MT 13391","subscribed":true}

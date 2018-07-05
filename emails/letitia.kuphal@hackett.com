@@ -1,0 +1,1 @@
+{"name":"Katharina Blanda DDS","email":"letitia.kuphal@hackett.com","address":"76659 McGlynn Station Suite 459\nSylviaburgh, IL 38429-6713","subscribed":true}

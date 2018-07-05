@@ -1,0 +1,1 @@
+{"name":"Madisyn Mayert","email":"cskiles@hagenes.com","address":"1028 Nichole Manors Apt. 067\nWest Rooseveltmouth, LA 19176-3750","subscribed":true}

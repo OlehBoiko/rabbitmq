@@ -1,0 +1,1 @@
+{"name":"Prof. Alfredo Dach","email":"ydaugherty@hotmail.com","address":"813 Lazaro Valley\nEichmannland, LA 02747","subscribed":true}

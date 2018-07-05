@@ -1,0 +1,1 @@
+{"name":"Dr. Arthur Reinger","email":"stanford09@hotmail.com","address":"471 Ahmed Harbors Suite 525\nLake Keeganland, RI 13849-2032","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Beaulah Boyer PhD","email":"alize.stokes@gmail.com","address":"2380 Anjali Inlet\nLake Tessie, OH 73833","subscribed":true}

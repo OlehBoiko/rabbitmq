@@ -1,0 +1,1 @@
+{"name":"Katelin Turcotte","email":"stanley.kovacek@jakubowski.com","address":"701 Murazik Lake Suite 923\nPort Janelle, NC 84671","subscribed":true}

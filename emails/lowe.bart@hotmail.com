@@ -1,0 +1,1 @@
+{"name":"Rudy Turner I","email":"lowe.bart@hotmail.com","address":"79868 Royce Hill Apt. 448\nDemarioburgh, SD 11380","subscribed":true}

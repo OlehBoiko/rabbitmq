@@ -1,0 +1,1 @@
+{"name":"Maggie Gusikowski Sr.","email":"mmertz@mohr.com","address":"60228 Anderson Shore Apt. 136\nAlejandraside, MN 51168","subscribed":true}

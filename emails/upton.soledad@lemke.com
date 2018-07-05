@@ -1,0 +1,1 @@
+{"name":"Leopold Stark Jr.","email":"upton.soledad@lemke.com","address":"8281 Rolfson View Suite 048\nAntoniaside, NJ 84923-8644","subscribed":true}

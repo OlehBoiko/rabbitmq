@@ -1,0 +1,1 @@
+{"name":"Shane Stamm PhD","email":"bgrimes@hotmail.com","address":"9069 Marcella Squares\nVandervortburgh, KY 49045","subscribed":true}

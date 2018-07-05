@@ -1,0 +1,1 @@
+{"name":"Eliane Lindgren","email":"hallie.schneider@bosco.com","address":"43401 Kreiger Island Apt. 192\nPort Cynthiaport, AL 21943-7715","subscribed":true}

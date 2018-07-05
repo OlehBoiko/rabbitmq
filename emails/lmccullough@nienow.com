@@ -1,0 +1,1 @@
+{"name":"Elta Friesen Sr.","email":"lmccullough@nienow.com","address":"24287 Olson Island Suite 931\nLake Laurianne, ND 56558","subscribed":true}

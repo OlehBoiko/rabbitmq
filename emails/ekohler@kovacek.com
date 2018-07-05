@@ -1,0 +1,1 @@
+{"name":"Gene Wisoky","email":"ekohler@kovacek.com","address":"291 Paucek Radial\nSedrickfort, WA 50893-6139","subscribed":true}

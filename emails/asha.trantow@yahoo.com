@@ -1,0 +1,1 @@
+{"name":"Howard Bechtelar DVM","email":"asha.trantow@yahoo.com","address":"29979 Wava Via Apt. 255\nRigobertostad, MN 52001-9966","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Ross Kunze","email":"rachael10@yahoo.com","address":"8103 Gene Pike Suite 111\nGulgowskiberg, ME 69310-9258","subscribed":true}

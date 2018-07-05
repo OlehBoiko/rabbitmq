@@ -1,0 +1,1 @@
+{"name":"Dr. Cordelia Kunze","email":"abshire.mya@gmail.com","address":"655 Dickinson Centers Apt. 017\nHoweside, AL 87519","subscribed":true}

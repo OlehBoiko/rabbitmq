@@ -1,0 +1,1 @@
+{"name":"Prof. Karson Muller","email":"hmedhurst@goldner.org","address":"3049 Mills Island Apt. 309\nWest Regan, OH 43253","subscribed":true}

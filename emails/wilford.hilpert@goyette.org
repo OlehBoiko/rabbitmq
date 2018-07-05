@@ -1,0 +1,1 @@
+{"name":"Bernardo Schowalter","email":"wilford.hilpert@goyette.org","address":"156 Medhurst Squares Suite 231\nWest Esmeraldastad, GA 76822-1213","subscribed":true}

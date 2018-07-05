@@ -1,0 +1,1 @@
+{"name":"Lindsay Kuphal","email":"trinity.jenkins@yahoo.com","address":"968 Flatley Street\nNew Evangeline, RI 66044","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Adriel Boyer IV","email":"kaitlin.prohaska@yahoo.com","address":"8384 Ruby Trace\nRippinmouth, RI 52040-9231","subscribed":true}

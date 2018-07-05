@@ -1,0 +1,1 @@
+{"name":"Prof. Rowland Steuber","email":"breanna96@rice.com","address":"64550 Aufderhar Estate\nLake Jaylanberg, VT 18923","subscribed":true}

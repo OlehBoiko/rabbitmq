@@ -1,0 +1,1 @@
+{"name":"Prudence Schowalter Jr.","email":"genevieve51@ullrich.com","address":"49756 Mollie Flat Suite 202\nArelyberg, NY 02489","subscribed":true}

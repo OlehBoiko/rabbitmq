@@ -1,0 +1,1 @@
+{"name":"Jaylan Satterfield MD","email":"ghowell@stoltenberg.com","address":"615 Rempel Gardens Suite 712\nWest Zaria, SD 96348-4458","subscribed":true}

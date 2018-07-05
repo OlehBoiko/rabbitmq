@@ -1,0 +1,1 @@
+{"name":"Prof. Rudolph Murazik III","email":"waino.lubowitz@hotmail.com","address":"8820 Adams Route Suite 787\nLake Tyson, AK 82329-8280","subscribed":true}

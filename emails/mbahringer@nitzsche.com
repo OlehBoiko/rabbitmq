@@ -1,0 +1,1 @@
+{"name":"Jacklyn Langosh","email":"mbahringer@nitzsche.com","address":"30223 Adolphus Stream Apt. 959\nWest Kylermouth, MN 06141","subscribed":true}

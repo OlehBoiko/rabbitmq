@@ -1,0 +1,1 @@
+{"name":"Prof. Maxwell Schamberger","email":"schimmel.andre@lemke.com","address":"42415 Metz Oval Suite 160\nLake Hilario, NY 15867-2775","subscribed":true}

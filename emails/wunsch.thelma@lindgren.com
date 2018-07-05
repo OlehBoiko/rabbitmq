@@ -1,0 +1,1 @@
+{"name":"Lucinda Kautzer","email":"wunsch.thelma@lindgren.com","address":"215 Cummerata Well Apt. 432\nKatarinaport, NV 06697","subscribed":true}

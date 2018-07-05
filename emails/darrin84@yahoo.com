@@ -1,0 +1,1 @@
+{"name":"Jordyn Sporer PhD","email":"darrin84@yahoo.com","address":"1303 Miller Fork Suite 108\nEast Judge, NH 11045-0135","subscribed":true}

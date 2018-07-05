@@ -1,0 +1,1 @@
+{"name":"Mrs. Wanda Daniel II","email":"darrion.goodwin@hotmail.com","address":"7037 Bernier Mountains Suite 063\nEast Aileen, KS 29657","subscribed":true}

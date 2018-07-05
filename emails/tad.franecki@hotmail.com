@@ -1,0 +1,1 @@
+{"name":"Frederic Kulas Jr.","email":"tad.franecki@hotmail.com","address":"6469 Konopelski Isle Suite 845\nLetitiafurt, CA 07708-4441","subscribed":true}

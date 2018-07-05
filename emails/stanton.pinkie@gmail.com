@@ -1,0 +1,1 @@
+{"name":"Rudolph Schultz","email":"stanton.pinkie@gmail.com","address":"1703 Kattie Plains\nJensenshire, VA 28855-9137","subscribed":true}

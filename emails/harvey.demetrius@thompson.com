@@ -1,0 +1,1 @@
+{"name":"Isai Morar Jr.","email":"harvey.demetrius@thompson.com","address":"2347 Grayce Lock Apt. 707\nGaylordton, NM 30013","subscribed":true}

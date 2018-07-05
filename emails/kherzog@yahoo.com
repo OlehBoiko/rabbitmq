@@ -1,0 +1,1 @@
+{"name":"Prof. Jacklyn Bogan","email":"kherzog@yahoo.com","address":"8282 Weissnat Stream\nLysannemouth, NE 94318","subscribed":true}

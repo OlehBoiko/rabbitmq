@@ -1,0 +1,1 @@
+{"name":"Mr. Freddy Kuphal","email":"savanah.howell@leannon.com","address":"66681 Upton Loaf\nMartintown, ND 72179-8459","subscribed":true}

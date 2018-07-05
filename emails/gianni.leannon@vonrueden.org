@@ -1,0 +1,1 @@
+{"name":"Lisandro Kulas","email":"gianni.leannon@vonrueden.org","address":"5151 Bashirian Stravenue\nBuckridgemouth, CA 17058","subscribed":true}

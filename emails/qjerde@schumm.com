@@ -1,0 +1,1 @@
+{"name":"Dangelo Emmerich DVM","email":"qjerde@schumm.com","address":"416 Lessie Harbor\nNew Vidalchester, TX 09511-7655","subscribed":true}

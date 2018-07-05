@@ -1,0 +1,1 @@
+{"name":"Vladimir Runolfsson","email":"hane.kara@kris.com","address":"193 Alejandrin Lakes Apt. 964\nCroninside, DC 23643","subscribed":true}

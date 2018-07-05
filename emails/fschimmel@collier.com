@@ -1,0 +1,1 @@
+{"name":"Mrs. Pauline Connelly","email":"fschimmel@collier.com","address":"7860 Dax Fork\nNorth Giuseppe, AR 07330-7376","subscribed":true}

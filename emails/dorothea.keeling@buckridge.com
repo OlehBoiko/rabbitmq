@@ -1,0 +1,1 @@
+{"name":"Dr. Cyrus Hand","email":"dorothea.keeling@buckridge.com","address":"34055 Stoltenberg Brook Apt. 207\nBraxtonburgh, CT 90578-0788","subscribed":true}

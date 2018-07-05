@@ -1,0 +1,1 @@
+{"name":"Prof. Winston Cormier","email":"opal46@toy.org","address":"38864 Bartoletti Fort\nPort Alysachester, KS 91435","subscribed":true}

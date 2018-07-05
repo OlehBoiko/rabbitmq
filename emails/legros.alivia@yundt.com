@@ -1,0 +1,1 @@
+{"name":"Alessandro Schneider Jr.","email":"legros.alivia@yundt.com","address":"59915 Kessler Ways Apt. 282\nLakinberg, CA 19134-2559","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Brook Buckridge DVM","email":"king.jarod@ondricka.com","address":"30406 Stamm Route\nWest Antonetteland, SC 71200-0409","subscribed":true}

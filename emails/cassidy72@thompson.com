@@ -1,0 +1,1 @@
+{"name":"Godfrey Feeney","email":"cassidy72@thompson.com","address":"7676 Bergstrom Views\nHickleton, KY 05388","subscribed":true}

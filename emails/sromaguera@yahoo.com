@@ -1,0 +1,1 @@
+{"name":"Prof. Jaeden Labadie DVM","email":"sromaguera@yahoo.com","address":"1028 Seamus Course Apt. 101\nRhodastad, WY 54872","subscribed":true}

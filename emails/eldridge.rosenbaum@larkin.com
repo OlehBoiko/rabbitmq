@@ -1,0 +1,1 @@
+{"name":"Aurore Bartell Jr.","email":"eldridge.rosenbaum@larkin.com","address":"10268 Heller Crossroad\nBrownton, AR 34744","subscribed":true}

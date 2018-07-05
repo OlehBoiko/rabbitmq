@@ -1,0 +1,1 @@
+{"name":"Prof. Arnold Powlowski","email":"okutch@hotmail.com","address":"999 Roxanne Court Suite 121\nNorth Mollie, SD 91386-6006","subscribed":true}

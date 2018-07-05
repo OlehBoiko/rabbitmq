@@ -1,0 +1,1 @@
+{"name":"Miss Bette Konopelski Sr.","email":"suzanne.schamberger@hotmail.com","address":"790 Kuhn Cove Suite 788\nEast Skylarmouth, GA 50839","subscribed":true}

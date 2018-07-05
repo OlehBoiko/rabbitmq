@@ -1,0 +1,1 @@
+{"name":"Junius Bradtke","email":"eturcotte@schaden.com","address":"6739 Stanton Plains Apt. 278\nKuhicton, WI 23302","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Jaleel Hettinger","email":"kuphal.abdiel@gmail.com","address":"981 Noemi Circles\nNorth Golda, HI 92923","subscribed":true}

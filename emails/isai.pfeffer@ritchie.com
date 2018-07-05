@@ -1,0 +1,1 @@
+{"name":"Bernadette Fritsch III","email":"isai.pfeffer@ritchie.com","address":"35415 Ron Fords Apt. 256\nLake Justina, AK 10817-9403","subscribed":true}

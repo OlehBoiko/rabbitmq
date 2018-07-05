@@ -1,0 +1,1 @@
+{"name":"Dr. Misael Becker","email":"kulas.dalton@auer.com","address":"3852 Isabell Causeway Suite 034\nNobleton, WY 84778-0997","subscribed":true}

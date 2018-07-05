@@ -1,0 +1,1 @@
+{"name":"Richmond Lockman","email":"bruecker@rau.com","address":"22578 Loy Land Apt. 301\nCarterstad, CT 18969-6998","subscribed":true}

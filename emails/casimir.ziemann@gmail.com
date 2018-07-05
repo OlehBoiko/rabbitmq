@@ -1,0 +1,1 @@
+{"name":"Vladimir Bahringer","email":"casimir.ziemann@gmail.com","address":"64472 Ole Skyway\nPricefort, ID 42903-6243","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Brenna Ankunding","email":"lottie.kling@connelly.com","address":"230 Ewald Stream\nJohnathanhaven, VA 02645-0300","subscribed":true}

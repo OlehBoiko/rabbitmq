@@ -1,0 +1,1 @@
+{"name":"Michale Labadie","email":"mueller.arnaldo@hotmail.com","address":"9504 Buckridge Circle\nNew Margaritaberg, KS 43660-7709","subscribed":true}

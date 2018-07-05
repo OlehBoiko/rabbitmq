@@ -1,0 +1,1 @@
+{"name":"Prof. Rudolph Goldner Jr.","email":"satterfield.reece@gmail.com","address":"5972 Chelsie Common\nConsidinefort, ID 18029","subscribed":true}

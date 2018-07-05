@@ -1,0 +1,1 @@
+{"name":"Prof. Daisha Friesen I","email":"althea.borer@gmail.com","address":"19198 King Radial\nNew Elaina, IN 30845","subscribed":true}

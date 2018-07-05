@@ -1,0 +1,1 @@
+{"name":"Maximo Funk","email":"virgil93@yahoo.com","address":"698 Providenci Lodge\nBurdetteton, RI 29897","subscribed":true}

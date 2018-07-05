@@ -1,0 +1,1 @@
+{"name":"Durward Schmidt","email":"fritsch.pattie@hotmail.com","address":"25372 Glennie Mews Apt. 935\nEast Kristyberg, OK 84126-1650","subscribed":true}

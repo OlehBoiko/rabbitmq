@@ -1,0 +1,1 @@
+{"name":"Lucius Konopelski","email":"al.feil@koch.com","address":"58472 Mitchell Port Apt. 249\nNew Tracey, CT 53448-5101","subscribed":true}

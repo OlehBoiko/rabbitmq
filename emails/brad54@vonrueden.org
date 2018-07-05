@@ -1,0 +1,1 @@
+{"name":"Fredrick Bernhard","email":"brad54@vonrueden.org","address":"4189 Bryce Heights Apt. 501\nJosieshire, DE 96004","subscribed":true}

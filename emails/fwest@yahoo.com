@@ -1,0 +1,1 @@
+{"name":"Prof. Jerry Cartwright","email":"fwest@yahoo.com","address":"849 Hermiston Junctions\nPort Jamarville, MT 51183","subscribed":true}

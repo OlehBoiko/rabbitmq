@@ -1,0 +1,1 @@
+{"name":"Stanton Prosacco","email":"njacobson@gmail.com","address":"955 Pfeffer Ways Apt. 348\nSalvatoretown, AL 41462-2247","subscribed":true}

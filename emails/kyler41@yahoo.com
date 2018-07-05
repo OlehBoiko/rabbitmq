@@ -1,0 +1,1 @@
+{"name":"Prof. Francesca Sporer PhD","email":"kyler41@yahoo.com","address":"6632 Hayes Ridge\nMckenziemouth, ID 59132-2187","subscribed":true}

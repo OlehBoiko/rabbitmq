@@ -1,0 +1,1 @@
+{"name":"Gerhard Ankunding III","email":"clare54@yahoo.com","address":"1940 Evangeline Squares\nNew David, WA 13103","subscribed":true}

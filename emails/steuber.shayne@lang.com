@@ -1,0 +1,1 @@
+{"name":"Charles Beatty Sr.","email":"steuber.shayne@lang.com","address":"16525 Runte Forges\nGonzaloton, IA 32393","subscribed":true}

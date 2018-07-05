@@ -1,0 +1,1 @@
+{"name":"Rosie Hammes","email":"alena73@yahoo.com","address":"819 Nona Lock Apt. 980\nLake Sadye, ME 81788-4308","subscribed":true}

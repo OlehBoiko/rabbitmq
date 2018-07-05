@@ -1,0 +1,1 @@
+{"name":"Ronaldo Mosciski","email":"fking@powlowski.com","address":"214 Parker Plaza Apt. 239\nWuckertfort, LA 49918-5534","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Maude Rohan","email":"isipes@gmail.com","address":"315 Manuel Freeway\nNorth Salvador, CA 02759-1742","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Mr. Hunter Powlowski I","email":"lemke.madison@gmail.com","address":"28995 Kassandra Burgs Apt. 256\nWisokybury, SD 64383-2502","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Curt Morissette IV","email":"trantow.joanie@gmail.com","address":"979 Beverly Mill Suite 455\nSouth Nicholefurt, OK 88601-7435","subscribed":true}

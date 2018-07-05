@@ -1,0 +1,1 @@
+{"name":"Stanley Kunde III","email":"mgulgowski@kozey.org","address":"32192 Baumbach Crossing\nNorth Lesliebury, WV 94109","subscribed":true}

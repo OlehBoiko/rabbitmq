@@ -1,0 +1,1 @@
+{"name":"Vita Hayes","email":"gudrun.kling@schulist.com","address":"89460 Smith Extension Suite 000\nLake Geo, KS 81734","subscribed":true}

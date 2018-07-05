@@ -1,0 +1,1 @@
+{"name":"Stanley Johnston PhD","email":"ischulist@gmail.com","address":"126 Herzog Cliff Suite 383\nAlexandrinemouth, DC 17475","subscribed":true}

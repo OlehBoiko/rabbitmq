@@ -1,0 +1,1 @@
+{"name":"Carlos Kemmer","email":"adolfo.wunsch@gmail.com","address":"304 Stacey Summit Apt. 543\nWilfredside, MT 29629","subscribed":true}

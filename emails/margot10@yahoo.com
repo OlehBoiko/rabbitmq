@@ -1,0 +1,1 @@
+{"name":"Kennedy Beatty","email":"margot10@yahoo.com","address":"31974 Von Lights Suite 966\nNew Narcisobury, WA 96820","subscribed":true}

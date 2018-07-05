@@ -1,0 +1,1 @@
+{"name":"Prof. Ben Bartoletti I","email":"eli.okeefe@jast.com","address":"691 Marc Plaza Suite 457\nWest Katrineport, RI 25537","subscribed":true}

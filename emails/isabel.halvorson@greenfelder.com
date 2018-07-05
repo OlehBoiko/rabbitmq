@@ -1,0 +1,1 @@
+{"name":"Mr. Reinhold Shanahan I","email":"isabel.halvorson@greenfelder.com","address":"1176 Terry Prairie Suite 016\nEast Dallinside, UT 59658","subscribed":true}

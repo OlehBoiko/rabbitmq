@@ -1,0 +1,1 @@
+{"name":"Rosalinda Stanton","email":"ybrekke@wiza.com","address":"295 Seth Loaf Suite 216\nVernieton, CA 61615","subscribed":true}

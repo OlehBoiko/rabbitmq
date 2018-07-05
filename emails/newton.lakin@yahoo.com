@@ -1,0 +1,1 @@
+{"name":"Jerad Stamm","email":"newton.lakin@yahoo.com","address":"534 Alf Expressway\nEast Delphaberg, SD 29620","subscribed":true}

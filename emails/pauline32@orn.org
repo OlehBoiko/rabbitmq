@@ -1,0 +1,1 @@
+{"name":"Prof. Isadore Bechtelar","email":"pauline32@orn.org","address":"91342 Watsica Street\nHeloiseburgh, CA 74119","subscribed":true}

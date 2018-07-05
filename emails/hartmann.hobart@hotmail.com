@@ -1,0 +1,1 @@
+{"name":"Cleveland Thompson","email":"hartmann.hobart@hotmail.com","address":"1146 Kassulke Mountain\nNorth Laurenburgh, MA 58742","subscribed":true}

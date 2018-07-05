@@ -1,0 +1,1 @@
+{"name":"Gus Corwin","email":"jasper75@gmail.com","address":"192 Miller Island\nWest Dayne, MN 48551","subscribed":true}

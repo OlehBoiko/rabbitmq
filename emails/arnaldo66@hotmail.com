@@ -1,0 +1,1 @@
+{"name":"Agustina Batz","email":"arnaldo66@hotmail.com","address":"776 Kaylee Points Suite 494\nRociostad, MI 74952","subscribed":true}

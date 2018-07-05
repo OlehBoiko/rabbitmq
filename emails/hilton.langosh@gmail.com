@@ -1,0 +1,1 @@
+{"name":"Prof. Ryann Blanda I","email":"hilton.langosh@gmail.com","address":"218 Jessy Stream Suite 456\nDickenshaven, NE 64767","subscribed":true}

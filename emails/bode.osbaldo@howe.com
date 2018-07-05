@@ -1,0 +1,1 @@
+{"name":"Linda Franecki","email":"bode.osbaldo@howe.com","address":"9970 Ivah Glen Suite 651\nNienowstad, OR 20281","subscribed":true}

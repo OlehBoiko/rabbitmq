@@ -1,0 +1,1 @@
+{"name":"Prof. Maia Kuvalis","email":"shomenick@keeling.com","address":"54529 Destany Bridge\nWest Carliefurt, TN 10098","subscribed":true}

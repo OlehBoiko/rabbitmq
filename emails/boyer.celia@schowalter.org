@@ -1,0 +1,1 @@
+{"name":"Miss Jada Kulas II","email":"boyer.celia@schowalter.org","address":"404 Maurice Prairie Suite 614\nWest Ike, AK 32340","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Rory Moore MD","email":"wlowe@monahan.com","address":"692 Hansen Square Suite 510\nPort Buckside, MD 11207-1142","subscribed":true}

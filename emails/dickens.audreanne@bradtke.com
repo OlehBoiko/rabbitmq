@@ -1,0 +1,1 @@
+{"name":"Dr. Jewel Wintheiser","email":"dickens.audreanne@bradtke.com","address":"787 Merlin Green Apt. 426\nNew Jan, CA 23417-0451","subscribed":true}

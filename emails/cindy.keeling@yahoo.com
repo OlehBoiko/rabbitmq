@@ -1,0 +1,1 @@
+{"name":"Mr. Barrett Kuhic","email":"cindy.keeling@yahoo.com","address":"6429 Wolff Lakes Apt. 330\nCristside, NY 61122-9090","subscribed":true}

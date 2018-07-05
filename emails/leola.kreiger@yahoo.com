@@ -1,0 +1,1 @@
+{"name":"Prof. Cyrus Price II","email":"leola.kreiger@yahoo.com","address":"9423 Rosemary Views Suite 429\nParisianport, KS 70993","subscribed":true}

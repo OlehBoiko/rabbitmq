@@ -1,0 +1,1 @@
+{"name":"Prof. Imelda Jaskolski II","email":"heaney.mariah@goldner.com","address":"40863 Jamar Tunnel Apt. 177\nNathanside, AL 41560-7757","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Salvador Schmeler","email":"lcassin@hotmail.com","address":"8706 Bridgette Trafficway\nNorth Ettie, MA 30213-0208","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Scottie Hagenes","email":"cyril.osinski@ankunding.com","address":"6898 Schiller Tunnel Suite 896\nFrancescaland, MI 83933-5089","subscribed":true}

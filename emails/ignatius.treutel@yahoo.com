@@ -1,0 +1,1 @@
+{"name":"Stacey Swaniawski","email":"ignatius.treutel@yahoo.com","address":"46806 Deonte Motorway\nSouth Katrinaburgh, FL 96030","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Bonita Romaguera V","email":"tina.stamm@klein.com","address":"2436 Elyssa Pass Suite 477\nRatkeside, OR 39951-1770","subscribed":true}

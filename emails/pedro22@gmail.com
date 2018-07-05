@@ -1,0 +1,1 @@
+{"name":"Prof. Garry McGlynn PhD","email":"pedro22@gmail.com","address":"2541 Osinski Station Suite 239\nPort Cruzton, VT 04561-8437","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Ayla Kuhlman","email":"auer.breana@bergstrom.com","address":"9716 Emmett Ways Apt. 994\nGeoffreyshire, PA 16880","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Guillermo Kozey IV","email":"nondricka@spencer.com","address":"7443 Kautzer Lane\nJerelview, AL 37082","subscribed":true}

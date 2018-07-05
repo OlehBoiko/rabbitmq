@@ -1,0 +1,1 @@
+{"name":"Prof. Grant Stroman","email":"ahudson@abernathy.com","address":"951 Stacy Locks Apt. 576\nSouth Yadira, NH 93701","subscribed":true}

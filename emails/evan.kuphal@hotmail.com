@@ -1,0 +1,1 @@
+{"name":"Bernard Hegmann","email":"evan.kuphal@hotmail.com","address":"341 Bailey Mountain\nNorth Carli, HI 34608","subscribed":true}

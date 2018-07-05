@@ -1,0 +1,1 @@
+{"name":"Prof. Elwin Stroman","email":"mathias47@gmail.com","address":"836 Ruecker Spring\nMarquesfort, VT 01834","subscribed":true}

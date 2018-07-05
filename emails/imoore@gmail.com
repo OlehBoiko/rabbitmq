@@ -1,0 +1,1 @@
+{"name":"Prof. Virginie Spinka","email":"imoore@gmail.com","address":"8548 Hillary Avenue Apt. 837\nBrowntown, DC 80104-8752","subscribed":true}

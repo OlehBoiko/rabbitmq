@@ -1,0 +1,1 @@
+{"name":"Ressie Bednar","email":"cleta66@hotmail.com","address":"62002 Mireya Vista\nDevynborough, UT 65265-3466","subscribed":true}

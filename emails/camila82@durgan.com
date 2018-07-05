@@ -1,0 +1,1 @@
+{"name":"Prof. Dax Durgan PhD","email":"camila82@durgan.com","address":"9017 Jett View\nLake Consueloshire, VT 08199-4253","subscribed":true}

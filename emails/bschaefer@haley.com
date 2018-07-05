@@ -1,0 +1,1 @@
+{"name":"Prof. Celine Tremblay V","email":"bschaefer@haley.com","address":"3205 Lulu Trafficway\nPort Erika, CT 67118","subscribed":true}

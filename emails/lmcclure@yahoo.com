@@ -1,0 +1,1 @@
+{"name":"Vida Franecki","email":"lmcclure@yahoo.com","address":"5377 Keenan Trail Suite 497\nSchmidtland, IN 44220-9980","subscribed":true}

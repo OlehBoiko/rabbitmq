@@ -1,0 +1,1 @@
+{"name":"Juvenal Gottlieb","email":"qjakubowski@oberbrunner.com","address":"742 Electa Land Suite 562\nAmelieborough, IA 16933-2667","subscribed":true}

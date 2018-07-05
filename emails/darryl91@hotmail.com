@@ -1,0 +1,1 @@
+{"name":"Mrs. Berniece Bruen PhD","email":"darryl91@hotmail.com","address":"54460 Dale Bypass Suite 044\nMcLaughlinfurt, MD 35052","subscribed":true}

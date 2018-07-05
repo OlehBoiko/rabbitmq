@@ -1,0 +1,1 @@
+{"name":"Dr. Andres Wuckert","email":"deckow.jess@ziemann.com","address":"466 Ursula Route\nFarrellfurt, RI 11040-1175","subscribed":true}

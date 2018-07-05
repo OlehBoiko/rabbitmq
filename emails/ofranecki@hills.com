@@ -1,0 +1,1 @@
+{"name":"Ubaldo Hermann","email":"ofranecki@hills.com","address":"2791 Marcelo Spurs Apt. 140\nRueckerberg, OR 97875","subscribed":true}

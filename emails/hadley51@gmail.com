@@ -1,0 +1,1 @@
+{"name":"Prof. Shawna Walter Jr.","email":"hadley51@gmail.com","address":"54402 D'Amore Center Apt. 114\nRomagueraton, VT 56796","subscribed":true}

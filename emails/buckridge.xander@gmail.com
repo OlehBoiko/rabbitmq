@@ -1,0 +1,1 @@
+{"name":"Dr. Jordy Beer PhD","email":"buckridge.xander@gmail.com","address":"71173 Cruickshank Shores Suite 030\nNorth Saraiport, OR 82253-9791","subscribed":true}

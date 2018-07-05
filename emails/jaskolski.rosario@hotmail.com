@@ -1,0 +1,1 @@
+{"name":"Prof. Jonathan Dickinson","email":"jaskolski.rosario@hotmail.com","address":"32892 Rippin Junctions\nPort Novaport, NC 77501-9043","subscribed":true}

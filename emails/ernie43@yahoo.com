@@ -1,0 +1,1 @@
+{"name":"Foster Quigley","email":"ernie43@yahoo.com","address":"60208 O'Keefe Locks\nWest Maynardburgh, RI 49741-7047","subscribed":true}

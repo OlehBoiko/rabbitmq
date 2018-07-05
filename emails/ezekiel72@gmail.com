@@ -1,0 +1,1 @@
+{"name":"Seamus VonRueden","email":"ezekiel72@gmail.com","address":"58798 Gleason Drive\nNorth Kaci, VT 86562-0012","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Bo Baumbach","email":"schumm.jewel@connelly.com","address":"858 Sammie Spurs\nHermanborough, AK 91377-9321","subscribed":true}

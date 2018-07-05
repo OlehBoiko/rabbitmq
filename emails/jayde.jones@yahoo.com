@@ -1,0 +1,1 @@
+{"name":"Prof. Dexter Smith","email":"jayde.jones@yahoo.com","address":"96872 Merlin Coves Suite 400\nPort Richmond, AR 87434","subscribed":true}

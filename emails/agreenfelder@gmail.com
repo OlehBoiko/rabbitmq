@@ -1,0 +1,1 @@
+{"name":"Dr. Rodolfo Goodwin V","email":"agreenfelder@gmail.com","address":"1013 Stanton Causeway\nJamilport, RI 69652","subscribed":true}

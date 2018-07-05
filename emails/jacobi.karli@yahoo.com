@@ -1,0 +1,1 @@
+{"name":"Mrs. Magali Langworth","email":"jacobi.karli@yahoo.com","address":"6160 Gene Highway\nLake Giamouth, ID 83116-4093","subscribed":true}

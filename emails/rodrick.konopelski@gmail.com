@@ -1,0 +1,1 @@
+{"name":"Ms. Lucinda Swaniawski","email":"rodrick.konopelski@gmail.com","address":"552 Joy Dale Apt. 896\nPort Junius, OK 42540","subscribed":true}

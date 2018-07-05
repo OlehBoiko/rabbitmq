@@ -1,0 +1,1 @@
+{"name":"Prof. Franco Wyman Sr.","email":"lweber@bosco.com","address":"65548 Laurie Orchard\nLeonardomouth, NE 23477-6790","subscribed":true}

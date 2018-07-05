@@ -1,0 +1,1 @@
+{"name":"Veda Davis","email":"madie.harris@friesen.com","address":"90734 Royal Manor\nSouth Armand, KY 33625","subscribed":true}

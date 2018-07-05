@@ -1,0 +1,1 @@
+{"name":"Bridgette Mueller","email":"nickolas.heller@halvorson.com","address":"37438 Murl Walk Suite 523\nSchuppeton, KS 67863-1133","subscribed":true}

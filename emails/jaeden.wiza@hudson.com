@@ -1,0 +1,1 @@
+{"name":"Prof. Stephan Kassulke IV","email":"jaeden.wiza@hudson.com","address":"3367 Collier Flat\nNew Melbaside, TX 57524","subscribed":true}

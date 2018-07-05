@@ -1,0 +1,1 @@
+{"name":"Sigmund Senger Sr.","email":"alexanne52@hills.com","address":"1931 Kreiger Branch\nSydnieland, WA 63322-0447","subscribed":true}

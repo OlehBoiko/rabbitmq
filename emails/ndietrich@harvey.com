@@ -1,0 +1,1 @@
+{"name":"Prof. Asha Kulas","email":"ndietrich@harvey.com","address":"21386 Homenick Motorway\nSauermouth, ME 07831-5063","subscribed":true}

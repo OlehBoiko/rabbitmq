@@ -1,0 +1,1 @@
+{"name":"Jay Ruecker","email":"franecki.germaine@streich.com","address":"540 Gerson Pike\nNew Skylaberg, UT 88449","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Roselyn Kuvalis","email":"maude80@johnson.com","address":"55300 Gust Crest Apt. 404\nBarrowsland, MT 75120","subscribed":true}

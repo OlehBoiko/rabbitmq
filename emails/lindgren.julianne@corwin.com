@@ -1,0 +1,1 @@
+{"name":"Fausto Fadel","email":"lindgren.julianne@corwin.com","address":"9648 Abby Divide Suite 810\nWest Aylinborough, OR 40183","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Nels Kuvalis","email":"eprosacco@gmail.com","address":"7285 Hoppe Expressway\nEast Margotburgh, KS 59799","subscribed":true}

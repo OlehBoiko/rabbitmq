@@ -1,0 +1,1 @@
+{"name":"Vita Morar","email":"ramona.kuhic@gmail.com","address":"6062 Grimes Stream\nLake Keara, WV 82090-6469","subscribed":true}

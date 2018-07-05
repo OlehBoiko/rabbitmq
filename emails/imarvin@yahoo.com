@@ -1,0 +1,1 @@
+{"name":"Mr. Bradley Beier MD","email":"imarvin@yahoo.com","address":"279 Cruz Ridges Apt. 400\nBernierborough, CO 82621","subscribed":true}

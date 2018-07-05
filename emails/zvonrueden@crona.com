@@ -1,0 +1,1 @@
+{"name":"Palma Kuvalis","email":"zvonrueden@crona.com","address":"252 Hauck Corners Suite 262\nBartolettiside, IA 74069","subscribed":true}

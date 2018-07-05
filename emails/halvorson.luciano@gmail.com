@@ -1,0 +1,1 @@
+{"name":"Mrs. Berniece Quitzon V","email":"halvorson.luciano@gmail.com","address":"367 Kovacek Meadows Suite 653\nNew Terry, VT 22410","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Sigmund Pollich","email":"rcarroll@rempel.com","address":"975 Yazmin Square\nKiehnside, AR 26569","subscribed":true}

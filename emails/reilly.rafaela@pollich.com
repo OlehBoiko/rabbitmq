@@ -1,0 +1,1 @@
+{"name":"Prof. Collin Cartwright","email":"reilly.rafaela@pollich.com","address":"3167 Hackett Summit\nPort Maxine, WI 65567-6243","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Major Greenholt","email":"janiya61@yahoo.com","address":"619 Tremblay Forges Suite 010\nKoeppshire, ND 32017","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Winfield Stehr","email":"selmer30@yahoo.com","address":"724 Octavia Road Suite 407\nErdmanfort, MT 35012","subscribed":true}

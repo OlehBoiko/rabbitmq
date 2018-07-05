@@ -1,0 +1,1 @@
+{"name":"Benedict Hirthe","email":"hartmann.vada@gmail.com","address":"403 Braun Wells\nBethton, UT 77893","subscribed":true}

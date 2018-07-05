@@ -1,0 +1,1 @@
+{"name":"Lulu Ritchie","email":"mkassulke@gmail.com","address":"847 Quigley Camp Apt. 249\nDeanbury, MT 05555","subscribed":true}

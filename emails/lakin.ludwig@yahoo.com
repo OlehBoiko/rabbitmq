@@ -1,0 +1,1 @@
+{"name":"Dr. Danny Stokes PhD","email":"lakin.ludwig@yahoo.com","address":"390 Marian Highway\nWest Vivienne, WY 28127-7298","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Dr. Melody Kulas I","email":"sofia.kuvalis@braun.com","address":"91448 Abshire Ridges Apt. 329\nLake Cedrick, OR 27538","subscribed":true}

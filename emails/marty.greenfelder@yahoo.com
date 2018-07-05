@@ -1,0 +1,1 @@
+{"name":"Prof. Bobbie Thiel","email":"marty.greenfelder@yahoo.com","address":"867 Johnpaul Shore Suite 843\nNew Ressie, WA 93981-3299","subscribed":true}

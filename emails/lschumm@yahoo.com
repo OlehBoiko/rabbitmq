@@ -1,0 +1,1 @@
+{"name":"Prof. Eleazar Koch","email":"lschumm@yahoo.com","address":"443 Reichel Overpass\nKarliport, FL 53738-9972","subscribed":true}

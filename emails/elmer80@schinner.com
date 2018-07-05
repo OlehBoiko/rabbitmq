@@ -1,0 +1,1 @@
+{"name":"Hilbert Franecki Sr.","email":"elmer80@schinner.com","address":"6350 Jeremie Land Suite 326\nNorth Jeramyport, MI 38069","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Ms. Monica Stamm","email":"wolff.ettie@yahoo.com","address":"8695 Rowe Mill\nNew Lauriane, NJ 38050-6045","subscribed":true}

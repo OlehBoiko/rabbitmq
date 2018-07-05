@@ -1,0 +1,1 @@
+{"name":"Ms. Melyna Blanda","email":"kunde.sonya@gmail.com","address":"840 Kshlerin Squares Suite 307\nEldastad, NY 22241","subscribed":true}

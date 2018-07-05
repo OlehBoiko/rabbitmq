@@ -1,0 +1,1 @@
+{"name":"Margarette Trantow","email":"colton09@yundt.com","address":"81430 Kovacek Locks Suite 261\nKuvalisview, DE 20002","subscribed":true}

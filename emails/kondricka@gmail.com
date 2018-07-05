@@ -1,0 +1,1 @@
+{"name":"Dr. Bernice Trantow","email":"kondricka@gmail.com","address":"26365 Felicia Lodge\nWest Russell, ND 65218-9885","subscribed":true}

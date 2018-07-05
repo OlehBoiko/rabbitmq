@@ -1,0 +1,1 @@
+{"name":"Jude Lind","email":"osinski.kamren@yost.com","address":"16603 Goldner Plaza Suite 954\nSouth Ramiro, DE 64554-7400","subscribed":true}

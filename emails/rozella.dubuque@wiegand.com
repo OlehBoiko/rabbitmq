@@ -1,0 +1,1 @@
+{"name":"Prof. Estrella Quigley","email":"rozella.dubuque@wiegand.com","address":"88646 Beatty Falls\nLake Brocktown, RI 89635","subscribed":true}

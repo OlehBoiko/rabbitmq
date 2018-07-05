@@ -1,0 +1,1 @@
+{"name":"Prof. Beverly Schneider","email":"jason.dietrich@hotmail.com","address":"5994 Vladimir Shores\nCummingsburgh, ME 04216-3088","subscribed":true}

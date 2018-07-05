@@ -1,0 +1,1 @@
+{"name":"Prof. Axel Gulgowski","email":"eldon03@davis.org","address":"5510 Halie Trafficway Apt. 051\nSouth Brettshire, IL 72358","subscribed":true}

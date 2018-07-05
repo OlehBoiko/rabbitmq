@@ -1,0 +1,1 @@
+{"name":"Miss Lindsay Batz","email":"schimmel.lyric@carter.com","address":"1525 Virginie Junction Suite 962\nPort Jasperstad, AR 00729","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Tito Stamm","email":"jena24@yahoo.com","address":"42840 Stoltenberg Port Suite 720\nMyrtieland, DE 56146","subscribed":true}

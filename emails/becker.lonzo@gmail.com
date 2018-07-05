@@ -1,0 +1,1 @@
+{"name":"Amelia Daugherty","email":"becker.lonzo@gmail.com","address":"2224 Leuschke Circles Apt. 092\nDemariostad, KY 09704-0122","subscribed":true}

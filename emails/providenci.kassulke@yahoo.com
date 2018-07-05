@@ -1,0 +1,1 @@
+{"name":"Jalen D'Amore","email":"providenci.kassulke@yahoo.com","address":"479 Francisca Common\nEast Irving, PA 60316","subscribed":true}

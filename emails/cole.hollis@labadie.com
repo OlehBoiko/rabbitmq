@@ -1,0 +1,1 @@
+{"name":"Prof. Dedrick Fisher PhD","email":"cole.hollis@labadie.com","address":"64865 Levi Drive Suite 073\nNorvalland, NH 49372","subscribed":true}

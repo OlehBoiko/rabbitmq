@@ -1,0 +1,1 @@
+{"name":"Dr. Ronny Langosh","email":"hbecker@schmidt.org","address":"33368 Sven Parkways Apt. 350\nWest Omaport, SC 88451-5235","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Alycia Price","email":"jherzog@gmail.com","address":"860 Ashleigh Streets Suite 113\nPort Judsonberg, WV 84517-7513","subscribed":true}

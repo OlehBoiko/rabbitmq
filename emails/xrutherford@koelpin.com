@@ -1,0 +1,1 @@
+{"name":"Prof. Dereck Hagenes","email":"xrutherford@koelpin.com","address":"119 Pierce Landing\nWest Antoniaborough, NJ 63836-3243","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Columbus Cummerata","email":"jsanford@daniel.com","address":"31175 Connelly Wells\nNorth Rodrigomouth, LA 87169","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Velda Ratke","email":"ischimmel@hotmail.com","address":"22260 Vandervort Ways\nLockmanstad, VA 51338-8778","subscribed":true}

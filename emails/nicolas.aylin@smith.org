@@ -1,0 +1,1 @@
+{"name":"Prof. Fredy Pfeffer","email":"nicolas.aylin@smith.org","address":"544 Stewart Mills\nGulgowskiville, VT 03179","subscribed":true}

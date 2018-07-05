@@ -1,0 +1,1 @@
+{"name":"Claude Marks","email":"mae09@langosh.com","address":"7026 Carroll Bridge Suite 245\nLake Rosalee, NY 23249-2457","subscribed":true}

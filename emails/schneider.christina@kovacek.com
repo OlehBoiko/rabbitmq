@@ -1,0 +1,1 @@
+{"name":"Ruthie Schiller","email":"schneider.christina@kovacek.com","address":"594 Kali Vista\nEast Casimir, IN 04119","subscribed":true}

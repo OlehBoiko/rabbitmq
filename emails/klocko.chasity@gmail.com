@@ -1,0 +1,1 @@
+{"name":"David Labadie","email":"klocko.chasity@gmail.com","address":"698 Volkman Mission\nBuckridgefort, KS 39765","subscribed":true}

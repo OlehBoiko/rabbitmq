@@ -1,0 +1,1 @@
+{"name":"Mariano D'Amore","email":"qlubowitz@hotmail.com","address":"78112 Twila Key\nAlberg, VT 26349-9599","subscribed":true}

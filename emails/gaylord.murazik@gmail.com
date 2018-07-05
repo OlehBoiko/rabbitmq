@@ -1,0 +1,1 @@
+{"name":"Mr. Will Wisoky Sr.","email":"gaylord.murazik@gmail.com","address":"6350 Satterfield Islands Apt. 859\nLake Guychester, TX 22163","subscribed":true}

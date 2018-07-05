@@ -1,0 +1,1 @@
+{"name":"Giuseppe Funk I","email":"delphine.zieme@pagac.org","address":"544 Rosemary Canyon Apt. 946\nSouth Hazelmouth, IN 45564-7544","subscribed":true}

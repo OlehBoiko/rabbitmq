@@ -1,0 +1,1 @@
+{"name":"Malinda Jast","email":"rippin.carmelo@prohaska.com","address":"26200 Alfredo Bypass\nSouth Nadia, IA 38960","subscribed":true}

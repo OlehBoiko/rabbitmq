@@ -1,0 +1,1 @@
+{"name":"Dale Bartell","email":"myah23@hotmail.com","address":"900 Towne Alley Apt. 465\nLindgrenborough, KS 50547","subscribed":true}

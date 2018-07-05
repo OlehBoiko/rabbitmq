@@ -1,0 +1,1 @@
+{"name":"Rashad Bahringer Sr.","email":"elliott46@parisian.com","address":"75340 Lucinda Trail Apt. 791\nWest Berry, NY 38252","subscribed":true}

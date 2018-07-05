@@ -1,0 +1,1 @@
+{"name":"Mr. Richmond Kutch","email":"josefina.lesch@kris.com","address":"849 Carolanne Summit\nCollinmouth, RI 83715","subscribed":true}

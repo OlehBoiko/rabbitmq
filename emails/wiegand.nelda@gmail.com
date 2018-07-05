@@ -1,0 +1,1 @@
+{"name":"Mr. Vidal Lakin","email":"wiegand.nelda@gmail.com","address":"39016 Cronin Trail Apt. 824\nRosenbaumfort, UT 22036-6188","subscribed":true}

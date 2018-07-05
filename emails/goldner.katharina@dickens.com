@@ -1,0 +1,1 @@
+{"name":"Ubaldo Ledner III","email":"goldner.katharina@dickens.com","address":"5482 Buddy Mews Apt. 399\nSouth Mia, MN 20675-1481","subscribed":true}

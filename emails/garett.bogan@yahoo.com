@@ -1,0 +1,1 @@
+{"name":"Prof. Eugene Cormier","email":"garett.bogan@yahoo.com","address":"5189 Glennie Landing Suite 667\nAurelioborough, NY 02175-3149","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Celestine Bartoletti V","email":"brennan53@hotmail.com","address":"77618 Paolo Neck\nWest Frida, PA 81559","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Sincere Schulist Jr.","email":"mitchel93@yahoo.com","address":"159 Emmet Park Suite 225\nLeschberg, RI 52976-5659","subscribed":true}

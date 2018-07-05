@@ -1,0 +1,1 @@
+{"name":"Vidal Wiza II","email":"gkuhic@kuphal.com","address":"4082 Gottlieb Garden Apt. 257\nEast Bell, WY 34397","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Mrs. Malika Murazik I","email":"maybelle.streich@farrell.org","address":"115 Prohaska Track\nBodebury, LA 79363","subscribed":true}

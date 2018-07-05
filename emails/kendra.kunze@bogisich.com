@@ -1,0 +1,1 @@
+{"name":"Ms. Ayana Daniel V","email":"kendra.kunze@bogisich.com","address":"251 Trevor Burgs Apt. 646\nSouth Domingo, WI 36146-1984","subscribed":true}

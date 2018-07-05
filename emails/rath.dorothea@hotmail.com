@@ -1,0 +1,1 @@
+{"name":"Dr. Leif Krajcik","email":"rath.dorothea@hotmail.com","address":"99123 Labadie Plaza\nNew Vincent, ND 71298","subscribed":true}

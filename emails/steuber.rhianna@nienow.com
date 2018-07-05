@@ -1,0 +1,1 @@
+{"name":"Jewell Bergnaum","email":"steuber.rhianna@nienow.com","address":"32570 Paucek Unions Suite 234\nHandburgh, OR 98326-2866","subscribed":true}

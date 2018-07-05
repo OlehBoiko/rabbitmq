@@ -1,0 +1,1 @@
+{"name":"Carmine Fritsch","email":"kuhn.santos@schinner.com","address":"90441 Hirthe Trace Apt. 102\nLoyalshire, DC 53821-4873","subscribed":true}

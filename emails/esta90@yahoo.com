@@ -1,0 +1,1 @@
+{"name":"Prof. Friedrich Gibson","email":"esta90@yahoo.com","address":"420 Mosciski Crescent\nEast Kieranburgh, NJ 11354","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Jennyfer Nitzsche","email":"alphonso89@hudson.com","address":"5271 Morissette Isle\nLarsonbury, MA 98303","subscribed":true}

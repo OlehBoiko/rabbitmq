@@ -1,0 +1,1 @@
+{"name":"Lucinda Eichmann","email":"ddavis@waelchi.com","address":"646 Caleigh Drive\nRohanfurt, WI 69308","subscribed":true}

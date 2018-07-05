@@ -1,0 +1,1 @@
+{"name":"Daniela Kassulke","email":"hyatt.raheem@gmail.com","address":"1304 Sanford Crossroad\nSouth Lindsay, NE 91973","subscribed":true}

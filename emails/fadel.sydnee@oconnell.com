@@ -1,0 +1,1 @@
+{"name":"Kendra Rippin","email":"fadel.sydnee@oconnell.com","address":"496 Jordi Walks Apt. 171\nRennerville, MN 98975","subscribed":true}

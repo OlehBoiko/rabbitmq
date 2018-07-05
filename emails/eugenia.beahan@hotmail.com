@@ -1,0 +1,1 @@
+{"name":"Vaughn Hudson PhD","email":"eugenia.beahan@hotmail.com","address":"298 Shirley Union Suite 189\nMcKenzieton, MD 59456","subscribed":true}

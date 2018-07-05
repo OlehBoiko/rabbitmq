@@ -1,0 +1,1 @@
+{"name":"Junius Kris","email":"raul30@gmail.com","address":"6822 Boris Corners Apt. 244\nLake Seanhaven, NV 42734","subscribed":true}

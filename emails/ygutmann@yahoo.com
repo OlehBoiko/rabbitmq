@@ -1,0 +1,1 @@
+{"name":"Mrs. Rosamond Ritchie II","email":"ygutmann@yahoo.com","address":"7525 Christ Ports Suite 085\nJacksonton, IA 81460-9684","subscribed":true}

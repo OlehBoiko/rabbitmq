@@ -1,0 +1,1 @@
+{"name":"Beau Ruecker","email":"bernardo32@buckridge.org","address":"236 Magnus Cliffs Apt. 356\nLehnerberg, MN 75992-1020","subscribed":true}

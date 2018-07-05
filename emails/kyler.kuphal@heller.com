@@ -1,0 +1,1 @@
+{"name":"Prof. Isabelle Stoltenberg","email":"kyler.kuphal@heller.com","address":"29499 Wehner Mill Suite 085\nStrackeshire, MD 47260-6415","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Anibal Rempel PhD","email":"christop36@price.org","address":"14048 Lindgren Hill Apt. 279\nGianniside, DE 41139","subscribed":true}

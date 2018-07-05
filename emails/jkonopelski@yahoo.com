@@ -1,0 +1,1 @@
+{"name":"Prof. Jewel Nitzsche","email":"jkonopelski@yahoo.com","address":"9547 Wyman Port Suite 341\nLarsonview, WI 08527","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Easter Bartoletti","email":"vincent34@gmail.com","address":"636 Carson Light\nRogerland, CA 31497","subscribed":true}

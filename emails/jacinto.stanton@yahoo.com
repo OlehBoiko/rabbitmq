@@ -1,0 +1,1 @@
+{"name":"Katelin White","email":"jacinto.stanton@yahoo.com","address":"4120 Green Hills\nWest Eladio, WI 92667","subscribed":true}

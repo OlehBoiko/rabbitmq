@@ -1,0 +1,1 @@
+{"name":"Mr. Florencio Funk DDS","email":"fblick@king.com","address":"74622 Moore Lodge Suite 911\nWest Izaiah, AK 48501-0335","subscribed":true}

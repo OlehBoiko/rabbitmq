@@ -1,0 +1,1 @@
+{"name":"Prof. Columbus Vandervort II","email":"ankunding.axel@mann.com","address":"9061 Jaden Landing\nNorth Vernice, KY 73784","subscribed":true}

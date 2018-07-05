@@ -1,0 +1,1 @@
+{"name":"Emanuel Rosenbaum","email":"francisco81@littel.com","address":"75555 Jaylin Rest\nNorth Landenside, MD 99375-0357","subscribed":true}

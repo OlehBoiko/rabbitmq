@@ -1,0 +1,1 @@
+{"name":"Prof. Maida Gislason","email":"yundt.tod@rodriguez.org","address":"697 Freida Pass\nPort Mileshaven, OK 39002","subscribed":true}

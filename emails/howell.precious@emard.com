@@ -1,0 +1,1 @@
+{"name":"Wyatt Hyatt Sr.","email":"howell.precious@emard.com","address":"34523 Baylee Ridge\nShaniaview, DE 86796","subscribed":true}

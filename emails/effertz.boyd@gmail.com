@@ -1,0 +1,1 @@
+{"name":"Mr. Florian Lind DDS","email":"effertz.boyd@gmail.com","address":"2591 Wilkinson Haven Suite 478\nRusselstad, ND 65644-6505","subscribed":true}

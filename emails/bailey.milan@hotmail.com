@@ -1,0 +1,1 @@
+{"name":"Rowland Daniel Jr.","email":"bailey.milan@hotmail.com","address":"5452 Marvin Center\nLake Joany, MA 66695","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Gideon Wuckert","email":"collier.erwin@vonrueden.org","address":"6609 Willard Burgs\nDanialshire, MT 17495","subscribed":true}

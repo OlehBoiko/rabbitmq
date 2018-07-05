@@ -1,0 +1,1 @@
+{"name":"Prof. Astrid Stracke","email":"haley.marquise@collins.com","address":"335 Huels Inlet Apt. 169\nOsinskiborough, MI 34849-6993","subscribed":true}

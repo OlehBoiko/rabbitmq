@@ -1,0 +1,1 @@
+{"name":"Mr. Helmer Friesen","email":"ffay@nikolaus.com","address":"9450 Flossie Stravenue Apt. 700\nCristalburgh, IA 75907","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Mr. Adam Stoltenberg IV","email":"thompson.savion@kshlerin.com","address":"13582 Morar Mews\nLake Cayla, ME 59328","subscribed":true}

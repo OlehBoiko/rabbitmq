@@ -1,0 +1,1 @@
+{"name":"Mattie Baumbach Jr.","email":"fadel.pauline@kassulke.com","address":"1517 Collins Pine Apt. 919\nKeeblertown, AZ 52863","subscribed":true}

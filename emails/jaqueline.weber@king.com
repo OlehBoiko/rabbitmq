@@ -1,0 +1,1 @@
+{"name":"Shana Boyer I","email":"jaqueline.weber@king.com","address":"2212 Christiansen Fields\nSouth Rosella, PA 73025-2626","subscribed":true}

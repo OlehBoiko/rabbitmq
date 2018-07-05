@@ -1,0 +1,1 @@
+{"name":"Edna Bartoletti","email":"eric.spinka@yahoo.com","address":"1621 Kathryne Field\nEast Fanny, CT 25148-7690","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Dr. Darwin Schowalter","email":"mhomenick@yahoo.com","address":"4291 Langosh Inlet Suite 653\nNew Lura, KS 46182","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Dr. Leopoldo Schuppe","email":"collins.elliot@dubuque.com","address":"1474 Schneider Spring\nSouth Gregoriaville, MI 38824","subscribed":true}

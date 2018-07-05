@@ -1,0 +1,1 @@
+{"name":"Dr. Jacky Hintz MD","email":"timothy.schinner@tremblay.com","address":"898 Treutel Passage\nCollierberg, IA 26209","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Branson Pfannerstill Jr.","email":"vlang@fay.com","address":"211 Mann Throughway\nWest Elizastad, WY 29676","subscribed":true}

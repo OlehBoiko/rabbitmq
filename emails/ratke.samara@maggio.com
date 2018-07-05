@@ -1,0 +1,1 @@
+{"name":"Prof. Archibald Bartell","email":"ratke.samara@maggio.com","address":"733 Lueilwitz Viaduct Suite 778\nAlexstad, UT 94604-2467","subscribed":true}

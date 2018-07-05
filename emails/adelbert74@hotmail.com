@@ -1,0 +1,1 @@
+{"name":"Zelda Schumm","email":"adelbert74@hotmail.com","address":"1119 Schroeder Forge Apt. 965\nNew Rick, GA 20944-9210","subscribed":true}

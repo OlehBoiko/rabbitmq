@@ -1,0 +1,1 @@
+{"name":"Prof. Cletus Kshlerin","email":"chester.nienow@gmail.com","address":"64242 Beatty Summit Apt. 926\nPort Dandre, SC 89159","subscribed":true}

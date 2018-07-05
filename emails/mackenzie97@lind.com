@@ -1,0 +1,1 @@
+{"name":"Prof. Rosina Yundt","email":"mackenzie97@lind.com","address":"249 Cloyd Locks Suite 795\nNorth Elliston, GA 59536-0570","subscribed":true}

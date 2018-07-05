@@ -1,0 +1,1 @@
+{"name":"Mafalda Stracke","email":"noemy.davis@buckridge.com","address":"69117 Vernie Springs Apt. 401\nBeckerchester, SD 50538-1277","subscribed":true}

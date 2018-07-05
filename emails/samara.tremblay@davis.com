@@ -1,0 +1,1 @@
+{"name":"Jorge Kuhn","email":"samara.tremblay@davis.com","address":"16928 Wyman Mountains\nLeonelfurt, RI 33629","subscribed":true}

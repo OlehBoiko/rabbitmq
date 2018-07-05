@@ -1,0 +1,1 @@
+{"name":"Kendrick Goodwin","email":"ocremin@hotmail.com","address":"28186 Welch Shores Suite 652\nRodolfoburgh, ID 24452-8477","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Rosalyn Fay","email":"ruecker.zakary@yahoo.com","address":"6137 Wolff Canyon Suite 708\nLake Bennieside, PA 47423-6124","subscribed":true}

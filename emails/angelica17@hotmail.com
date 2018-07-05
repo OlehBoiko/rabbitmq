@@ -1,0 +1,1 @@
+{"name":"Gerald Vandervort DDS","email":"angelica17@hotmail.com","address":"326 Nitzsche Route\nWest Estefaniaton, CT 79365","subscribed":true}

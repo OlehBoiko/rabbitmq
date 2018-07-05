@@ -1,0 +1,1 @@
+{"name":"Prof. Kyler Windler III","email":"funk.holden@hotmail.com","address":"43271 Denesik Mountains Suite 292\nRickytown, LA 53871","subscribed":true}

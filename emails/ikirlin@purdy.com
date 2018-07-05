@@ -1,0 +1,1 @@
+{"name":"Rosa Ondricka","email":"ikirlin@purdy.com","address":"551 Hane Row\nBurleymouth, IL 77955","subscribed":true}

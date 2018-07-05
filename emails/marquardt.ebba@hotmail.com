@@ -1,0 +1,1 @@
+{"name":"Hubert Quigley","email":"marquardt.ebba@hotmail.com","address":"79186 Zieme Spring Apt. 275\nPfeffershire, ID 16265","subscribed":true}

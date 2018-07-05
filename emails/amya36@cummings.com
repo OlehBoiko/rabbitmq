@@ -1,0 +1,1 @@
+{"name":"Ewell Stiedemann","email":"amya36@cummings.com","address":"383 Claud Ridge Suite 302\nSouth Lindseyview, ME 09148-6677","subscribed":true}

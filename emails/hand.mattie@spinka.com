@@ -1,0 +1,1 @@
+{"name":"Prof. Shanon Jenkins V","email":"hand.mattie@spinka.com","address":"2653 Rosamond Parkways\nHaileetown, DE 74865-0615","subscribed":true}

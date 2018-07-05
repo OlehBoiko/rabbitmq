@@ -1,0 +1,1 @@
+{"name":"Gaetano Morar","email":"mkozey@lebsack.com","address":"91661 Stanton Burg\nNorth Malliemouth, NM 51117","subscribed":true}

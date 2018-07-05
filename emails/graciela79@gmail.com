@@ -1,0 +1,1 @@
+{"name":"Prof. Wallace Gorczany I","email":"graciela79@gmail.com","address":"4234 Jacobson Island\nEffertzton, VT 01532-9053","subscribed":true}

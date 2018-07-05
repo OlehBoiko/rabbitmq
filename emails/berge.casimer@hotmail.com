@@ -1,0 +1,1 @@
+{"name":"Maximo Eichmann","email":"berge.casimer@hotmail.com","address":"34606 Zita Manor Apt. 209\nWest Ardenview, MO 90631-2632","subscribed":true}

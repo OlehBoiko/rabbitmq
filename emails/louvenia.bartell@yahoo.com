@@ -1,0 +1,1 @@
+{"name":"Prof. Kaden Smitham","email":"louvenia.bartell@yahoo.com","address":"39653 Emilio Rue Suite 677\nSouth Judgeport, RI 15352-7739","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Francisca Kassulke","email":"gbotsford@powlowski.com","address":"15072 Tanner Via\nDoyleburgh, SD 75412","subscribed":true}

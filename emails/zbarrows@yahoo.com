@@ -1,0 +1,1 @@
+{"name":"Prof. Alisa Crooks","email":"zbarrows@yahoo.com","address":"2290 Benjamin Heights Apt. 921\nSouth Wilford, MA 18076","subscribed":true}

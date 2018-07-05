@@ -1,0 +1,1 @@
+{"name":"Prof. Morton Green","email":"eugenia.schinner@yahoo.com","address":"50513 Gregorio Square Suite 189\nBotsfordshire, NY 28516-5377","subscribed":true}

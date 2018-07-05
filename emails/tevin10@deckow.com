@@ -1,0 +1,1 @@
+{"name":"Prof. Chaz Jakubowski IV","email":"tevin10@deckow.com","address":"40866 Reynolds Prairie Apt. 782\nNew Jalenchester, ME 61679-5939","subscribed":true}

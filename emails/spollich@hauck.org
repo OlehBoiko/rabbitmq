@@ -1,0 +1,1 @@
+{"name":"Demarco Rowe","email":"spollich@hauck.org","address":"65719 Nader Pine\nShaniefort, NC 77312","subscribed":true}

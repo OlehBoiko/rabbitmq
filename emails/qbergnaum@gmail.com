@@ -1,0 +1,1 @@
+{"name":"Prof. Shanel Howell","email":"qbergnaum@gmail.com","address":"4646 Carole Estate Suite 914\nLoweburgh, WY 53434-1155","subscribed":true}

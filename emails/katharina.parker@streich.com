@@ -1,0 +1,1 @@
+{"name":"Nicola Schumm","email":"katharina.parker@streich.com","address":"139 Kutch Brook\nPort Jaron, RI 68494","subscribed":true}

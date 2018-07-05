@@ -1,0 +1,1 @@
+{"name":"Mrs. Alfreda Douglas","email":"shanahan.frank@gmail.com","address":"57890 Hermiston Rapid Apt. 526\nEveretthaven, MI 08594","subscribed":true}

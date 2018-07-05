@@ -1,0 +1,1 @@
+{"name":"Charlie Rodriguez II","email":"aufderhar.zachariah@yost.org","address":"971 Graham Isle Apt. 276\nNew Coltenburgh, KS 10992","subscribed":true}

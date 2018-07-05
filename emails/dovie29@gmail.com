@@ -1,0 +1,1 @@
+{"name":"Miss Elinor Rippin","email":"dovie29@gmail.com","address":"27323 Gutmann Stream Apt. 961\nKautzerfurt, CA 68221","subscribed":true}

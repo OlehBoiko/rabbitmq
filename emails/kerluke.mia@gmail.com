@@ -1,0 +1,1 @@
+{"name":"Guido Hoppe","email":"kerluke.mia@gmail.com","address":"6599 Junius Center Apt. 003\nNorth Wernerfort, VT 14874","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Amari Bayer","email":"cole38@hoeger.org","address":"48195 Abernathy Square Suite 843\nKuhlmanmouth, FL 51783-3732","subscribed":true}

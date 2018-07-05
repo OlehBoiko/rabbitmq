@@ -1,0 +1,1 @@
+{"name":"Alycia Wiegand DDS","email":"ortiz.reyes@yahoo.com","address":"987 Glennie Avenue Suite 420\nNew Victoria, KS 30033","subscribed":true}

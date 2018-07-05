@@ -1,0 +1,1 @@
+{"name":"Mack Schumm","email":"jackson.veum@hotmail.com","address":"4918 Adolf Islands Apt. 373\nNew Megane, TN 28401","subscribed":true}

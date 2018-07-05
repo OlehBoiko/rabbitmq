@@ -1,0 +1,1 @@
+{"name":"Malcolm Kling","email":"isac53@cummings.com","address":"60672 Cole Mall Apt. 955\nNew Nashfort, PA 67511","subscribed":true}

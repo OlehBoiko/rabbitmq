@@ -1,0 +1,1 @@
+{"name":"Prof. Nels Kassulke","email":"marks.kenna@pfannerstill.com","address":"7835 Daphne Brooks Apt. 344\nBeierville, DC 25184-9706","subscribed":true}

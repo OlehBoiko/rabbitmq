@@ -1,0 +1,1 @@
+{"name":"Prof. Marion Green","email":"sauer.malvina@kihn.org","address":"4806 Nitzsche Junction Suite 204\nAlexandraborough, MN 05772-0357","subscribed":true}

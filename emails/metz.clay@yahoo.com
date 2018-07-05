@@ -1,0 +1,1 @@
+{"name":"Dr. Magali Deckow IV","email":"metz.clay@yahoo.com","address":"30698 Maxine Groves Apt. 373\nFadelstad, AR 35926-8670","subscribed":true}

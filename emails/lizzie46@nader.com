@@ -1,0 +1,1 @@
+{"name":"Marielle Strosin","email":"lizzie46@nader.com","address":"68292 Brandon Summit Apt. 102\nNew Hughfurt, MN 87616-9763","subscribed":true}

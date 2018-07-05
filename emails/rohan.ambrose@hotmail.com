@@ -1,0 +1,1 @@
+{"name":"Prof. Laury Quitzon Jr.","email":"rohan.ambrose@hotmail.com","address":"303 Bernier Spring\nAlbinamouth, RI 54228","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Clyde Lakin","email":"iauer@gmail.com","address":"2046 Myles Trail Apt. 551\nSchillerhaven, CT 03265","subscribed":true}

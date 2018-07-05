@@ -1,0 +1,1 @@
+{"name":"Ralph Paucek PhD","email":"devin26@wehner.com","address":"1676 Kreiger Freeway\nLesterstad, ND 92787","subscribed":true}

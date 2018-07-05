@@ -1,0 +1,1 @@
+{"name":"Prof. Gennaro Marquardt","email":"yadira.raynor@romaguera.org","address":"2258 Heaney Shoals\nEast Caryburgh, WV 09275-9607","subscribed":true}

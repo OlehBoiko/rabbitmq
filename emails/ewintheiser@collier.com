@@ -1,0 +1,1 @@
+{"name":"Forest Kuphal","email":"ewintheiser@collier.com","address":"5197 Abbott Green Apt. 252\nBalistreritown, IA 36401-2175","subscribed":true}

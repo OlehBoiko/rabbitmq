@@ -1,0 +1,1 @@
+{"name":"Dr. Alexie Collins Jr.","email":"bstrosin@bartoletti.com","address":"190 Upton Bypass Apt. 454\nKautzerhaven, MA 18778","subscribed":true}

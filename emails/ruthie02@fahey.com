@@ -1,0 +1,1 @@
+{"name":"Alexis Mitchell PhD","email":"ruthie02@fahey.com","address":"28356 Morissette Crescent Suite 992\nCassinborough, MA 50214-9670","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Dr. Jarred Langosh","email":"gohara@hickle.com","address":"96537 Charity Summit Suite 244\nNorth Kaileyside, VT 23561-4718","subscribed":true}

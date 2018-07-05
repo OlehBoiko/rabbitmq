@@ -1,0 +1,1 @@
+{"name":"Prof. Quinten Kuphal V","email":"whowe@hotmail.com","address":"66892 Effertz Freeway Apt. 757\nNew Rose, KS 23796-9804","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Dr. William Beatty","email":"miguel.kovacek@gmail.com","address":"822 Huels Square Suite 338\nNew Cordellland, MN 71684-3614","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Frederic Kling","email":"elaina.daniel@schmitt.com","address":"220 Jast Plains\nMarvinhaven, OH 35941","subscribed":true}

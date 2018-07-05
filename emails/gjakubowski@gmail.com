@@ -1,0 +1,1 @@
+{"name":"Miss Adah Price","email":"gjakubowski@gmail.com","address":"640 Aniyah Common Suite 264\nWest Rafaelaland, CA 33254-1586","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Jordan Fritsch","email":"juston.halvorson@yahoo.com","address":"88692 Blick Tunnel Suite 753\nZulaufshire, SC 72181","subscribed":true}

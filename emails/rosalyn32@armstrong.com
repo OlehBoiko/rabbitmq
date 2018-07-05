@@ -1,0 +1,1 @@
+{"name":"Jermaine Bartell","email":"rosalyn32@armstrong.com","address":"675 Leon Rest\nOrnfort, ID 89075","subscribed":true}

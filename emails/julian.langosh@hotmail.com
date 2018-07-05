@@ -1,0 +1,1 @@
+{"name":"Prof. Haley Heidenreich Sr.","email":"julian.langosh@hotmail.com","address":"9972 Sporer Expressway Suite 482\nSkilesmouth, IA 67746","subscribed":true}

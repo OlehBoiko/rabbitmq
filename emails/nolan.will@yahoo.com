@@ -1,0 +1,1 @@
+{"name":"Prof. Ada Wyman","email":"nolan.will@yahoo.com","address":"2344 Geovanny Springs\nHackettbury, ME 37472","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Candice Breitenberg","email":"daufderhar@huels.com","address":"2198 Turcotte Street\nNew Aurorefurt, NY 26630-0940","subscribed":true}

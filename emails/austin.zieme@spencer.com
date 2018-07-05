@@ -1,0 +1,1 @@
+{"name":"Prof. Tyson Quitzon","email":"austin.zieme@spencer.com","address":"686 Faustino Manor\nPort Linnie, IN 85481-3013","subscribed":true}

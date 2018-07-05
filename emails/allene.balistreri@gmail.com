@@ -1,0 +1,1 @@
+{"name":"Prof. Reyes Cartwright II","email":"allene.balistreri@gmail.com","address":"99758 Bartell Hills Apt. 473\nSouth Mikaylastad, GA 25914-9775","subscribed":true}

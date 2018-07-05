@@ -1,0 +1,1 @@
+{"name":"Dr. Jamey Fadel Sr.","email":"vreinger@yahoo.com","address":"82538 Mosciski Hollow Suite 971\nThadview, CT 62036-8790","subscribed":true}

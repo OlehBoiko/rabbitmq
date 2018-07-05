@@ -1,0 +1,1 @@
+{"name":"Prof. Tracy Konopelski","email":"murphy.jamar@gmail.com","address":"1031 Korey Heights\nRathfurt, MS 45418","subscribed":true}

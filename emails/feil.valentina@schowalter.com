@@ -1,0 +1,1 @@
+{"name":"Jason Konopelski Sr.","email":"feil.valentina@schowalter.com","address":"987 Langosh Orchard Suite 571\nWest Richieport, OK 10239","subscribed":true}

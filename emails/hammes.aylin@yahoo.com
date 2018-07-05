@@ -1,0 +1,1 @@
+{"name":"Prof. Eliseo Ruecker","email":"hammes.aylin@yahoo.com","address":"82095 Weber Throughway\nNew Linaborough, ND 74747-1696","subscribed":true}

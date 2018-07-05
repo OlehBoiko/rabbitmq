@@ -1,0 +1,1 @@
+{"name":"Prof. Lindsey Torp","email":"bosco.milan@gmail.com","address":"7502 Edwina Mission\nEast Lutherfort, AZ 21773","subscribed":true}

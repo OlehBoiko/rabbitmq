@@ -1,0 +1,1 @@
+{"name":"Dagmar Bogan","email":"ijohns@yahoo.com","address":"3666 Griffin Well\nWhiteland, MT 51690","subscribed":true}

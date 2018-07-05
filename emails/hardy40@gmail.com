@@ -1,0 +1,1 @@
+{"name":"Dr. Frederick Kassulke PhD","email":"hardy40@gmail.com","address":"785 Jennyfer Corner Apt. 113\nEast Rosalyn, CT 86314-3374","subscribed":true}

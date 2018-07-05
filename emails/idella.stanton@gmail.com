@@ -1,0 +1,1 @@
+{"name":"Ansel Halvorson","email":"idella.stanton@gmail.com","address":"9601 Fae Port Apt. 579\nBayerfurt, SC 99848","subscribed":true}

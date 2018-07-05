@@ -1,0 +1,1 @@
+{"name":"Mrs. Frida Lesch","email":"vfriesen@williamson.com","address":"118 Clark Forges Apt. 261\nLeonardstad, VT 80266","subscribed":true}

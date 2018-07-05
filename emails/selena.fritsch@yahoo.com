@@ -1,0 +1,1 @@
+{"name":"Prof. Enoch Nikolaus","email":"selena.fritsch@yahoo.com","address":"909 Cremin Lights\nDakotatown, OK 15732","subscribed":true}

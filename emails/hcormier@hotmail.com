@@ -1,0 +1,1 @@
+{"name":"Weldon Douglas","email":"hcormier@hotmail.com","address":"724 Bartholome Knolls Suite 701\nEast Domenicofurt, OR 90003-8843","subscribed":true}

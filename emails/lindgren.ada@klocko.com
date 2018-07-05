@@ -1,0 +1,1 @@
+{"name":"Mr. Hayden Douglas Sr.","email":"lindgren.ada@klocko.com","address":"191 Cassie Mews Apt. 322\nWest Karianeburgh, DE 01455","subscribed":true}

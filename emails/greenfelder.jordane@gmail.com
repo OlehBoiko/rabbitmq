@@ -1,0 +1,1 @@
+{"name":"Prof. Brook Osinski","email":"greenfelder.jordane@gmail.com","address":"33299 Rodolfo Wells\nImmanuelton, NH 09395","subscribed":true}

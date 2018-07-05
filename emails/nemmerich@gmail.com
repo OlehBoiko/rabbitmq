@@ -1,0 +1,1 @@
+{"name":"Prof. Sandra Abernathy PhD","email":"nemmerich@gmail.com","address":"63226 Orn Ways Suite 254\nJackelineview, SD 52672","subscribed":true}

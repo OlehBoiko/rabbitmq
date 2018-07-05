@@ -1,0 +1,1 @@
+{"name":"Stanley Wiza","email":"ruthie62@gmail.com","address":"212 Garrison Islands\nNorth Ashlyshire, SD 83816","subscribed":true}

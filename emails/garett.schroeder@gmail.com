@@ -1,0 +1,1 @@
+{"name":"Haley Runte I","email":"garett.schroeder@gmail.com","address":"1884 Crooks Fork Apt. 625\nLake Della, RI 43079","subscribed":true}

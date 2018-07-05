@@ -1,0 +1,1 @@
+{"name":"Bonita Greenfelder","email":"fsatterfield@funk.com","address":"8598 Leonie Divide Apt. 537\nHudsonburgh, CO 72661","subscribed":true}

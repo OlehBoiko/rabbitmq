@@ -1,0 +1,1 @@
+{"name":"Owen Zulauf","email":"aflatley@hotmail.com","address":"5074 Kunde Plaza Apt. 342\nSandrineland, OK 34994","subscribed":true}

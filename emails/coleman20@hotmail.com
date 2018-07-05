@@ -1,0 +1,1 @@
+{"name":"Rosalind Rice","email":"coleman20@hotmail.com","address":"44546 Rubie Highway Suite 214\nDamionstad, PA 64889-2860","subscribed":true}

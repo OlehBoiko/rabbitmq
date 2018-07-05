@@ -1,0 +1,1 @@
+{"name":"Mrs. Lauretta Hand","email":"bstracke@hotmail.com","address":"4786 Brekke Fork\nBoehmport, MI 11289","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Milford Ratke Jr.","email":"jbosco@yahoo.com","address":"40219 Kuvalis Lakes Suite 634\nJessycamouth, KY 87626","subscribed":true}

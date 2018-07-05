@@ -1,0 +1,1 @@
+{"name":"Scot Yost","email":"lind.misty@kovacek.org","address":"6848 Schuster Avenue Suite 864\nJammieport, HI 05490","subscribed":true}

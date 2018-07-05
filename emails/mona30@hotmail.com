@@ -1,0 +1,1 @@
+{"name":"Prof. Bill Wisozk Jr.","email":"mona30@hotmail.com","address":"384 Jevon Run Apt. 662\nDarenfurt, NC 42221-1934","subscribed":true}

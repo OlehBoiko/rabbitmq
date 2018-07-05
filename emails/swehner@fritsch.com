@@ -1,0 +1,1 @@
+{"name":"Freddy Cole","email":"swehner@fritsch.com","address":"67893 Lesley Station\nKubmouth, IN 89355","subscribed":true}

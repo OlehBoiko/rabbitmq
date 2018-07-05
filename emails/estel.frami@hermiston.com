@@ -1,0 +1,1 @@
+{"name":"Prof. Deven Spinka","email":"estel.frami@hermiston.com","address":"7013 Fernando View\nLake Isom, ME 72169-4507","subscribed":true}

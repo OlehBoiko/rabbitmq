@@ -1,0 +1,1 @@
+{"name":"Prof. Yadira Friesen","email":"gibson.orlo@considine.org","address":"85253 Bryon Overpass Suite 209\nEast Lupe, MN 92123-5277","subscribed":true}

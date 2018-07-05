@@ -1,0 +1,1 @@
+{"name":"Miss Madisyn Bogan","email":"clehner@medhurst.com","address":"1875 Nienow Track Apt. 794\nNew Watsonview, WV 49282-2698","subscribed":true}

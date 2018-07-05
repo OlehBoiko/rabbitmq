@@ -1,0 +1,1 @@
+{"name":"Valentin Barrows","email":"skrajcik@schiller.org","address":"869 Wallace Unions\nJohnniemouth, KS 65392","subscribed":true}

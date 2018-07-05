@@ -1,0 +1,1 @@
+{"name":"Magdalena Zboncak PhD","email":"heller.athena@thompson.com","address":"9042 Maegan Common\nKutchtown, CT 53930","subscribed":true}

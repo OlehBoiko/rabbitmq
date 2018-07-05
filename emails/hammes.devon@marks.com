@@ -1,0 +1,1 @@
+{"name":"Prof. Velva Bogisich","email":"hammes.devon@marks.com","address":"6644 Bert Mountain\nVeumtown, RI 68935","subscribed":true}

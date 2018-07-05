@@ -1,0 +1,1 @@
+{"name":"Mr. Rasheed Nikolaus","email":"moen.ellen@krajcik.org","address":"626 Mayert Crossroad Suite 236\nSchuppeshire, NY 56240","subscribed":true}

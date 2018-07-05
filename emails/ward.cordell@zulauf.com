@@ -1,0 +1,1 @@
+{"name":"Mrs. Novella Bednar","email":"ward.cordell@zulauf.com","address":"603 Feest Ways\nSouth Merlinfurt, DE 85525","subscribed":true}

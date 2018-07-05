@@ -1,0 +1,1 @@
+{"name":"Prof. Demetris Cummerata PhD","email":"pbins@gmail.com","address":"68747 Audrey Throughway Suite 331\nLake Juvenal, AL 14761-1004","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Shakira Jacobs","email":"bode.kali@yahoo.com","address":"7310 Kertzmann Skyway Suite 348\nDimitrichester, FL 98457-1273","subscribed":true}

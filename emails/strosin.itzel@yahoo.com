@@ -1,0 +1,1 @@
+{"name":"Anastacio Kuhlman","email":"strosin.itzel@yahoo.com","address":"1530 Wisozk Curve Apt. 607\nSouth Shirley, TX 87644-2276","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Oma Adams","email":"shanahan.juwan@kuphal.com","address":"617 Leuschke Knolls\nStarkchester, WA 88725-0079","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Cassandra Fritsch","email":"kuhn.arne@yahoo.com","address":"709 Bradtke Field Suite 458\nLake Myah, LA 83077-5022","subscribed":true}

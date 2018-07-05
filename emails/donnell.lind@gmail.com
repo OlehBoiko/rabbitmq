@@ -1,0 +1,1 @@
+{"name":"Prof. Daron McClure","email":"donnell.lind@gmail.com","address":"7078 Lewis Rapid Suite 558\nSouth Mona, NM 33816","subscribed":true}

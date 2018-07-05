@@ -1,0 +1,1 @@
+{"name":"Prof. Maegan Oberbrunner","email":"jack.walsh@gmail.com","address":"773 Quincy Fort Suite 842\nLake Gerardshire, WA 84639-8377","subscribed":true}

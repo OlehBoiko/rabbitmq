@@ -1,0 +1,1 @@
+{"name":"Amy Witting PhD","email":"akonopelski@rice.com","address":"25732 Garett Shoal Apt. 562\nWest Chase, KS 88932","subscribed":true}

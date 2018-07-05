@@ -1,0 +1,1 @@
+{"name":"Mose Jaskolski","email":"utrantow@treutel.com","address":"654 Katrina Groves Suite 275\nNew Leannton, LA 95355-7281","subscribed":true}

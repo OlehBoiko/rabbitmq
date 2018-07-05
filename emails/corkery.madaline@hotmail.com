@@ -1,0 +1,1 @@
+{"name":"Art Jenkins","email":"corkery.madaline@hotmail.com","address":"10624 Kassandra Stream\nAubreefort, MT 92601","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Mrs. Golda Frami I","email":"beaulah.larkin@hotmail.com","address":"8487 Ilene Locks Apt. 297\nClarabelleport, MN 31279","subscribed":true}

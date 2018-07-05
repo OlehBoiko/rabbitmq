@@ -1,0 +1,1 @@
+{"name":"Judy Schmitt PhD","email":"fhowe@hotmail.com","address":"530 Schimmel Dale\nNorth Letha, AR 12252-5951","subscribed":true}

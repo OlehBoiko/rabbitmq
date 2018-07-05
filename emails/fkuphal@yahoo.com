@@ -1,0 +1,1 @@
+{"name":"Dr. Douglas Witting II","email":"fkuphal@yahoo.com","address":"53653 Dickens Springs Suite 981\nCronaborough, GA 18085-0047","subscribed":true}

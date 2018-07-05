@@ -1,0 +1,1 @@
+{"name":"Dannie Lubowitz","email":"blanda.karli@kozey.com","address":"4854 Narciso Spur\nNew Nathanael, VT 02259","subscribed":true}

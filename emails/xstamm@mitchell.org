@@ -1,0 +1,1 @@
+{"name":"Catherine Langosh","email":"xstamm@mitchell.org","address":"72603 Medhurst Ranch Suite 743\nRunolfsdottirburgh, DE 31382","subscribed":true}

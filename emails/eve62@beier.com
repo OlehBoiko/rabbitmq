@@ -1,0 +1,1 @@
+{"name":"Prof. Wade Kuphal","email":"eve62@beier.com","address":"49859 Bogisich Canyon Suite 986\nEast Larueshire, ND 71247-1026","subscribed":true}

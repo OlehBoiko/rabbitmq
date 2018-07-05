@@ -1,0 +1,1 @@
+{"name":"Nova Torphy III","email":"huels.evert@gmail.com","address":"3557 Wanda Row\nEddshire, OK 81590","subscribed":true}

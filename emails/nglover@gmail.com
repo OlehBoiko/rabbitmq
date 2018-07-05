@@ -1,0 +1,1 @@
+{"name":"Chadd Quigley","email":"nglover@gmail.com","address":"331 Cole Wall Suite 075\nDavidview, RI 34330","subscribed":true}

@@ -1,0 +1,1 @@
+{"name":"Prof. Derek Veum","email":"pollich.athena@farrell.com","address":"31838 Alejandra Cove\nEast Howellville, IL 26746","subscribed":true}
