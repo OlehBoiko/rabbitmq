@@ -1,1 +1,0 @@
-{"name":"Candice Schowalter","email":"wehner.cyril@yahoo.com","address":"78117 Monique Forges Suite 269\nSouth Hanna, MT 57708","subscribed":true}

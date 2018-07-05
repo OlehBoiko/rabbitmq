@@ -1,1 +1,0 @@
-{"name":"Weldon Shanahan PhD","email":"braun.dan@gmail.com","address":"7468 London Gateway Suite 254\nWolffbury, KS 46771-0636","subscribed":true}

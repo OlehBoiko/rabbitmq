@@ -1,1 +1,0 @@
-{"name":"Dorris Zemlak PhD","email":"mspencer@gmail.com","address":"8526 O'Connell Corners\nRaquelshire, KS 14429","subscribed":true}

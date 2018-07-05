@@ -1,1 +1,0 @@
-{"name":"Mr. Broderick Auer","email":"walter.bartell@stokes.com","address":"42242 Salvador Garden Apt. 256\nMarksville, ME 29296","subscribed":true}

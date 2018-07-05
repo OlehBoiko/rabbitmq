@@ -1,1 +1,0 @@
-{"name":"Prof. Zoila Reilly V","email":"jacobson.jess@gmail.com","address":"22254 Aimee Cape Suite 480\nLeannonfurt, VA 55411","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Shanel Schaefer","email":"mueller.marjolaine@gmail.com","address":"5695 Johns Way\nNew Alfreda, VT 23236-5208","subscribed":true}

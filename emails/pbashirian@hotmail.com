@@ -1,1 +1,0 @@
-{"name":"Prof. Earnest Wisozk Sr.","email":"pbashirian@hotmail.com","address":"6743 Wunsch Orchard\nBertaberg, TX 69699","subscribed":true}

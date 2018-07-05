@@ -1,1 +1,0 @@
-{"name":"Prof. Alfredo Krajcik I","email":"kitty.aufderhar@hotmail.com","address":"3732 Justice Stream\nWelchtown, HI 24271","subscribed":true}

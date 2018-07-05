@@ -1,1 +1,0 @@
-{"name":"Vita Gerhold","email":"alessia30@yahoo.com","address":"79488 Ward Unions Apt. 067\nPort Taniafort, MI 28728","subscribed":true}

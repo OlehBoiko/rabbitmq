@@ -1,1 +1,0 @@
-{"name":"Pascale Feeney DDS","email":"zwolff@treutel.com","address":"33393 D'Amore Inlet\nNorth Herminashire, TN 79560","subscribed":true}

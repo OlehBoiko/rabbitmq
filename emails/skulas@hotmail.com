@@ -1,1 +1,0 @@
-{"name":"Jaquan Nicolas PhD","email":"skulas@hotmail.com","address":"559 Bradtke View\nNorth Darlenefort, NE 43666","subscribed":true}

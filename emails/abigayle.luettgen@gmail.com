@@ -1,1 +1,0 @@
-{"name":"Timothy Konopelski","email":"abigayle.luettgen@gmail.com","address":"57040 Hermiston Turnpike Suite 074\nEthelynberg, GA 23343-3972","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Devin Borer","email":"ratke.alessia@gmail.com","address":"796 Ankunding Lane\nWillmouth, NM 84189","subscribed":true}

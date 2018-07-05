@@ -1,1 +1,0 @@
-{"name":"Prof. Yasmeen Gorczany","email":"torp.zaria@hoppe.com","address":"272 Christop Circle\nWest Chazbury, MI 40008-0044","subscribed":true}

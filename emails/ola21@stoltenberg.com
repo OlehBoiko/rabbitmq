@@ -1,1 +1,0 @@
-{"name":"Vada Schmidt","email":"ola21@stoltenberg.com","address":"18447 Bruen Rue Suite 923\nNorth Pearlie, MA 32910-5249","subscribed":true}

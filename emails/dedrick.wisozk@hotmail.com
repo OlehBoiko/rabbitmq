@@ -1,1 +1,0 @@
-{"name":"Giovanna Satterfield","email":"dedrick.wisozk@hotmail.com","address":"18896 Sanford Village Apt. 242\nMaeside, CO 45309","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Aurelia Kling","email":"polly04@bednar.org","address":"2633 Annette Isle Apt. 723\nVonRuedenberg, SC 83984-7652","subscribed":true}

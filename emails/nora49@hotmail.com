@@ -1,1 +1,0 @@
-{"name":"Sherwood Jacobson PhD","email":"nora49@hotmail.com","address":"1016 McDermott Field Apt. 806\nNew Lonnie, SD 45805","subscribed":true}

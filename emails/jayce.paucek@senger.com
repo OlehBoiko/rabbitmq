@@ -1,1 +1,0 @@
-{"name":"Prof. Jovanny Maggio","email":"jayce.paucek@senger.com","address":"69361 Konopelski Lodge Suite 832\nSouth Anita, WY 98351-7209","subscribed":true}

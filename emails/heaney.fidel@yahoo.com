@@ -1,1 +1,0 @@
-{"name":"Dr. Hans Schulist","email":"heaney.fidel@yahoo.com","address":"4670 Langworth Cove\nJoycemouth, MO 05388","subscribed":true}

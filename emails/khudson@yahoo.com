@@ -1,1 +1,0 @@
-{"name":"Ms. Shyann Rempel","email":"khudson@yahoo.com","address":"1130 O'Reilly Rapid\nWest Rashawnland, MI 08134","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Josiane Kozey","email":"ivon@hackett.com","address":"5448 Jacobi Underpass Suite 541\nStiedemannborough, MI 77868","subscribed":true}

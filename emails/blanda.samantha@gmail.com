@@ -1,1 +1,0 @@
-{"name":"Jerald Hintz","email":"blanda.samantha@gmail.com","address":"73799 Gottlieb Haven Suite 129\nLangtown, KY 93303","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Dangelo Carter I","email":"bartholome.jakubowski@gmail.com","address":"119 Veronica Islands Apt. 320\nMyrlland, DE 84156-1057","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Beaulah Schumm","email":"hilll.horace@yahoo.com","address":"6703 Jakayla Knoll Apt. 513\nNorth Webster, WV 56681","subscribed":true}

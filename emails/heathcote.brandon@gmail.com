@@ -1,1 +1,0 @@
-{"name":"Kale Kemmer","email":"heathcote.brandon@gmail.com","address":"575 Schowalter Rapids\nNorth Lauryn, NY 05984-3311","subscribed":true}

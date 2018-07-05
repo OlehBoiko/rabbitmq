@@ -1,1 +1,0 @@
-{"name":"Ms. Lucie Shields DVM","email":"tfarrell@connelly.com","address":"728 Janet Mill\nPort Shawn, HI 56038-9159","subscribed":true}

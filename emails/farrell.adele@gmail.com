@@ -1,1 +1,0 @@
-{"name":"Mr. Emery White","email":"farrell.adele@gmail.com","address":"1218 Sawayn Rest Apt. 545\nSusanborough, ME 01372","subscribed":true}

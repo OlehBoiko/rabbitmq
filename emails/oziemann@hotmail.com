@@ -1,1 +1,0 @@
-{"name":"Lulu Bradtke DVM","email":"oziemann@hotmail.com","address":"197 Mann Passage\nWest Sadie, ND 83995","subscribed":true}

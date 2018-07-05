@@ -1,1 +1,0 @@
-{"name":"Mr. Fredrick Ondricka","email":"henriette.effertz@bechtelar.com","address":"2230 Robb Shore\nNorth Jamal, AR 38527-5623","subscribed":true}

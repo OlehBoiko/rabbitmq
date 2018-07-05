@@ -1,1 +1,0 @@
-{"name":"Karley Moore DVM","email":"deon23@nolan.com","address":"2232 Heller Place Apt. 720\nLillystad, WY 64905-8749","subscribed":true}

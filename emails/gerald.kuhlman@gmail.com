@@ -1,1 +1,0 @@
-{"name":"Prof. Fred Keebler Sr.","email":"gerald.kuhlman@gmail.com","address":"61736 Gleichner Run\nCollierburgh, VT 02075","subscribed":true}

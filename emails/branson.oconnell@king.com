@@ -1,1 +1,0 @@
-{"name":"Arthur Macejkovic","email":"branson.oconnell@king.com","address":"8299 Yazmin Lodge Suite 959\nNew Jeffryport, UT 22259-4091","subscribed":true}

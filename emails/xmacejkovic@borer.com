@@ -1,1 +1,0 @@
-{"name":"Prof. Johnathan Larson","email":"xmacejkovic@borer.com","address":"51003 Mayert Greens Suite 138\nHuelsstad, ND 60700-4123","subscribed":true}

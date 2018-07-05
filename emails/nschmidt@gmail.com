@@ -1,1 +1,0 @@
-{"name":"Mr. David Volkman","email":"nschmidt@gmail.com","address":"774 Arvilla Way Suite 458\nSchummstad, SC 64298","subscribed":true}

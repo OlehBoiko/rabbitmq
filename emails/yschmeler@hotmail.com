@@ -1,1 +1,0 @@
-{"name":"Dale West","email":"yschmeler@hotmail.com","address":"48595 Mosciski Station\nNew Gerardshire, MD 13440","subscribed":true}

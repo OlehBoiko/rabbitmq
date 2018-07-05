@@ -1,1 +1,0 @@
-{"name":"Roma Mante","email":"larson.veda@lang.com","address":"18102 Mckenna Trail Suite 258\nMaximilliaville, VT 95197","subscribed":true}

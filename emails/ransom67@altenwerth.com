@@ -1,1 +1,0 @@
-{"name":"Prof. Terry Emmerich","email":"ransom67@altenwerth.com","address":"67343 Jordane Junctions\nMaximoview, MA 47730","subscribed":true}

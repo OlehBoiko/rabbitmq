@@ -1,1 +1,0 @@
-{"name":"Nayeli Bernhard","email":"boehm.daphnee@hotmail.com","address":"102 Anderson Fort\nJuliaburgh, AK 58319","subscribed":true}

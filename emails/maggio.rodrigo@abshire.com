@@ -1,1 +1,0 @@
-{"name":"Joseph Ortiz","email":"maggio.rodrigo@abshire.com","address":"14656 Goyette Rapids Suite 450\nSouth Stefan, LA 87449","subscribed":true}

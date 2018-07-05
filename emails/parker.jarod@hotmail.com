@@ -1,1 +1,0 @@
-{"name":"Boyd Blanda Sr.","email":"parker.jarod@hotmail.com","address":"47350 Wolff Ridges Suite 116\nEast Fatimaburgh, DC 82023-3122","subscribed":true}

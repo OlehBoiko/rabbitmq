@@ -1,1 +1,0 @@
-{"name":"Prof. Pierre Satterfield IV","email":"oran78@krajcik.com","address":"7046 Libbie Land\nAlannaberg, IL 70569","subscribed":true}

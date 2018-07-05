@@ -1,1 +1,0 @@
-{"name":"Prof. Jamir Batz PhD","email":"caleb58@yahoo.com","address":"903 Madison Highway Suite 571\nDelmerchester, LA 40104-2261","subscribed":true}

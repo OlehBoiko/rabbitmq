@@ -1,1 +1,0 @@
-{"name":"Chasity Effertz","email":"wwindler@gmail.com","address":"1361 Gislason Orchard Apt. 617\nPurdyview, MN 11087-3338","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Adela Kulas","email":"ottis.brakus@gmail.com","address":"24361 April Curve\nPattiefurt, ID 70413","subscribed":true}

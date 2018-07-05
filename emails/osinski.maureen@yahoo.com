@@ -1,1 +1,0 @@
-{"name":"Santos Goyette","email":"osinski.maureen@yahoo.com","address":"617 Bethel Harbor\nPort Erikfort, NV 27724","subscribed":true}

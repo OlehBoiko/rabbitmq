@@ -1,1 +1,0 @@
-{"name":"Kathryne Maggio","email":"huel.quinn@aufderhar.com","address":"3740 Chesley Fall Apt. 726\nNew Delbert, WI 63231","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ola Legros","email":"elta.schumm@gmail.com","address":"44002 Maverick Squares Apt. 952\nWest Lila, MN 12014","subscribed":true}

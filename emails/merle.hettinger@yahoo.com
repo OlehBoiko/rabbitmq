@@ -1,1 +1,0 @@
-{"name":"Jordi Adams","email":"merle.hettinger@yahoo.com","address":"5153 Rosa Grove\nPort Camillaville, WY 07102-9632","subscribed":true}

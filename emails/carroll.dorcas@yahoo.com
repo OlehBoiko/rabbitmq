@@ -1,1 +1,0 @@
-{"name":"Virgie West","email":"carroll.dorcas@yahoo.com","address":"526 Jacobi Groves Apt. 145\nFritschbury, WV 48067-0329","subscribed":true}

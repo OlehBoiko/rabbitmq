@@ -1,1 +1,0 @@
-{"name":"Amely Stokes","email":"jschmidt@bartell.com","address":"58792 Kutch Port Apt. 362\nNew Edahaven, RI 06312-4911","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Clemens Carter","email":"ymacejkovic@gmail.com","address":"76791 Altenwerth Plaza\nPort Pasquale, CT 96127","subscribed":true}

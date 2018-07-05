@@ -1,1 +1,0 @@
-{"name":"Cristobal Yundt","email":"arnulfo.kozey@mraz.com","address":"4293 Juanita Trace Suite 527\nRunolfsdottirton, NY 41296","subscribed":true}

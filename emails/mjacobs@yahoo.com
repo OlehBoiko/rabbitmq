@@ -1,1 +1,0 @@
-{"name":"Thaddeus Ankunding","email":"mjacobs@yahoo.com","address":"145 Maia Canyon\nStephaniechester, ME 58355","subscribed":true}

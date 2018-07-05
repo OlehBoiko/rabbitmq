@@ -1,1 +1,0 @@
-{"name":"Simeon Kub Sr.","email":"brittany51@gmail.com","address":"5824 Zechariah Loop\nD'Amoretown, UT 83563","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Giles Rodriguez","email":"prosacco.alexanne@gmail.com","address":"493 Eudora Mountain Suite 858\nNew Lauryn, MN 96496","subscribed":true}

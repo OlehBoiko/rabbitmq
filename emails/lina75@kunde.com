@@ -1,1 +1,0 @@
-{"name":"Prof. Adrianna Wilkinson","email":"lina75@kunde.com","address":"3931 Hansen Ranch\nReneburgh, IA 69580","subscribed":true}

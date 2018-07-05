@@ -1,1 +1,0 @@
-{"name":"Mrs. Isabel Bailey","email":"kenna92@kuphal.com","address":"52935 Rohan Neck\nKrajcikstad, NE 76710","subscribed":true}

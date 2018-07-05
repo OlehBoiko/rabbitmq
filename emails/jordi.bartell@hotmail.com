@@ -1,1 +1,0 @@
-{"name":"Dr. Unique Kris","email":"jordi.bartell@hotmail.com","address":"7950 Grant Circle Suite 658\nEast Sallietown, OK 69437","subscribed":true}

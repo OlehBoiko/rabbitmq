@@ -1,1 +1,0 @@
-{"name":"Dr. Verona Altenwerth II","email":"allen.casper@hotmail.com","address":"86396 Torphy Pass Apt. 350\nJacobstown, IA 42028-8277","subscribed":true}

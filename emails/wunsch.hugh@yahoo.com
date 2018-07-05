@@ -1,1 +1,0 @@
-{"name":"Macie Beatty PhD","email":"wunsch.hugh@yahoo.com","address":"148 Reynolds Valleys\nLake Bryonstad, MD 67360","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Genesis McGlynn","email":"janice71@hotmail.com","address":"8515 Kohler Alley\nEast Alfurt, OK 28543","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Kim Blanda MD","email":"randal03@gmail.com","address":"823 Filomena Springs Suite 374\nPort Gage, LA 36907-4073","subscribed":true}

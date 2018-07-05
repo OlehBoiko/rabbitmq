@@ -1,1 +1,0 @@
-{"name":"Prof. Prudence Kunde V","email":"mable91@yahoo.com","address":"15434 Konopelski Drive Suite 673\nBeattyside, OH 84312","subscribed":true}

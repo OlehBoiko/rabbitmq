@@ -1,1 +1,0 @@
-{"name":"Kennedy Nienow DVM","email":"marlee.adams@yahoo.com","address":"53901 Fred Canyon\nTerrellmouth, CA 23696","subscribed":true}

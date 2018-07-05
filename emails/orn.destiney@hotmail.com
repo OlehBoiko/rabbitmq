@@ -1,1 +1,0 @@
-{"name":"Prof. Abigale Schuster","email":"orn.destiney@hotmail.com","address":"8144 Legros Crossroad Apt. 587\nKubhaven, NM 47169-4516","subscribed":true}

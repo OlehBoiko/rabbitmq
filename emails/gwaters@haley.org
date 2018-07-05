@@ -1,1 +1,0 @@
-{"name":"Juliana Ritchie","email":"gwaters@haley.org","address":"684 Taya Estates\nKundeland, WA 42083","subscribed":true}

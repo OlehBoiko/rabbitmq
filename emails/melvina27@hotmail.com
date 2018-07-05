@@ -1,1 +1,0 @@
-{"name":"Dr. Allen Flatley PhD","email":"melvina27@hotmail.com","address":"62815 Antonina Stream\nBarrowsmouth, GA 15231","subscribed":true}

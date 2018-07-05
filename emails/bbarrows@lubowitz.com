@@ -1,1 +1,0 @@
-{"name":"Barry Kunze","email":"bbarrows@lubowitz.com","address":"32177 Kutch Drive\nDouglasmouth, RI 46244","subscribed":true}

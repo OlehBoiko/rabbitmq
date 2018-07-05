@@ -1,1 +1,0 @@
-{"name":"Ms. Pat Wyman PhD","email":"mckenzie.hoyt@hotmail.com","address":"2682 Elnora Ways\nNew Devyn, OK 16103","subscribed":true}

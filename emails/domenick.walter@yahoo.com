@@ -1,1 +1,0 @@
-{"name":"Nathanael Hartmann","email":"domenick.walter@yahoo.com","address":"157 Deshaun Estate Suite 774\nAshtonberg, CO 39310","subscribed":true}

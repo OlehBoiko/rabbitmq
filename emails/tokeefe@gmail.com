@@ -1,1 +1,0 @@
-{"name":"Parker Metz DDS","email":"tokeefe@gmail.com","address":"833 Armstrong Ville\nNorth Violette, OR 98422-0336","subscribed":true}

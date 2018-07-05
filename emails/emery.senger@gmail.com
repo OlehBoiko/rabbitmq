@@ -1,1 +1,0 @@
-{"name":"Mr. Kip Weissnat","email":"emery.senger@gmail.com","address":"8542 Leffler Inlet\nWest Judson, TX 08656","subscribed":true}

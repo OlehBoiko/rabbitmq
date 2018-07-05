@@ -1,1 +1,0 @@
-{"name":"Jarrell Hirthe Jr.","email":"stanton47@hotmail.com","address":"1745 Bernhard Plains Apt. 941\nPort Stantonmouth, SD 00394-3700","subscribed":true}

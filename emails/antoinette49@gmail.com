@@ -1,1 +1,0 @@
-{"name":"Nicholas Stroman Jr.","email":"antoinette49@gmail.com","address":"99366 Powlowski Forge\nPietrostad, SC 93360-1688","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Bridie Hackett","email":"bernardo.weissnat@lubowitz.com","address":"465 Von Roads Suite 983\nNorth Fritzberg, RI 16767","subscribed":true}

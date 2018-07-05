@@ -1,1 +1,0 @@
-{"name":"Lemuel Kuphal","email":"aurelia48@gmail.com","address":"2206 Lorna Streets Apt. 096\nSouth Westleyborough, MI 70479","subscribed":true}

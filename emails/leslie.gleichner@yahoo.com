@@ -1,1 +1,0 @@
-{"name":"Arthur Senger DDS","email":"leslie.gleichner@yahoo.com","address":"331 Kerluke Isle Apt. 715\nHauckland, UT 31965","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Miss Lydia Waelchi Jr.","email":"katharina48@ziemann.com","address":"80833 Schuppe Parkways\nKristyfort, NM 15253","subscribed":true}

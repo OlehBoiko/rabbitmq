@@ -1,1 +1,0 @@
-{"name":"Freeda Lubowitz DDS","email":"jast.lavern@stokes.com","address":"12753 Beahan Ramp\nHelmerview, PA 96082","subscribed":true}

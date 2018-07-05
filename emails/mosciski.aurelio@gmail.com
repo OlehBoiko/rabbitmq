@@ -1,1 +1,0 @@
-{"name":"Francis Batz","email":"mosciski.aurelio@gmail.com","address":"195 Peyton Lane Apt. 759\nTorphystad, OK 82558","subscribed":true}

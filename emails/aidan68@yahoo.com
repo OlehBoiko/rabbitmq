@@ -1,1 +1,0 @@
-{"name":"Chad Krajcik DDS","email":"aidan68@yahoo.com","address":"212 Willa Square Apt. 911\nLake Taraberg, CT 77453","subscribed":true}

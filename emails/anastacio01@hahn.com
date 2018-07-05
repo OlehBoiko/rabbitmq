@@ -1,1 +1,0 @@
-{"name":"Prof. Skylar Torp","email":"anastacio01@hahn.com","address":"715 Anika Harbor Suite 437\nNew Alvisberg, CT 95110-5140","subscribed":true}

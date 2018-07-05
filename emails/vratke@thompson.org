@@ -1,1 +1,0 @@
-{"name":"Jacynthe Runolfsson","email":"vratke@thompson.org","address":"87422 Daugherty Path\nLake Nikko, MO 36750","subscribed":true}

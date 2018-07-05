@@ -1,1 +1,0 @@
-{"name":"Dale Daniel","email":"schinner.lindsey@schinner.com","address":"3196 Kamron Grove\nWest Carleton, TX 20838-2763","subscribed":true}

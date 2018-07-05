@@ -1,1 +1,0 @@
-{"name":"Prof. Noah D'Amore","email":"kobe.becker@stroman.com","address":"108 Schroeder Crest\nRennerside, CA 45997","subscribed":true}

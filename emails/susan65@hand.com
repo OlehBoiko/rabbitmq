@@ -1,1 +1,0 @@
-{"name":"Prof. Jacinthe Kovacek Sr.","email":"susan65@hand.com","address":"60582 Buckridge Mission Suite 410\nBethshire, WY 47496","subscribed":true}

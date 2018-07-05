@@ -1,1 +1,0 @@
-{"name":"Dr. Thurman Herman","email":"tate.veum@yahoo.com","address":"81916 Jany Freeway Suite 910\nNew Kaciside, LA 72897","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Dino Sporer PhD","email":"mossie15@schroeder.com","address":"91493 Orland Circles Suite 632\nNorth Pablotown, AZ 35252","subscribed":true}

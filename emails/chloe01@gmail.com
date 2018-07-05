@@ -1,1 +1,0 @@
-{"name":"Izaiah Huels","email":"chloe01@gmail.com","address":"2415 Hartmann Crossroad\nDorrisburgh, CO 28718","subscribed":true}

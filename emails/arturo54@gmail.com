@@ -1,1 +1,0 @@
-{"name":"Prof. Garth Wuckert PhD","email":"arturo54@gmail.com","address":"903 Rowe Corners\nSouth Herminiatown, WI 13734-6518","subscribed":true}

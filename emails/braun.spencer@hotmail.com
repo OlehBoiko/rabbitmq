@@ -1,1 +1,0 @@
-{"name":"Prof. Conor Bruen","email":"braun.spencer@hotmail.com","address":"4954 Dicki Avenue\nMurraystad, GA 77788-8887","subscribed":true}

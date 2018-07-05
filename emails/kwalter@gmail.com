@@ -1,1 +1,0 @@
-{"name":"Prof. Aisha Runolfsson V","email":"kwalter@gmail.com","address":"95908 Jocelyn Crest\nNorth Warren, RI 94434-8754","subscribed":true}

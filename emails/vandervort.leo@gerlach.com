@@ -1,1 +1,0 @@
-{"name":"Dominic Streich PhD","email":"vandervort.leo@gerlach.com","address":"627 Harold Gateway\nPort Lennafurt, OK 86415","subscribed":true}

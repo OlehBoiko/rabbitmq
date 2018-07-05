@@ -1,1 +1,0 @@
-{"name":"Mr. Granville Mante","email":"vprosacco@wisozk.com","address":"745 Leilani Manors\nMcGlynnmouth, CA 69118","subscribed":true}

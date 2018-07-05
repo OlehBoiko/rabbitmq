@@ -1,1 +1,0 @@
-{"name":"Prof. Allan West III","email":"wcorkery@gmail.com","address":"70121 Berge Run Apt. 975\nAbernathyville, WY 69001","subscribed":true}

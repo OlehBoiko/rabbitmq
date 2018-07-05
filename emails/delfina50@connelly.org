@@ -1,1 +1,0 @@
-{"name":"Prof. Modesto Beatty I","email":"delfina50@connelly.org","address":"29375 Eliezer Drives Apt. 952\nPhoebeshire, AK 46882-0260","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Lindsay Denesik","email":"darrel.treutel@hotmail.com","address":"37192 Corkery Villages Suite 425\nShanahanfort, CO 65254","subscribed":true}

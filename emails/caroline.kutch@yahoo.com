@@ -1,1 +1,0 @@
-{"name":"Dr. Fanny Mayer","email":"caroline.kutch@yahoo.com","address":"982 Nitzsche Landing Suite 658\nJessystad, IL 50757-9778","subscribed":true}

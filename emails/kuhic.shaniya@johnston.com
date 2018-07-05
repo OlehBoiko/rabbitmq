@@ -1,1 +1,0 @@
-{"name":"Shany Wyman","email":"kuhic.shaniya@johnston.com","address":"799 Sipes Via Suite 850\nWest Shermanmouth, CT 02398-0010","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ms. Yazmin Mertz II","email":"tswaniawski@thiel.com","address":"232 O'Kon Route\nLake Cedrick, CA 29641","subscribed":true}

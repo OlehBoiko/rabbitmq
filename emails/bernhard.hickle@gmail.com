@@ -1,1 +1,0 @@
-{"name":"Vicente Oberbrunner","email":"bernhard.hickle@gmail.com","address":"360 Sporer Landing Suite 603\nPatienceland, DC 53588-2420","subscribed":true}

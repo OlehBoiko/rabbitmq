@@ -1,1 +1,0 @@
-{"name":"Leonard Pollich","email":"jwelch@hotmail.com","address":"6817 Eulah Mission\nHattiefort, VA 97554","subscribed":true}

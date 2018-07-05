@@ -1,1 +1,0 @@
-{"name":"Mrs. Amira Satterfield V","email":"sawayn.alyson@hotmail.com","address":"68526 Gwen Neck\nVonRuedenmouth, OR 51207","subscribed":true}

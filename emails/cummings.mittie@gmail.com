@@ -1,1 +1,0 @@
-{"name":"Trey Kautzer PhD","email":"cummings.mittie@gmail.com","address":"33545 Okuneva Junctions Apt. 805\nSouth Adonismouth, AK 33829","subscribed":true}

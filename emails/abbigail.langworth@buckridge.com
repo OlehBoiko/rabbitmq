@@ -1,1 +1,0 @@
-{"name":"Jayda Barton","email":"abbigail.langworth@buckridge.com","address":"40927 Abbott Garden Suite 402\nWest Brielle, NV 84783-0664","subscribed":true}

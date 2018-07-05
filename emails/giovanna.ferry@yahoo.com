@@ -1,1 +1,0 @@
-{"name":"Prof. Lauriane Lang","email":"giovanna.ferry@yahoo.com","address":"754 Vicenta Viaduct Apt. 350\nNew Magnusshire, SD 89603","subscribed":true}

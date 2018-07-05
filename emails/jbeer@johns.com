@@ -1,1 +1,0 @@
-{"name":"Prof. Waldo Rosenbaum IV","email":"jbeer@johns.com","address":"769 Dare Forge Apt. 146\nNorth Arashire, WI 79405","subscribed":true}

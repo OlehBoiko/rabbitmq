@@ -1,1 +1,0 @@
-{"name":"Karianne Walker PhD","email":"ycartwright@brekke.com","address":"248 Volkman Estates Suite 245\nHaaghaven, TN 04182","subscribed":true}

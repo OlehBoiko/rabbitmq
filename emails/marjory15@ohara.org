@@ -1,1 +1,0 @@
-{"name":"Prof. Alfred Bergstrom","email":"marjory15@ohara.org","address":"1129 Eric Mountains Suite 220\nLake Rodolfo, RI 61427-7820","subscribed":true}

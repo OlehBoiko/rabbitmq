@@ -1,1 +1,0 @@
-{"name":"Ismael Legros","email":"seamus81@stokes.org","address":"33463 Marquardt Hill\nRachellemouth, AK 08690-9305","subscribed":true}

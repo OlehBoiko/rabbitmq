@@ -1,1 +1,0 @@
-{"name":"Morris Flatley DDS","email":"hiram85@gmail.com","address":"3533 Meghan Pass\nLake Lisamouth, GA 33355","subscribed":true}

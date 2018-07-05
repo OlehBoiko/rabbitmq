@@ -1,1 +1,0 @@
-{"name":"Ms. Rosie Stamm","email":"lindsay43@ferry.com","address":"386 Elaina Spur\nJastshire, TX 08090","subscribed":true}

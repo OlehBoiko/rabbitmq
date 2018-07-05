@@ -1,1 +1,0 @@
-{"name":"Fay Schulist","email":"jwalker@prosacco.org","address":"1462 Bell Fords\nSouth Cordia, IA 03089","subscribed":true}

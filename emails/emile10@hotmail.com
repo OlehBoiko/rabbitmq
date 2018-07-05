@@ -1,1 +1,0 @@
-{"name":"Mrs. Lizeth Kris","email":"emile10@hotmail.com","address":"1159 Rickie Passage Suite 689\nSouth Aliviabury, MA 65096","subscribed":true}

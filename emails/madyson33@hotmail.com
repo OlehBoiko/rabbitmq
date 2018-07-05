@@ -1,1 +1,0 @@
-{"name":"Dr. Stephan Schaefer","email":"madyson33@hotmail.com","address":"339 Spencer Trail Suite 772\nMacyfort, CA 25295-9430","subscribed":true}

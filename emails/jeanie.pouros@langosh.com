@@ -1,1 +1,0 @@
-{"name":"Jeanne Schroeder","email":"jeanie.pouros@langosh.com","address":"5144 Tabitha Ville Suite 596\nWolffstad, MI 93571","subscribed":true}

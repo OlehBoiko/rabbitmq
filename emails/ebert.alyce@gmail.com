@@ -1,1 +1,0 @@
-{"name":"Dr. Jonatan Durgan","email":"ebert.alyce@gmail.com","address":"989 Wiegand Drives Apt. 157\nO'Keefehaven, MN 54693-4620","subscribed":true}

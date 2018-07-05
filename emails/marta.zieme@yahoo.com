@@ -1,1 +1,0 @@
-{"name":"Regan Jakubowski","email":"marta.zieme@yahoo.com","address":"92814 Koelpin Ridge Suite 916\nJonastown, ID 51520","subscribed":true}

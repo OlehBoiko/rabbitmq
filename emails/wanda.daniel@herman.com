@@ -1,1 +1,0 @@
-{"name":"Rudolph McCullough DVM","email":"wanda.daniel@herman.com","address":"24844 Idell Rapid Apt. 955\nPort Destiny, KS 07289","subscribed":true}

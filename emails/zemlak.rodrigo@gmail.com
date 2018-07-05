@@ -1,1 +1,0 @@
-{"name":"Dr. Ashton Cormier","email":"zemlak.rodrigo@gmail.com","address":"4401 Lupe Well Suite 854\nNorth Marjolaineview, NH 71045-1721","subscribed":true}

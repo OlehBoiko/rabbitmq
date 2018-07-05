@@ -1,1 +1,0 @@
-{"name":"Dr. Coy Hegmann","email":"tkuhic@gmail.com","address":"2551 Tomas Pine\nBalistreriton, OH 88541-1478","subscribed":true}

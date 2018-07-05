@@ -1,1 +1,0 @@
-{"name":"Prof. Mallory Douglas Jr.","email":"evangeline77@yahoo.com","address":"727 Bogisich Street\nNorth Nichole, WV 63377","subscribed":true}

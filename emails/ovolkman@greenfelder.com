@@ -1,1 +1,0 @@
-{"name":"Rosalia Borer DVM","email":"ovolkman@greenfelder.com","address":"31705 Davis Street\nAmiyabury, TX 47165","subscribed":true}

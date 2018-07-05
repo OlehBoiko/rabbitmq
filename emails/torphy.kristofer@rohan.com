@@ -1,1 +1,0 @@
-{"name":"Prof. Gertrude Koch","email":"torphy.kristofer@rohan.com","address":"40571 Schamberger Centers\nMyaland, HI 02451-9086","subscribed":true}

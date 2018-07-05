@@ -1,1 +1,0 @@
-{"name":"Vickie Wiegand","email":"kemmer.gabriel@connelly.com","address":"8855 Rolfson Trail Suite 580\nSouth Dina, AR 79260","subscribed":true}

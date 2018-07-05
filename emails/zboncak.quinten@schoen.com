@@ -1,1 +1,0 @@
-{"name":"Prof. Marcel Quitzon DVM","email":"zboncak.quinten@schoen.com","address":"872 Koelpin Trace\nNew Hank, DC 44145","subscribed":true}

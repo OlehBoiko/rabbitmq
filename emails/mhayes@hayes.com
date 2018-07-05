@@ -1,1 +1,0 @@
-{"name":"Prof. Arnaldo Hintz IV","email":"mhayes@hayes.com","address":"89906 Hagenes Lake Suite 681\nDietrichshire, NH 51968-7031","subscribed":true}

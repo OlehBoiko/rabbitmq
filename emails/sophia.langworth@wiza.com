@@ -1,1 +1,0 @@
-{"name":"Maxine Bartoletti","email":"sophia.langworth@wiza.com","address":"8910 Kutch Pine\nLake Finn, OK 75978-5586","subscribed":true}

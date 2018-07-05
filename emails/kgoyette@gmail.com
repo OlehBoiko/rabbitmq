@@ -1,1 +1,0 @@
-{"name":"Alessandro Hammes","email":"kgoyette@gmail.com","address":"4093 Serenity Orchard\nWest Emilyland, AZ 05061","subscribed":true}

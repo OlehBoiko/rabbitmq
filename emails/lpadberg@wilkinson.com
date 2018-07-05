@@ -1,1 +1,0 @@
-{"name":"Izaiah Fay","email":"lpadberg@wilkinson.com","address":"541 Kilback Ranch Apt. 252\nEmiestad, WI 62285","subscribed":true}

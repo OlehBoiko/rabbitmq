@@ -1,1 +1,0 @@
-{"name":"Dr. Rosario Glover","email":"turcotte.gideon@yahoo.com","address":"3806 Madeline Station Suite 189\nBaileymouth, PA 26052","subscribed":true}

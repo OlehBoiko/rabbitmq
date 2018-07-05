@@ -1,1 +1,0 @@
-{"name":"Anais Bergnaum","email":"myriam.ziemann@gerhold.com","address":"8205 Addison Meadow\nEast Jobury, NV 74277","subscribed":true}

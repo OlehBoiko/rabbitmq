@@ -1,1 +1,0 @@
-{"name":"Miss Kali Schowalter","email":"schultz.juvenal@yahoo.com","address":"53676 Kunde Station Apt. 185\nOlenberg, VA 89774-8448","subscribed":true}

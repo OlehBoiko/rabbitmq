@@ -1,1 +1,0 @@
-{"name":"Vito Kutch","email":"msmitham@keeling.com","address":"579 Tremblay Place Suite 401\nWest Newelltown, OR 12007-0327","subscribed":true}

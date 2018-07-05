@@ -1,1 +1,0 @@
-{"name":"Dr. Bertha Legros","email":"maymie.reichel@kemmer.com","address":"7938 Suzanne Freeway Suite 016\nSouth Nina, MI 25462-8242","subscribed":true}

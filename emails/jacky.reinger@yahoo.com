@@ -1,1 +1,0 @@
-{"name":"Loyce Kuvalis","email":"jacky.reinger@yahoo.com","address":"2841 Jamarcus Field\nEast Jarvis, WY 39539-0026","subscribed":true}

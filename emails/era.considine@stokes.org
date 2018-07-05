@@ -1,1 +1,0 @@
-{"name":"Prof. Kellen Carter II","email":"era.considine@stokes.org","address":"309 Brando Village\nBarrowsfurt, WA 41609-5714","subscribed":true}

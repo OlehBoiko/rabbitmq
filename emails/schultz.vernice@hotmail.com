@@ -1,1 +1,0 @@
-{"name":"Lenny Jerde","email":"schultz.vernice@hotmail.com","address":"8570 Arthur Rest Suite 260\nChristianfurt, MD 45909","subscribed":true}

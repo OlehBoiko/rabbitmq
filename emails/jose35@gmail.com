@@ -1,1 +1,0 @@
-{"name":"Bradley Barrows","email":"jose35@gmail.com","address":"196 Kertzmann Curve Suite 177\nWest Fletaside, AR 79695","subscribed":true}

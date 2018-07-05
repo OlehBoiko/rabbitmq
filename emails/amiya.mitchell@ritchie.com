@@ -1,1 +1,0 @@
-{"name":"Adrian Powlowski","email":"amiya.mitchell@ritchie.com","address":"798 Heller Wells Suite 121\nAustynchester, KY 71281-7526","subscribed":true}

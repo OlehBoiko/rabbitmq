@@ -1,1 +1,0 @@
-{"name":"Prof. Xavier Quigley DDS","email":"jadyn73@yahoo.com","address":"63902 Marquardt Ridge\nMitchellchester, CO 47934","subscribed":true}

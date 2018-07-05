@@ -1,1 +1,0 @@
-{"name":"Alexandre Kunde III","email":"qspinka@borer.com","address":"246 Mueller Keys\nSouth Dillanfurt, DE 07710","subscribed":true}

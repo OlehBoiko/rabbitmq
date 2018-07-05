@@ -1,1 +1,0 @@
-{"name":"Prof. Vesta Schmeler","email":"taurean.cormier@hotmail.com","address":"2409 Holly Branch\nNorth Wendystad, WV 42158-0030","subscribed":true}

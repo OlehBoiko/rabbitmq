@@ -1,1 +1,0 @@
-{"name":"Dr. Name Kuphal IV","email":"kenya.rosenbaum@yahoo.com","address":"9093 Pollich Plains Suite 146\nKalebury, ME 68856","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Eulalia Langworth","email":"mkulas@schulist.com","address":"19737 Runolfsdottir Expressway\nSouth Delphia, CT 65871","subscribed":true}

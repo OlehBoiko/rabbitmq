@@ -1,1 +1,0 @@
-{"name":"Adah Hegmann MD","email":"mueller.jane@gmail.com","address":"3058 Augustus Plain Suite 828\nAbernathychester, NH 38049","subscribed":true}

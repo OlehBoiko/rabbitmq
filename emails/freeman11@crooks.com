@@ -1,1 +1,0 @@
-{"name":"Dr. Nicholas Bernier DDS","email":"freeman11@crooks.com","address":"49189 Jermey Valleys Suite 656\nPort Alysha, CT 63030-3005","subscribed":true}

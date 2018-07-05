@@ -1,1 +1,0 @@
-{"name":"Mrs. Cindy Langworth PhD","email":"lindsey.jast@rowe.com","address":"866 Al Corner Suite 477\nSouth Ophelialand, CO 00305","subscribed":true}

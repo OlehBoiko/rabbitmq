@@ -1,1 +1,0 @@
-{"name":"Prof. Delfina Quigley","email":"strosin.jada@kessler.com","address":"48823 Gaylord Corner Apt. 182\nWest Reesetown, WY 61472","subscribed":true}

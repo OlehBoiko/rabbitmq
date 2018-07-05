@@ -1,1 +1,0 @@
-{"name":"Mr. Oren Halvorson Sr.","email":"theidenreich@balistreri.com","address":"4036 Quitzon Extension\nPort Michealside, KY 41931-7014","subscribed":true}

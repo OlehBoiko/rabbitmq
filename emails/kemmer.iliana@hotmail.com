@@ -1,1 +1,0 @@
-{"name":"Prof. Zechariah Predovic","email":"kemmer.iliana@hotmail.com","address":"719 Gerda River Suite 938\nNew Myrtiebury, WI 75027-3414","subscribed":true}

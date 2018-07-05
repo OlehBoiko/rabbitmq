@@ -1,1 +1,0 @@
-{"name":"Candace Jacobson","email":"ronny58@hotmail.com","address":"7224 Runolfsson Well\nNorth Elmerstad, NV 92271-4363","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Brannon Gutkowski","email":"gleason.rosanna@koch.com","address":"77034 Braun Parkways\nLehnerborough, TN 94370","subscribed":true}

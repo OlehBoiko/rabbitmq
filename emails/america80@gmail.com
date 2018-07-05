@@ -1,1 +1,0 @@
-{"name":"Prof. Lucy DuBuque Sr.","email":"america80@gmail.com","address":"277 Bradtke Garden\nPort Aminaport, MT 01519-7309","subscribed":true}

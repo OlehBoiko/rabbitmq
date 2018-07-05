@@ -1,1 +1,0 @@
-{"name":"Oswaldo Kunze","email":"hilpert.neil@muller.com","address":"1316 Agnes Summit Apt. 615\nStrackeshire, MS 25891-9339","subscribed":true}

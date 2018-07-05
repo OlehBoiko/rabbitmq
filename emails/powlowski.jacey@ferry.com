@@ -1,1 +1,0 @@
-{"name":"Golda Cronin","email":"powlowski.jacey@ferry.com","address":"2098 Fiona Drives\nAliyabury, SD 24152-6277","subscribed":true}

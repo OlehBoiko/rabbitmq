@@ -1,1 +1,0 @@
-{"name":"Arjun Pouros","email":"amara.konopelski@gmail.com","address":"9426 McGlynn Pine\nImmanueltown, ID 61176","subscribed":true}

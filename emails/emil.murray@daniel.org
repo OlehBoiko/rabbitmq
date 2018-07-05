@@ -1,1 +1,0 @@
-{"name":"Theo Walter","email":"emil.murray@daniel.org","address":"126 Stanford Forks\nLangworthstad, WV 67909-0019","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Shayna Rutherford","email":"conor.bruen@greenholt.com","address":"29922 Eichmann Turnpike Suite 313\nLindgrentown, KS 80588-9956","subscribed":true}

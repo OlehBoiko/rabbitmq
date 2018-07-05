@@ -1,1 +1,0 @@
-{"name":"Prof. Jaleel Adams I","email":"sierra54@hotmail.com","address":"9452 Daija Shores\nEast Broderick, DE 16864-1038","subscribed":true}

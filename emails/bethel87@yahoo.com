@@ -1,1 +1,0 @@
-{"name":"Prof. Sonya Pfannerstill","email":"bethel87@yahoo.com","address":"51476 Lynch Land\nNorth Jadafort, LA 11935","subscribed":true}

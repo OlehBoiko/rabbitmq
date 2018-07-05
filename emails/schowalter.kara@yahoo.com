@@ -1,1 +1,0 @@
-{"name":"Mr. Jackson Schuppe","email":"schowalter.kara@yahoo.com","address":"367 Gibson Radial\nKuhlmanbury, IA 55091","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Vidal Bosco","email":"trudie91@gmail.com","address":"2864 Roscoe Villages\nEast Peteport, MD 79730","subscribed":true}

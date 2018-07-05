@@ -1,1 +1,0 @@
-{"name":"Prof. Darren Champlin","email":"jeffry17@damore.com","address":"226 Jaquan Trace\nPort Travis, OR 90720-4029","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Chance Weimann","email":"marie19@hotmail.com","address":"84988 Lue Pass\nCierraland, DE 88957-1526","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Erik Wuckert","email":"larson.rosemary@rippin.com","address":"618 Roger Extensions\nMargueritebury, KY 86316","subscribed":true}

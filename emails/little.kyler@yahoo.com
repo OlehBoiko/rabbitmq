@@ -1,1 +1,0 @@
-{"name":"Ms. Itzel Kshlerin","email":"little.kyler@yahoo.com","address":"1163 Stoltenberg Highway\nWest Nathaniel, MS 20911","subscribed":true}

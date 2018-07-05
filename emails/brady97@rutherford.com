@@ -1,1 +1,0 @@
-{"name":"Gilbert Bergstrom","email":"brady97@rutherford.com","address":"192 Flatley Locks\nPort Leanne, NE 77560","subscribed":true}

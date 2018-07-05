@@ -1,1 +1,0 @@
-{"name":"Dovie Kulas","email":"boyer.alexandria@hotmail.com","address":"17714 Keebler Lake Apt. 052\nDaughertyville, SD 01526-8916","subscribed":true}

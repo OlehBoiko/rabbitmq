@@ -1,1 +1,0 @@
-{"name":"Dr. Earnest O'Conner","email":"hintz.price@gleichner.org","address":"4897 Tremblay Squares Suite 633\nRevashire, CT 40135-2217","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ezra Bauch PhD","email":"mariane48@langworth.org","address":"172 Brett Parkway Suite 396\nSouth Delfina, DE 25053-5480","subscribed":true}

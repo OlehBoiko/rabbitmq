@@ -1,1 +1,0 @@
-{"name":"Shane Bergstrom","email":"cristal.yost@gmail.com","address":"8930 Bergnaum Pine\nVeumtown, IN 58107","subscribed":true}

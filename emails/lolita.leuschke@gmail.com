@@ -1,1 +1,0 @@
-{"name":"Rodrick Price V","email":"lolita.leuschke@gmail.com","address":"3954 Brittany Lock Suite 140\nWizaborough, TX 25255","subscribed":true}

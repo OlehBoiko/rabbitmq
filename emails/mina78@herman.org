@@ -1,1 +1,0 @@
-{"name":"Prof. Kirk Macejkovic MD","email":"mina78@herman.org","address":"509 Judy Ferry Apt. 283\nLake Maymouth, MD 62992-2147","subscribed":true}

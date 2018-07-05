@@ -1,1 +1,0 @@
-{"name":"Garth Kunze PhD","email":"willie92@gmail.com","address":"340 Sylvester Throughway\nWest Bethany, OR 89470-7255","subscribed":true}

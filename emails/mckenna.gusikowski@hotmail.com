@@ -1,1 +1,0 @@
-{"name":"Michele Upton","email":"mckenna.gusikowski@hotmail.com","address":"503 Emard Center\nLake Rosefort, OR 56694","subscribed":true}

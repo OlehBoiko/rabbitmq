@@ -1,1 +1,0 @@
-{"name":"Mrs. Raphaelle Sanford PhD","email":"rebekah.bechtelar@gleason.com","address":"336 Flatley Stravenue\nWest Bricehaven, TX 26368","subscribed":true}

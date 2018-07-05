@@ -1,1 +1,0 @@
-{"name":"Emiliano Baumbach","email":"lrodriguez@gmail.com","address":"54275 Nick Mountains\nNorth Rita, NC 60923","subscribed":true}

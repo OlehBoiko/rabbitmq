@@ -1,1 +1,0 @@
-{"name":"Chanelle Kunze","email":"korey.bednar@hermiston.com","address":"36066 Tillman Turnpike Suite 552\nKuhicton, NV 11559-8222","subscribed":true}

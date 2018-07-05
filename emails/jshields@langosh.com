@@ -1,1 +1,0 @@
-{"name":"Pearl Eichmann","email":"jshields@langosh.com","address":"774 Donnelly Knolls Suite 297\nSouth Magnolia, OK 80517","subscribed":true}

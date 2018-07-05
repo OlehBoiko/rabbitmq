@@ -1,1 +1,0 @@
-{"name":"Elmo Bernhard","email":"vnicolas@blick.org","address":"953 Hettinger Parkway Apt. 856\nNorth Jenniebury, SD 66976","subscribed":true}

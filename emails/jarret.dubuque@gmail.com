@@ -1,1 +1,0 @@
-{"name":"Prof. Van Purdy","email":"jarret.dubuque@gmail.com","address":"232 Hackett Stravenue\nChelseyfort, OH 95741-7775","subscribed":true}

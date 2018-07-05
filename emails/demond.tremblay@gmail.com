@@ -1,1 +1,0 @@
-{"name":"Mr. Fredy McClure PhD","email":"demond.tremblay@gmail.com","address":"84537 Loyce Roads\nAbdulfurt, FL 67148-5285","subscribed":true}

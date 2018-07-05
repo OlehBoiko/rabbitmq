@@ -1,1 +1,0 @@
-{"name":"Lisandro Jakubowski","email":"koss.marc@yahoo.com","address":"39688 Kory Underpass Suite 319\nNicolasburgh, NV 99983-9160","subscribed":true}

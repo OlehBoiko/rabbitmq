@@ -1,1 +1,0 @@
-{"name":"Adriana Funk Jr.","email":"leta.miller@block.com","address":"134 Grady Station\nAleenhaven, SD 88397","subscribed":true}

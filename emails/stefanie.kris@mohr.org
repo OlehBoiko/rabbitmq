@@ -1,1 +1,0 @@
-{"name":"Casimir Torp Sr.","email":"stefanie.kris@mohr.org","address":"817 Shanahan Fields Suite 299\nHermanmouth, AL 66680","subscribed":true}

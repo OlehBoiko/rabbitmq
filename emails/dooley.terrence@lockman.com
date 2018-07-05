@@ -1,1 +1,0 @@
-{"name":"Mr. Manuel Armstrong Sr.","email":"dooley.terrence@lockman.com","address":"29584 Brendan Plain\nNew Jermainebury, VT 17482-0688","subscribed":true}

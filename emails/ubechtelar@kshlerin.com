@@ -1,1 +1,0 @@
-{"name":"Mrs. Orie Shields DVM","email":"ubechtelar@kshlerin.com","address":"779 Eugenia Lake Suite 296\nNew Willaport, ID 62555","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Sigrid Casper","email":"kelli.kulas@hotmail.com","address":"4621 Wintheiser Trail Apt. 906\nNicolasstad, TX 45843","subscribed":true}

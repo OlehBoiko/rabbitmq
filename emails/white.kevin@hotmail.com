@@ -1,1 +1,0 @@
-{"name":"Cydney Wyman","email":"white.kevin@hotmail.com","address":"690 Madison Freeway\nJohnstonfort, FL 43446","subscribed":true}

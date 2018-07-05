@@ -1,1 +1,0 @@
-{"name":"Prof. Rosendo Gibson","email":"cmuller@hotmail.com","address":"6955 Merritt Parkway Apt. 232\nLowellfurt, FL 65511-7572","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Vita Simonis","email":"bschuster@hamill.com","address":"9934 Rempel Knolls Apt. 839\nSouth Keyonport, DE 79549-0536","subscribed":true}

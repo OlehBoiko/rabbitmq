@@ -1,1 +1,0 @@
-{"name":"Prof. Marjorie Christiansen","email":"lyda12@hotmail.com","address":"2513 Miller Trail Apt. 613\nNew Elsaton, ME 76597","subscribed":true}

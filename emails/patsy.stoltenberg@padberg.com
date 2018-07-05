@@ -1,1 +1,0 @@
-{"name":"Rosetta Muller II","email":"patsy.stoltenberg@padberg.com","address":"9981 Rodolfo Passage\nGibsonburgh, AR 51549-2124","subscribed":true}

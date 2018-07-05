@@ -1,1 +1,0 @@
-{"name":"Amaya Marquardt","email":"dominique23@hotmail.com","address":"53455 Daniel Throughway Suite 823\nSouth Ernestinaport, HI 75261","subscribed":true}

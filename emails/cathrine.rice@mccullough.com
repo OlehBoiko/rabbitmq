@@ -1,1 +1,0 @@
-{"name":"Mrs. Providenci Doyle","email":"cathrine.rice@mccullough.com","address":"9925 Leora Streets\nNorth Shannyhaven, DC 34063-7119","subscribed":true}

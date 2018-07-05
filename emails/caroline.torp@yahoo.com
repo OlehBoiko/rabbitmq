@@ -1,1 +1,0 @@
-{"name":"Prof. Avis Gaylord","email":"caroline.torp@yahoo.com","address":"72064 Thaddeus Manor\nWest Raphaelleberg, DC 42492-4261","subscribed":true}

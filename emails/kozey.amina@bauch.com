@@ -1,1 +1,0 @@
-{"name":"Lenore O'Connell V","email":"kozey.amina@bauch.com","address":"579 Hartmann Mission\nWest Amelia, MD 74149","subscribed":true}

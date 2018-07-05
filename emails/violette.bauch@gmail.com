@@ -1,1 +1,0 @@
-{"name":"Anastacio Lakin","email":"violette.bauch@gmail.com","address":"798 Lemke Crest\nMetaview, MN 07482-0520","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Adolph Stracke","email":"skiles.devante@smith.com","address":"616 Crist Flats Suite 897\nFayfurt, TX 15688","subscribed":true}

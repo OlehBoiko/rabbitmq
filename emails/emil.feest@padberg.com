@@ -1,1 +1,0 @@
-{"name":"Jakob Thompson PhD","email":"emil.feest@padberg.com","address":"241 Dickens Square Suite 949\nWest Dinoburgh, WA 10716-1120","subscribed":true}

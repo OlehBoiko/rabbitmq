@@ -1,1 +1,0 @@
-{"name":"Darron Wuckert","email":"waelchi.foster@feest.com","address":"77038 Ebert Expressway\nHortensebury, ME 54783","subscribed":true}

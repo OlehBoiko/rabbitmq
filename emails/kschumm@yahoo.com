@@ -1,1 +1,0 @@
-{"name":"Lyric Weber PhD","email":"kschumm@yahoo.com","address":"96910 Catherine Falls Suite 370\nJoshuahview, ME 65075","subscribed":true}

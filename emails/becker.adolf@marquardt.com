@@ -1,1 +1,0 @@
-{"name":"Hoyt Purdy PhD","email":"becker.adolf@marquardt.com","address":"3512 Susie Cliff Suite 034\nSigurdhaven, SD 96091-7684","subscribed":true}

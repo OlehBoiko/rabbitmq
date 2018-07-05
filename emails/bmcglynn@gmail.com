@@ -1,1 +1,0 @@
-{"name":"Sigmund Hagenes","email":"bmcglynn@gmail.com","address":"135 Gerlach Hill\nEast Norrischester, WA 31795","subscribed":true}

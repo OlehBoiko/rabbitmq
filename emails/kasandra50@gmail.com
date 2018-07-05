@@ -1,1 +1,0 @@
-{"name":"Telly Emard","email":"kasandra50@gmail.com","address":"87989 Charity Loop\nEmmymouth, OR 42063-1043","subscribed":true}

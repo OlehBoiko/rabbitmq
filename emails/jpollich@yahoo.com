@@ -1,1 +1,0 @@
-{"name":"Ted Rempel","email":"jpollich@yahoo.com","address":"706 Tressa Walks Suite 041\nSouth Duane, WI 43095-3643","subscribed":true}

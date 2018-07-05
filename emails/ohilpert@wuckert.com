@@ -1,1 +1,0 @@
-{"name":"Anjali Heathcote","email":"ohilpert@wuckert.com","address":"478 Lueilwitz Ways\nMarinaville, KS 77230","subscribed":true}

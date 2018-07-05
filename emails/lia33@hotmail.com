@@ -1,1 +1,0 @@
-{"name":"Prof. Julia Hintz","email":"lia33@hotmail.com","address":"5631 Stroman Points\nSouth River, VA 99537-2188","subscribed":true}

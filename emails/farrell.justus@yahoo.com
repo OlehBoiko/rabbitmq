@@ -1,1 +1,0 @@
-{"name":"Mac McGlynn","email":"farrell.justus@yahoo.com","address":"28008 Ziemann Plaza\nWilkinsonmouth, FL 85433","subscribed":true}

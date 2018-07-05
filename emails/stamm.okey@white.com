@@ -1,1 +1,0 @@
-{"name":"Angela Welch","email":"stamm.okey@white.com","address":"912 Vernice Turnpike Apt. 832\nLake Daisy, NC 88628-0959","subscribed":true}

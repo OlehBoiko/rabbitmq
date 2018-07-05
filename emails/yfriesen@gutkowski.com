@@ -1,1 +1,0 @@
-{"name":"Arnulfo Lakin","email":"yfriesen@gutkowski.com","address":"7320 Schmidt Drives Suite 155\nHintzhaven, GA 84873-8162","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Miss Chelsie Stamm Jr.","email":"ansel95@baumbach.com","address":"29359 Batz Lodge\nTreverstad, AL 00065-7544","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Cory Heathcote","email":"marshall.parisian@white.com","address":"2447 Freddy Corners\nCleveton, MN 32613","subscribed":true}

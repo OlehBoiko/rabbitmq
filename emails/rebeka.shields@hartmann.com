@@ -1,1 +1,0 @@
-{"name":"Everette Johnston Sr.","email":"rebeka.shields@hartmann.com","address":"205 Lemke Brook Suite 735\nNorth Autumnhaven, OR 19175","subscribed":true}

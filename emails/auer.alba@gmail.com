@@ -1,1 +1,0 @@
-{"name":"Taurean Ferry","email":"auer.alba@gmail.com","address":"3647 Karl Inlet Apt. 423\nBeckermouth, VT 76377","subscribed":true}

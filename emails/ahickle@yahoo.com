@@ -1,1 +1,0 @@
-{"name":"Dr. Emmie Lind Jr.","email":"ahickle@yahoo.com","address":"29793 Tamara Way\nSouth Alexieport, KS 01241-0630","subscribed":true}

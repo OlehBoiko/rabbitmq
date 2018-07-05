@@ -1,1 +1,0 @@
-{"name":"Eulah Satterfield DVM","email":"ostracke@hotmail.com","address":"19849 Johnston Squares Suite 795\nRunolfsdottirberg, AR 19100-9234","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Lynn Schmidt","email":"taylor.schiller@yahoo.com","address":"259 Renner Crossroad\nOlsonmouth, LA 25329","subscribed":true}

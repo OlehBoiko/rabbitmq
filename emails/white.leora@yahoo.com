@@ -1,1 +1,0 @@
-{"name":"Clovis Torp","email":"white.leora@yahoo.com","address":"8729 DuBuque Stravenue Suite 365\nKennaton, KY 77817","subscribed":true}

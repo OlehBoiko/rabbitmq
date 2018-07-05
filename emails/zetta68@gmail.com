@@ -1,1 +1,0 @@
-{"name":"Dr. Joaquin Stracke","email":"zetta68@gmail.com","address":"191 Schamberger Pike\nNew Hassan, AZ 48629","subscribed":true}

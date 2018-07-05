@@ -1,1 +1,0 @@
-{"name":"Malika Wolf","email":"kuhlman.myriam@yahoo.com","address":"99375 Oceane Terrace\nSouth Rosetta, GA 55410","subscribed":true}

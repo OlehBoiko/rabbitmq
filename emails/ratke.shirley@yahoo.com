@@ -1,1 +1,0 @@
-{"name":"Brandt Flatley","email":"ratke.shirley@yahoo.com","address":"208 Sonya Greens Apt. 496\nZemlakchester, CT 36749","subscribed":true}

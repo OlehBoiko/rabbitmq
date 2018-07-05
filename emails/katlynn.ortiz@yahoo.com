@@ -1,1 +1,0 @@
-{"name":"Prof. Jayda Stokes V","email":"katlynn.ortiz@yahoo.com","address":"570 Medhurst Skyway\nWest Bernice, NM 46694","subscribed":true}

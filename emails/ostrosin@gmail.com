@@ -1,1 +1,0 @@
-{"name":"Jaylan Lynch","email":"ostrosin@gmail.com","address":"35804 Quigley Estate\nHirthemouth, KY 11010","subscribed":true}

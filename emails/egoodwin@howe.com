@@ -1,1 +1,0 @@
-{"name":"Hazle Schulist","email":"egoodwin@howe.com","address":"781 Erdman Circle\nLake Jonatan, WI 96792","subscribed":true}

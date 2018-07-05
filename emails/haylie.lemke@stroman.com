@@ -1,1 +1,0 @@
-{"name":"Jazlyn Fay","email":"haylie.lemke@stroman.com","address":"66834 Kulas Overpass Suite 112\nLeolaport, MI 41022-5968","subscribed":true}

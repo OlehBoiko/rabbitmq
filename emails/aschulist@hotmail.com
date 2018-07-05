@@ -1,1 +1,0 @@
-{"name":"Adell Medhurst","email":"aschulist@hotmail.com","address":"162 Schimmel Drives\nPort Kitty, LA 25741-1610","subscribed":true}

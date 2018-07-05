@@ -1,1 +1,0 @@
-{"name":"Amaya McGlynn","email":"bpredovic@hotmail.com","address":"7744 Stephania Turnpike\nSouth Cortney, NY 97311-1427","subscribed":true}

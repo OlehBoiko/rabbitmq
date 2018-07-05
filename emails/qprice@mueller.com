@@ -1,1 +1,0 @@
-{"name":"Mafalda Huel","email":"qprice@mueller.com","address":"173 Kautzer Villages Apt. 096\nLake Rozella, ND 95318-2475","subscribed":true}

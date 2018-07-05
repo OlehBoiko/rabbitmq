@@ -1,1 +1,0 @@
-{"name":"Miss Daniela Fadel","email":"christian.herman@denesik.com","address":"239 Lavern View\nEast Jaedenfurt, AR 95518-3032","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Domingo Nader","email":"hudson63@hotmail.com","address":"8148 Hand Ford\nTevinberg, KY 16718-1643","subscribed":true}

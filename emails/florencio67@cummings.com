@@ -1,1 +1,0 @@
-{"name":"Ivy McClure DVM","email":"florencio67@cummings.com","address":"484 Gerhard Viaduct Apt. 243\nWatsonchester, ND 77463","subscribed":true}

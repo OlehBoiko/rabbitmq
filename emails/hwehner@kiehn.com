@@ -1,1 +1,0 @@
-{"name":"Dr. Aron Trantow DVM","email":"hwehner@kiehn.com","address":"74183 Douglas Parkway\nEast Winona, CO 63899","subscribed":true}

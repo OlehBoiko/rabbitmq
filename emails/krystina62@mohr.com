@@ -1,1 +1,0 @@
-{"name":"Mina Pacocha","email":"krystina62@mohr.com","address":"61641 Wisoky Orchard Suite 317\nPort Emma, NV 94280","subscribed":true}

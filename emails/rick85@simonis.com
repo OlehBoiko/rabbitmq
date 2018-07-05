@@ -1,1 +1,0 @@
-{"name":"Dejon Friesen","email":"rick85@simonis.com","address":"351 Sanford Greens Apt. 970\nSchusterhaven, SD 95537","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dennis Mann MD","email":"brady.lynch@gmail.com","address":"971 Orion Village Apt. 350\nNorth Timmothyburgh, DE 49216-6668","subscribed":true}

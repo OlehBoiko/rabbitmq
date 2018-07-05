@@ -1,1 +1,0 @@
-{"name":"Prof. Gaston Kuhic","email":"rosella81@gmail.com","address":"4645 Welch Inlet\nBarrettville, LA 86678","subscribed":true}

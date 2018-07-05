@@ -1,1 +1,0 @@
-{"name":"Clyde Gulgowski","email":"bednar.monserrate@hotmail.com","address":"820 King Point\nNorth Lavonne, NV 03127-6783","subscribed":true}

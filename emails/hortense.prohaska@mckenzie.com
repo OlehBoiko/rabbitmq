@@ -1,1 +1,0 @@
-{"name":"Edythe Kub","email":"hortense.prohaska@mckenzie.com","address":"62531 Pfeffer Highway Apt. 394\nNew Karelle, WA 57220","subscribed":true}

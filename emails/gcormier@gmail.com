@@ -1,1 +1,0 @@
-{"name":"Dr. Oswaldo Batz III","email":"gcormier@gmail.com","address":"130 Lindgren Circle\nNorth Raquel, DC 26901-4378","subscribed":true}

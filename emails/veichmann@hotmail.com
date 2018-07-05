@@ -1,1 +1,0 @@
-{"name":"Luciano Hettinger","email":"veichmann@hotmail.com","address":"18813 Streich Green\nAlexastad, OR 24376-6109","subscribed":true}

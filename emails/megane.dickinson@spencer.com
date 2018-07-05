@@ -1,1 +1,0 @@
-{"name":"Leora Durgan","email":"megane.dickinson@spencer.com","address":"140 Davis Summit\nCorkeryhaven, MD 74492","subscribed":true}

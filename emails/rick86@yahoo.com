@@ -1,1 +1,0 @@
-{"name":"Stuart Treutel IV","email":"rick86@yahoo.com","address":"9691 Weimann Mall\nMylesstad, ID 64521","subscribed":true}

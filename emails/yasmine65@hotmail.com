@@ -1,1 +1,0 @@
-{"name":"Mollie Pollich","email":"yasmine65@hotmail.com","address":"5997 Christina Tunnel Suite 521\nEvanburgh, GA 51507","subscribed":true}

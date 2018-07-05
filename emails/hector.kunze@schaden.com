@@ -1,1 +1,0 @@
-{"name":"Davion Kutch","email":"hector.kunze@schaden.com","address":"731 Ryder Falls Suite 698\nBartellfurt, DE 35314","subscribed":true}

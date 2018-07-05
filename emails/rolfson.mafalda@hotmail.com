@@ -1,1 +1,0 @@
-{"name":"Mrs. Katrine Raynor","email":"rolfson.mafalda@hotmail.com","address":"186 Jairo Points\nLake Jackeline, TN 42529","subscribed":true}

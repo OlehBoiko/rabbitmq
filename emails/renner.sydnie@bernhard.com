@@ -1,1 +1,0 @@
-{"name":"Sigurd Wolf Sr.","email":"renner.sydnie@bernhard.com","address":"826 Drake Prairie\nEast Dillon, MO 94741","subscribed":true}

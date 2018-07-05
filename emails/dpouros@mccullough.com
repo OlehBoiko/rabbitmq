@@ -1,1 +1,0 @@
-{"name":"Julien Lynch","email":"dpouros@mccullough.com","address":"110 Krajcik Village Suite 397\nDerickfort, VT 18729-7172","subscribed":true}

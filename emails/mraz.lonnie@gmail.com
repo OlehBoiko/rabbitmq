@@ -1,1 +1,0 @@
-{"name":"Mr. Jasper Kunze","email":"mraz.lonnie@gmail.com","address":"5318 Raynor Drive Suite 008\nNorth Alfonzoborough, ID 84206","subscribed":true}

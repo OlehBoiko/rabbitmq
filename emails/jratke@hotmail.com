@@ -1,1 +1,0 @@
-{"name":"Lauretta Fadel DVM","email":"jratke@hotmail.com","address":"3774 Mann Expressway\nWest Adela, NC 59434","subscribed":true}

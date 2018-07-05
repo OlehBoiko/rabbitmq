@@ -1,1 +1,0 @@
-{"name":"Rogelio Schroeder","email":"kautzer.kole@leuschke.org","address":"493 Moen Unions\nHowardview, ID 03009-7730","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Kyra Windler","email":"satterfield.minerva@nader.com","address":"370 Queenie Vista Apt. 028\nPort Tristonmouth, DE 53746","subscribed":true}

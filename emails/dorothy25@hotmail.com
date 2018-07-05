@@ -1,1 +1,0 @@
-{"name":"Dalton Stehr","email":"dorothy25@hotmail.com","address":"766 Lubowitz Parkway Suite 009\nVernonberg, LA 52462","subscribed":true}

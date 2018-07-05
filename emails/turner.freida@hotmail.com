@@ -1,1 +1,0 @@
-{"name":"Mr. Leland Bartell","email":"turner.freida@hotmail.com","address":"633 Price Heights Apt. 674\nEast Thadmouth, DE 44393-1592","subscribed":true}

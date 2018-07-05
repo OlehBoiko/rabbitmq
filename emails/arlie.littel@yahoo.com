@@ -1,1 +1,0 @@
-{"name":"Douglas Hamill II","email":"arlie.littel@yahoo.com","address":"2862 Cummerata Run Suite 000\nFavianhaven, MI 86857","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Cruz Hoppe III","email":"margot31@yahoo.com","address":"329 Bins Greens Apt. 669\nTamaraville, WV 80562","subscribed":true}

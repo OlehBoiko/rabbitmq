@@ -1,1 +1,0 @@
-{"name":"Dr. Bernice Heathcote","email":"dominic76@ferry.com","address":"8529 Mandy Burg Apt. 199\nFaeborough, SC 81538","subscribed":true}

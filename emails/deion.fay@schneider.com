@@ -1,1 +1,0 @@
-{"name":"Ms. Bonita Farrell","email":"deion.fay@schneider.com","address":"58160 Carter Mall Suite 956\nEast Geoffreymouth, IA 14563-7255","subscribed":true}

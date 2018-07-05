@@ -1,1 +1,0 @@
-{"name":"Thurman Schulist","email":"constantin.reinger@hotmail.com","address":"370 Krajcik Road\nJessycaport, IA 21573","subscribed":true}

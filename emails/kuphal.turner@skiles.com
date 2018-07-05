@@ -1,1 +1,0 @@
-{"name":"Gardner Dickinson","email":"kuphal.turner@skiles.com","address":"3563 Brendon Junctions\nLake Kody, VT 73493-3790","subscribed":true}

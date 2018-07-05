@@ -1,1 +1,0 @@
-{"name":"Sheldon Jenkins PhD","email":"waino.mcdermott@corkery.org","address":"296 Kovacek Parkways Suite 460\nPort Paige, HI 81823-3192","subscribed":true}

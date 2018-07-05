@@ -1,1 +1,0 @@
-{"name":"Trever Murphy","email":"emmitt.pouros@gmail.com","address":"889 D'Amore Cliffs\nWest Madisenbury, AZ 78078","subscribed":true}

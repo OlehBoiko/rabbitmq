@@ -1,1 +1,0 @@
-{"name":"Kip Wuckert IV","email":"deondre.braun@gmail.com","address":"36598 Frederique Station Suite 659\nKilbackland, ME 27139","subscribed":true}

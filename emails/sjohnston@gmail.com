@@ -1,1 +1,0 @@
-{"name":"Prof. Chase Maggio","email":"sjohnston@gmail.com","address":"6667 Ellen Burgs\nWest Arvilla, TX 54691-3389","subscribed":true}

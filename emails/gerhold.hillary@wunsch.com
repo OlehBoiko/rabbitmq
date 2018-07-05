@@ -1,1 +1,0 @@
-{"name":"Kendra Satterfield","email":"gerhold.hillary@wunsch.com","address":"17490 Destiny Bypass\nEast Noel, MN 79416","subscribed":true}

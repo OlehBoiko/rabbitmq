@@ -1,1 +1,0 @@
-{"name":"Hermann Bechtelar","email":"zoey13@hotmail.com","address":"3693 Denesik Rapid\nSouth Noemi, NE 60242-3472","subscribed":true}

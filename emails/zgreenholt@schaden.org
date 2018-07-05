@@ -1,1 +1,0 @@
-{"name":"Arthur Walker","email":"zgreenholt@schaden.org","address":"980 Maud Haven\nMcDermotthaven, MN 28080","subscribed":true}

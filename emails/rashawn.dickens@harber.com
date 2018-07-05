@@ -1,1 +1,0 @@
-{"name":"Dr. Tate Pagac MD","email":"rashawn.dickens@harber.com","address":"9132 Lehner Corner\nNoahport, OR 38686-8183","subscribed":true}

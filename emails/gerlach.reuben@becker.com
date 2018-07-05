@@ -1,1 +1,0 @@
-{"name":"Cecelia Bosco","email":"gerlach.reuben@becker.com","address":"1472 Parisian Lake Suite 076\nNorth Kolemouth, OK 80398-3636","subscribed":true}

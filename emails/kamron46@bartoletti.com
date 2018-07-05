@@ -1,1 +1,0 @@
-{"name":"Norris Ortiz","email":"kamron46@bartoletti.com","address":"36647 Chaz Parkways Suite 207\nWest Rodger, VT 10127","subscribed":true}

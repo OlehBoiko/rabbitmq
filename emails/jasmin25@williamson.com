@@ -1,1 +1,0 @@
-{"name":"Thalia Powlowski","email":"jasmin25@williamson.com","address":"26347 Brigitte Lake\nEast Reggieport, NJ 02349","subscribed":true}

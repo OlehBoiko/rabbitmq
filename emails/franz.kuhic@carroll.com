@@ -1,1 +1,0 @@
-{"name":"Dane Beatty","email":"franz.kuhic@carroll.com","address":"552 Wiegand Burgs\nWest Patience, AL 11679","subscribed":true}

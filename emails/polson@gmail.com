@@ -1,1 +1,0 @@
-{"name":"Dr. Jeramie Wisoky MD","email":"polson@gmail.com","address":"4085 Angie Pines\nParkerstad, LA 12524-5962","subscribed":true}

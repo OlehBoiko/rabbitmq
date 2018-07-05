@@ -1,1 +1,0 @@
-{"name":"Quentin Schaefer","email":"bjacobi@hotmail.com","address":"2766 Mauricio Lodge\nRudolphton, ND 43977","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Kali Deckow","email":"veda06@jakubowski.com","address":"78042 Reba Viaduct\nMarianmouth, OR 26881","subscribed":true}

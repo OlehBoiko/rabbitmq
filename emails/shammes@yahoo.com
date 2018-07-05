@@ -1,1 +1,0 @@
-{"name":"Prof. Nella Muller","email":"shammes@yahoo.com","address":"3263 Harris Path\nMcLaughlinborough, ME 66583-8007","subscribed":true}

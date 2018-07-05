@@ -1,1 +1,0 @@
-{"name":"Prof. Maxie Pacocha","email":"hillard.stanton@gmail.com","address":"126 Cleve Stravenue\nLake Juniorborough, UT 67082","subscribed":true}

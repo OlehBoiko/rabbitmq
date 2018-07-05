@@ -1,1 +1,0 @@
-{"name":"Betty Rice","email":"ricky.gleichner@gmail.com","address":"7331 Bogisich Stravenue Suite 038\nGoodwinview, AK 28312","subscribed":true}

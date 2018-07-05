@@ -1,1 +1,0 @@
-{"name":"Rebecca Langosh","email":"deontae.pouros@yahoo.com","address":"71128 Winnifred Locks\nNew Howellview, KY 80887","subscribed":true}

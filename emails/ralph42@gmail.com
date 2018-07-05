@@ -1,1 +1,0 @@
-{"name":"Durward Dare II","email":"ralph42@gmail.com","address":"35467 Schultz Manor Apt. 130\nNorth Vita, HI 25779-4627","subscribed":true}

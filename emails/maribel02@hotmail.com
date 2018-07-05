@@ -1,1 +1,0 @@
-{"name":"Maynard Leffler","email":"maribel02@hotmail.com","address":"7921 Klocko Islands Suite 025\nMaychester, KS 43045","subscribed":true}

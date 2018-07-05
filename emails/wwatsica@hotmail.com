@@ -1,1 +1,0 @@
-{"name":"Prof. Tiana Bergnaum DVM","email":"wwatsica@hotmail.com","address":"32676 McKenzie Estates Suite 346\nNew Bettye, KS 57898-4111","subscribed":true}

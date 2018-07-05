@@ -1,1 +1,0 @@
-{"name":"Frida Considine","email":"norbert.nitzsche@gmail.com","address":"99224 Mante Roads\nRicemouth, NM 02998-5734","subscribed":true}

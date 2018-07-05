@@ -1,1 +1,0 @@
-{"name":"Prof. Lauryn Hauck Jr.","email":"yadams@gmail.com","address":"2985 Jany Viaduct\nLake Myronhaven, GA 90622-6034","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Rosendo Bahringer","email":"joe.larkin@beer.com","address":"21880 Denesik Row Apt. 958\nWest Erichberg, KS 11272","subscribed":true}

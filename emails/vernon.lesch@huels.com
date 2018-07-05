@@ -1,1 +1,0 @@
-{"name":"Hallie Schoen","email":"vernon.lesch@huels.com","address":"26352 Trenton Track\nZettaside, SC 53322","subscribed":true}

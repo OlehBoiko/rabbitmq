@@ -1,1 +1,0 @@
-{"name":"Leone Mante","email":"langosh.frederique@gmail.com","address":"7028 Steve Ports Apt. 006\nAryannaburgh, MI 07768-6831","subscribed":true}

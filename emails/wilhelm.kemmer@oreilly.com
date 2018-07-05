@@ -1,1 +1,0 @@
-{"name":"Wade Boehm","email":"wilhelm.kemmer@oreilly.com","address":"2179 Altenwerth Fords Suite 654\nKalebmouth, KS 89740","subscribed":true}

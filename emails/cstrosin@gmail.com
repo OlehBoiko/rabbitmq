@@ -1,1 +1,0 @@
-{"name":"Rosario Hartmann","email":"cstrosin@gmail.com","address":"81397 Jettie Burg Apt. 335\nWiegandburgh, NV 99411-5612","subscribed":true}

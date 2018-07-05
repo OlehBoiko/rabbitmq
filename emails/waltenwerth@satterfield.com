@@ -1,1 +1,0 @@
-{"name":"Miss Helga Moore","email":"waltenwerth@satterfield.com","address":"646 Sawayn Inlet Suite 680\nBruenhaven, SD 50010","subscribed":true}

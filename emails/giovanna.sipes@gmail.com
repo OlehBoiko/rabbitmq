@@ -1,1 +1,0 @@
-{"name":"Dr. Dawn Durgan","email":"giovanna.sipes@gmail.com","address":"171 Fisher Springs\nGibsonbury, OH 49289","subscribed":true}

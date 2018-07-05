@@ -1,1 +1,0 @@
-{"name":"Prof. Adolf Tromp","email":"moen.jamel@hotmail.com","address":"711 Gabe Forge\nEdwardochester, IN 26128","subscribed":true}

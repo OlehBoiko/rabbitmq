@@ -1,1 +1,0 @@
-{"name":"Prof. Kiel Hane","email":"otha.lang@mraz.com","address":"986 Wyman Trace Suite 865\nSouth Verdieburgh, MN 92311-5629","subscribed":true}

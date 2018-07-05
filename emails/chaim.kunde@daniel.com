@@ -1,1 +1,0 @@
-{"name":"Katelyn Kihn II","email":"chaim.kunde@daniel.com","address":"101 Efren Brook\nEast Garettshire, VT 11868","subscribed":true}

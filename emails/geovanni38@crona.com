@@ -1,1 +1,0 @@
-{"name":"Mr. Brent Kuhlman II","email":"geovanni38@crona.com","address":"7193 Medhurst Land\nBeattytown, GA 15473-3526","subscribed":true}

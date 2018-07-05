@@ -1,1 +1,0 @@
-{"name":"Dr. Yvonne Rutherford MD","email":"jessica43@gmail.com","address":"217 Royce Via Apt. 770\nEast Alvafurt, OH 36793-6598","subscribed":true}

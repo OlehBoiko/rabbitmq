@@ -1,1 +1,0 @@
-{"name":"Jaida Hahn Jr.","email":"tbosco@welch.com","address":"27160 McClure Motorway Apt. 535\nKolbyton, WY 74836","subscribed":true}

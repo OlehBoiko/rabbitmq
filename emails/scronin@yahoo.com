@@ -1,1 +1,0 @@
-{"name":"Rubie Schneider","email":"scronin@yahoo.com","address":"570 Candida Locks Suite 511\nLucindaview, MN 51769-7431","subscribed":true}

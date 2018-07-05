@@ -1,1 +1,0 @@
-{"name":"Mrs. Ayana Sawayn","email":"nbreitenberg@yahoo.com","address":"2929 Sarina Skyway\nNew Cortez, ME 55700","subscribed":true}

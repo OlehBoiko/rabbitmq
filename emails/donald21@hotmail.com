@@ -1,1 +1,0 @@
-{"name":"Ms. Shanie Waelchi DVM","email":"donald21@hotmail.com","address":"115 Leland Estates Suite 585\nEstelmouth, ND 60608-7877","subscribed":true}

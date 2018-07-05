@@ -1,1 +1,0 @@
-{"name":"Dr. Steve Mante","email":"malinda.crooks@hotmail.com","address":"2437 Fritsch Key\nKochhaven, AL 68319-3765","subscribed":true}

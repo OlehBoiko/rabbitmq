@@ -1,1 +1,0 @@
-{"name":"Cesar Funk","email":"abbott.gay@mclaughlin.org","address":"64992 Mara Plaza\nSouth Maximusborough, VA 95068","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Althea Langosh","email":"izabella90@durgan.com","address":"774 Lottie Heights\nSouth Trinity, OK 17813-5587","subscribed":true}

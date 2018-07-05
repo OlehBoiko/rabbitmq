@@ -1,1 +1,0 @@
-{"name":"Miss Lexi Altenwerth","email":"eden22@damore.com","address":"1793 Nelson Shore Suite 150\nKuvalisfurt, AZ 87501","subscribed":true}

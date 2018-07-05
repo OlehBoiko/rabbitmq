@@ -1,1 +1,0 @@
-{"name":"Prof. Magdalen Kautzer","email":"tlemke@greenholt.com","address":"21108 Cruickshank Stravenue\nCalistafurt, TN 04157-9244","subscribed":true}

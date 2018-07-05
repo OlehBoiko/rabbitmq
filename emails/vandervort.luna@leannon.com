@@ -1,1 +1,0 @@
-{"name":"Jerel D'Amore","email":"vandervort.luna@leannon.com","address":"5539 Jakubowski Forest\nPort Isabellehaven, DE 77148","subscribed":true}

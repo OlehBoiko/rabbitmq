@@ -1,1 +1,0 @@
-{"name":"Mr. Adolph Monahan DDS","email":"hegmann.maya@daniel.com","address":"28387 Edmond Haven Suite 226\nEast Eldontown, OK 77247","subscribed":true}

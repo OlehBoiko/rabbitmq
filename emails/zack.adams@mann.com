@@ -1,1 +1,0 @@
-{"name":"Destany Waters","email":"zack.adams@mann.com","address":"65349 Wilkinson Junction\nWest Olenville, UT 61128","subscribed":true}

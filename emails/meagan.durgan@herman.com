@@ -1,1 +1,0 @@
-{"name":"Hal Spinka V","email":"meagan.durgan@herman.com","address":"868 Bridget Oval Apt. 027\nLeuschkeport, OH 98212-6784","subscribed":true}

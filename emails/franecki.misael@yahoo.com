@@ -1,1 +1,0 @@
-{"name":"Rogers Wiza","email":"franecki.misael@yahoo.com","address":"50764 Garfield Islands Suite 384\nNorth Madalynshire, NV 97663-8988","subscribed":true}

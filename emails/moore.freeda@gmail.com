@@ -1,1 +1,0 @@
-{"name":"Prof. Pedro Barton","email":"moore.freeda@gmail.com","address":"401 Hartmann Overpass\nBrekkemouth, TX 52382","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Torey Satterfield Jr.","email":"anibal.gislason@murphy.com","address":"2182 Quigley Prairie Suite 752\nEast Demetris, OK 85176","subscribed":true}

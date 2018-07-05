@@ -1,1 +1,0 @@
-{"name":"Kathryne Kemmer","email":"hmccullough@lynch.com","address":"741 Harris Ridge Suite 909\nMyahbury, WI 48305","subscribed":true}

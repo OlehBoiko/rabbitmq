@@ -1,1 +1,0 @@
-{"name":"Evan Klein PhD","email":"sean.bernier@mcclure.org","address":"5530 Feest Ferry\nStefaniestad, CO 00820","subscribed":true}

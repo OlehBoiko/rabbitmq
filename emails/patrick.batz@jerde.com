@@ -1,1 +1,0 @@
-{"name":"Prof. Philip Bosco","email":"patrick.batz@jerde.com","address":"6694 Shayne Creek Apt. 868\nMabelport, MN 32441","subscribed":true}

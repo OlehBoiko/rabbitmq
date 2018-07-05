@@ -1,1 +1,0 @@
-{"name":"Velma Watsica","email":"farrell.evangeline@hotmail.com","address":"323 Beulah Road\nRippintown, WY 54248-2462","subscribed":true}

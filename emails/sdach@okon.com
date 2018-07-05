@@ -1,1 +1,0 @@
-{"name":"Prof. Gayle Goodwin Sr.","email":"sdach@okon.com","address":"89732 Roxanne Falls Apt. 453\nMantebury, PA 26284","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Kory Hackett PhD","email":"renner.albert@gmail.com","address":"18287 Jarret Pine Apt. 384\nAntoniettaville, CA 26104","subscribed":true}

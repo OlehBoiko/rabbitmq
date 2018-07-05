@@ -1,1 +1,0 @@
-{"name":"Dr. Bernie Cummings Sr.","email":"delores.will@yahoo.com","address":"1759 Bednar Key\nKeiraburgh, HI 71994","subscribed":true}

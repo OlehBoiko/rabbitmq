@@ -1,1 +1,0 @@
-{"name":"Christelle Wolff","email":"maegan.christiansen@gmail.com","address":"9692 Ullrich Path Suite 170\nLake Lornaberg, IN 75410","subscribed":true}

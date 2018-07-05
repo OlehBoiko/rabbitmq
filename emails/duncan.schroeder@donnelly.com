@@ -1,1 +1,0 @@
-{"name":"Callie Wiegand","email":"duncan.schroeder@donnelly.com","address":"53210 Tremblay Glens\nDoraside, OR 24149","subscribed":true}

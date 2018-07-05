@@ -1,1 +1,0 @@
-{"name":"Laila Spinka PhD","email":"payton.kuhn@gmail.com","address":"4285 Rowena Islands Suite 914\nWinfieldberg, WI 17150-3484","subscribed":true}

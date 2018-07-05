@@ -1,1 +1,0 @@
-{"name":"Ms. Amely Ankunding","email":"etoy@adams.com","address":"1575 Simonis Springs\nNew Manuelfort, TX 03204","subscribed":true}

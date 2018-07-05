@@ -1,1 +1,0 @@
-{"name":"Prof. Blaze Stokes","email":"bridget30@hotmail.com","address":"1911 Ardith Alley Apt. 660\nNew Addisonmouth, NJ 41916","subscribed":true}

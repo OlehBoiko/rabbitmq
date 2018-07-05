@@ -1,1 +1,0 @@
-{"name":"Prof. Misael Blanda","email":"jackson80@gmail.com","address":"556 Spencer Harbor\nVonRuedenshire, MT 11585","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Vinnie Monahan","email":"mariano.kuhn@gmail.com","address":"9761 Annie Knoll\nNew Jacqueschester, WI 67416-2594","subscribed":true}

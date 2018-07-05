@@ -1,1 +1,0 @@
-{"name":"Prof. Winston Reilly","email":"elyssa.emmerich@glover.org","address":"53222 Kertzmann Rest Suite 230\nNorth Maximilliantown, WA 16566-3654","subscribed":true}

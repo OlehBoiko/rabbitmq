@@ -1,1 +1,0 @@
-{"name":"Dr. Pierre Zieme PhD","email":"lloyd48@yahoo.com","address":"90036 Noelia Road Suite 808\nNew Amparofurt, VA 18729","subscribed":true}

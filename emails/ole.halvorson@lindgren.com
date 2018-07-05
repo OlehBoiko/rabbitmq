@@ -1,1 +1,0 @@
-{"name":"Vern Waters","email":"ole.halvorson@lindgren.com","address":"976 Koelpin Squares\nPietroview, VT 76708-6038","subscribed":true}

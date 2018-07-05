@@ -1,1 +1,0 @@
-{"name":"Guy Bernier","email":"ekonopelski@gmail.com","address":"51963 Langosh Point Suite 841\nSouth Ayanatown, NH 67775","subscribed":true}

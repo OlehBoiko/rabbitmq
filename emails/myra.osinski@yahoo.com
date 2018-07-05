@@ -1,1 +1,0 @@
-{"name":"Mr. Andy Lind","email":"myra.osinski@yahoo.com","address":"64082 Madelyn Throughway Apt. 455\nNew Marina, OR 93265","subscribed":true}

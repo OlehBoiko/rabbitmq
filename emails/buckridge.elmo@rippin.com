@@ -1,1 +1,0 @@
-{"name":"Berenice Stark","email":"buckridge.elmo@rippin.com","address":"3692 Helene Loaf Suite 353\nAvastad, AL 03745","subscribed":true}

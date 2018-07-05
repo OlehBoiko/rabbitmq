@@ -1,1 +1,0 @@
-{"name":"Kirsten Schaefer MD","email":"cstracke@prohaska.com","address":"46467 Wyman Gardens Suite 116\nPort Lizeth, FL 68522-8426","subscribed":true}

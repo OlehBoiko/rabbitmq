@@ -1,1 +1,0 @@
-{"name":"Adelle Nitzsche","email":"pamela.witting@hotmail.com","address":"44791 Zechariah Summit Apt. 966\nOrachester, VT 64917-3264","subscribed":true}

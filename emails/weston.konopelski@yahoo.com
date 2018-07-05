@@ -1,1 +1,0 @@
-{"name":"Taylor Collins","email":"weston.konopelski@yahoo.com","address":"6788 Fadel Fork Apt. 242\nEast Madalyn, IL 27483","subscribed":true}

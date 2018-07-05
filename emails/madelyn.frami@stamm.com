@@ -1,1 +1,0 @@
-{"name":"Addison Hills","email":"madelyn.frami@stamm.com","address":"232 Luna Court Suite 169\nWest Tate, OK 99848-1905","subscribed":true}

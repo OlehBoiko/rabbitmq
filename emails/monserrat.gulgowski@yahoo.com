@@ -1,1 +1,0 @@
-{"name":"Theresia Stroman","email":"monserrat.gulgowski@yahoo.com","address":"70966 Kristy Station\nPort Chelsiehaven, IN 89089","subscribed":true}

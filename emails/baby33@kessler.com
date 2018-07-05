@@ -1,1 +1,0 @@
-{"name":"Prof. Lue Auer","email":"baby33@kessler.com","address":"95198 Conn Falls\nHobartside, MA 61817","subscribed":true}

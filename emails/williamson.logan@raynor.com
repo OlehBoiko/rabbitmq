@@ -1,1 +1,0 @@
-{"name":"Prof. Jarrod Spinka","email":"williamson.logan@raynor.com","address":"97768 Johan Village\nSouth Sylvester, MI 96397-2254","subscribed":true}

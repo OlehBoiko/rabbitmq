@@ -1,1 +1,0 @@
-{"name":"Prof. Orval Cormier","email":"jeremy32@mclaughlin.com","address":"5906 Larson Meadows Suite 901\nWest Ramon, ND 61941","subscribed":true}

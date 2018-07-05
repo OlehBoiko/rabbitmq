@@ -1,1 +1,0 @@
-{"name":"Garnett Kuvalis IV","email":"heathcote.dangelo@hotmail.com","address":"43843 O'Connell Crescent\nShaniyaton, WV 72218","subscribed":true}

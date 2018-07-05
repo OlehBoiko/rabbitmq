@@ -1,1 +1,0 @@
-{"name":"Gia Auer DVM","email":"pansy90@miller.org","address":"135 Schroeder Vista\nEmilestad, IN 57038","subscribed":true}

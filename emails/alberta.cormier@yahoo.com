@@ -1,1 +1,0 @@
-{"name":"Adele Rempel III","email":"alberta.cormier@yahoo.com","address":"97427 Roy Meadow\nWest Kristy, CA 20419","subscribed":true}

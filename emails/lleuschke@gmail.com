@@ -1,1 +1,0 @@
-{"name":"Dedrick Sipes","email":"lleuschke@gmail.com","address":"2042 Hickle Crossroad\nBoscoborough, GA 33849","subscribed":true}

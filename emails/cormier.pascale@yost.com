@@ -1,1 +1,0 @@
-{"name":"Emmie Funk","email":"cormier.pascale@yost.com","address":"191 Ansel Via Apt. 404\nWest Buford, WV 16463","subscribed":true}

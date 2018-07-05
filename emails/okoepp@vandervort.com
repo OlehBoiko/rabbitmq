@@ -1,1 +1,0 @@
-{"name":"Marian Schulist","email":"okoepp@vandervort.com","address":"55938 Karelle Shoals Suite 862\nKiarabury, UT 12828-7626","subscribed":true}

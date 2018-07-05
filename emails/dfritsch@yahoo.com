@@ -1,1 +1,0 @@
-{"name":"Yessenia Murphy","email":"dfritsch@yahoo.com","address":"5415 Beatty Fork Suite 570\nWalshbury, AR 83642","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Amina Hoppe","email":"easton.daniel@yahoo.com","address":"1119 Emmitt Wall\nGerholdland, SC 37984-5149","subscribed":true}

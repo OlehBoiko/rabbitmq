@@ -1,1 +1,0 @@
-{"name":"Monserrate Cummings","email":"fay.quinn@hotmail.com","address":"9732 Hegmann Street\nLake Uriahton, VA 74015-2173","subscribed":true}

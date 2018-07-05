@@ -1,1 +1,0 @@
-{"name":"Dr. Arvel Rutherford PhD","email":"ruthie.wiegand@hotmail.com","address":"68775 Adella Streets\nNew Reinhold, ND 64536","subscribed":true}

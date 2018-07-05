@@ -1,1 +1,0 @@
-{"name":"Adelle Greenfelder Jr.","email":"celestine06@yahoo.com","address":"103 Rowe Center\nSchummborough, NY 07205","subscribed":true}

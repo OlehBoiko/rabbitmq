@@ -1,1 +1,0 @@
-{"name":"Dr. Francis Bogan","email":"kari91@gmail.com","address":"8382 Rogelio Ford Suite 182\nNew Corneliusstad, VT 09351-4457","subscribed":true}

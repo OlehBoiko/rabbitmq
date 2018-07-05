@@ -1,1 +1,0 @@
-{"name":"Garry Wisozk","email":"devon85@fay.com","address":"1678 Bashirian Stravenue Suite 981\nNew Hermina, KS 22939","subscribed":true}

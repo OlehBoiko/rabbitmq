@@ -1,1 +1,0 @@
-{"name":"Pamela Lockman","email":"conn.wilmer@yahoo.com","address":"28740 Rohan Inlet Suite 165\nWest Cynthiahaven, CO 80930","subscribed":true}

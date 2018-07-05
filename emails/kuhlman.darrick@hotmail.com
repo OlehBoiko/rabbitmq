@@ -1,1 +1,0 @@
-{"name":"Teresa Kutch","email":"kuhlman.darrick@hotmail.com","address":"299 Gulgowski Via\nMohammadtown, NE 10448","subscribed":true}

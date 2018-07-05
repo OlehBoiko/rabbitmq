@@ -1,1 +1,0 @@
-{"name":"Taryn Lueilwitz MD","email":"reffertz@gmail.com","address":"16032 Maude Court\nSantinaview, WY 68676-7706","subscribed":true}

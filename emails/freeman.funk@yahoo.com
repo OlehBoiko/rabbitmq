@@ -1,1 +1,0 @@
-{"name":"Prof. Vicky Parker III","email":"freeman.funk@yahoo.com","address":"871 Odie Road Suite 232\nHanefurt, MI 50835","subscribed":true}

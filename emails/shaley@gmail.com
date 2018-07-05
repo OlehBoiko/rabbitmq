@@ -1,1 +1,0 @@
-{"name":"Parker Paucek","email":"shaley@gmail.com","address":"3004 Savion Street Suite 547\nWest Bertaville, WI 55587-1625","subscribed":true}

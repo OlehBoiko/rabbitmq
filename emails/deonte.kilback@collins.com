@@ -1,1 +1,0 @@
-{"name":"Prof. Jaron Wisoky","email":"deonte.kilback@collins.com","address":"47819 Waelchi Fort Suite 750\nMartineside, VT 51272","subscribed":true}

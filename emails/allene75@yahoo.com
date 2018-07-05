@@ -1,1 +1,0 @@
-{"name":"Prof. Joany Stark","email":"allene75@yahoo.com","address":"9053 Blanda Loop\nNorth Lorena, VA 06102-6197","subscribed":true}

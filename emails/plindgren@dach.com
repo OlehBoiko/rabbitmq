@@ -1,1 +1,0 @@
-{"name":"Doris Stanton","email":"plindgren@dach.com","address":"83018 Clara Shore Apt. 774\nPort Felicitaville, ME 70286-7829","subscribed":true}

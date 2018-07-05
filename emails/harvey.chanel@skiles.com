@@ -1,1 +1,0 @@
-{"name":"Juvenal Rice","email":"harvey.chanel@skiles.com","address":"1582 Keeley Village Apt. 189\nPort Titus, MD 52259-6155","subscribed":true}

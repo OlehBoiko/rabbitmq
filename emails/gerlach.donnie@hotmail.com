@@ -1,1 +1,0 @@
-{"name":"Prof. Janet Lakin","email":"gerlach.donnie@hotmail.com","address":"468 Orn Landing\nLake Odessa, ND 22596","subscribed":true}

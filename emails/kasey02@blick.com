@@ -1,1 +1,0 @@
-{"name":"Emelia Kuvalis","email":"kasey02@blick.com","address":"8885 Hermann Road Suite 273\nMaxineport, NV 51084","subscribed":true}

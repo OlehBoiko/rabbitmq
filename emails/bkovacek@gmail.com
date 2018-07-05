@@ -1,1 +1,0 @@
-{"name":"Prof. Elisha Dare II","email":"bkovacek@gmail.com","address":"24639 Barrows Port\nPort Antonio, SD 26717","subscribed":true}

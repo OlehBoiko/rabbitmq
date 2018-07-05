@@ -1,1 +1,0 @@
-{"name":"Mrs. Charlene Sipes MD","email":"nchristiansen@fadel.com","address":"962 Diamond Plaza Suite 180\nSouth Itzel, NY 80254-6855","subscribed":true}

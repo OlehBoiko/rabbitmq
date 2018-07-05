@@ -1,1 +1,0 @@
-{"name":"Moses Runte","email":"runolfsson.kaylee@zboncak.com","address":"41345 Zulauf Plaza\nNew Reid, NY 65304","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Anastacio Medhurst DVM","email":"anika79@hotmail.com","address":"41727 Jenkins Pike Suite 281\nKarashire, UT 19594","subscribed":true}

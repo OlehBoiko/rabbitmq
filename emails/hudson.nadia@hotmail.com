@@ -1,1 +1,0 @@
-{"name":"Prof. Adan Klocko","email":"hudson.nadia@hotmail.com","address":"800 Vernon Tunnel\nLake Mariam, WY 13308-1779","subscribed":true}

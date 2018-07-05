@@ -1,1 +1,0 @@
-{"name":"Alexane Murazik","email":"mariane.mcdermott@brakus.com","address":"6520 Schinner Villages\nPort Janeshire, OH 27186","subscribed":true}

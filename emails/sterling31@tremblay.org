@@ -1,1 +1,0 @@
-{"name":"Cassandra Cummerata","email":"sterling31@tremblay.org","address":"842 Fidel Fields\nNorth Dixie, MA 42927","subscribed":true}

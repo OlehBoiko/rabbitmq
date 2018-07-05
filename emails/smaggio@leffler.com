@@ -1,1 +1,0 @@
-{"name":"Andrew Bogisich","email":"smaggio@leffler.com","address":"50624 Moshe Rest Suite 279\nRitchiemouth, RI 50833","subscribed":true}

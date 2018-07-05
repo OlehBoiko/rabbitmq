@@ -1,1 +1,0 @@
-{"name":"Kim Schumm","email":"kuhic.cayla@funk.org","address":"799 Koss Keys\nMadelynhaven, WI 96003","subscribed":true}

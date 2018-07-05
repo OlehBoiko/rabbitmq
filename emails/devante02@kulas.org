@@ -1,1 +1,0 @@
-{"name":"Ella Cassin","email":"devante02@kulas.org","address":"29997 Cloyd Track Suite 618\nEast Jamilberg, NH 98656","subscribed":true}

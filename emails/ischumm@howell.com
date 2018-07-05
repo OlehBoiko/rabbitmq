@@ -1,1 +1,0 @@
-{"name":"Dr. Wilfred Schiller","email":"ischumm@howell.com","address":"92757 Daisha Station\nStantonside, OR 18979","subscribed":true}

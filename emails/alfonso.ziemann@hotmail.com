@@ -1,1 +1,0 @@
-{"name":"Prof. Zachary Vandervort","email":"alfonso.ziemann@hotmail.com","address":"38783 Pacocha Stream\nEast Kaylatown, ME 98004","subscribed":true}

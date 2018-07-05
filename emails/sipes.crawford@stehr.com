@@ -1,1 +1,0 @@
-{"name":"Clifford Hagenes DDS","email":"sipes.crawford@stehr.com","address":"344 Dare Crossroad Suite 726\nSummershire, AZ 90647","subscribed":true}

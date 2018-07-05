@@ -1,1 +1,0 @@
-{"name":"Angelica Cole Jr.","email":"sigrid.berge@gmail.com","address":"42776 Mose Port Apt. 771\nBauchview, LA 67705-6102","subscribed":true}

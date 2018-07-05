@@ -1,1 +1,0 @@
-{"name":"Gladyce Aufderhar","email":"olson.manley@haley.org","address":"48804 Stanton Lane\nLake Enrico, NE 27448","subscribed":true}

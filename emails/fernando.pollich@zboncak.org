@@ -1,1 +1,0 @@
-{"name":"Guadalupe Hessel","email":"fernando.pollich@zboncak.org","address":"6837 Beatty Crescent\nSouth Mikechester, ND 61646-0343","subscribed":true}

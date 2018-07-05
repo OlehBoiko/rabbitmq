@@ -1,1 +1,0 @@
-{"name":"Raymond Kutch","email":"ignatius72@yahoo.com","address":"559 Jean Shoals\nLake Gayshire, MA 29396","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Madaline Beatty DVM","email":"skunde@ritchie.com","address":"927 Erdman Spur Apt. 447\nPort Mervinfurt, ND 48072-1326","subscribed":true}

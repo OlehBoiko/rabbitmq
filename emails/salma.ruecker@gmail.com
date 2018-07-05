@@ -1,1 +1,0 @@
-{"name":"Elian Kuphal","email":"salma.ruecker@gmail.com","address":"69739 Kiley Lakes Apt. 529\nLake Ibrahim, MO 00643-7425","subscribed":true}

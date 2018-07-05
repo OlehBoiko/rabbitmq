@@ -1,1 +1,0 @@
-{"name":"Leonora Mosciski DDS","email":"isobel46@conn.com","address":"22927 Weber Isle Apt. 921\nMaggiefurt, MN 97446-8574","subscribed":true}

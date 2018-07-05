@@ -1,1 +1,0 @@
-{"name":"Dr. Timmothy Muller PhD","email":"kullrich@hotmail.com","address":"952 Ernser Causeway Apt. 524\nParkerburgh, MO 58067","subscribed":true}

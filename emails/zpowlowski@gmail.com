@@ -1,1 +1,0 @@
-{"name":"Prof. Adrain DuBuque","email":"zpowlowski@gmail.com","address":"395 Bode Keys\nPort Clarkburgh, KS 92658-6551","subscribed":true}

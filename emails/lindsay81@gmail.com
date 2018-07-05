@@ -1,1 +1,0 @@
-{"name":"Randi Bednar MD","email":"lindsay81@gmail.com","address":"27931 Williamson Lane Suite 068\nLake Hershel, GA 69855","subscribed":true}

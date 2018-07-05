@@ -1,1 +1,0 @@
-{"name":"Hannah Moore","email":"muriel.bahringer@hotmail.com","address":"914 Deangelo Gateway\nTeaganbury, DE 04561","subscribed":true}

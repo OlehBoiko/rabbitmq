@@ -1,1 +1,0 @@
-{"name":"Clemmie Murphy","email":"elinor.gerhold@beier.com","address":"5929 Koss Hills Apt. 116\nLake Reyesville, FL 78801","subscribed":true}

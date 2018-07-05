@@ -1,1 +1,0 @@
-{"name":"Dr. Jedediah Nader","email":"ibeier@abshire.com","address":"8375 McDermott Mission\nEast Sophiafort, NM 63450","subscribed":true}

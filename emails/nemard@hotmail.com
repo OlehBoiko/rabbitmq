@@ -1,1 +1,0 @@
-{"name":"Prof. Ona Ratke","email":"nemard@hotmail.com","address":"1848 Durgan Square Suite 494\nLelatown, OH 59296","subscribed":true}

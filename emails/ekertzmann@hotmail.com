@@ -1,1 +1,0 @@
-{"name":"Antonina Runte DDS","email":"ekertzmann@hotmail.com","address":"47592 Collins Forest Suite 925\nDorisfurt, CO 29025-3314","subscribed":true}

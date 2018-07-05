@@ -1,1 +1,0 @@
-{"name":"Victoria Kerluke Jr.","email":"emanuel.hintz@friesen.com","address":"792 Amiya Extension\nDickensville, DE 10549-6491","subscribed":true}

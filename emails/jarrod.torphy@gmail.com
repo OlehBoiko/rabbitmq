@@ -1,1 +1,0 @@
-{"name":"Ms. Josefa Deckow Sr.","email":"jarrod.torphy@gmail.com","address":"4390 Lucie Spurs Suite 048\nJakubowskiland, WA 76967-8600","subscribed":true}

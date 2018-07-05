@@ -1,1 +1,0 @@
-{"name":"Prof. Jacinthe Stoltenberg III","email":"peter.upton@hotmail.com","address":"98875 Hammes Circles\nSouth Maverick, TX 97194","subscribed":true}

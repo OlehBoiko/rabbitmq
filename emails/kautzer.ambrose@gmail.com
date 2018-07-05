@@ -1,1 +1,0 @@
-{"name":"Maximo Kris","email":"kautzer.ambrose@gmail.com","address":"13972 Rodriguez Lock\nHeloisechester, GA 24139","subscribed":true}

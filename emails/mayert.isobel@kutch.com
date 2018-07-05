@@ -1,1 +1,0 @@
-{"name":"Colton Bode","email":"mayert.isobel@kutch.com","address":"1392 Romaguera Turnpike\nNorth Quinn, OR 00482","subscribed":true}

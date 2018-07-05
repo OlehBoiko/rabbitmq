@@ -1,1 +1,0 @@
-{"name":"Angelica Balistreri","email":"jordi69@ebert.com","address":"60573 Katherine Key Apt. 669\nBednarland, FL 30437","subscribed":true}

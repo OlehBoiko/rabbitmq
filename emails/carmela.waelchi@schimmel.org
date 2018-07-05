@@ -1,1 +1,0 @@
-{"name":"Leif Durgan Sr.","email":"carmela.waelchi@schimmel.org","address":"66646 Ruth Square Apt. 186\nElinorberg, OK 09199-4886","subscribed":true}

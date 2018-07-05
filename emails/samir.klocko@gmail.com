@@ -1,1 +1,0 @@
-{"name":"Miss Sasha Schmidt","email":"samir.klocko@gmail.com","address":"182 Goldner Orchard Apt. 741\nKubberg, VA 21613-7038","subscribed":true}

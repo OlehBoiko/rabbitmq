@@ -1,1 +1,0 @@
-{"name":"Ted Wunsch","email":"hardy.ohara@hotmail.com","address":"34816 Hermann Meadows\nBaileyton, CO 68070","subscribed":true}

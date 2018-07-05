@@ -1,1 +1,0 @@
-{"name":"Annetta Franecki PhD","email":"watsica.keanu@yahoo.com","address":"8491 Schuster Loaf Apt. 171\nBartonmouth, SC 07345","subscribed":true}

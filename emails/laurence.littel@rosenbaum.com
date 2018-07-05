@@ -1,1 +1,0 @@
-{"name":"Pinkie Langworth","email":"laurence.littel@rosenbaum.com","address":"27904 Yasmin Gateway Apt. 382\nRyanburgh, LA 28480-3943","subscribed":true}

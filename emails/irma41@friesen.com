@@ -1,1 +1,0 @@
-{"name":"Anabel Schimmel","email":"irma41@friesen.com","address":"20270 Will Inlet Suite 731\nLenniestad, WI 47437","subscribed":true}

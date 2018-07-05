@@ -1,1 +1,0 @@
-{"name":"Leta Sporer","email":"rosa.adams@yahoo.com","address":"547 Yvonne Burgs Suite 746\nPort Josianne, NV 44796-5309","subscribed":true}

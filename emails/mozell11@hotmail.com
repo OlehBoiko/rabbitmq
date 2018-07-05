@@ -1,1 +1,0 @@
-{"name":"Antonietta Bernhard","email":"mozell11@hotmail.com","address":"47695 Colt Park Suite 110\nWest Gerry, KY 73120-2074","subscribed":true}

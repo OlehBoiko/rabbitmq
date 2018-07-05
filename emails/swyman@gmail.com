@@ -1,1 +1,0 @@
-{"name":"Prof. Donald Cummerata","email":"swyman@gmail.com","address":"63583 Terrell Parks Apt. 528\nLynchfurt, VA 48118","subscribed":true}

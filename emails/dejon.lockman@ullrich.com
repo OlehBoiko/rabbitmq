@@ -1,1 +1,0 @@
-{"name":"Jack Schaden","email":"dejon.lockman@ullrich.com","address":"51244 Ebert Row\nSouth Buster, ND 35354","subscribed":true}

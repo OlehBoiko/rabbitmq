@@ -1,1 +1,0 @@
-{"name":"Colby Buckridge","email":"myles14@yahoo.com","address":"8587 Watsica Skyway Suite 191\nStiedemannfurt, CT 00429-4267","subscribed":true}

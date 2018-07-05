@@ -1,1 +1,0 @@
-{"name":"Prof. Marlin Pfannerstill PhD","email":"lindgren.blanca@hotmail.com","address":"1139 Geo Mountains\nNew Mabel, WI 79137","subscribed":true}

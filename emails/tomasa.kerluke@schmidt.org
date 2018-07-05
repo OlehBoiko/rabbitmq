@@ -1,1 +1,0 @@
-{"name":"Prof. Jesse Buckridge","email":"tomasa.kerluke@schmidt.org","address":"597 Rudolph Station Suite 264\nGladysbury, IL 85771-9685","subscribed":true}

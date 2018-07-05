@@ -1,1 +1,0 @@
-{"name":"Kane Weimann","email":"remington16@yahoo.com","address":"53170 Hegmann Road Suite 503\nWest Kira, NM 36790-6617","subscribed":true}

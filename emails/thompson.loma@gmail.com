@@ -1,1 +1,0 @@
-{"name":"Dr. Eulah Funk DVM","email":"thompson.loma@gmail.com","address":"146 Franecki Throughway\nElizastad, NE 89145","subscribed":true}

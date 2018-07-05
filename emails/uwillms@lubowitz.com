@@ -1,1 +1,0 @@
-{"name":"Devon Rosenbaum","email":"uwillms@lubowitz.com","address":"5670 Donnell Landing\nNorth Gianni, LA 71602","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Joannie Corkery III","email":"schinner.reuben@labadie.org","address":"38864 Harold Light Suite 812\nPort Annalise, TN 55912-5025","subscribed":true}

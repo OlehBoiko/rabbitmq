@@ -1,1 +1,0 @@
-{"name":"Dr. Rudolph Kling II","email":"tromp.nola@yahoo.com","address":"725 Jast Port Suite 548\nWilliamsonview, UT 48031","subscribed":true}

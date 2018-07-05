@@ -1,1 +1,0 @@
-{"name":"Mrs. Rita Nitzsche","email":"leonardo.kunde@nicolas.com","address":"2662 Murazik Terrace Suite 044\nSouth Jensenborough, FL 04362-8759","subscribed":true}

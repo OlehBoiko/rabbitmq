@@ -1,1 +1,0 @@
-{"name":"Mr. Urban Weissnat","email":"jude31@hotmail.com","address":"43705 Mallie Parkways Suite 707\nNorth Neldastad, OK 75868-8607","subscribed":true}

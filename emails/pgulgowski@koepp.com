@@ -1,1 +1,0 @@
-{"name":"Prof. Hilario Green","email":"pgulgowski@koepp.com","address":"367 Berge Knoll\nEast Aileenville, LA 31479","subscribed":true}

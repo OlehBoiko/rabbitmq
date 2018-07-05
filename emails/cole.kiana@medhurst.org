@@ -1,1 +1,0 @@
-{"name":"Morgan Satterfield","email":"cole.kiana@medhurst.org","address":"21659 Cummerata Lodge\nSouth Patiencestad, SD 90267-4710","subscribed":true}

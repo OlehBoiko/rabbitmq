@@ -1,1 +1,0 @@
-{"name":"Prof. Pearline Crona","email":"labadie.princess@gmail.com","address":"13965 Fahey Crest\nLarkinland, TN 57425","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Seamus Morissette II","email":"rosemary63@gmail.com","address":"29490 Ettie Dam\nEdwinachester, IL 67758-5813","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Cordell Feeney","email":"miller.laney@yahoo.com","address":"220 Block Well\nLake Garret, MN 44179","subscribed":true}

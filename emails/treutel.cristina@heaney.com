@@ -1,1 +1,0 @@
-{"name":"Kay Osinski","email":"treutel.cristina@heaney.com","address":"662 Johnson Shoals\nWymanmouth, OH 93156","subscribed":true}

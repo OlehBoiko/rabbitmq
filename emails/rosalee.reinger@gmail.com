@@ -1,1 +1,0 @@
-{"name":"Kirstin Krajcik","email":"rosalee.reinger@gmail.com","address":"1675 Violet Parkway\nRatketon, MI 88939-5705","subscribed":true}

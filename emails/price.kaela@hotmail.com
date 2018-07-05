@@ -1,1 +1,0 @@
-{"name":"Prof. Cassie Glover Jr.","email":"price.kaela@hotmail.com","address":"3130 Reilly Lakes Apt. 694\nLake Lornashire, WV 10634","subscribed":true}

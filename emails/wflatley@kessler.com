@@ -1,1 +1,0 @@
-{"name":"Ms. Brandy Beatty DDS","email":"wflatley@kessler.com","address":"95858 Berge Drives Suite 844\nPort Aracely, AR 19473","subscribed":true}

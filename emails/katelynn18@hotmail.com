@@ -1,1 +1,0 @@
-{"name":"Lenna Schowalter DDS","email":"katelynn18@hotmail.com","address":"24760 Hickle Groves Apt. 087\nNew Cadenton, TX 01625","subscribed":true}

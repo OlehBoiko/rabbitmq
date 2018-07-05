@@ -1,1 +1,0 @@
-{"name":"Manuel Durgan","email":"marty.price@gmail.com","address":"6245 Orn Hills Apt. 577\nBrendaview, TN 75698","subscribed":true}

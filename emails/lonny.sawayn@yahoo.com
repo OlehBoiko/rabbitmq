@@ -1,1 +1,0 @@
-{"name":"Sedrick Tremblay I","email":"lonny.sawayn@yahoo.com","address":"7338 Jake Corner Apt. 822\nKundeport, VT 39252-5017","subscribed":true}

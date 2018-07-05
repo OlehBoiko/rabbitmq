@@ -1,1 +1,0 @@
-{"name":"Stephany Lemke","email":"chelsea56@ondricka.org","address":"97569 Ziemann Parkways Suite 495\nDellatown, TX 38223","subscribed":true}

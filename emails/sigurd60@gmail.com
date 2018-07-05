@@ -1,1 +1,0 @@
-{"name":"Ewald Kuhic","email":"sigurd60@gmail.com","address":"43376 Johnston Path Apt. 777\nReynoldsside, IN 20927","subscribed":true}

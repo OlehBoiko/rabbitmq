@@ -1,1 +1,0 @@
-{"name":"Willis Considine","email":"maynard.stehr@hotmail.com","address":"16329 Rath Drive Suite 269\nNorth Monroe, ND 74396-9872","subscribed":true}

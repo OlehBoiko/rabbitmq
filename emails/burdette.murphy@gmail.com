@@ -1,1 +1,0 @@
-{"name":"Sonya Kuvalis","email":"burdette.murphy@gmail.com","address":"3371 Gladyce Courts Suite 521\nNew Wilber, ND 02104","subscribed":true}

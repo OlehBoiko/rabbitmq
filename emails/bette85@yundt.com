@@ -1,1 +1,0 @@
-{"name":"Prof. Delia Doyle II","email":"bette85@yundt.com","address":"19071 Tyree Harbor\nLake Gloria, TN 45761","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Cleve Lind Jr.","email":"ithompson@gmail.com","address":"415 Grady Road\nZboncakland, CO 28016","subscribed":true}

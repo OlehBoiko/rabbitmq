@@ -1,1 +1,0 @@
-{"name":"Dr. Dayana Ebert","email":"romaine.rodriguez@weimann.com","address":"23925 Vandervort Isle\nNew Charles, OR 43638-1407","subscribed":true}

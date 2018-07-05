@@ -1,1 +1,0 @@
-{"name":"Delaney Kertzmann","email":"bdach@hotmail.com","address":"7152 Mayert Centers Suite 433\nPort Jaquelin, AZ 00582","subscribed":true}

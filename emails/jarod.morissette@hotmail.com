@@ -1,1 +1,0 @@
-{"name":"Bell Hyatt","email":"jarod.morissette@hotmail.com","address":"1156 Perry Viaduct Suite 428\nPort Devyn, UT 45890","subscribed":true}

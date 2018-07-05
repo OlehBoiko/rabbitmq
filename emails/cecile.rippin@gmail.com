@@ -1,1 +1,0 @@
-{"name":"Elinore Waelchi","email":"cecile.rippin@gmail.com","address":"8146 Lynch Center Suite 355\nWest Chaya, VT 41856","subscribed":true}

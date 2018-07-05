@@ -1,1 +1,0 @@
-{"name":"Sadye Bahringer","email":"adelbert.altenwerth@yahoo.com","address":"303 Gulgowski Mall\nNorth Xzavier, IL 23291","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Jaquelin Dooley","email":"aisha.terry@gmail.com","address":"2124 Shayne Causeway\nNew Josiah, NV 98668","subscribed":true}

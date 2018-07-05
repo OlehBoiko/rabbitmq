@@ -1,1 +1,0 @@
-{"name":"Prof. Blake Rohan IV","email":"schowalter.alba@jenkins.com","address":"62737 Avery Gardens Suite 123\nWest Clair, AR 81352","subscribed":true}

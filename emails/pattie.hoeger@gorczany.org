@@ -1,1 +1,0 @@
-{"name":"Clinton Schmidt","email":"pattie.hoeger@gorczany.org","address":"6138 Sanford Villages\nElnafort, RI 88755-0412","subscribed":true}

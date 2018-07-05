@@ -1,1 +1,0 @@
-{"name":"Idell Metz","email":"shanahan.roxanne@champlin.com","address":"3492 Altenwerth Flats\nNorth Joanne, OK 10274","subscribed":true}

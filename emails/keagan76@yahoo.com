@@ -1,1 +1,0 @@
-{"name":"Prof. Antonina Schultz","email":"keagan76@yahoo.com","address":"648 Feeney Orchard Apt. 985\nWest Anastaciohaven, CO 69346","subscribed":true}

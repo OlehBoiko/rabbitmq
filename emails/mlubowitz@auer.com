@@ -1,1 +1,0 @@
-{"name":"Dr. Ken Lubowitz","email":"mlubowitz@auer.com","address":"8509 Bartholome Garden Suite 941\nLake Chaz, MI 15740-7518","subscribed":true}

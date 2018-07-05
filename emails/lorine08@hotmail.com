@@ -1,1 +1,0 @@
-{"name":"Josiane Abbott MD","email":"lorine08@hotmail.com","address":"988 Juliet Spring Suite 045\nSouth Ineschester, IA 57262","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Tressa Abbott","email":"bethany52@kreiger.com","address":"40117 Streich Ridge\nBulahtown, AL 67142-2355","subscribed":true}

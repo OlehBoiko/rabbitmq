@@ -1,1 +1,0 @@
-{"name":"Prof. Ena Schuster","email":"franecki.arden@yahoo.com","address":"4494 Rogahn Crest Suite 673\nEast Gunnarburgh, VT 57761","subscribed":true}

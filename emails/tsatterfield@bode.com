@@ -1,1 +1,0 @@
-{"name":"Gudrun Bartell","email":"tsatterfield@bode.com","address":"465 Joanne Estates\nLake Malvinaport, OH 28525","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Amos Schuppe DDS","email":"cbeatty@yahoo.com","address":"8785 Hilpert Square Apt. 833\nGersonberg, CT 19000","subscribed":true}

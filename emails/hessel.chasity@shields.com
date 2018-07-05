@@ -1,1 +1,0 @@
-{"name":"Dr. Kris Stracke","email":"hessel.chasity@shields.com","address":"334 Gabriel Brook Suite 220\nNorth Baileehaven, AK 52406","subscribed":true}

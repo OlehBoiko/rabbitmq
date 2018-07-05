@@ -1,1 +1,0 @@
-{"name":"Katlynn Fritsch IV","email":"linnea.becker@gmail.com","address":"6884 Ritchie Spurs\nWest Annette, UT 74368","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Claud McDermott V","email":"gbergnaum@hotmail.com","address":"685 Stark Isle Suite 322\nEast Cordeliachester, CO 10324","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Jaquelin Hegmann","email":"kwunsch@willms.com","address":"57149 Tyree Expressway Suite 499\nLake Shad, RI 32622-1912","subscribed":true}

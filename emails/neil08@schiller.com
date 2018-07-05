@@ -1,1 +1,0 @@
-{"name":"Prof. Uriah Schmidt IV","email":"neil08@schiller.com","address":"4614 Zack Avenue\nPort Nichole, OH 87657","subscribed":true}

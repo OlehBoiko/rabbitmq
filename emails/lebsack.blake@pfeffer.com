@@ -1,1 +1,0 @@
-{"name":"Ottis Bartell","email":"lebsack.blake@pfeffer.com","address":"447 Joy Haven Suite 682\nConradview, IA 61653","subscribed":true}

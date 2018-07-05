@@ -1,1 +1,0 @@
-{"name":"Jakayla Lockman","email":"zack.king@kshlerin.org","address":"7798 Schumm Fields\nRosemariechester, AZ 05351-9251","subscribed":true}

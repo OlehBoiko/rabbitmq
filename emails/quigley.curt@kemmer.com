@@ -1,1 +1,0 @@
-{"name":"Josefa Collier","email":"quigley.curt@kemmer.com","address":"163 Cole Gateway\nKuvalisfort, NE 67844","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Guadalupe Stoltenberg","email":"rutherford.liliane@hotmail.com","address":"820 Farrell Heights\nHowellfurt, TN 38493","subscribed":true}

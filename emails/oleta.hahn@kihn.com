@@ -1,1 +1,0 @@
-{"name":"Nannie Friesen","email":"oleta.hahn@kihn.com","address":"42881 Sauer Cliff\nAnkundingport, MD 69031-8530","subscribed":true}

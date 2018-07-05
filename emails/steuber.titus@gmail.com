@@ -1,1 +1,0 @@
-{"name":"Mrs. Veda Kunde MD","email":"steuber.titus@gmail.com","address":"2597 Cullen Lodge Suite 039\nLake Kirsten, IL 49947-2536","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Lera Quigley","email":"pbosco@hotmail.com","address":"916 Armstrong Place\nEast Anibal, KS 35816","subscribed":true}

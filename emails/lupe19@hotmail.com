@@ -1,1 +1,0 @@
-{"name":"Max Crist","email":"lupe19@hotmail.com","address":"56473 Champlin Island\nMaverickburgh, GA 87997-9278","subscribed":true}

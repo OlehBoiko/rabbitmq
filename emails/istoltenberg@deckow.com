@@ -1,1 +1,0 @@
-{"name":"Mr. Soledad Gaylord","email":"istoltenberg@deckow.com","address":"81502 Clotilde Street\nLake Kasandra, OH 83911","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Judge Hackett IV","email":"eichmann.connor@mclaughlin.com","address":"48288 Dach Island Suite 377\nEast Mohamed, NJ 57721","subscribed":true}

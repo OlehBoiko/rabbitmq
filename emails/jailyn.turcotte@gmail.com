@@ -1,1 +1,0 @@
-{"name":"Prof. Hugh Schroeder V","email":"jailyn.turcotte@gmail.com","address":"9591 Nienow Union\nEast Mike, CA 27967","subscribed":true}

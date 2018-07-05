@@ -1,1 +1,0 @@
-{"name":"Roosevelt Schumm MD","email":"taya.runte@hotmail.com","address":"43020 Cummings Stream Apt. 677\nKiannaburgh, NC 21658-2126","subscribed":true}

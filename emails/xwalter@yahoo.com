@@ -1,1 +1,0 @@
-{"name":"Lulu Mills","email":"xwalter@yahoo.com","address":"773 Terry Point\nWest Lunafort, MS 26978","subscribed":true}

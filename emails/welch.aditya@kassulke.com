@@ -1,1 +1,0 @@
-{"name":"Mrs. Lilian Gibson","email":"welch.aditya@kassulke.com","address":"192 Vivianne Shores Apt. 566\nDamienstad, GA 35920-6465","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mrs. Kristin Schowalter","email":"weissnat.king@yahoo.com","address":"13588 Liliana Courts Suite 948\nKaitlinmouth, GA 48396","subscribed":true}

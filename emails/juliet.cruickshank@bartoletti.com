@@ -1,1 +1,0 @@
-{"name":"Kyle Stracke","email":"juliet.cruickshank@bartoletti.com","address":"2759 Metz Vista\nLabadieburgh, AL 49159-6253","subscribed":true}

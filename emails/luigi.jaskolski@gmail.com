@@ -1,1 +1,0 @@
-{"name":"Dr. Horace Ullrich","email":"luigi.jaskolski@gmail.com","address":"9981 Elda Way\nLake Hymantown, CT 38473","subscribed":true}

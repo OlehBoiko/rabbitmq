@@ -1,1 +1,0 @@
-{"name":"Bessie Ritchie","email":"kiel78@yahoo.com","address":"162 Dedric Walk\nWest Demond, CT 01471-6500","subscribed":true}

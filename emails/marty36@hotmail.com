@@ -1,1 +1,0 @@
-{"name":"Shea Nader DDS","email":"marty36@hotmail.com","address":"8807 Conn Heights\nWest Aydenside, KS 23461-3623","subscribed":true}

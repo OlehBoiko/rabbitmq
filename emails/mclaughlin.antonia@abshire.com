@@ -1,1 +1,0 @@
-{"name":"Dr. Pearl Stiedemann MD","email":"mclaughlin.antonia@abshire.com","address":"772 Sanford Prairie\nMaximillianmouth, SD 20768-4598","subscribed":true}

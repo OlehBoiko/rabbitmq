@@ -1,1 +1,0 @@
-{"name":"Arnold Franecki","email":"ruth.sipes@bayer.org","address":"7789 Botsford Cove\nPort Zanderhaven, MO 14071-0407","subscribed":true}

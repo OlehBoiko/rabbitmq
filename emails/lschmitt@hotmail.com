@@ -1,1 +1,0 @@
-{"name":"Prof. Francesco Cartwright","email":"lschmitt@hotmail.com","address":"351 Bednar Harbor\nPort Alejandra, NH 49881","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Humberto Auer Jr.","email":"vorn@yahoo.com","address":"621 Graham Tunnel\nNorth Virginia, ND 83935-1627","subscribed":true}

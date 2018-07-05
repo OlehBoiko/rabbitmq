@@ -1,1 +1,0 @@
-{"name":"Pat Anderson","email":"srogahn@bayer.com","address":"2573 Ritchie Mill Suite 302\nSchinnerport, MN 57300-7457","subscribed":true}

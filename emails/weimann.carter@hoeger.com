@@ -1,1 +1,0 @@
-{"name":"Chanel Mante","email":"weimann.carter@hoeger.com","address":"3687 Jada Grove Apt. 853\nWillaborough, AK 94967-1610","subscribed":true}

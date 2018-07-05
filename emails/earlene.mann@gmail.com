@@ -1,1 +1,0 @@
-{"name":"Mrs. Zoie Moore","email":"earlene.mann@gmail.com","address":"7959 Ruecker Bridge\nNorth Alvahfurt, MO 99341","subscribed":true}

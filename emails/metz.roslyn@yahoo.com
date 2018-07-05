@@ -1,1 +1,0 @@
-{"name":"Madalyn Waelchi","email":"metz.roslyn@yahoo.com","address":"492 Wyman Vista\nSouth Elnora, IA 93789-6429","subscribed":true}

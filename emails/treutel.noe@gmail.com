@@ -1,1 +1,0 @@
-{"name":"Prof. Norbert Shields MD","email":"treutel.noe@gmail.com","address":"4587 Kamron Street\nMarleychester, MI 64220-9694","subscribed":true}

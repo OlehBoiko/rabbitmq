@@ -1,1 +1,0 @@
-{"name":"Norberto Kessler MD","email":"schuster.harvey@hotmail.com","address":"450 Erdman Haven Suite 091\nSalmachester, ND 08017-1728","subscribed":true}

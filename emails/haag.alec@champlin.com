@@ -1,1 +1,0 @@
-{"name":"Stone Klocko","email":"haag.alec@champlin.com","address":"755 Norval Fields\nGreenfeldershire, ND 52432","subscribed":true}

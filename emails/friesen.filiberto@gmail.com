@@ -1,1 +1,0 @@
-{"name":"Samanta Bosco","email":"friesen.filiberto@gmail.com","address":"437 Mariam Mountain\nWardmouth, MN 88654-5801","subscribed":true}

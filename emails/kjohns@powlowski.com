@@ -1,1 +1,0 @@
-{"name":"Prof. Derek Keeling","email":"kjohns@powlowski.com","address":"257 Wilkinson Center Suite 785\nNorth Brianne, MT 44671","subscribed":true}

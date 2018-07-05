@@ -1,1 +1,0 @@
-{"name":"Frederique Ratke DDS","email":"ydare@yahoo.com","address":"240 Kristoffer Locks\nNew Xavierborough, MI 26121-8872","subscribed":true}

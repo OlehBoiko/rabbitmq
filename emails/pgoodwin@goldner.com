@@ -1,1 +1,0 @@
-{"name":"Mr. Dudley Yundt","email":"pgoodwin@goldner.com","address":"562 White Crossing\nAdellmouth, MA 02272","subscribed":true}

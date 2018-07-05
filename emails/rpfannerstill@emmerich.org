@@ -1,1 +1,0 @@
-{"name":"Prof. Hilario Gorczany","email":"rpfannerstill@emmerich.org","address":"9318 Price Islands\nMaximoside, MI 80016-7339","subscribed":true}

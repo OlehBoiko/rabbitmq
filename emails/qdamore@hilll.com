@@ -1,1 +1,0 @@
-{"name":"Prof. Palma Gerhold IV","email":"qdamore@hilll.com","address":"96950 Friesen Light\nLake Lailafurt, ID 99168","subscribed":true}

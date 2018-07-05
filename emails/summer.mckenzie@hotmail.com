@@ -1,1 +1,0 @@
-{"name":"D'angelo Grady","email":"summer.mckenzie@hotmail.com","address":"1033 Jenkins Parkway Suite 630\nMayratown, GA 62949-9063","subscribed":true}

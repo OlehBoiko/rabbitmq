@@ -1,1 +1,0 @@
-{"name":"Dr. Dejuan Predovic","email":"reece46@hotmail.com","address":"3805 Kilback Crest Apt. 405\nNew Savanah, ID 45212-0961","subscribed":true}

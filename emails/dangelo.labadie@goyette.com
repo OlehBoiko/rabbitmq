@@ -1,1 +1,0 @@
-{"name":"Chadd Hamill","email":"dangelo.labadie@goyette.com","address":"90785 Wiegand Dale\nWest Matilda, DE 77832-7395","subscribed":true}

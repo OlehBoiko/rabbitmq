@@ -1,1 +1,0 @@
-{"name":"Prof. Shanelle Shields","email":"rosella32@oconnell.com","address":"139 Bosco Flats Suite 860\nTeresatown, NH 03505","subscribed":true}

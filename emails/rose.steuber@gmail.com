@@ -1,1 +1,0 @@
-{"name":"Mr. Roderick Hudson","email":"rose.steuber@gmail.com","address":"5227 Teresa Gateway\nSouth Tayamouth, NY 56881","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Isaias Konopelski III","email":"justus.maggio@gmail.com","address":"309 Aletha Mountains Apt. 937\nJoborough, VA 02239-4785","subscribed":true}

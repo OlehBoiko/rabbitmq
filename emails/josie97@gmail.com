@@ -1,1 +1,0 @@
-{"name":"Dr. Josue Blanda PhD","email":"josie97@gmail.com","address":"90209 Braulio Islands Suite 065\nEast Wallace, LA 46560","subscribed":true}

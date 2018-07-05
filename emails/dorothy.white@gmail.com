@@ -1,1 +1,0 @@
-{"name":"Prof. Seamus Gottlieb V","email":"dorothy.white@gmail.com","address":"423 Sauer Skyway\nGerholdside, NY 78461","subscribed":true}

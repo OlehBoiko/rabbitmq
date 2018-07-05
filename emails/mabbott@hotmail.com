@@ -1,1 +1,0 @@
-{"name":"Rosemarie Littel","email":"mabbott@hotmail.com","address":"521 Goodwin Mission Apt. 054\nHoegerfort, HI 38004","subscribed":true}

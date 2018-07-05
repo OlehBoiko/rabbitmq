@@ -1,1 +1,0 @@
-{"name":"Prof. Gregory Russel DDS","email":"leannon.elissa@abbott.com","address":"72384 Otis Center Apt. 843\nEbertborough, WY 48710-8627","subscribed":true}

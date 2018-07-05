@@ -1,1 +1,0 @@
-{"name":"Hardy Jakubowski","email":"maxwell.price@gmail.com","address":"99470 Lionel Shoal Suite 142\nNew Marcelinoside, KS 44333-0880","subscribed":true}

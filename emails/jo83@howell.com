@@ -1,1 +1,0 @@
-{"name":"Ms. Justina Rice","email":"jo83@howell.com","address":"879 Lucienne Circles\nWest Yasminechester, TX 98516","subscribed":true}

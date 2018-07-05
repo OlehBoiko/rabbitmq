@@ -1,1 +1,0 @@
-{"name":"Prof. Reyna Barrows","email":"lorenz.pfannerstill@feeney.com","address":"184 Kub Cliffs Suite 516\nGodfreyberg, CO 50376","subscribed":true}

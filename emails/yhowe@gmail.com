@@ -1,1 +1,0 @@
-{"name":"Fermin Schuppe","email":"yhowe@gmail.com","address":"241 Willms Shoal Suite 032\nEast Noemyton, SC 43005-6764","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Scottie Cole","email":"marlene.rosenbaum@gmail.com","address":"22908 Volkman Mill\nMafaldachester, MI 50609","subscribed":true}

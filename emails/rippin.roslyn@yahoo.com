@@ -1,1 +1,0 @@
-{"name":"Mr. Jules Lang PhD","email":"rippin.roslyn@yahoo.com","address":"34057 Hand Knolls\nPort Muhammad, NJ 01213","subscribed":true}

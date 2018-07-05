@@ -1,1 +1,0 @@
-{"name":"Prof. Maiya Schmitt DVM","email":"sammie97@nitzsche.com","address":"45384 Paucek Spring\nWest Otto, SD 46632-6338","subscribed":true}

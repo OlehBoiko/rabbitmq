@@ -1,1 +1,0 @@
-{"name":"Abe Jast","email":"hegmann.abbey@dooley.org","address":"59550 Harris Rest Suite 270\nLake Arnoldville, ND 43180-8861","subscribed":true}

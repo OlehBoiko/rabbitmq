@@ -1,1 +1,0 @@
-{"name":"Carmella Waelchi I","email":"lindgren.magali@hackett.com","address":"65548 Calista Oval\nSouth Joaquin, IN 27075","subscribed":true}

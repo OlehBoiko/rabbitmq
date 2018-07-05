@@ -1,1 +1,0 @@
-{"name":"Prof. Jared Beahan","email":"janice97@yahoo.com","address":"645 Winona Dale Apt. 562\nTheaview, MT 00204-9838","subscribed":true}

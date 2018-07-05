@@ -1,1 +1,0 @@
-{"name":"Dr. Tyrique Rice MD","email":"leuschke.lukas@simonis.com","address":"78740 Amelia Pines Suite 044\nAngelhaven, MS 56402","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Stanford Ratke","email":"sofia.oreilly@collier.com","address":"80483 Kihn Crossroad\nNew Rubychester, NJ 23960","subscribed":true}

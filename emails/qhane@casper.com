@@ -1,1 +1,0 @@
-{"name":"Ulices Funk","email":"qhane@casper.com","address":"78616 Sporer Forks Apt. 972\nMaeveborough, NY 39246","subscribed":true}

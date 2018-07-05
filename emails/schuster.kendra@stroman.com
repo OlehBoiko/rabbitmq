@@ -1,1 +1,0 @@
-{"name":"Lulu Towne","email":"schuster.kendra@stroman.com","address":"31808 Kunde Trace Apt. 870\nSouth Oceane, CT 11589","subscribed":true}

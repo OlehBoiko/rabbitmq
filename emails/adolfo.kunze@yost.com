@@ -1,1 +1,0 @@
-{"name":"Hanna Stark III","email":"adolfo.kunze@yost.com","address":"663 Cathryn Glens Suite 412\nBrianafort, AL 45892","subscribed":true}

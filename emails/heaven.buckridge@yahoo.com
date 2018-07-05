@@ -1,1 +1,0 @@
-{"name":"Dr. Arnaldo Kunze","email":"heaven.buckridge@yahoo.com","address":"796 Balistreri Mountains\nNew Pansy, IA 43987-0890","subscribed":true}

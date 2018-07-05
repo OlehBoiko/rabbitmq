@@ -1,1 +1,0 @@
-{"name":"Ray Yundt III","email":"pat.dubuque@yahoo.com","address":"511 Amya Canyon Suite 530\nDewayneville, GA 39073-5230","subscribed":true}

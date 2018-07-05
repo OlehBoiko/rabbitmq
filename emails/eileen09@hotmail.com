@@ -1,1 +1,0 @@
-{"name":"Sandra Konopelski","email":"eileen09@hotmail.com","address":"36817 Stamm Fork Suite 489\nJaskolskiton, OK 89324","subscribed":true}

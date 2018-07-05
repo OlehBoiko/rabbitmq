@@ -1,1 +1,0 @@
-{"name":"Geoffrey Lubowitz","email":"lebsack.veda@hotmail.com","address":"941 Obie Radial\nNorth Mackmouth, OR 06211-3803","subscribed":true}

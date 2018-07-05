@@ -1,1 +1,0 @@
-{"name":"Gideon Fadel","email":"kozey.fredy@hotmail.com","address":"206 Witting Falls\nYundtland, WV 85697-6794","subscribed":true}

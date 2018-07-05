@@ -1,1 +1,0 @@
-{"name":"Prof. Dorris Gleichner DDS","email":"xprohaska@purdy.com","address":"6968 Denis Prairie\nMillerville, CA 66336-3849","subscribed":true}

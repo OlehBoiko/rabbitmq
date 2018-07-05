@@ -1,1 +1,0 @@
-{"name":"Sally Lindgren","email":"kfahey@yahoo.com","address":"69477 Ernser Burgs Suite 971\nLabadietown, AL 94532","subscribed":true}

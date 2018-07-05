@@ -1,1 +1,0 @@
-{"name":"Griffin Schulist","email":"eldridge73@sawayn.com","address":"380 Chanel Loaf\nBechtelarport, MI 05091","subscribed":true}

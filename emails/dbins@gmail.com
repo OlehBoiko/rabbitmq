@@ -1,1 +1,0 @@
-{"name":"Miss Lisette Powlowski PhD","email":"dbins@gmail.com","address":"37190 Armstrong Plains Suite 406\nStiedemannville, CO 30737","subscribed":true}

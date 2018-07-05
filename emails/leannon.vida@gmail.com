@@ -1,1 +1,0 @@
-{"name":"Nathan Wisozk DVM","email":"leannon.vida@gmail.com","address":"284 Benton Coves Suite 836\nMaggioport, NY 61023","subscribed":true}

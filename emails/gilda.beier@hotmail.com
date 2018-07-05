@@ -1,1 +1,0 @@
-{"name":"Dr. Domenic Stark III","email":"gilda.beier@hotmail.com","address":"2242 Hoeger Course\nSouth Natalie, MA 81021","subscribed":true}

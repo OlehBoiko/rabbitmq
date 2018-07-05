@@ -1,1 +1,0 @@
-{"name":"Raymond Dicki","email":"trinity84@hotmail.com","address":"63355 Kendall Gateway Apt. 346\nStreichborough, MN 58575","subscribed":true}

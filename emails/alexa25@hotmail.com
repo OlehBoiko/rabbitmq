@@ -1,1 +1,0 @@
-{"name":"Simeon D'Amore","email":"alexa25@hotmail.com","address":"94099 Haag Harbor\nCroninfort, SC 87615-2685","subscribed":true}

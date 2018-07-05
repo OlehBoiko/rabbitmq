@@ -1,1 +1,0 @@
-{"name":"Luigi Langosh","email":"gusikowski.dominic@botsford.com","address":"752 Mireille Alley Apt. 557\nNew Elmer, WV 64200","subscribed":true}

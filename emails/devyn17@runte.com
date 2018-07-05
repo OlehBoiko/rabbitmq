@@ -1,1 +1,0 @@
-{"name":"Agnes Kirlin","email":"devyn17@runte.com","address":"106 Wilber Burg\nNorth Shayne, OR 93790","subscribed":true}

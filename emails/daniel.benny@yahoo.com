@@ -1,1 +1,0 @@
-{"name":"Golden Bosco","email":"daniel.benny@yahoo.com","address":"334 Pfeffer Wall Suite 044\nNorth Cornelltown, NH 30276-1755","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Salvador Batz II","email":"stanford31@hotmail.com","address":"20151 Rene Coves Apt. 302\nNorth Jarvisland, WV 53095-4154","subscribed":true}

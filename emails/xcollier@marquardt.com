@@ -1,1 +1,0 @@
-{"name":"Maude Moore","email":"xcollier@marquardt.com","address":"803 Purdy Inlet Suite 369\nSouth Shainabury, NE 46965","subscribed":true}

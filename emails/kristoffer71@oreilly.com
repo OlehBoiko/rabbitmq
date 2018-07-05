@@ -1,1 +1,0 @@
-{"name":"Prof. Pamela Beahan Jr.","email":"kristoffer71@oreilly.com","address":"4769 Gaylord Burgs Suite 077\nSouth Cielostad, UT 35494-6266","subscribed":true}

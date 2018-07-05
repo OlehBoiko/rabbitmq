@@ -1,1 +1,0 @@
-{"name":"Prof. Quinten Hayes","email":"maximo.kuhn@yahoo.com","address":"85435 Shane Club\nReichertton, ME 09031-8760","subscribed":true}

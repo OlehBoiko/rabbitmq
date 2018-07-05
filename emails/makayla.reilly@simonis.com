@@ -1,1 +1,0 @@
-{"name":"Cole Wyman II","email":"makayla.reilly@simonis.com","address":"803 Mueller Stravenue\nPort Flavieside, IL 31870","subscribed":true}

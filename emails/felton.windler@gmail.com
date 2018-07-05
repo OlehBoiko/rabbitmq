@@ -1,1 +1,0 @@
-{"name":"Prof. Hilda Mueller","email":"felton.windler@gmail.com","address":"31441 Considine Drive Suite 657\nKiehnhaven, CO 37140","subscribed":true}

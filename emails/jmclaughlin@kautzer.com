@@ -1,1 +1,0 @@
-{"name":"Prof. Easter Ortiz MD","email":"jmclaughlin@kautzer.com","address":"755 Alyson Estate\nMcGlynnview, CA 16365-8037","subscribed":true}

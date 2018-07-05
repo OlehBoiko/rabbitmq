@@ -1,1 +1,0 @@
-{"name":"Minnie Kris","email":"schmeler.viviane@hotmail.com","address":"7348 Dooley Curve Suite 144\nWest Queen, MA 73274-5987","subscribed":true}

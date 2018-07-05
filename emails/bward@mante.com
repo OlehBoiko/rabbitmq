@@ -1,1 +1,0 @@
-{"name":"Fermin Kunze","email":"bward@mante.com","address":"96591 Hane Spurs\nTyriqueborough, OH 65231","subscribed":true}

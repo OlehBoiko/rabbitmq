@@ -1,1 +1,0 @@
-{"name":"Dina Schowalter","email":"schmeler.alessandro@leuschke.com","address":"99115 Kuphal Coves Suite 598\nEast Nasirton, IL 76911","subscribed":true}

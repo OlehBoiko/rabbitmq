@@ -1,1 +1,0 @@
-{"name":"Dr. Isaias Beatty II","email":"demarco.huels@yahoo.com","address":"32636 Herbert Throughway Apt. 369\nEldridgebury, MD 42450","subscribed":true}

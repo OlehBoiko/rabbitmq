@@ -1,1 +1,0 @@
-{"name":"Ms. Georgianna Streich","email":"frice@hotmail.com","address":"93825 Cristobal Locks Suite 066\nEast Emmittville, CT 85961-2859","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Lincoln Cummings MD","email":"tdonnelly@gmail.com","address":"15578 Rogahn Isle Suite 268\nOrlandobury, WI 37685-1377","subscribed":true}

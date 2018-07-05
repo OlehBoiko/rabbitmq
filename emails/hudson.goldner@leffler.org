@@ -1,1 +1,0 @@
-{"name":"Samanta Kuhn","email":"hudson.goldner@leffler.org","address":"96356 Lindgren Village\nNew Vicentaside, ND 04728","subscribed":true}

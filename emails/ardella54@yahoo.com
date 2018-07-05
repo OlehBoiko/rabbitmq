@@ -1,1 +1,0 @@
-{"name":"Ms. Amie McGlynn","email":"ardella54@yahoo.com","address":"828 Jodie Coves\nNorth Alexandrea, MN 75147","subscribed":true}

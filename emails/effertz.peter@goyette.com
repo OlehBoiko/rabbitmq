@@ -1,1 +1,0 @@
-{"name":"Cara King","email":"effertz.peter@goyette.com","address":"7830 Feeney Track Suite 080\nEast Sandy, OK 29137","subscribed":true}

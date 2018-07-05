@@ -1,1 +1,0 @@
-{"name":"Fermin Schaden","email":"mueller.lorenza@crona.com","address":"26194 Bonnie Curve\nMillsville, AL 39561-5144","subscribed":true}

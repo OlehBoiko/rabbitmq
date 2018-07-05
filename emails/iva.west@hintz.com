@@ -1,1 +1,0 @@
-{"name":"Prof. Jarrod Schumm","email":"iva.west@hintz.com","address":"2496 Kovacek Well\nLake Trent, TN 56479-8124","subscribed":true}

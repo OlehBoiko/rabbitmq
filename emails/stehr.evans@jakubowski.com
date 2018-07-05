@@ -1,1 +1,0 @@
-{"name":"Betsy Bogan","email":"stehr.evans@jakubowski.com","address":"757 Victor Well Suite 495\nKuvalisburgh, AL 33278","subscribed":true}

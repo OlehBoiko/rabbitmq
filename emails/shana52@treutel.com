@@ -1,1 +1,0 @@
-{"name":"Mrs. Aurore Wuckert","email":"shana52@treutel.com","address":"811 Spinka Forest\nJoanyshire, WI 46228","subscribed":true}

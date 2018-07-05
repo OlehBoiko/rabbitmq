@@ -1,1 +1,0 @@
-{"name":"Mrs. Pearl White","email":"hfritsch@hand.com","address":"28069 Schaefer Gardens\nWest Violaburgh, MO 99018","subscribed":true}

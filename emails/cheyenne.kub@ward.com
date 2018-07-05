@@ -1,1 +1,0 @@
-{"name":"Horacio Stoltenberg","email":"cheyenne.kub@ward.com","address":"428 Solon Village\nBahringerfurt, MO 19895","subscribed":true}

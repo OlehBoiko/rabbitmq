@@ -1,1 +1,0 @@
-{"name":"Prof. Vickie Lubowitz","email":"tyra.kohler@yahoo.com","address":"8003 Brekke Branch\nPort Jeffhaven, MA 23654-4955","subscribed":true}

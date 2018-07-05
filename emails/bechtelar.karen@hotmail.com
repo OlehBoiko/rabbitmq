@@ -1,1 +1,0 @@
-{"name":"Prof. Max Hilll","email":"bechtelar.karen@hotmail.com","address":"91869 Abigale Islands\nDanielberg, ID 76480-8345","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Miss Caterina Schmeler PhD","email":"berge.mike@hotmail.com","address":"658 Gerardo Tunnel Suite 804\nCicerobury, SD 12258","subscribed":true}

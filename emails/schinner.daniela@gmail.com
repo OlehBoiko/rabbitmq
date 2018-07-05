@@ -1,1 +1,0 @@
-{"name":"Fausto Ritchie","email":"schinner.daniela@gmail.com","address":"468 Ziemann Vista Apt. 814\nSchroederside, MT 68774","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Martin Rosenbaum I","email":"kromaguera@legros.com","address":"29027 Maxine Run Suite 007\nNew Kaylafurt, VA 43382-4664","subscribed":true}

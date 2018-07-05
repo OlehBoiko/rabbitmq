@@ -1,1 +1,0 @@
-{"name":"Earline West","email":"claire26@gmail.com","address":"9420 Ziemann Squares\nNorth Pinkiehaven, HI 22318","subscribed":true}

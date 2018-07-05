@@ -1,1 +1,0 @@
-{"name":"Prof. Lula Roob PhD","email":"kozey.addie@gmail.com","address":"375 Mann Ferry\nSouth Malcolmtown, DE 21803","subscribed":true}

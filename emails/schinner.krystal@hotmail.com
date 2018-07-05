@@ -1,1 +1,0 @@
-{"name":"Luz Schiller","email":"schinner.krystal@hotmail.com","address":"1845 Marquardt Isle Suite 530\nNew Onie, OK 96221","subscribed":true}

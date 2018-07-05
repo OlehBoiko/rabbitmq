@@ -1,1 +1,0 @@
-{"name":"Mable Schinner","email":"gulgowski.larissa@veum.com","address":"932 Ruecker Station\nBuckridgeburgh, WI 68880-4950","subscribed":true}

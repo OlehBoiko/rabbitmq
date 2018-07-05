@@ -1,1 +1,0 @@
-{"name":"Dr. Lindsey Wolf","email":"pasquale.roob@yahoo.com","address":"76344 Santiago Mews Suite 496\nGutmannfurt, OH 25277","subscribed":true}

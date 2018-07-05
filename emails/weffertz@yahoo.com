@@ -1,1 +1,0 @@
-{"name":"Shania Konopelski","email":"weffertz@yahoo.com","address":"39508 Heaney View Suite 780\nNew Lucy, NM 88828-2489","subscribed":true}

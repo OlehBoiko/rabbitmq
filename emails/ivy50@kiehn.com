@@ -1,1 +1,0 @@
-{"name":"Mrs. Jenifer Schinner Sr.","email":"ivy50@kiehn.com","address":"353 Bernadine Extensions Suite 512\nNorth Cesarton, IL 97580-7386","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ora Friesen","email":"qdooley@herzog.com","address":"1429 Dallin Loop Apt. 143\nLenoreview, NY 87306","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Louisa Sipes","email":"rippin.verna@bogan.com","address":"25084 Alejandrin Plaza Apt. 005\nConroyland, AR 86026-7194","subscribed":true}

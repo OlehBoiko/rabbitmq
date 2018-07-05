@@ -1,1 +1,0 @@
-{"name":"Prof. Jamison Hoeger","email":"thalia09@kling.com","address":"7838 Jast Dam\nWest Hollieville, FL 32120","subscribed":true}

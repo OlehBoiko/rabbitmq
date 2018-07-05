@@ -1,1 +1,0 @@
-{"name":"Alanna Senger","email":"julianne.hane@wiegand.com","address":"7532 Jay Mountain\nWelchville, AK 35365","subscribed":true}

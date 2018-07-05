@@ -1,1 +1,0 @@
-{"name":"Prof. Alex Gorczany MD","email":"braun.evert@donnelly.com","address":"1606 Mertz Village Apt. 400\nPort Travon, GA 19144","subscribed":true}

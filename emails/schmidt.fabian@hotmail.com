@@ -1,1 +1,0 @@
-{"name":"Cortney Walker","email":"schmidt.fabian@hotmail.com","address":"388 Boyer Springs Suite 677\nSouth Eugenia, MI 96469","subscribed":true}

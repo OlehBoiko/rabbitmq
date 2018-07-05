@@ -1,1 +1,0 @@
-{"name":"Prof. Christian Durgan","email":"dorian.aufderhar@windler.com","address":"271 Barton Forks Apt. 254\nWest Keon, NY 58652-8220","subscribed":true}

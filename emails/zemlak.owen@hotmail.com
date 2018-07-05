@@ -1,1 +1,0 @@
-{"name":"Prof. Carol Stanton PhD","email":"zemlak.owen@hotmail.com","address":"6669 Reichel Well Suite 882\nNeldaview, AL 33742","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Foster Hills Sr.","email":"mcglynn.tessie@gmail.com","address":"41051 Annabel Throughway Apt. 250\nNew Bradly, UT 88279","subscribed":true}

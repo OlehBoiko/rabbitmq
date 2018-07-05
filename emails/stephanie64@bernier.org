@@ -1,1 +1,0 @@
-{"name":"Christelle Doyle","email":"stephanie64@bernier.org","address":"2958 Douglas Well Apt. 095\nPort Sandraside, MS 35264-7759","subscribed":true}

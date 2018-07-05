@@ -1,1 +1,0 @@
-{"name":"Mrs. Anissa Mitchell I","email":"durgan.angeline@strosin.com","address":"5479 Chadrick Ramp\nMaeganmouth, KY 31841","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Chelsey Hand Jr.","email":"trantow.dayne@eichmann.com","address":"3506 Schneider Crest Suite 596\nGreenfelderton, AL 75445-3119","subscribed":true}

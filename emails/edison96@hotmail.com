@@ -1,1 +1,0 @@
-{"name":"Prof. Jermey Kautzer","email":"edison96@hotmail.com","address":"2923 Thiel Stream Suite 044\nPort Kiera, OK 52312","subscribed":true}

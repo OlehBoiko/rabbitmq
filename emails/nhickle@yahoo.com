@@ -1,1 +1,0 @@
-{"name":"Derrick Blanda PhD","email":"nhickle@yahoo.com","address":"80806 Tania Gateway\nNickolasside, AZ 43616","subscribed":true}

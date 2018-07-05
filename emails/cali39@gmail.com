@@ -1,1 +1,0 @@
-{"name":"Efrain Adams","email":"cali39@gmail.com","address":"5509 Roselyn Center\nGavinshire, OH 03489","subscribed":true}

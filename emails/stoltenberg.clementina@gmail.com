@@ -1,1 +1,0 @@
-{"name":"Rafael Botsford","email":"stoltenberg.clementina@gmail.com","address":"57881 McLaughlin Wells Suite 321\nBoyerfort, CO 87469","subscribed":true}

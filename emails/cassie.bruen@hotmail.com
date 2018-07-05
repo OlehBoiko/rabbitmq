@@ -1,1 +1,0 @@
-{"name":"Dr. Kale Fisher MD","email":"cassie.bruen@hotmail.com","address":"53749 Mueller Vista Apt. 942\nWuckertland, TN 84828","subscribed":true}

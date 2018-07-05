@@ -1,1 +1,0 @@
-{"name":"Prof. Chelsie Goyette","email":"effie12@hotmail.com","address":"720 Leuschke Fields Suite 128\nNorth Brainberg, WA 77437-2128","subscribed":true}

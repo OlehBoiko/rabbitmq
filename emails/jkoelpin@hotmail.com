@@ -1,1 +1,0 @@
-{"name":"Prof. Jean Will V","email":"jkoelpin@hotmail.com","address":"611 Timmy Highway\nLake Wavaside, MO 78455-6645","subscribed":true}

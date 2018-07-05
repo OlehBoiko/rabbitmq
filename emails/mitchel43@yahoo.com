@@ -1,1 +1,0 @@
-{"name":"Marvin Waelchi MD","email":"mitchel43@yahoo.com","address":"664 Eduardo Curve\nNorth Jessycamouth, OR 32274-0663","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Magdalena Hoppe","email":"hpouros@yahoo.com","address":"563 Casper Way\nClarabury, TX 06255-5405","subscribed":true}

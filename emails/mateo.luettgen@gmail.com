@@ -1,1 +1,0 @@
-{"name":"Quincy Baumbach","email":"mateo.luettgen@gmail.com","address":"68429 Catherine Tunnel\nKittyton, WY 47537-7432","subscribed":true}

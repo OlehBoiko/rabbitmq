@@ -1,1 +1,0 @@
-{"name":"Federico Casper","email":"bernie.buckridge@yahoo.com","address":"6661 Grimes Branch\nRueckerville, RI 90169","subscribed":true}

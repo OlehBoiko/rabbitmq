@@ -1,1 +1,0 @@
-{"name":"Prof. Lazaro Harber","email":"howell.heathcote@yahoo.com","address":"3999 Carlee Point Suite 993\nSouth Alize, AR 60397","subscribed":true}

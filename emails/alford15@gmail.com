@@ -1,1 +1,0 @@
-{"name":"Roselyn Flatley DDS","email":"alford15@gmail.com","address":"162 Arlene Trafficway Apt. 243\nSchneidertown, SD 76744-6559","subscribed":true}

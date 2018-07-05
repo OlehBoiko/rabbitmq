@@ -1,1 +1,0 @@
-{"name":"Maxwell Schuppe","email":"garret.mueller@beatty.com","address":"908 Chesley Point\nEast Orval, IN 89834","subscribed":true}

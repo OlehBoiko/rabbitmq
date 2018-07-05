@@ -1,1 +1,0 @@
-{"name":"Prof. Retha Mueller MD","email":"lola.stiedemann@kuphal.com","address":"22656 Pamela Street Apt. 458\nHayeshaven, OH 21791","subscribed":true}

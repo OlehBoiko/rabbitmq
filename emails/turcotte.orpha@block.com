@@ -1,1 +1,0 @@
-{"name":"Kallie Davis","email":"turcotte.orpha@block.com","address":"40069 Arnold Row Suite 851\nCorwintown, OR 56802","subscribed":true}

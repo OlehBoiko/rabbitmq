@@ -1,1 +1,0 @@
-{"name":"Sophia Nitzsche DDS","email":"fcrist@hotmail.com","address":"765 Bergstrom Mountain\nBrandoland, SD 90558","subscribed":true}

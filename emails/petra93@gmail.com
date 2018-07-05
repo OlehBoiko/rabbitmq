@@ -1,1 +1,0 @@
-{"name":"Prof. Geovanny Beer MD","email":"petra93@gmail.com","address":"87422 Chelsie Fall\nVerdieville, NC 35283","subscribed":true}

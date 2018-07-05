@@ -1,1 +1,0 @@
-{"name":"Jabari Fadel","email":"klein.colton@konopelski.com","address":"22319 Christiansen Isle\nNorth Cooperfurt, UT 31565-6835","subscribed":true}

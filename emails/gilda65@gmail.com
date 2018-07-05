@@ -1,1 +1,0 @@
-{"name":"Prof. Eldora Gislason","email":"gilda65@gmail.com","address":"92510 Koss Glen\nNorth Savionchester, WV 16240","subscribed":true}

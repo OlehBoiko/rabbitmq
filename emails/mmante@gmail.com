@@ -1,1 +1,0 @@
-{"name":"Prof. Cary Kris DVM","email":"mmante@gmail.com","address":"6545 Henri Crescent\nPort Idellville, SD 52980","subscribed":true}

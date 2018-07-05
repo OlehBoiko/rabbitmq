@@ -1,1 +1,0 @@
-{"name":"Mrs. Wanda Kuvalis IV","email":"evie13@hartmann.com","address":"23749 Jailyn Plains Suite 966\nHackettview, TX 94820","subscribed":true}

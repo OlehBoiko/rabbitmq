@@ -1,1 +1,0 @@
-{"name":"Julian Kuhic","email":"vern.wolff@hotmail.com","address":"3305 Steuber Cove Suite 740\nRosalindstad, MI 13967","subscribed":true}

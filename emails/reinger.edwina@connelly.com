@@ -1,1 +1,0 @@
-{"name":"Madalyn Beer Jr.","email":"reinger.edwina@connelly.com","address":"563 Camden Islands\nJaskolskiland, RI 15880-6559","subscribed":true}

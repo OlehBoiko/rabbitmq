@@ -1,1 +1,0 @@
-{"name":"Mr. Josiah Buckridge","email":"gleason.scotty@yahoo.com","address":"93812 Morissette Spurs\nSofiaberg, MD 72200","subscribed":true}

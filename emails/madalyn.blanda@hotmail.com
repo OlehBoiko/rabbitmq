@@ -1,1 +1,0 @@
-{"name":"Dr. Clementine Hettinger","email":"madalyn.blanda@hotmail.com","address":"55610 Natalie Dam\nEast Alta, OH 91950","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Alec Ward","email":"buddy47@gmail.com","address":"7468 Deontae Burgs\nAnnabellton, SD 79680","subscribed":true}

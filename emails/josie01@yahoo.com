@@ -1,1 +1,0 @@
-{"name":"Patricia Cassin MD","email":"josie01@yahoo.com","address":"959 Aufderhar Brook\nSatterfieldbury, ID 35482-6265","subscribed":true}

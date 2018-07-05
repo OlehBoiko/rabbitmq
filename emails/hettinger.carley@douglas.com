@@ -1,1 +1,0 @@
-{"name":"Prof. Ahmad Trantow MD","email":"hettinger.carley@douglas.com","address":"40513 Harvey Way Suite 845\nJessikaton, NJ 24798-7000","subscribed":true}

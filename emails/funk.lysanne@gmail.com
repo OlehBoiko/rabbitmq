@@ -1,1 +1,0 @@
-{"name":"Prof. Hudson Jacobs II","email":"funk.lysanne@gmail.com","address":"5731 Flatley Street\nWest Maribelton, ND 26320","subscribed":true}

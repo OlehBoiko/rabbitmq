@@ -1,1 +1,0 @@
-{"name":"Prof. Sasha Jast","email":"vrolfson@gmail.com","address":"655 Dorothy Inlet\nEast Micah, CT 76711","subscribed":true}

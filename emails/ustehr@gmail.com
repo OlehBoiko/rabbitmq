@@ -1,1 +1,0 @@
-{"name":"Issac Wuckert","email":"ustehr@gmail.com","address":"48573 Fahey Plains Apt. 359\nSouth Leann, OH 05420","subscribed":true}

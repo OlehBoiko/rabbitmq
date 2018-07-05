@@ -1,1 +1,0 @@
-{"name":"Mr. Curtis Murphy","email":"donny.kessler@spencer.com","address":"388 Okuneva Vista Suite 439\nSchimmelbury, CO 25288","subscribed":true}

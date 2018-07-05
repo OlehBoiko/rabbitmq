@@ -1,1 +1,0 @@
-{"name":"Mr. Vladimir Hamill MD","email":"daniel.cornell@barrows.com","address":"603 Considine Hills Apt. 192\nOsinskifurt, ND 30634","subscribed":true}

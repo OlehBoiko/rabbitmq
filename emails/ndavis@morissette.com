@@ -1,1 +1,0 @@
-{"name":"Isaias Donnelly DVM","email":"ndavis@morissette.com","address":"3952 Nestor Manors Suite 148\nFeeneybury, AL 56681-6014","subscribed":true}

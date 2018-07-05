@@ -1,1 +1,0 @@
-{"name":"Miss Gabriella Oberbrunner","email":"elouise.kertzmann@rice.com","address":"615 Keebler Island Apt. 364\nFarrellbury, IL 32945","subscribed":true}

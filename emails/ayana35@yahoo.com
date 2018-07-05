@@ -1,1 +1,0 @@
-{"name":"Mr. Adolph McKenzie DVM","email":"ayana35@yahoo.com","address":"2860 Hintz Grove\nWaltonhaven, OK 59914","subscribed":true}

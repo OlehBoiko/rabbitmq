@@ -1,1 +1,0 @@
-{"name":"Malika Berge Jr.","email":"schinner.sarai@larkin.com","address":"603 Douglas Villages\nBatzstad, IL 99727","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Dean Kuvalis","email":"rafaela29@hotmail.com","address":"8598 Wiegand Shoals\nWest Krismouth, MT 17075-9157","subscribed":true}

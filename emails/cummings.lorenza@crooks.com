@@ -1,1 +1,0 @@
-{"name":"Maria Hayes","email":"cummings.lorenza@crooks.com","address":"95203 Schuppe Village\nWest Williefort, WY 07552-0864","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Veronica Lesch","email":"jaida51@friesen.com","address":"5514 Zboncak Island Apt. 043\nGaylordburgh, FL 39830","subscribed":true}

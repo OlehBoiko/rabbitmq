@@ -1,1 +1,0 @@
-{"name":"Carmelo Rutherford","email":"lessie.fadel@durgan.com","address":"5809 Schmidt Street Apt. 591\nLake Noble, PA 74608","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dakota Spencer Sr.","email":"stevie.mclaughlin@hotmail.com","address":"34826 Harold Route Apt. 368\nMagdalenafurt, SC 61910","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Jean Haley","email":"katrine46@davis.com","address":"351 Lonny Path\nMonahanshire, UT 56679-3727","subscribed":true}

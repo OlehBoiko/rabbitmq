@@ -1,1 +1,0 @@
-{"name":"Miss Magdalen Mayer","email":"balistreri.kyleigh@gmail.com","address":"45814 Okuneva Plains Suite 335\nStoltenbergtown, MS 83468","subscribed":true}

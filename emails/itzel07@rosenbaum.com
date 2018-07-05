@@ -1,1 +1,0 @@
-{"name":"Mrs. Allison Wyman PhD","email":"itzel07@rosenbaum.com","address":"291 Quinten Burgs Apt. 285\nLake Demarcusfurt, KS 74101","subscribed":true}

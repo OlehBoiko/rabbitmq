@@ -1,1 +1,0 @@
-{"name":"Prof. Theresia Jacobi MD","email":"nitzsche.earnestine@hotmail.com","address":"3269 Elian Stravenue Apt. 499\nSalvadorfurt, LA 73593-5035","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Tommie Reichel DDS","email":"weimann.casey@stanton.com","address":"472 Dicki Landing Suite 739\nEast Halie, CA 21836","subscribed":true}

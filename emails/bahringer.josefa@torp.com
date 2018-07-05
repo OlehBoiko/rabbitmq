@@ -1,1 +1,0 @@
-{"name":"Dr. Lionel Parisian PhD","email":"bahringer.josefa@torp.com","address":"66095 Weimann Parkway\nOlenview, AK 13935","subscribed":true}

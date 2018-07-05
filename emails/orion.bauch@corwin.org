@@ -1,1 +1,0 @@
-{"name":"Mr. Wilson Bernier I","email":"orion.bauch@corwin.org","address":"27047 Senger View Apt. 447\nWest Julius, LA 80634-7971","subscribed":true}

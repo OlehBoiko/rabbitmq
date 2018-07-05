@@ -1,1 +1,0 @@
-{"name":"Burnice Stehr","email":"krajcik.adela@bahringer.com","address":"62204 Haven Canyon Apt. 215\nNew Krystaltown, MD 65981-2813","subscribed":true}

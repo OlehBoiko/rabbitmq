@@ -1,1 +1,0 @@
-{"name":"Bethany Schulist","email":"kessler.thalia@yahoo.com","address":"334 Jaskolski Alley Apt. 509\nFordfurt, MA 38569-7234","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Stanton Halvorson","email":"kristian.mclaughlin@weissnat.com","address":"16139 Klocko Dam\nEast Kaden, VT 73720-5930","subscribed":true}

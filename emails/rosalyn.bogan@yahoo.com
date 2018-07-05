@@ -1,1 +1,0 @@
-{"name":"Bernadette Hilpert","email":"rosalyn.bogan@yahoo.com","address":"229 Abdullah Branch\nAndrewstad, AR 00437-4747","subscribed":true}

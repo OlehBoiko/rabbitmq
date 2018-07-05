@@ -1,1 +1,0 @@
-{"name":"Prof. Judy Schumm PhD","email":"dkovacek@yahoo.com","address":"261 Hipolito Harbor Suite 810\nConnormouth, OR 27630-1163","subscribed":true}

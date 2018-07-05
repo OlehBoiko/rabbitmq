@@ -1,1 +1,0 @@
-{"name":"Jacques Wintheiser","email":"demetrius.corwin@yahoo.com","address":"804 Clair Parkway Suite 821\nEast Carmelomouth, ND 23181","subscribed":true}

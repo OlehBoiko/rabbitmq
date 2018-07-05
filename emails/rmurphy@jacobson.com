@@ -1,1 +1,0 @@
-{"name":"Charley Adams","email":"rmurphy@jacobson.com","address":"2675 Pacocha Way\nEast Tia, UT 13572","subscribed":true}

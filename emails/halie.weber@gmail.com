@@ -1,1 +1,0 @@
-{"name":"Javier Purdy I","email":"halie.weber@gmail.com","address":"41389 Eichmann Well Apt. 418\nPort Gussie, UT 57224","subscribed":true}

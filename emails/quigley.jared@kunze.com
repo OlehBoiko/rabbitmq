@@ -1,1 +1,0 @@
-{"name":"Dr. Jodie Cole II","email":"quigley.jared@kunze.com","address":"920 Adrain Square Suite 790\nWest Cristobalbury, WV 04312-1789","subscribed":true}

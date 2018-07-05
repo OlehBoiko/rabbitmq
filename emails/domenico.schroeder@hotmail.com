@@ -1,1 +1,0 @@
-{"name":"Jade Satterfield","email":"domenico.schroeder@hotmail.com","address":"3316 Carter Wall\nWest Bridgetfurt, DC 39984","subscribed":true}

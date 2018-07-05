@@ -1,1 +1,0 @@
-{"name":"Mr. Pete Stehr","email":"batz.isadore@corkery.com","address":"2917 Hodkiewicz Falls Apt. 952\nLake Jonathan, MO 42057","subscribed":true}

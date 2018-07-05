@@ -1,1 +1,0 @@
-{"name":"Virgil Kassulke II","email":"tremblay.ashly@hotmail.com","address":"66981 Lorenzo Overpass Suite 005\nNorth Demond, MO 67744-4915","subscribed":true}

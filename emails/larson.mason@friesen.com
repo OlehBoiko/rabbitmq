@@ -1,1 +1,0 @@
-{"name":"Prof. Colton Kuhn II","email":"larson.mason@friesen.com","address":"20275 VonRueden Plaza\nRobelmouth, TN 59444","subscribed":true}

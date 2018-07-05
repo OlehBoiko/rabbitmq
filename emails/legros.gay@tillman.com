@@ -1,1 +1,0 @@
-{"name":"Dr. Brad Daugherty DDS","email":"legros.gay@tillman.com","address":"6893 Bonita Prairie\nO'Connellville, AK 90815","subscribed":true}

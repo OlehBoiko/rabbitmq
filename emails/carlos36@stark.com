@@ -1,1 +1,0 @@
-{"name":"Prof. Giovani Shanahan III","email":"carlos36@stark.com","address":"946 VonRueden Bridge\nRutherfordfurt, AL 18003","subscribed":true}

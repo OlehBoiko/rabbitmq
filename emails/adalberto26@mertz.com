@@ -1,1 +1,0 @@
-{"name":"Theo Kulas","email":"adalberto26@mertz.com","address":"2910 Angelita Keys\nKingmouth, WY 45877","subscribed":true}

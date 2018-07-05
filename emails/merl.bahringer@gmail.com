@@ -1,1 +1,0 @@
-{"name":"Prof. Nathaniel Russel","email":"merl.bahringer@gmail.com","address":"3684 Jaylen Cove Apt. 574\nWeberview, IN 61718","subscribed":true}

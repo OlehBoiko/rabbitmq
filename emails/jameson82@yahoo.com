@@ -1,1 +1,0 @@
-{"name":"Dr. Arturo Dach DDS","email":"jameson82@yahoo.com","address":"4922 Gloria Harbor Apt. 899\nBrekketon, GA 73446","subscribed":true}

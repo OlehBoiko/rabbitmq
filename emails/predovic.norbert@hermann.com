@@ -1,1 +1,0 @@
-{"name":"Tad Wisozk","email":"predovic.norbert@hermann.com","address":"512 Patricia Divide\nNew Reynold, MD 41767-7770","subscribed":true}

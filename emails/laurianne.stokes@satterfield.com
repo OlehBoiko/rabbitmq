@@ -1,1 +1,0 @@
-{"name":"German Lakin","email":"laurianne.stokes@satterfield.com","address":"374 Monserrat Square Suite 302\nWatersmouth, VA 99743","subscribed":true}

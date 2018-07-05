@@ -1,1 +1,0 @@
-{"name":"Prof. Sam Daniel Sr.","email":"wisoky.sandrine@langosh.com","address":"581 Yost Lakes Apt. 839\nLake Fernando, WI 65011-1539","subscribed":true}

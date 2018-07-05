@@ -1,1 +1,0 @@
-{"name":"Mr. Loy Dicki","email":"dejuan.gleason@yahoo.com","address":"150 Fanny Shore\nEast Alysa, CA 47222","subscribed":true}

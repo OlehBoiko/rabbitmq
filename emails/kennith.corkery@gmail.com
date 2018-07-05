@@ -1,1 +1,0 @@
-{"name":"Dr. Adella Gulgowski","email":"kennith.corkery@gmail.com","address":"8890 Funk Meadow\nWest Karson, KS 48809","subscribed":true}

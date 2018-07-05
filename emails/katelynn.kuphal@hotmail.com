@@ -1,1 +1,0 @@
-{"name":"Jody Schmeler MD","email":"katelynn.kuphal@hotmail.com","address":"7088 Lera Stravenue Apt. 317\nEast Dario, TX 08762","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Santiago Kuhic","email":"halvorson.americo@yahoo.com","address":"222 Osinski Highway Suite 714\nRaushire, LA 25136-8512","subscribed":true}

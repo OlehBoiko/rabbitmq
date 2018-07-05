@@ -1,1 +1,0 @@
-{"name":"Beryl Stark","email":"joaquin.smith@morar.com","address":"19773 Metz Springs\nToyberg, CT 92427-8164","subscribed":true}

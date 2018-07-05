@@ -1,1 +1,0 @@
-{"name":"Prof. Emmanuelle Farrell","email":"kamryn.harber@gulgowski.com","address":"604 Jacklyn Burgs\nEast Emmaland, GA 31098","subscribed":true}

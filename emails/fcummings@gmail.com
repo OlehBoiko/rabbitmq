@@ -1,1 +1,0 @@
-{"name":"Dr. Derrick Schaden I","email":"fcummings@gmail.com","address":"1822 Velva Courts Suite 005\nTrompburgh, IN 65996","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Steve Schaden","email":"imelda.schinner@bergnaum.com","address":"248 Oren Roads\nNew Andreanneshire, NJ 48991","subscribed":true}

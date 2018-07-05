@@ -1,1 +1,0 @@
-{"name":"Prof. Hal Crist","email":"serena46@yahoo.com","address":"6379 Windler Drive\nWilkinsonfurt, OH 69037","subscribed":true}

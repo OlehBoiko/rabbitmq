@@ -1,1 +1,0 @@
-{"name":"Ned Kerluke","email":"eschuppe@satterfield.org","address":"26471 Tremaine Lane\nSanfordberg, VA 83350-7543","subscribed":true}

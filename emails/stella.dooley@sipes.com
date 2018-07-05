@@ -1,1 +1,0 @@
-{"name":"Albina Blick I","email":"stella.dooley@sipes.com","address":"2809 Margarete Trace\nNew Cindy, MD 79037","subscribed":true}

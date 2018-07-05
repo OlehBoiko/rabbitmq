@@ -1,1 +1,0 @@
-{"name":"Alfonzo Weimann","email":"nweber@gleason.com","address":"62440 Danika Ridges Suite 538\nPort Kenland, TN 08570","subscribed":true}

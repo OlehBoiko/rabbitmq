@@ -1,1 +1,0 @@
-{"name":"Norris Jacobi","email":"yschaden@labadie.org","address":"2332 Mills Points\nLaurynberg, AR 44364","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Jeramie Bogisich DVM","email":"qryan@yahoo.com","address":"4914 Ethan Fork Apt. 799\nEast Alejandrinbury, DE 60268","subscribed":true}

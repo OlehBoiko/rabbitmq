@@ -1,1 +1,0 @@
-{"name":"Dr. Tyler Tillman V","email":"tward@torp.org","address":"5698 Bartell Landing Suite 828\nLake Nikita, GA 17471","subscribed":true}

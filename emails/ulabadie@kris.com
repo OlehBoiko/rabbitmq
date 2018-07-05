@@ -1,1 +1,0 @@
-{"name":"Prof. Herminia Maggio MD","email":"ulabadie@kris.com","address":"400 Addie Harbor\nPort Mallie, SC 84082","subscribed":true}

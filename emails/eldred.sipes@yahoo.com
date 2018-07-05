@@ -1,1 +1,0 @@
-{"name":"Mose Gislason","email":"eldred.sipes@yahoo.com","address":"511 Wiza Camp\nBrakusbury, MA 20035","subscribed":true}

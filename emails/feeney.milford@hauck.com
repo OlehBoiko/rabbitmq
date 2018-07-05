@@ -1,1 +1,0 @@
-{"name":"Mr. Chester Lakin IV","email":"feeney.milford@hauck.com","address":"52904 Bahringer Inlet Apt. 984\nLake Gino, ID 07532","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Clifton Streich","email":"eichmann.trenton@smith.com","address":"3978 Reinger Drives\nNelleton, AR 43429","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Sarah Deckow","email":"ricardo99@yahoo.com","address":"756 Beahan Wall Apt. 108\nHahnmouth, WA 15620","subscribed":true}

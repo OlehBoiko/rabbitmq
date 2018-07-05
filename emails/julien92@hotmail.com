@@ -1,1 +1,0 @@
-{"name":"Prof. Broderick Schinner Sr.","email":"julien92@hotmail.com","address":"2200 Schamberger Rest Suite 916\nFraneckifurt, OH 42581","subscribed":true}

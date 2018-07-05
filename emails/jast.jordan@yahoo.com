@@ -1,1 +1,0 @@
-{"name":"Prof. Agustin Kilback II","email":"jast.jordan@yahoo.com","address":"7428 Rhea Corner\nPort Laurenville, NH 01445","subscribed":true}

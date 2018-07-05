@@ -1,1 +1,0 @@
-{"name":"Kellie Legros Sr.","email":"paucek.ernest@homenick.com","address":"172 Kris Cliff\nGutmannstad, ND 79760-2848","subscribed":true}

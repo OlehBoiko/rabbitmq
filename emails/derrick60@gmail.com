@@ -1,1 +1,0 @@
-{"name":"Demarco Mante Sr.","email":"derrick60@gmail.com","address":"9177 Stokes Passage\nLake Brettburgh, WV 61836","subscribed":true}

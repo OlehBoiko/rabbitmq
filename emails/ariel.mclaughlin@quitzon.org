@@ -1,1 +1,0 @@
-{"name":"Dr. Joe Quigley II","email":"ariel.mclaughlin@quitzon.org","address":"613 Gerda Coves Apt. 727\nWest Braxton, LA 46865","subscribed":true}

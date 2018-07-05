@@ -1,1 +1,0 @@
-{"name":"Prof. Christian Gaylord III","email":"paula.hyatt@yahoo.com","address":"3090 Gustave Summit Apt. 339\nJenningsburgh, NM 11059","subscribed":true}

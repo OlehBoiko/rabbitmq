@@ -1,1 +1,0 @@
-{"name":"Alanna Streich","email":"stanton.izabella@flatley.com","address":"899 West Circles\nElvistown, ND 91735","subscribed":true}

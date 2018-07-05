@@ -1,1 +1,0 @@
-{"name":"Janie Purdy","email":"hailey.stiedemann@hammes.com","address":"967 Hagenes Valleys\nNorth Gerald, IL 51133-9609","subscribed":true}

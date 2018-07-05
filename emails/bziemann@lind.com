@@ -1,1 +1,0 @@
-{"name":"Prof. Enoch Paucek","email":"bziemann@lind.com","address":"62691 Bianka Overpass\nPfefferport, HI 38001","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Wellington Pfannerstill","email":"wolf.shanna@gmail.com","address":"63679 Katelynn Plain Suite 726\nFraneckifurt, TN 30210-3921","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Makenna Kulas","email":"mcglynn.monroe@hagenes.com","address":"406 Lee Trafficway\nAdolphusburgh, AZ 41663-9731","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Hershel Anderson II","email":"wquitzon@bartoletti.org","address":"2678 Davis Street Apt. 896\nEast Keara, IA 66981-6207","subscribed":true}

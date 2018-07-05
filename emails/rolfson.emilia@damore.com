@@ -1,1 +1,0 @@
-{"name":"Brody Hoppe","email":"rolfson.emilia@damore.com","address":"1022 Heaney Inlet\nNew Jordi, ID 03181-9036","subscribed":true}

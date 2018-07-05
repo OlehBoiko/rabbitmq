@@ -1,1 +1,0 @@
-{"name":"Scottie Cassin","email":"alba.dubuque@yahoo.com","address":"5393 Melyna Plain\nEast Monte, SD 34509","subscribed":true}

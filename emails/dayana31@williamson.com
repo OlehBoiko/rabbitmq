@@ -1,1 +1,0 @@
-{"name":"Mrs. Lempi DuBuque","email":"dayana31@williamson.com","address":"86931 Wehner Isle\nWintheiserside, MI 46648","subscribed":true}

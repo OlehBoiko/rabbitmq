@@ -1,1 +1,0 @@
-{"name":"Loyal Bode","email":"madeline.christiansen@gmail.com","address":"1135 Chelsea Dale\nWest Leonelview, IA 83103","subscribed":true}

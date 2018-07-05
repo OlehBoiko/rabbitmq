@@ -1,1 +1,0 @@
-{"name":"Candace Krajcik","email":"crystel18@thiel.com","address":"71760 Imelda Lodge\nEast Madonna, CO 44351-3354","subscribed":true}

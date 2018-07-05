@@ -1,1 +1,0 @@
-{"name":"Leopoldo Donnelly","email":"cremin.lauretta@hotmail.com","address":"7484 Rath Island Suite 230\nGerhardside, IA 30861","subscribed":true}

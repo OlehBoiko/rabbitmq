@@ -1,1 +1,0 @@
-{"name":"Kristofer Aufderhar Sr.","email":"donald38@yahoo.com","address":"874 Jennifer Causeway\nMyrtlefort, RI 46567","subscribed":true}

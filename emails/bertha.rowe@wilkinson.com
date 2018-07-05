@@ -1,1 +1,0 @@
-{"name":"Hudson Bahringer","email":"bertha.rowe@wilkinson.com","address":"439 Alexane Club Apt. 356\nLeuschkebury, IA 93154","subscribed":true}

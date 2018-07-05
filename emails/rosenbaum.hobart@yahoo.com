@@ -1,1 +1,0 @@
-{"name":"Watson Gusikowski","email":"rosenbaum.hobart@yahoo.com","address":"3299 Zieme Fords\nPort Irma, NH 38221","subscribed":true}

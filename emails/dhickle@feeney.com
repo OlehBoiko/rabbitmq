@@ -1,1 +1,0 @@
-{"name":"Prof. Simeon Herzog","email":"dhickle@feeney.com","address":"49079 Eichmann Tunnel Apt. 115\nGaylordside, PA 94721-9335","subscribed":true}

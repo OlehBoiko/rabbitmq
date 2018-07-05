@@ -1,1 +1,0 @@
-{"name":"Prof. Maybell Kovacek","email":"feeney.tate@mccullough.com","address":"39964 Waelchi Square\nGaylordmouth, KY 72807","subscribed":true}

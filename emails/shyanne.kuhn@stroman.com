@@ -1,1 +1,0 @@
-{"name":"Ignacio Schamberger Jr.","email":"shyanne.kuhn@stroman.com","address":"5290 Considine Knolls Suite 569\nEast Karliland, KY 50151","subscribed":true}

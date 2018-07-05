@@ -1,1 +1,0 @@
-{"name":"Prof. Marcos King V","email":"rodriguez.torrance@yahoo.com","address":"324 Feil Spur\nFlavietown, TX 96921-0515","subscribed":true}

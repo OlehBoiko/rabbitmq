@@ -1,1 +1,0 @@
-{"name":"Mr. Adolphus Stamm PhD","email":"kaden48@schultz.com","address":"231 Amina Dale\nSouth Asaberg, DE 02359-5886","subscribed":true}

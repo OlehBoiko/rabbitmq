@@ -1,1 +1,0 @@
-{"name":"Prof. Jerrell Heathcote PhD","email":"stiedemann.araceli@hotmail.com","address":"61687 Lenny Street\nSouth Elvie, MI 24741-7534","subscribed":true}

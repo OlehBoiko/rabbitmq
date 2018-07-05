@@ -1,1 +1,0 @@
-{"name":"Giovanny Wyman IV","email":"barton.jimmie@gmail.com","address":"828 Hand Keys Suite 832\nWest Anjalichester, ID 40037","subscribed":true}

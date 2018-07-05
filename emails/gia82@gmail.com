@@ -1,1 +1,0 @@
-{"name":"Dr. Annetta Kassulke Jr.","email":"gia82@gmail.com","address":"9181 Adams Plaza Suite 196\nCortneyfort, LA 82286","subscribed":true}

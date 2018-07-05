@@ -1,1 +1,0 @@
-{"name":"Ruthe Rippin","email":"stokes.wilhelm@adams.com","address":"24832 Auer Turnpike Suite 240\nNorth Lulubury, AR 71376-1843","subscribed":true}

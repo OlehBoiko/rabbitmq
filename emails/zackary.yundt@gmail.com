@@ -1,1 +1,0 @@
-{"name":"Ryann Ferry MD","email":"zackary.yundt@gmail.com","address":"79182 Axel Island\nGladysstad, RI 29877-9821","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Judy Hartmann DVM","email":"batz.kariane@gmail.com","address":"8197 Shanie Orchard\nPort Elvie, NY 31083","subscribed":true}

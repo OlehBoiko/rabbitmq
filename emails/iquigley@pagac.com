@@ -1,1 +1,0 @@
-{"name":"Prof. Ulises Green Sr.","email":"iquigley@pagac.com","address":"837 Andres Courts Suite 874\nNorth Brennanstad, CT 96861","subscribed":true}

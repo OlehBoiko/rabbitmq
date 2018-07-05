@@ -1,1 +1,0 @@
-{"name":"Candida Hoppe III","email":"asmith@deckow.com","address":"32842 Gusikowski Shoals Apt. 030\nNew Lewisbury, VA 22738-5558","subscribed":true}

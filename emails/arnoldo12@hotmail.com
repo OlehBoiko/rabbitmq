@@ -1,1 +1,0 @@
-{"name":"Prof. Alec Smitham","email":"arnoldo12@hotmail.com","address":"547 Walsh Path Apt. 217\nRohanbury, OH 48516-6164","subscribed":true}

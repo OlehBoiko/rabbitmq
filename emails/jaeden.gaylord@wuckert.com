@@ -1,1 +1,0 @@
-{"name":"Missouri Block","email":"jaeden.gaylord@wuckert.com","address":"794 Pattie Lodge Apt. 871\nLake Ricardo, MI 54504","subscribed":true}

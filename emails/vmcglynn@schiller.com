@@ -1,1 +1,0 @@
-{"name":"Mr. Kyle Mann Sr.","email":"vmcglynn@schiller.com","address":"58563 Ruthe Village Suite 193\nLuciebury, NH 95654","subscribed":true}

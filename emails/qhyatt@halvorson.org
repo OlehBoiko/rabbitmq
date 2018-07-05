@@ -1,1 +1,0 @@
-{"name":"Prof. Stella Goldner","email":"qhyatt@halvorson.org","address":"464 O'Reilly Heights Apt. 953\nEast Shane, AK 20421-7276","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Everett Flatley I","email":"rita.wunsch@rogahn.com","address":"738 Katlynn Motorway\nPrudenceburgh, HI 03461-5140","subscribed":true}

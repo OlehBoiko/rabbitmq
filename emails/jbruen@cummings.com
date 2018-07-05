@@ -1,1 +1,0 @@
-{"name":"Dean Fadel DDS","email":"jbruen@cummings.com","address":"76002 Kerluke Walks Apt. 620\nGleasonland, NV 70857-6127","subscribed":true}

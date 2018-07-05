@@ -1,1 +1,0 @@
-{"name":"Ms. Eva Pagac","email":"pasquale.heller@ortiz.com","address":"81787 Lonie Avenue Suite 920\nPricemouth, MN 08718-4129","subscribed":true}

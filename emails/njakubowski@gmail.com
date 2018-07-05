@@ -1,1 +1,0 @@
-{"name":"Scot Kling","email":"njakubowski@gmail.com","address":"26995 Jany Canyon\nSouth Sydneyfort, KS 60689","subscribed":true}

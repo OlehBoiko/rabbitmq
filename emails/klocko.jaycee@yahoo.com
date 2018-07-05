@@ -1,1 +1,0 @@
-{"name":"Ofelia Gulgowski","email":"klocko.jaycee@yahoo.com","address":"5015 Raynor Estate\nEmmerichview, UT 62881","subscribed":true}

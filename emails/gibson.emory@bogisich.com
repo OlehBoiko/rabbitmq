@@ -1,1 +1,0 @@
-{"name":"Arnold Kulas","email":"gibson.emory@bogisich.com","address":"207 Batz Overpass\nDamianfort, IL 69354","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Cory DuBuque","email":"nina.nikolaus@hotmail.com","address":"752 Dietrich Prairie Suite 156\nNorth Bessie, ME 90223","subscribed":true}

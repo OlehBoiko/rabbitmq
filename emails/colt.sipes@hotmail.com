@@ -1,1 +1,0 @@
-{"name":"Dr. Fae Lindgren MD","email":"colt.sipes@hotmail.com","address":"52414 Beau Mountains Apt. 876\nD'Amorefurt, PA 46744-7069","subscribed":true}

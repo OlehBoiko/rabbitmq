@@ -1,1 +1,0 @@
-{"name":"Bethel Littel II","email":"farrell.audra@yahoo.com","address":"76817 Schmeler Place Apt. 910\nSchadenberg, IA 70309-6674","subscribed":true}

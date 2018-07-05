@@ -1,1 +1,0 @@
-{"name":"Joana Koelpin PhD","email":"powlowski.eula@yahoo.com","address":"570 Stokes Junction\nNew Elliot, AR 20396-0073","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Buck Vandervort","email":"rowe.avery@white.com","address":"2831 Robel Brook Suite 245\nLuettgenmouth, LA 54044-3626","subscribed":true}

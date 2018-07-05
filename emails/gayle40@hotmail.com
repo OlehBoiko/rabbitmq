@@ -1,1 +1,0 @@
-{"name":"Dr. Rossie West","email":"gayle40@hotmail.com","address":"873 Suzanne Isle\nSouth Melisa, VT 45163-4659","subscribed":true}

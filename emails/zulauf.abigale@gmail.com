@@ -1,1 +1,0 @@
-{"name":"Eddie Jerde PhD","email":"zulauf.abigale@gmail.com","address":"937 Rubye Hill Suite 739\nWildermanmouth, PA 95903-9943","subscribed":true}

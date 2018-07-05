@@ -1,1 +1,0 @@
-{"name":"Prof. Mauricio Bartell IV","email":"corwin.kelly@oreilly.org","address":"2930 Taurean Prairie Suite 653\nEast Anahiport, SD 45880","subscribed":true}

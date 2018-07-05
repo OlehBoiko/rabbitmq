@@ -1,1 +1,0 @@
-{"name":"Norene Franecki","email":"ismael.mertz@yahoo.com","address":"361 Hermann Point\nSouth Malvinatown, IA 69046","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Lucio Yost Sr.","email":"dorothy.goodwin@gmail.com","address":"850 Ruben Drive\nMablebury, TX 00840","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Kurtis Schumm","email":"magdalena46@yahoo.com","address":"147 Carter Manor Suite 729\nNew Alejandrin, NH 05189-8495","subscribed":true}

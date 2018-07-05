@@ -1,1 +1,0 @@
-{"name":"Alverta Leffler Sr.","email":"oratke@walter.com","address":"77553 Amelia Oval Suite 187\nJaylinmouth, UT 44631-2980","subscribed":true}

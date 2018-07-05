@@ -1,1 +1,0 @@
-{"name":"Prof. Rory Bernier","email":"pbuckridge@mohr.org","address":"3103 Yost Viaduct Suite 000\nManteside, OR 96810-1330","subscribed":true}

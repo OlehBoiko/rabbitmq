@@ -1,1 +1,0 @@
-{"name":"Prof. Hassie Schulist","email":"lora40@turcotte.com","address":"789 Lowe Haven Suite 565\nPort Quintonville, NV 27314-5762","subscribed":true}

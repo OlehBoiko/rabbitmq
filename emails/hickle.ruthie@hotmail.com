@@ -1,1 +1,0 @@
-{"name":"Mr. Maxwell Blick II","email":"hickle.ruthie@hotmail.com","address":"25669 Skylar Throughway Apt. 241\nEast Talonbury, VT 82147-1241","subscribed":true}

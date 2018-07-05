@@ -1,1 +1,0 @@
-{"name":"Claude Beer IV","email":"myrtie94@hotmail.com","address":"2919 Hilton Via\nJeremiefurt, NY 40152","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Missouri Bayer DDS","email":"beverly43@hotmail.com","address":"436 Lucienne Road Apt. 395\nChristaburgh, NM 77286","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Alexandro Konopelski","email":"alana88@friesen.com","address":"34809 Jaeden Courts Apt. 169\nAustynchester, ME 97994","subscribed":true}

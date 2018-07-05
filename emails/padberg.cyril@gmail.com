@@ -1,1 +1,0 @@
-{"name":"Prof. Fleta Doyle","email":"padberg.cyril@gmail.com","address":"748 Blanche Islands\nPatsymouth, AK 59922","subscribed":true}

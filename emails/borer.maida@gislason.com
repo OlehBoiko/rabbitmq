@@ -1,1 +1,0 @@
-{"name":"Ramona Parisian Jr.","email":"borer.maida@gislason.com","address":"697 Yost Fork\nNew Larueton, VT 38080","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Destin Kuvalis","email":"hackett.marquis@hotmail.com","address":"11808 Gaylord Mission\nEast Mafalda, AL 91765","subscribed":true}

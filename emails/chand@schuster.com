@@ -1,1 +1,0 @@
-{"name":"Pascale Yundt","email":"chand@schuster.com","address":"9092 Marvin Plaza Suite 506\nClaudinestad, MA 96557","subscribed":true}

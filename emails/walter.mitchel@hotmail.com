@@ -1,1 +1,0 @@
-{"name":"Mr. Frank Hauck","email":"walter.mitchel@hotmail.com","address":"2375 Harris Crescent Suite 624\nWest Boydtown, NH 77734-1106","subscribed":true}

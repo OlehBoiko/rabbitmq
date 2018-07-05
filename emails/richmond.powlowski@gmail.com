@@ -1,1 +1,0 @@
-{"name":"Craig Williamson","email":"richmond.powlowski@gmail.com","address":"51221 Keeling Parkways\nEast Omari, PA 68194","subscribed":true}

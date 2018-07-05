@@ -1,1 +1,0 @@
-{"name":"Prof. Aidan Baumbach II","email":"mleffler@gmail.com","address":"630 Deontae Ville\nNew Kylachester, OH 58582","subscribed":true}

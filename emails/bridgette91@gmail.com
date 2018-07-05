@@ -1,1 +1,0 @@
-{"name":"Prof. Alfonzo Hartmann","email":"bridgette91@gmail.com","address":"28768 Blick Road Suite 486\nSouth Diegofurt, KY 51924","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Shana Quigley","email":"daisha.borer@stracke.com","address":"3775 Feeney Village\nNorth Orinstad, NY 02907-5540","subscribed":true}

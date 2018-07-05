@@ -1,1 +1,0 @@
-{"name":"Dakota Grady","email":"mckenzie.donato@hotmail.com","address":"627 Minnie Trafficway\nNorth Hillard, DE 41164","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mrs. Madaline Bogisich","email":"april59@hotmail.com","address":"604 Lorine Ways\nHaliemouth, CT 87702","subscribed":true}

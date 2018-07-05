@@ -1,1 +1,0 @@
-{"name":"Ola Streich","email":"qnader@hotmail.com","address":"92106 Hayes Estate Suite 537\nFriesenland, IN 80185-0319","subscribed":true}

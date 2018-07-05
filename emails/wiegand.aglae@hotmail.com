@@ -1,1 +1,0 @@
-{"name":"Vada Buckridge","email":"wiegand.aglae@hotmail.com","address":"1220 Arvilla Drive Suite 078\nConsidinetown, AL 82476","subscribed":true}

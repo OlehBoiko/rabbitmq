@@ -1,1 +1,0 @@
-{"name":"Prof. Hyman Prohaska","email":"liliane35@reynolds.com","address":"87053 Devante River\nNew Ramiroville, DE 03584","subscribed":true}

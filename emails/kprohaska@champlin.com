@@ -1,1 +1,0 @@
-{"name":"Cathy Hauck","email":"kprohaska@champlin.com","address":"11256 Alison Roads Suite 331\nJaylintown, TX 68509","subscribed":true}

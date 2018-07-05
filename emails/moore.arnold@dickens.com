@@ -1,1 +1,0 @@
-{"name":"Prof. Percival Hand IV","email":"moore.arnold@dickens.com","address":"3422 Dicki Spurs\nSouth Russchester, FL 49558-2097","subscribed":true}

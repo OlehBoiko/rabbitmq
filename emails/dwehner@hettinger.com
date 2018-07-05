@@ -1,1 +1,0 @@
-{"name":"Prof. Andy Durgan IV","email":"dwehner@hettinger.com","address":"8616 Windler Keys\nSouth Morris, MN 16962","subscribed":true}

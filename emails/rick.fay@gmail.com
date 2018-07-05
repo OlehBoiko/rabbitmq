@@ -1,1 +1,0 @@
-{"name":"Lindsey Ondricka","email":"rick.fay@gmail.com","address":"38336 Isaiah Row\nTimothyburgh, MT 31513","subscribed":true}

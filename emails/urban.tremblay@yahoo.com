@@ -1,1 +1,0 @@
-{"name":"Shirley Predovic","email":"urban.tremblay@yahoo.com","address":"3620 Alford Via Apt. 374\nSouth Salvatore, WI 16310","subscribed":true}

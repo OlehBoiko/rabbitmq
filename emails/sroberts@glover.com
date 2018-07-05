@@ -1,1 +1,0 @@
-{"name":"Osbaldo Waelchi","email":"sroberts@glover.com","address":"572 Hartmann Points Suite 263\nLake Matilde, OR 25319","subscribed":true}

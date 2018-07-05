@@ -1,1 +1,0 @@
-{"name":"Dr. Tyrique Terry","email":"lizzie.skiles@gmail.com","address":"933 Ernest Vista\nWeissnatburgh, MN 91271","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Gia Lindgren","email":"rutherford.ralph@kuhic.com","address":"295 Rath Island Suite 960\nEast Duaneburgh, LA 77120-1853","subscribed":true}

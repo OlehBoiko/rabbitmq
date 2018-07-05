@@ -1,1 +1,0 @@
-{"name":"Julius Aufderhar","email":"melyssa38@hotmail.com","address":"158 Jordi Hills\nNew Felipeshire, DE 39370","subscribed":true}

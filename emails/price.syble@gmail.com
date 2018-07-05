@@ -1,1 +1,0 @@
-{"name":"Madonna Price","email":"price.syble@gmail.com","address":"9847 Adella Oval Apt. 301\nWest Havenhaven, NY 11647","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Cade Haag","email":"zhansen@yahoo.com","address":"8072 Darien Motorway Suite 560\nPort Russel, MO 48317","subscribed":true}

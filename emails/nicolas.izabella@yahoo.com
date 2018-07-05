@@ -1,1 +1,0 @@
-{"name":"Chance Cormier Sr.","email":"nicolas.izabella@yahoo.com","address":"92164 Feil Alley Apt. 605\nMurraytown, GA 85568-9680","subscribed":true}

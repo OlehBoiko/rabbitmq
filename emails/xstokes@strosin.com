@@ -1,1 +1,0 @@
-{"name":"Rosario McDermott Jr.","email":"xstokes@strosin.com","address":"36319 Gillian Neck Apt. 296\nLake Zoe, GA 52366","subscribed":true}

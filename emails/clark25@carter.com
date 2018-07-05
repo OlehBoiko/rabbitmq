@@ -1,1 +1,0 @@
-{"name":"Mr. Erich Homenick Jr.","email":"clark25@carter.com","address":"83964 Julianne Junction\nTerencehaven, CT 77921","subscribed":true}

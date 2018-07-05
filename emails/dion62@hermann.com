@@ -1,1 +1,0 @@
-{"name":"Mafalda King","email":"dion62@hermann.com","address":"4393 Weimann Freeway\nClinthaven, VT 19168-1565","subscribed":true}

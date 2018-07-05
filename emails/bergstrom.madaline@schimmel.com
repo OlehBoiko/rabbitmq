@@ -1,1 +1,0 @@
-{"name":"Amy Schumm","email":"bergstrom.madaline@schimmel.com","address":"589 Rogahn Land Apt. 330\nNew Edwardoshire, ND 18819-9950","subscribed":true}

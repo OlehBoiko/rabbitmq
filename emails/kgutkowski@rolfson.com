@@ -1,1 +1,0 @@
-{"name":"Berneice Beer Sr.","email":"kgutkowski@rolfson.com","address":"36495 Tromp Route Apt. 499\nOdessachester, ID 82145","subscribed":true}

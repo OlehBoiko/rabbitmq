@@ -1,1 +1,0 @@
-{"name":"Prof. Junior Stroman Jr.","email":"lukas.parker@gmail.com","address":"85224 Conn Crescent Suite 407\nSouth Eladio, MA 10515","subscribed":true}

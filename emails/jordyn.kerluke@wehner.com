@@ -1,1 +1,0 @@
-{"name":"Alexa Predovic","email":"jordyn.kerluke@wehner.com","address":"82308 Senger Crossroad\nEast Samson, SD 49598-9006","subscribed":true}

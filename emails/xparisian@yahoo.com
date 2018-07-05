@@ -1,1 +1,0 @@
-{"name":"Cordelia Stamm","email":"xparisian@yahoo.com","address":"937 Nikolaus Parks\nKatlynstad, ND 70160-0796","subscribed":true}

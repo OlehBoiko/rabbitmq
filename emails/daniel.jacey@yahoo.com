@@ -1,1 +1,0 @@
-{"name":"Lexi Jast","email":"daniel.jacey@yahoo.com","address":"8591 Cassin Shores Apt. 235\nNew Zackerychester, MD 95750","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Jo Leannon","email":"jess02@rowe.org","address":"981 Kuvalis Shore\nSouth Bretchester, VT 52901","subscribed":true}

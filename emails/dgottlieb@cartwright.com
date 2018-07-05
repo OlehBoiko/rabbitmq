@@ -1,1 +1,0 @@
-{"name":"Gilbert Schumm","email":"dgottlieb@cartwright.com","address":"67296 Sterling Manor\nLake Mandy, MS 52489","subscribed":true}

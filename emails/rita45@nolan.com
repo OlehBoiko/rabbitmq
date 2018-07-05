@@ -1,1 +1,0 @@
-{"name":"Manuel Kohler","email":"rita45@nolan.com","address":"81485 Mona Squares\nNorth Alia, OH 49940","subscribed":true}

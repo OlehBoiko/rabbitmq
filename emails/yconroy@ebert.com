@@ -1,1 +1,0 @@
-{"name":"Mr. Arthur Hammes","email":"yconroy@ebert.com","address":"16768 Becker Summit Suite 332\nNorth Haileyshire, UT 82412","subscribed":true}

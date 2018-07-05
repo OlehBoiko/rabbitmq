@@ -1,1 +1,0 @@
-{"name":"Dr. Angie Trantow Sr.","email":"daugherty.carey@yahoo.com","address":"5896 Abigayle Circle\nNorth Deshaunberg, IN 42937","subscribed":true}

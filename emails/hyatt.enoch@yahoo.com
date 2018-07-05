@@ -1,1 +1,0 @@
-{"name":"Dr. Rachelle Spinka","email":"hyatt.enoch@yahoo.com","address":"96600 Jessy Parkway Suite 639\nEast Domenica, KY 53245-9653","subscribed":true}

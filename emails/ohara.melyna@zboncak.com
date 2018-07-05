@@ -1,1 +1,0 @@
-{"name":"Prof. Guiseppe Hettinger","email":"ohara.melyna@zboncak.com","address":"9770 Dillan Turnpike Apt. 942\nWest Antonio, AZ 19845-1169","subscribed":true}

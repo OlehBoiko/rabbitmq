@@ -1,1 +1,0 @@
-{"name":"Vincent Bauch","email":"ibarrows@spencer.com","address":"1635 Quitzon Ports\nLuisahaven, MD 86590-3594","subscribed":true}

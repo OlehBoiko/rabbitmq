@@ -1,1 +1,0 @@
-{"name":"Shayne Hand III","email":"ratke.fern@gmail.com","address":"296 Nitzsche Mall Suite 448\nRowefurt, AK 40656","subscribed":true}

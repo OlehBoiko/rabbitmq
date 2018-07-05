@@ -1,1 +1,0 @@
-{"name":"Breanne Bechtelar MD","email":"uthompson@yahoo.com","address":"2352 Mohr Land Suite 028\nWest Lynn, AR 15041","subscribed":true}

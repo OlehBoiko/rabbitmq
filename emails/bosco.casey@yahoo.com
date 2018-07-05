@@ -1,1 +1,0 @@
-{"name":"Dr. Jerrold Pacocha","email":"bosco.casey@yahoo.com","address":"214 Block Forges Apt. 250\nSouth Clementine, MO 25308","subscribed":true}

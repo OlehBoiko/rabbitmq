@@ -1,1 +1,0 @@
-{"name":"Prof. Julius Kuhlman Sr.","email":"jcrist@yahoo.com","address":"800 Lavonne Viaduct Suite 787\nLittleport, ND 67200","subscribed":true}

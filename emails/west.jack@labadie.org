@@ -1,1 +1,0 @@
-{"name":"Assunta Schaden","email":"west.jack@labadie.org","address":"272 Paucek Route Suite 914\nZachariahfort, SD 51877","subscribed":true}

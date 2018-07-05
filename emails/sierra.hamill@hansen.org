@@ -1,1 +1,0 @@
-{"name":"Nickolas Schmidt Sr.","email":"sierra.hamill@hansen.org","address":"75771 Weber Branch\nKlockobury, KY 85663-6379","subscribed":true}

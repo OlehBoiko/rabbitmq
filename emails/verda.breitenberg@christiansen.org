@@ -1,1 +1,0 @@
-{"name":"Yessenia Bahringer","email":"verda.breitenberg@christiansen.org","address":"9869 Kristin Divide Suite 120\nPort Kiarra, MO 28388","subscribed":true}

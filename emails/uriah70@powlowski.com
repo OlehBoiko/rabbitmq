@@ -1,1 +1,0 @@
-{"name":"Juanita Donnelly","email":"uriah70@powlowski.com","address":"92447 Turcotte Plaza Suite 720\nNew Rolando, WY 38711-0624","subscribed":true}

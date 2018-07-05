@@ -1,1 +1,0 @@
-{"name":"Josianne Wisoky","email":"jazlyn.krajcik@mckenzie.com","address":"98338 Schmidt Ferry\nFunkland, LA 67234-0051","subscribed":true}

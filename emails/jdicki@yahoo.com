@@ -1,1 +1,0 @@
-{"name":"Prof. Linwood Murray","email":"jdicki@yahoo.com","address":"625 Raynor Roads Suite 735\nCronastad, PA 21935-5243","subscribed":true}

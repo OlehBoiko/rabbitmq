@@ -1,1 +1,0 @@
-{"name":"Edward Dare","email":"msipes@grant.com","address":"777 Destinee Mills Suite 955\nSouth Cruz, ME 36319-9882","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Diego Kerluke","email":"cbraun@treutel.com","address":"70249 Herman Gateway\nLake Tara, WY 48217","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Lucious Tremblay","email":"rau.seamus@vandervort.com","address":"9258 Becker Dale Apt. 440\nMadalyntown, VT 55191-9069","subscribed":true}

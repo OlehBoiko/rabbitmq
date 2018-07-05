@@ -1,1 +1,0 @@
-{"name":"Hershel Rippin","email":"schuster.jimmie@hotmail.com","address":"48316 Stoltenberg Extensions Apt. 716\nEast Arturo, MS 20823","subscribed":true}

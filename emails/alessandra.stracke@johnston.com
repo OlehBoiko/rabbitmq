@@ -1,1 +1,0 @@
-{"name":"Clemens Stokes","email":"alessandra.stracke@johnston.com","address":"9715 Wintheiser Dam Apt. 367\nGreenfelderview, MT 29866-7263","subscribed":true}

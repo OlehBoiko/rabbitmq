@@ -1,1 +1,0 @@
-{"name":"Ellis Pollich PhD","email":"anne.adams@yahoo.com","address":"30642 Bella Centers\nRobbieview, WY 07572-6059","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Nya Klocko","email":"gennaro.hartmann@hotmail.com","address":"9546 Crist Tunnel Suite 509\nNew Clarissa, NY 17571-4482","subscribed":true}

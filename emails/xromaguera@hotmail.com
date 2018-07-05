@@ -1,1 +1,0 @@
-{"name":"Florine Hauck","email":"xromaguera@hotmail.com","address":"2142 Adolf Turnpike\nSouth Hilma, VT 45181-0587","subscribed":true}

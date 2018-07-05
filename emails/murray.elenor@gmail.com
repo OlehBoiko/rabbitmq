@@ -1,1 +1,0 @@
-{"name":"Dr. Bette Effertz V","email":"murray.elenor@gmail.com","address":"992 Kristoffer Expressway\nGulgowskimouth, WV 34652","subscribed":true}

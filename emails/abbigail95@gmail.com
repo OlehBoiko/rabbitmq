@@ -1,1 +1,0 @@
-{"name":"Berniece Schimmel","email":"abbigail95@gmail.com","address":"8703 Giuseppe Loop\nLowechester, AR 45122","subscribed":true}

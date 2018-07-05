@@ -1,1 +1,0 @@
-{"name":"Mr. Charley Gusikowski DVM","email":"kkonopelski@hotmail.com","address":"450 Dietrich Squares Apt. 869\nSouth Olinland, MI 46568","subscribed":true}

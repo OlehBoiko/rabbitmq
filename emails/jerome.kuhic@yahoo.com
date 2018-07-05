@@ -1,1 +1,0 @@
-{"name":"Aurelio Parker","email":"jerome.kuhic@yahoo.com","address":"371 Tillman Union Suite 372\nQuitzonhaven, SD 81264-4867","subscribed":true}

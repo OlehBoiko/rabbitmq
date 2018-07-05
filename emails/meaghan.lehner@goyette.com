@@ -1,1 +1,0 @@
-{"name":"Brielle Casper DDS","email":"meaghan.lehner@goyette.com","address":"35530 Wunsch Common\nBodestad, TX 23400","subscribed":true}

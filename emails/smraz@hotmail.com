@@ -1,1 +1,0 @@
-{"name":"Magdalena Berge","email":"smraz@hotmail.com","address":"4771 Bart Via\nCollinstown, MA 22185-5532","subscribed":true}

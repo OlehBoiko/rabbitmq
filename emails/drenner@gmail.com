@@ -1,1 +1,0 @@
-{"name":"Neva Reichel DVM","email":"drenner@gmail.com","address":"55776 Joesph Ranch Suite 372\nNew Hubertmouth, OK 25114","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Teresa Hayes","email":"fatima.walker@hotmail.com","address":"272 Clare Fall Suite 875\nWest David, WV 78585","subscribed":true}

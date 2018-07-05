@@ -1,1 +1,0 @@
-{"name":"Clemens Donnelly","email":"vada18@vonrueden.com","address":"32712 Ramiro Underpass Suite 045\nEast Katelin, MN 44071-8574","subscribed":true}

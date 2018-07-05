@@ -1,1 +1,0 @@
-{"name":"Vida Brekke","email":"hauck.jamir@stracke.org","address":"54055 Koch Hollow Suite 913\nNorth Toby, MS 36027","subscribed":true}

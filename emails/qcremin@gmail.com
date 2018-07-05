@@ -1,1 +1,0 @@
-{"name":"Stella Erdman DVM","email":"qcremin@gmail.com","address":"1035 Abdiel Valleys\nDurganview, MS 42399","subscribed":true}

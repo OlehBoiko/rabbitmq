@@ -1,1 +1,0 @@
-{"name":"Elbert Schuppe DVM","email":"zella.anderson@gmail.com","address":"22023 Purdy Curve Apt. 743\nNew Stacy, MS 73877","subscribed":true}

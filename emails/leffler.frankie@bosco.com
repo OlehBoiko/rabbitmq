@@ -1,1 +1,0 @@
-{"name":"Prof. Anya Kihn IV","email":"leffler.frankie@bosco.com","address":"346 Hegmann Expressway Suite 081\nVolkmantown, ME 71951","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Nayeli White","email":"jazlyn13@hotmail.com","address":"1847 Lubowitz Roads Apt. 653\nNorth Vincenzo, IA 40266-8674","subscribed":true}

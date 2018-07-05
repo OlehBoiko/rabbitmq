@@ -1,1 +1,0 @@
-{"name":"Prof. Judy Schuster PhD","email":"rachelle.denesik@yahoo.com","address":"597 Charley Brooks\nPort Alanisshire, SC 78840","subscribed":true}

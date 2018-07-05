@@ -1,1 +1,0 @@
-{"name":"Dr. Jaren Goldner DDS","email":"reinger.kavon@gmail.com","address":"65424 Eileen Parks Suite 753\nNew Wallaceburgh, ND 05999","subscribed":true}

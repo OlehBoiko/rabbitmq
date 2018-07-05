@@ -1,1 +1,0 @@
-{"name":"Ryley Morar Sr.","email":"ulesch@daugherty.org","address":"7343 Hudson Island\nNew Tarynland, SD 82474-0779","subscribed":true}

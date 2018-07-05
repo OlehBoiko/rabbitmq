@@ -1,1 +1,0 @@
-{"name":"Kamille Romaguera","email":"sincere.konopelski@yahoo.com","address":"474 Cummings Gateway Apt. 549\nNew Barry, ID 06729","subscribed":true}

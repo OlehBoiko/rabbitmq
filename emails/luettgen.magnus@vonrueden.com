@@ -1,1 +1,0 @@
-{"name":"Prof. Aron Rodriguez","email":"luettgen.magnus@vonrueden.com","address":"392 Judd Rest\nWilkinsonhaven, GA 46936","subscribed":true}

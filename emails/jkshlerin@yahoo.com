@@ -1,1 +1,0 @@
-{"name":"Lura Stamm","email":"jkshlerin@yahoo.com","address":"43850 Bogisich Hollow Apt. 840\nJenkinsberg, NV 71327","subscribed":true}

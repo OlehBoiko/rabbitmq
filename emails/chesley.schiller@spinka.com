@@ -1,1 +1,0 @@
-{"name":"Berneice Funk","email":"chesley.schiller@spinka.com","address":"965 Cruickshank Unions\nNorth Rosendofurt, KS 98635","subscribed":true}

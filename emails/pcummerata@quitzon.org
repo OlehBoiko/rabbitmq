@@ -1,1 +1,0 @@
-{"name":"Aurore Wisoky","email":"pcummerata@quitzon.org","address":"465 Shawna Row\nEast Fredaton, TX 47472","subscribed":true}

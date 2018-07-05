@@ -1,1 +1,0 @@
-{"name":"Susana Bauch III","email":"rweimann@yahoo.com","address":"4346 Heathcote Hill\nNew Laurenbury, SD 40815","subscribed":true}

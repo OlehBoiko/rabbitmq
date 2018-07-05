@@ -1,1 +1,0 @@
-{"name":"Prof. Prince Konopelski","email":"leanna61@gmail.com","address":"3792 Mozell Shoals Suite 164\nWest Ida, KS 00725","subscribed":true}

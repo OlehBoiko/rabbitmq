@@ -1,1 +1,0 @@
-{"name":"Prof. Kasandra Lynch","email":"rae48@hotmail.com","address":"12788 Graciela Union\nPiercefurt, VA 39110","subscribed":true}

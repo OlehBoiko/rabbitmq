@@ -1,1 +1,0 @@
-{"name":"Dr. Lavonne Cassin","email":"anderson.omari@hotmail.com","address":"52878 Sim Meadow\nAureliaside, VT 64240-7872","subscribed":true}

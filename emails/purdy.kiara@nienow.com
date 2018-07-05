@@ -1,1 +1,0 @@
-{"name":"Prof. Anya Satterfield MD","email":"purdy.kiara@nienow.com","address":"1467 Mante Fork Suite 349\nPort Amy, KS 35040","subscribed":true}

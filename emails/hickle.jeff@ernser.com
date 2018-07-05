@@ -1,1 +1,0 @@
-{"name":"Quinn Kohler","email":"hickle.jeff@ernser.com","address":"38410 Josue Vista Suite 367\nNew Estaberg, FL 83725","subscribed":true}

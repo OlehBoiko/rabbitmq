@@ -1,1 +1,0 @@
-{"name":"Dr. Steve Moore","email":"emccullough@turner.com","address":"91142 Bergstrom Parkways Suite 309\nEast Rockyshire, AZ 15242","subscribed":true}

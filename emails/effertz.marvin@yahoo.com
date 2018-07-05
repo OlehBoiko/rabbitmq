@@ -1,1 +1,0 @@
-{"name":"Alexandre Wolff I","email":"effertz.marvin@yahoo.com","address":"88836 Heidenreich Oval\nJenkinsport, VT 71784","subscribed":true}

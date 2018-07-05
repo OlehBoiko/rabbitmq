@@ -1,1 +1,0 @@
-{"name":"Cheyanne Kulas","email":"mabelle.kuhic@yahoo.com","address":"66506 Fadel Road\nGavinville, NH 48017","subscribed":true}

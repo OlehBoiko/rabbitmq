@@ -1,1 +1,0 @@
-{"name":"Dr. Walker Windler Jr.","email":"farrell.agustin@gmail.com","address":"2558 Marielle River\nWehnerfort, NC 87659","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Destiny Langosh","email":"pkonopelski@dickinson.com","address":"4320 Alivia Fort\nDiannaburgh, NJ 37966","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Frederik Gulgowski DVM","email":"keeling.ernest@gmail.com","address":"733 Auer Lock\nSengerborough, ME 83921","subscribed":true}

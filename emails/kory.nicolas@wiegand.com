@@ -1,1 +1,0 @@
-{"name":"Arden Altenwerth","email":"kory.nicolas@wiegand.com","address":"2964 Kailee Valley\nWebermouth, PA 75629","subscribed":true}

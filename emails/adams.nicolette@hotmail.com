@@ -1,1 +1,0 @@
-{"name":"Mr. Estevan Effertz I","email":"adams.nicolette@hotmail.com","address":"9548 Virginia Pine\nEast Jenningstown, SC 86499-2141","subscribed":true}

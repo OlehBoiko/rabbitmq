@@ -1,1 +1,0 @@
-{"name":"Maxine Wisozk MD","email":"jroberts@hotmail.com","address":"4909 Romaguera Glen Suite 794\nSouth Cleta, KS 87384","subscribed":true}

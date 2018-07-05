@@ -1,1 +1,0 @@
-{"name":"Amy Senger","email":"louvenia29@hotmail.com","address":"239 Cole Locks\nPrincechester, MN 24286","subscribed":true}

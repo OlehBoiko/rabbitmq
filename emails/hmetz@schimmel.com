@@ -1,1 +1,0 @@
-{"name":"Prof. Jamison Bosco","email":"hmetz@schimmel.com","address":"4534 Schulist Mountain\nKlingfort, CA 84714","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Jermain Rice","email":"hodkiewicz.kirstin@ward.com","address":"84557 Sporer Turnpike Suite 462\nQuitzonmouth, UT 79978","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Antonetta Kassulke","email":"will.satterfield@gmail.com","address":"821 Gutmann Turnpike Apt. 655\nFedericoview, OK 21574","subscribed":true}

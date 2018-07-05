@@ -1,1 +1,0 @@
-{"name":"Gloria Schumm","email":"jonas.weimann@hotmail.com","address":"248 Larson Vista Apt. 894\nNew Javier, CO 53558-2171","subscribed":true}

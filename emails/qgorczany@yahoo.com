@@ -1,1 +1,0 @@
-{"name":"Dax Rippin","email":"qgorczany@yahoo.com","address":"6592 Witting Streets\nNew Trevor, MO 08623","subscribed":true}

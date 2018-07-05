@@ -1,1 +1,0 @@
-{"name":"Prof. Trent Nitzsche I","email":"schuster.wyatt@hotmail.com","address":"637 Bernardo Center\nWest Hope, IL 52893-2065","subscribed":true}

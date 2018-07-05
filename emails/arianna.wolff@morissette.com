@@ -1,1 +1,0 @@
-{"name":"Ms. Whitney Cole","email":"arianna.wolff@morissette.com","address":"882 Lueilwitz Glen\nLake Lupemouth, TX 58794-3421","subscribed":true}

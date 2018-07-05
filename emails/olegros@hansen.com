@@ -1,1 +1,0 @@
-{"name":"Courtney Klein PhD","email":"olegros@hansen.com","address":"63441 Terrance Port Apt. 505\nNorth Arnoldobury, RI 01143","subscribed":true}

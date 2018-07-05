@@ -1,1 +1,0 @@
-{"name":"Osvaldo Aufderhar","email":"trudie.turner@gmail.com","address":"154 Kris Estate Suite 093\nSchimmelfurt, KS 80877","subscribed":true}

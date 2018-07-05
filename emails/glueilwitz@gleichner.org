@@ -1,1 +1,0 @@
-{"name":"Elza Konopelski","email":"glueilwitz@gleichner.org","address":"745 Pfannerstill Freeway Suite 575\nRylanton, CA 67340-9856","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Flavio Osinski","email":"zelma.ruecker@yahoo.com","address":"8099 Chelsie Mall\nLake Christiana, WY 58992","subscribed":true}

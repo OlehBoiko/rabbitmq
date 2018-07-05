@@ -1,1 +1,0 @@
-{"name":"Natalie D'Amore","email":"maximillian24@heidenreich.com","address":"231 Veum Fork Apt. 622\nLaronhaven, MT 56277","subscribed":true}

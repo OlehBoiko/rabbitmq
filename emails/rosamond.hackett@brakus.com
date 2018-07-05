@@ -1,1 +1,0 @@
-{"name":"Else Kulas","email":"rosamond.hackett@brakus.com","address":"1187 Tyrell Street Suite 800\nJayceechester, FL 08615","subscribed":true}

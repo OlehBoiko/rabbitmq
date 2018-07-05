@@ -1,1 +1,0 @@
-{"name":"Dr. Lexie Smitham","email":"lottie01@strosin.com","address":"4432 Pacocha Mountain\nNew Hadley, PA 57719-7327","subscribed":true}

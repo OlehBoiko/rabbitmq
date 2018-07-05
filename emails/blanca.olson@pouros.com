@@ -1,1 +1,0 @@
-{"name":"Prof. Norene Anderson","email":"blanca.olson@pouros.com","address":"7799 Shayne Locks\nLake Luis, AZ 18003","subscribed":true}

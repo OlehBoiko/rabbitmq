@@ -1,1 +1,0 @@
-{"name":"Devonte Bashirian","email":"douglas.eleanora@gmail.com","address":"900 Beatrice Prairie\nLake Yasmeen, VT 47068","subscribed":true}

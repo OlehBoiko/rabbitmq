@@ -1,1 +1,0 @@
-{"name":"Dr. Harrison Romaguera","email":"charlie87@yahoo.com","address":"657 Ambrose Wall\nSouth Medaborough, ME 47615","subscribed":true}

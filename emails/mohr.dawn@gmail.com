@@ -1,1 +1,0 @@
-{"name":"Major Fritsch","email":"mohr.dawn@gmail.com","address":"7437 Jackeline Shoals Apt. 369\nWest Tania, CT 58756","subscribed":true}

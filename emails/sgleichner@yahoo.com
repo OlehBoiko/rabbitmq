@@ -1,1 +1,0 @@
-{"name":"Calista Collier","email":"sgleichner@yahoo.com","address":"6625 Buckridge Way\nNorth Raven, NV 70708","subscribed":true}

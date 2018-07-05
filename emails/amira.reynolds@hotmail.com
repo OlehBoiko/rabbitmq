@@ -1,1 +1,0 @@
-{"name":"Rosanna Kub","email":"amira.reynolds@hotmail.com","address":"2284 Jefferey Drives\nNorth Kimberly, ME 83357-8788","subscribed":true}

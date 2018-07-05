@@ -1,1 +1,0 @@
-{"name":"Berneice Wilkinson","email":"pacocha.rosa@hotmail.com","address":"84260 Hattie Roads\nLake Luraport, ME 10537","subscribed":true}

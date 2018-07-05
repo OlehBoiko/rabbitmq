@@ -1,1 +1,0 @@
-{"name":"Trisha Dooley","email":"lowell.hintz@gmail.com","address":"661 Destini Crescent\nNew Kendall, GA 74195","subscribed":true}

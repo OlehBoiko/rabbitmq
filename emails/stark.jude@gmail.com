@@ -1,1 +1,0 @@
-{"name":"Kenna Schuppe","email":"stark.jude@gmail.com","address":"417 Fadel Locks\nWest Raleighfurt, IN 10934","subscribed":true}

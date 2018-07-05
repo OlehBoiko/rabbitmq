@@ -1,1 +1,0 @@
-{"name":"Georgette Stehr PhD","email":"mosciski.cecilia@gmail.com","address":"33426 Conroy Path Suite 517\nCotyton, CT 44186","subscribed":true}

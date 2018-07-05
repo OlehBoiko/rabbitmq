@@ -1,1 +1,0 @@
-{"name":"Rashad Wiegand","email":"gulgowski.jeff@kling.com","address":"825 Beer Points Suite 589\nEast Darby, AZ 81937-3050","subscribed":true}

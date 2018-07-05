@@ -1,1 +1,0 @@
-{"name":"Vicenta Satterfield III","email":"mervin.corwin@lockman.com","address":"26533 Waino Station\nNew Cedrick, OH 95994","subscribed":true}

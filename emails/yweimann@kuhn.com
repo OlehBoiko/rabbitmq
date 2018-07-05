@@ -1,1 +1,0 @@
-{"name":"Prof. Angus Schroeder","email":"yweimann@kuhn.com","address":"715 Keyshawn Keys\nNorth Frederikville, ID 00726-5586","subscribed":true}

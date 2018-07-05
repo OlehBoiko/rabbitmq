@@ -1,1 +1,0 @@
-{"name":"Jamir Rippin IV","email":"smith.ozella@padberg.org","address":"19618 Mitchell Isle\nVernicehaven, IA 47330","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mayra Bosco PhD","email":"clare34@hotmail.com","address":"8702 Genevieve Locks\nEast Carley, DE 48356-1606","subscribed":true}

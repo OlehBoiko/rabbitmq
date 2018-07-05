@@ -1,1 +1,0 @@
-{"name":"Coty Murazik","email":"hailey90@gmail.com","address":"814 Boehm Via Suite 958\nNew Alfredberg, NE 20206","subscribed":true}

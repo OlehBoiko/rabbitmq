@@ -1,1 +1,0 @@
-{"name":"Prof. Marco McClure DDS","email":"price.amos@schowalter.com","address":"9846 Raynor Forest\nQuigleyberg, MD 06092","subscribed":true}

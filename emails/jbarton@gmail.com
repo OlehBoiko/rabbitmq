@@ -1,1 +1,0 @@
-{"name":"Adonis Schuster","email":"jbarton@gmail.com","address":"140 Genesis Ranch Suite 843\nBechtelarstad, NC 05752","subscribed":true}

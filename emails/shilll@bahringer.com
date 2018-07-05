@@ -1,1 +1,0 @@
-{"name":"Mr. Clyde Halvorson","email":"shilll@bahringer.com","address":"5582 Eliseo Mission\nMikaylachester, LA 88297","subscribed":true}

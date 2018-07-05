@@ -1,1 +1,0 @@
-{"name":"Prof. Narciso Nader Sr.","email":"bpaucek@casper.com","address":"996 Verla Keys\nLake Andrestad, NV 37881-4043","subscribed":true}

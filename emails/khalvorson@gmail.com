@@ -1,1 +1,0 @@
-{"name":"Prof. Raleigh Legros I","email":"khalvorson@gmail.com","address":"783 Gussie Port Suite 087\nKuphalbury, MN 14021-8053","subscribed":true}

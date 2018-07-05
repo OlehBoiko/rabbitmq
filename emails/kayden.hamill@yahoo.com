@@ -1,1 +1,0 @@
-{"name":"Prof. Nikita Breitenberg","email":"kayden.hamill@yahoo.com","address":"697 Trevion Plaza\nRosendochester, LA 84806-9259","subscribed":true}

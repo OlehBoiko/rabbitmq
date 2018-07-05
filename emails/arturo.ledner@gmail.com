@@ -1,1 +1,0 @@
-{"name":"Torrance Effertz","email":"arturo.ledner@gmail.com","address":"540 Margarete Point\nWest Justinamouth, LA 95875","subscribed":true}

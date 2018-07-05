@@ -1,1 +1,0 @@
-{"name":"Prof. Gilbert Hintz","email":"damian.hahn@yahoo.com","address":"87591 Barrows Unions\nNew Jayceside, VT 87472-5573","subscribed":true}

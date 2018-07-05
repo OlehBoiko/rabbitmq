@@ -1,1 +1,0 @@
-{"name":"Prof. Nikko Beahan","email":"ryan.sabina@hotmail.com","address":"82240 Justice Field Suite 402\nDonavonton, KS 81297-2934","subscribed":true}

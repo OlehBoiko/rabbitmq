@@ -1,1 +1,0 @@
-{"name":"Dr. Effie Leffler IV","email":"dayna.ratke@christiansen.com","address":"7337 Jerde Mission\nLake Dell, CA 82978","subscribed":true}

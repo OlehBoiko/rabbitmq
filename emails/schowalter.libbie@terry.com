@@ -1,1 +1,0 @@
-{"name":"Alta Heidenreich","email":"schowalter.libbie@terry.com","address":"14940 Carroll Turnpike\nBergnaumfurt, KY 69663","subscribed":true}

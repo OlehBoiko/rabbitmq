@@ -1,1 +1,0 @@
-{"name":"Francisca Lubowitz","email":"olakin@hotmail.com","address":"6097 Theresa Locks Apt. 666\nPort Ivoryton, AK 76370-8323","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Keely Satterfield","email":"goodwin.madeline@rempel.com","address":"396 Moses Island Apt. 002\nEast Kylee, CA 26052-6471","subscribed":true}

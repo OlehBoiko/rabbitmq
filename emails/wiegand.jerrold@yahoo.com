@@ -1,1 +1,0 @@
-{"name":"Prof. Mertie Beer I","email":"wiegand.jerrold@yahoo.com","address":"84073 Reinger Cove Apt. 943\nMalindachester, WV 15550","subscribed":true}

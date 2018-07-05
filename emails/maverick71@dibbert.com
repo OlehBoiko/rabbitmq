@@ -1,1 +1,0 @@
-{"name":"Mrs. Rosalyn Ruecker Jr.","email":"maverick71@dibbert.com","address":"5729 Matteo Plains\nLeonelchester, NJ 83969","subscribed":true}

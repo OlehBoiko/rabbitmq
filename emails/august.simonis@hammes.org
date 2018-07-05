@@ -1,1 +1,0 @@
-{"name":"Prof. Tyreek Doyle Jr.","email":"august.simonis@hammes.org","address":"9966 Leffler Parkway Apt. 235\nPricefurt, MA 15966","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Hardy Boyer","email":"margie93@gmail.com","address":"49139 Heller Lane\nRaquelberg, AR 18888","subscribed":true}

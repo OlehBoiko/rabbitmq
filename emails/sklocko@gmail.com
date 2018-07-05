@@ -1,1 +1,0 @@
-{"name":"Griffin Turcotte","email":"sklocko@gmail.com","address":"35631 Pearline Terrace Suite 216\nNaderbury, MO 52755","subscribed":true}

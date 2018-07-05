@@ -1,1 +1,0 @@
-{"name":"Prof. Isidro Beahan","email":"ervin15@gmail.com","address":"26238 Cynthia Valley\nNew Audreanne, WY 10041","subscribed":true}

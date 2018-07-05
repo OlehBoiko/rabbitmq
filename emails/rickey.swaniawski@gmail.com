@@ -1,1 +1,0 @@
-{"name":"Prof. Breana Fritsch","email":"rickey.swaniawski@gmail.com","address":"22923 Gutmann Haven\nNew Olgachester, NH 84686-4308","subscribed":true}

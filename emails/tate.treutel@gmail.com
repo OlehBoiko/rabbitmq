@@ -1,1 +1,0 @@
-{"name":"Dedric Harvey DVM","email":"tate.treutel@gmail.com","address":"499 Dusty Trail Apt. 121\nSouth Velma, AK 58950-8847","subscribed":true}

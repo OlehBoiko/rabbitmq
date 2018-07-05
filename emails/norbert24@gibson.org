@@ -1,1 +1,0 @@
-{"name":"Prof. Kennedi Effertz","email":"norbert24@gibson.org","address":"30825 Conrad Light\nBaumbachland, MT 60896","subscribed":true}

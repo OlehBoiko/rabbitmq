@@ -1,1 +1,0 @@
-{"name":"Arely Krajcik Sr.","email":"abdul.walsh@gmail.com","address":"680 Bosco Parkway\nPort Trinity, CT 79636-7804","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Brian Hartmann","email":"noemie46@lind.com","address":"352 Ebert Plain Suite 782\nSouth Emelieland, WA 90799","subscribed":true}

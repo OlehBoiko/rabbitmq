@@ -1,1 +1,0 @@
-{"name":"Dennis Schowalter V","email":"pfeffer.michel@hotmail.com","address":"7520 Isabelle River\nBartellbury, SD 34302","subscribed":true}

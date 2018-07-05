@@ -1,1 +1,0 @@
-{"name":"Prof. Orland Daugherty","email":"tcummings@johnson.org","address":"280 Gerhold Dale Apt. 574\nSouth Nyahport, IL 13132","subscribed":true}

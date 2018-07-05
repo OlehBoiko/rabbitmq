@@ -1,1 +1,0 @@
-{"name":"Mr. Emanuel Lockman","email":"carter.cristal@yahoo.com","address":"71085 Schuster Loop Suite 360\nNew Oran, ME 91434","subscribed":true}

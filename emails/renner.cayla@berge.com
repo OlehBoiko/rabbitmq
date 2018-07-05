@@ -1,1 +1,0 @@
-{"name":"Buck McDermott","email":"renner.cayla@berge.com","address":"1767 O'Connell Shoals Apt. 865\nMosciskiport, TX 34167","subscribed":true}

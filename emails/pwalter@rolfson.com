@@ -1,1 +1,0 @@
-{"name":"Prof. Alford Bernhard","email":"pwalter@rolfson.com","address":"23108 Everett Cliffs\nRaynorchester, WI 38240-7401","subscribed":true}

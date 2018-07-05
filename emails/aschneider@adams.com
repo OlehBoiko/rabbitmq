@@ -1,1 +1,0 @@
-{"name":"Prof. Christophe Berge","email":"aschneider@adams.com","address":"54004 Stroman Unions Suite 382\nHilpertland, NH 93007","subscribed":true}

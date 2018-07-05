@@ -1,1 +1,0 @@
-{"name":"Obie Lehner","email":"ankunding.hulda@buckridge.com","address":"9090 Hyatt Ways\nNorth Sharon, MS 86067","subscribed":true}

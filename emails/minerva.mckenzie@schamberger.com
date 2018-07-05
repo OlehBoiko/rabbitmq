@@ -1,1 +1,0 @@
-{"name":"Tessie Muller","email":"minerva.mckenzie@schamberger.com","address":"21858 Ankunding Junction Suite 961\nNorth Mortimer, MI 11596","subscribed":true}

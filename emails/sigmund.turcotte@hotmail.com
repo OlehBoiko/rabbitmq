@@ -1,1 +1,0 @@
-{"name":"Guillermo Walter","email":"sigmund.turcotte@hotmail.com","address":"7953 Wilhelmine Pines Suite 388\nDeckowhaven, AR 79260","subscribed":true}

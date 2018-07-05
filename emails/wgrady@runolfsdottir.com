@@ -1,1 +1,0 @@
-{"name":"Dr. Teresa Metz MD","email":"wgrady@runolfsdottir.com","address":"9220 Berge Loop Suite 512\nLake Dannyborough, SD 69844","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Harmon Franecki PhD","email":"christelle.gerlach@hotmail.com","address":"847 Thea Spurs Suite 409\nEast Ashlynn, DE 81849","subscribed":true}

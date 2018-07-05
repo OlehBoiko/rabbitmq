@@ -1,1 +1,0 @@
-{"name":"Vilma Waelchi","email":"pinkie57@schuster.com","address":"646 Noe Cliffs Suite 027\nEast Maureenburgh, GA 51146","subscribed":true}

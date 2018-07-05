@@ -1,1 +1,0 @@
-{"name":"Prof. Mike Green III","email":"alexis99@pouros.com","address":"592 McGlynn Mill\nNew Jaedenchester, DC 70020","subscribed":true}

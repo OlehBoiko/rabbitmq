@@ -1,1 +1,0 @@
-{"name":"Miss Tina Buckridge","email":"otilia.schmeler@konopelski.com","address":"8142 Feest Manors\nNorth Jennie, RI 73061","subscribed":true}

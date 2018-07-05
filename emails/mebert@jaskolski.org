@@ -1,1 +1,0 @@
-{"name":"Louie Bauch","email":"mebert@jaskolski.org","address":"720 Haley Bypass\nNew Alexandre, ME 36035","subscribed":true}

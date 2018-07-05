@@ -1,1 +1,0 @@
-{"name":"Otto Hauck PhD","email":"nicola54@yahoo.com","address":"982 Jacobson Shoal\nRoxaneview, MD 37905","subscribed":true}

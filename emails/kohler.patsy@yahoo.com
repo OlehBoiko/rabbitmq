@@ -1,1 +1,0 @@
-{"name":"Prof. Jazmyn Cronin","email":"kohler.patsy@yahoo.com","address":"63922 Senger Terrace Apt. 152\nWest Solonview, NY 78172","subscribed":true}

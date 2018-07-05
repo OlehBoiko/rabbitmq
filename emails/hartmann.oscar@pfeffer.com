@@ -1,1 +1,0 @@
-{"name":"Dr. Deven Satterfield","email":"hartmann.oscar@pfeffer.com","address":"5070 Kristy Stravenue\nSouth Antwon, CT 10760","subscribed":true}

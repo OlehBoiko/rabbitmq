@@ -1,1 +1,0 @@
-{"name":"Dr. Aiden Hodkiewicz DDS","email":"kertzmann.elenora@hotmail.com","address":"6036 Adelia Isle\nWest Alenaton, WY 74998-6717","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Rico West","email":"lueilwitz.karelle@collins.org","address":"142 Anderson Village\nCronamouth, AZ 61506-9728","subscribed":true}

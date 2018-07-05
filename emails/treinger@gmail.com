@@ -1,1 +1,0 @@
-{"name":"Prof. Luigi Price","email":"treinger@gmail.com","address":"3025 Becker Point Suite 064\nLake Mireya, CT 34005-4807","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Amparo Murazik","email":"jones.jacey@kassulke.com","address":"9536 Fahey Rapids Suite 295\nLehnershire, GA 89020","subscribed":true}

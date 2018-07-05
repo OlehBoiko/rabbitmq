@@ -1,1 +1,0 @@
-{"name":"Isabella Schaefer","email":"mittie.klein@yahoo.com","address":"766 Abigail Isle\nLake Giovannaberg, ME 65367","subscribed":true}

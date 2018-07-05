@@ -1,1 +1,0 @@
-{"name":"Prof. Hoyt Olson","email":"kautzer.jules@gmail.com","address":"7529 Jody Row\nShaunburgh, OK 40129-7771","subscribed":true}

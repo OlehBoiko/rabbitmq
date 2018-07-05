@@ -1,1 +1,0 @@
-{"name":"Dr. Ebony Torp DVM","email":"major.blick@gmail.com","address":"5360 Carmen Fields Suite 231\nNew Dante, CA 08568","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Viva Hoeger","email":"jaskolski.arnold@hotmail.com","address":"612 O'Keefe Neck\nLeuschkeside, NV 00340-0657","subscribed":true}

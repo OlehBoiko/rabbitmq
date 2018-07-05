@@ -1,1 +1,0 @@
-{"name":"Prof. Jasen Gutkowski","email":"savanah.swift@hotmail.com","address":"8224 Angus Divide Suite 502\nRosariofort, VA 44261-5413","subscribed":true}

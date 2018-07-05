@@ -1,1 +1,0 @@
-{"name":"Prof. Lyric Casper Jr.","email":"fritsch.crystal@yahoo.com","address":"4051 Gutmann Key\nNorth Erna, WI 55712","subscribed":true}

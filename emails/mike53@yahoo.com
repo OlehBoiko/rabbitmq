@@ -1,1 +1,0 @@
-{"name":"Prof. Tyrell Heidenreich","email":"mike53@yahoo.com","address":"1011 Tristin Causeway\nNorth Hellen, RI 21970-2750","subscribed":true}

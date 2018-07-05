@@ -1,1 +1,0 @@
-{"name":"Cole Hessel","email":"hammes.dana@zulauf.org","address":"4743 Georgianna Ridge\nRomashire, MN 42690","subscribed":true}

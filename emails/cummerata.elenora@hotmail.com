@@ -1,1 +1,0 @@
-{"name":"Hank Kassulke","email":"cummerata.elenora@hotmail.com","address":"598 Beatty Passage Apt. 491\nLynchburgh, MN 88727","subscribed":true}

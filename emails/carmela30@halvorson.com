@@ -1,1 +1,0 @@
-{"name":"Callie Price","email":"carmela30@halvorson.com","address":"776 Christ Fork Suite 383\nHoppeburgh, NC 93350-1535","subscribed":true}

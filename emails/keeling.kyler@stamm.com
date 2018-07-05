@@ -1,1 +1,0 @@
-{"name":"Prof. Alysha Ferry","email":"keeling.kyler@stamm.com","address":"782 Eleonore Isle Suite 960\nNew Johnnieland, MD 86733","subscribed":true}

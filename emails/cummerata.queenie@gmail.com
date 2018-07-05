@@ -1,1 +1,0 @@
-{"name":"Chase Lakin DDS","email":"cummerata.queenie@gmail.com","address":"363 Paucek Station\nPort Mitchelbury, MD 47384","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Kody West DDS","email":"schowalter.juanita@gmail.com","address":"4067 Wisoky Point Suite 601\nKlockoland, MI 42287","subscribed":true}

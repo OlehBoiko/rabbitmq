@@ -1,1 +1,0 @@
-{"name":"Prof. Earnestine Corkery","email":"madie.halvorson@hotmail.com","address":"61683 Swift Ridges\nWest Bartholomeville, OH 32616","subscribed":true}

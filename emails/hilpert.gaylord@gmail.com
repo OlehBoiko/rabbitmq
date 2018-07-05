@@ -1,1 +1,0 @@
-{"name":"Dr. Micah Schneider","email":"hilpert.gaylord@gmail.com","address":"51238 Mollie Isle\nFredaview, CO 43878","subscribed":true}

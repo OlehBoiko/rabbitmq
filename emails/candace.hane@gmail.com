@@ -1,1 +1,0 @@
-{"name":"Prof. Brayan Crooks Sr.","email":"candace.hane@gmail.com","address":"688 Berge Cliffs\nMabelleland, RI 23444-9182","subscribed":true}

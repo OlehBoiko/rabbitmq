@@ -1,1 +1,0 @@
-{"name":"Beryl McClure","email":"ofeest@gmail.com","address":"650 Lubowitz Radial\nWest August, NE 55929","subscribed":true}

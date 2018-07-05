@@ -1,1 +1,0 @@
-{"name":"Nova Hand","email":"gus31@hotmail.com","address":"182 Marisa Vista\nJaquanbury, IN 65086","subscribed":true}

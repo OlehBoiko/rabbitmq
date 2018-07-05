@@ -1,1 +1,0 @@
-{"name":"Salvador Ward","email":"lavern57@simonis.com","address":"2375 Kareem Points\nNicolasfort, AZ 09914","subscribed":true}

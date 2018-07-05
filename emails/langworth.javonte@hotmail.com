@@ -1,1 +1,0 @@
-{"name":"Vicky Hartmann","email":"langworth.javonte@hotmail.com","address":"14002 Selina Creek Suite 776\nSouth Quinton, RI 67291-5642","subscribed":true}

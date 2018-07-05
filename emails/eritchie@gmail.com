@@ -1,1 +1,0 @@
-{"name":"Prof. Delaney Dare II","email":"eritchie@gmail.com","address":"47970 Labadie Landing Apt. 772\nPort Joshuah, LA 54182-2018","subscribed":true}

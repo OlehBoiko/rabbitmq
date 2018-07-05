@@ -1,1 +1,0 @@
-{"name":"Prof. Abigayle Tromp","email":"theresia.anderson@hotmail.com","address":"4665 River Loaf Suite 035\nNolanbury, PA 37745-3853","subscribed":true}

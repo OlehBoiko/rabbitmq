@@ -1,1 +1,0 @@
-{"name":"Prof. Roderick Cormier","email":"eking@hessel.org","address":"536 Abbie Club\nEast Antonettachester, SD 75211-8749","subscribed":true}

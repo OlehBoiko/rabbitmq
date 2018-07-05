@@ -1,1 +1,0 @@
-{"name":"Bradley Lemke","email":"lexi.reichel@yahoo.com","address":"601 Schultz Green\nNew Maramouth, TN 99351","subscribed":true}

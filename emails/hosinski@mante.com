@@ -1,1 +1,0 @@
-{"name":"Prof. Kayla Hoeger","email":"hosinski@mante.com","address":"1102 Juvenal Underpass Apt. 452\nBoyerville, MO 76994","subscribed":true}

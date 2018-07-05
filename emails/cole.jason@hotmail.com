@@ -1,1 +1,0 @@
-{"name":"Prof. Delmer Goyette","email":"cole.jason@hotmail.com","address":"8881 Gislason Keys Suite 797\nSouth Nathanialtown, LA 33917-1796","subscribed":true}

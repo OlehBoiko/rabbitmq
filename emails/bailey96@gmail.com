@@ -1,1 +1,0 @@
-{"name":"Dr. Josefa Sipes","email":"bailey96@gmail.com","address":"965 Margie Roads Suite 312\nNorth Abbyhaven, AR 56518","subscribed":true}

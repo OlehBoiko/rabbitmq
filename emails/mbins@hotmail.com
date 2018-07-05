@@ -1,1 +1,0 @@
-{"name":"Prof. Pietro Shanahan","email":"mbins@hotmail.com","address":"703 Langworth Center Apt. 954\nMichealmouth, ND 26790","subscribed":true}

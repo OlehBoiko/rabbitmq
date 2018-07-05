@@ -1,1 +1,0 @@
-{"name":"Abner Parker","email":"deontae23@gmail.com","address":"55917 Raven Circles Suite 813\nWest Armanifort, IN 63499","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Geo Kuvalis","email":"jarred49@yahoo.com","address":"65777 Savanah Roads Suite 397\nWest Destineemouth, MI 48858-4050","subscribed":true}

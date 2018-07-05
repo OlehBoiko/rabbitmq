@@ -1,1 +1,0 @@
-{"name":"Joana Hartmann IV","email":"carmelo.jacobson@rippin.com","address":"576 Kayleigh Plaza\nLindtown, MA 14768","subscribed":true}

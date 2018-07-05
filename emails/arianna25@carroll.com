@@ -1,1 +1,0 @@
-{"name":"Gabriel Weissnat I","email":"arianna25@carroll.com","address":"7911 Cruz Overpass Suite 404\nSouth Ike, LA 48217","subscribed":true}

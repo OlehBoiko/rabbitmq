@@ -1,1 +1,0 @@
-{"name":"Nelson Ortiz","email":"lemke.andre@gmail.com","address":"96591 Leonardo Groves Suite 600\nKonopelskichester, MD 10174","subscribed":true}

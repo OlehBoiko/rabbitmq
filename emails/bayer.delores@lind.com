@@ -1,1 +1,0 @@
-{"name":"Clint Walter","email":"bayer.delores@lind.com","address":"298 Schowalter Spur\nNew Monroeview, ID 26457-1049","subscribed":true}

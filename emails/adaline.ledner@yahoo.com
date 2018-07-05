@@ -1,1 +1,0 @@
-{"name":"Shana Schuppe","email":"adaline.ledner@yahoo.com","address":"100 Jerry Ways Suite 614\nWest Jarrett, TN 66312","subscribed":true}

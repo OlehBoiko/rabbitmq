@@ -1,1 +1,0 @@
-{"name":"Reanna Romaguera","email":"myriam44@hoppe.com","address":"112 Alfonzo Tunnel\nPort Giovannyberg, ME 97022","subscribed":true}

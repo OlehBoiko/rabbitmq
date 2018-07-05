@@ -1,1 +1,0 @@
-{"name":"Dr. Henderson Monahan PhD","email":"blanche.schulist@gmail.com","address":"52003 West Burg\nLake Zola, VA 49463","subscribed":true}

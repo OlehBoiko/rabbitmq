@@ -1,1 +1,0 @@
-{"name":"Phyllis Kuphal","email":"jasmin64@osinski.com","address":"997 Casper Viaduct Apt. 900\nNew Abelland, DE 02074-5003","subscribed":true}

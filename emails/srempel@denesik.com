@@ -1,1 +1,0 @@
-{"name":"Alice O'Kon","email":"srempel@denesik.com","address":"355 Beatty Lock\nNew Jeanieborough, AR 35761","subscribed":true}

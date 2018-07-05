@@ -1,1 +1,0 @@
-{"name":"Prof. Emmalee Krajcik IV","email":"ron.emard@hilll.com","address":"772 Simonis Ridges Suite 881\nNew Fredyhaven, ME 43191","subscribed":true}

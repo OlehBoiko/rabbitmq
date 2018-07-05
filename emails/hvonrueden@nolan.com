@@ -1,1 +1,0 @@
-{"name":"Mr. Aurelio Kuphal","email":"hvonrueden@nolan.com","address":"818 Jenifer Mountain Apt. 252\nHickletown, OR 06982-2988","subscribed":true}

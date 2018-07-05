@@ -1,1 +1,0 @@
-{"name":"Joel Pollich","email":"rhand@greenfelder.org","address":"924 Alfonzo Loaf Apt. 474\nWest Esperanza, MN 85002","subscribed":true}

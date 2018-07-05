@@ -1,1 +1,0 @@
-{"name":"Roslyn Quigley","email":"isabella73@hotmail.com","address":"8240 Turcotte Flats Suite 698\nSouth Wilmershire, AL 11828","subscribed":true}

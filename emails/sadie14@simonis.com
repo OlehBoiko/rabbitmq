@@ -1,1 +1,0 @@
-{"name":"Jewel Baumbach","email":"sadie14@simonis.com","address":"905 Myrtle Fall\nSouth Cynthia, MI 91167","subscribed":true}

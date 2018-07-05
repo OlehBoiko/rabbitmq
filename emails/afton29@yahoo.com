@@ -1,1 +1,0 @@
-{"name":"Jed Dare","email":"afton29@yahoo.com","address":"10139 Bode Gardens\nWest Dallas, CO 49610-8903","subscribed":true}

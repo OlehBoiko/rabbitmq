@@ -1,1 +1,0 @@
-{"name":"Kendra Hyatt","email":"destiny.padberg@armstrong.com","address":"538 Will Station Suite 250\nMarionport, NY 12960","subscribed":true}

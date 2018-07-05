@@ -1,1 +1,0 @@
-{"name":"Daphnee Smith DDS","email":"swilliamson@schulist.com","address":"496 Labadie Dam Suite 701\nEast Tessieport, NY 64169-2996","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Maye Schaefer","email":"joana.tillman@hotmail.com","address":"1051 Sipes Inlet Suite 875\nWest Aracelyhaven, VT 42162","subscribed":true}

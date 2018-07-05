@@ -1,1 +1,0 @@
-{"name":"Prof. Hattie Schaden III","email":"horace.streich@yahoo.com","address":"953 Floy Terrace Apt. 282\nSouth Aliyaborough, ME 54892","subscribed":true}

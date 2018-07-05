@@ -1,1 +1,0 @@
-{"name":"Johnson Gulgowski Sr.","email":"conn.lue@schoen.com","address":"6353 Schimmel Bridge\nNew Austynborough, OK 01064","subscribed":true}

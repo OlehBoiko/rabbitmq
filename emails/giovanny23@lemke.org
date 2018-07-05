@@ -1,1 +1,0 @@
-{"name":"Dwight Franecki","email":"giovanny23@lemke.org","address":"55522 Mitchell Overpass\nVandervortside, SC 77594","subscribed":true}

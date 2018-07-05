@@ -1,1 +1,0 @@
-{"name":"Prof. Alan Christiansen PhD","email":"gmaggio@gmail.com","address":"3479 Powlowski Green Apt. 976\nRohanfurt, NY 94594-0635","subscribed":true}

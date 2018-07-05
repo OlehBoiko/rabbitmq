@@ -1,1 +1,0 @@
-{"name":"Zena Pollich","email":"treutel.madalyn@boehm.com","address":"961 Hessel Roads\nSmithamfurt, KY 62347","subscribed":true}

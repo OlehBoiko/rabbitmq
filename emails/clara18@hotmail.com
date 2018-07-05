@@ -1,1 +1,0 @@
-{"name":"Jacques Walter","email":"clara18@hotmail.com","address":"5402 Keebler Plaza\nNew Barrybury, WI 44386","subscribed":true}

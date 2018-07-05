@@ -1,1 +1,0 @@
-{"name":"Prof. Davion King PhD","email":"marty54@gmail.com","address":"116 Treva Locks\nKassulkeville, NJ 24738-2951","subscribed":true}

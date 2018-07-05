@@ -1,1 +1,0 @@
-{"name":"Yoshiko Runte","email":"bruen.jamal@zieme.org","address":"25877 Goyette Hills Suite 973\nGloverton, NH 54441-3263","subscribed":true}

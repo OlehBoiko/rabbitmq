@@ -1,1 +1,0 @@
-{"name":"Frederic Schneider","email":"destiny43@gmail.com","address":"6371 Wehner Brooks Suite 131\nJadonburgh, ME 25846","subscribed":true}

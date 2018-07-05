@@ -1,1 +1,0 @@
-{"name":"Prof. Shannon McGlynn II","email":"deondre.boyer@gmail.com","address":"4023 West Cape\nSteuberton, GA 98726-7316","subscribed":true}

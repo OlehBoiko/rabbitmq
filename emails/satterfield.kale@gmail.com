@@ -1,1 +1,0 @@
-{"name":"Chelsie Harris","email":"satterfield.kale@gmail.com","address":"1633 Raul Rapid Suite 525\nHeaneyborough, NY 59715","subscribed":true}

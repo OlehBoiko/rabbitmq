@@ -1,1 +1,0 @@
-{"name":"Cleo Kub","email":"sage.zemlak@tremblay.org","address":"9539 Brekke Well Suite 700\nLake Shanonchester, MT 30967","subscribed":true}

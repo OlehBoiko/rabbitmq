@@ -1,1 +1,0 @@
-{"name":"Ricardo Langosh","email":"qdickens@yahoo.com","address":"68336 Terry Meadows Suite 253\nBessieton, MI 10836","subscribed":true}

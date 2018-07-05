@@ -1,1 +1,0 @@
-{"name":"Ned Kuvalis","email":"lemke.kelley@schiller.com","address":"7090 Schroeder Ridges Suite 019\nEast Immanuelland, ND 21595-0849","subscribed":true}

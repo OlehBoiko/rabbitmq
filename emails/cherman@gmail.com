@@ -1,1 +1,0 @@
-{"name":"Isidro Shanahan DVM","email":"cherman@gmail.com","address":"83867 Howe Underpass\nWest Bertaburgh, WI 02990","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Vella Ankunding","email":"fredrick.moore@zulauf.com","address":"6187 Abner Ville Suite 809\nTrantowland, NC 85879","subscribed":true}

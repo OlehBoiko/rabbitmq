@@ -1,1 +1,0 @@
-{"name":"Dr. Royce Shanahan","email":"schneider.delmer@yahoo.com","address":"30869 Annetta Place Suite 750\nNorth Gregg, IA 95710-1529","subscribed":true}

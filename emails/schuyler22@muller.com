@@ -1,1 +1,0 @@
-{"name":"Prof. Zoie Treutel","email":"schuyler22@muller.com","address":"12260 Abner Village Apt. 794\nEast Oraland, FL 90003","subscribed":true}

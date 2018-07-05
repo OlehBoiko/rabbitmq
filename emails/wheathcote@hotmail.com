@@ -1,1 +1,0 @@
-{"name":"Mr. Eddie Reichel DVM","email":"wheathcote@hotmail.com","address":"65174 Braulio Station\nLake Coy, CA 28100-9408","subscribed":true}

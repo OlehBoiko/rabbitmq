@@ -1,1 +1,0 @@
-{"name":"Vada Walker","email":"bernadine.langosh@will.com","address":"248 Jed Trail\nLanemouth, TN 49154-6694","subscribed":true}

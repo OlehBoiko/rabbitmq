@@ -1,1 +1,0 @@
-{"name":"Dr. Schuyler Swift","email":"kub.carolina@kertzmann.com","address":"28195 Haag Lock Suite 362\nKiaramouth, LA 82901","subscribed":true}

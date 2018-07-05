@@ -1,1 +1,0 @@
-{"name":"Nasir Jenkins","email":"kenny.bruen@ullrich.com","address":"12042 Runolfsson Rest Apt. 140\nDarwinside, MT 21926-3498","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Kendrick Blick","email":"cremin.dennis@hotmail.com","address":"59513 Stephany Lodge Suite 961\nNorth Lourdesberg, KS 31385-6156","subscribed":true}

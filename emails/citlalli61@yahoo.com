@@ -1,1 +1,0 @@
-{"name":"Zechariah Konopelski Jr.","email":"citlalli61@yahoo.com","address":"4509 Lubowitz Valley Suite 093\nWest Dejah, KS 53066-8893","subscribed":true}

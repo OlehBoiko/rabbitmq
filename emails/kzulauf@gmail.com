@@ -1,1 +1,0 @@
-{"name":"Bartholome Schultz","email":"kzulauf@gmail.com","address":"59987 Nettie Common\nSporerland, AK 54667","subscribed":true}

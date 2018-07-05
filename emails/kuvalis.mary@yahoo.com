@@ -1,1 +1,0 @@
-{"name":"Cale Hudson","email":"kuvalis.mary@yahoo.com","address":"1788 Rowe Inlet\nVernieburgh, NV 45161-2191","subscribed":true}

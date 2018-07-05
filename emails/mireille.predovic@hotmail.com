@@ -1,1 +1,0 @@
-{"name":"Dr. Roy Hintz","email":"mireille.predovic@hotmail.com","address":"13761 Prohaska Isle\nLake Jodie, IN 34656-1428","subscribed":true}

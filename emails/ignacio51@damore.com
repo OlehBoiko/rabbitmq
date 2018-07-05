@@ -1,1 +1,0 @@
-{"name":"Dr. Tom Adams PhD","email":"ignacio51@damore.com","address":"6975 Cormier Tunnel Suite 243\nAmarimouth, AR 03382-5702","subscribed":true}

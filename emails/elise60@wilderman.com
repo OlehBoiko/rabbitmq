@@ -1,1 +1,0 @@
-{"name":"Abdul Franecki","email":"elise60@wilderman.com","address":"42954 Sonny Stravenue Apt. 663\nGislasonmouth, LA 19608-2018","subscribed":true}

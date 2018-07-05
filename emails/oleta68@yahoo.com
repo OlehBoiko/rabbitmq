@@ -1,1 +1,0 @@
-{"name":"Mr. Brennan Bernhard PhD","email":"oleta68@yahoo.com","address":"110 Gottlieb Summit Suite 213\nLabadieton, HI 13410-7258","subscribed":true}

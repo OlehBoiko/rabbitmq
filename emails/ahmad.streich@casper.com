@@ -1,1 +1,0 @@
-{"name":"Mrs. Shanna Barton","email":"ahmad.streich@casper.com","address":"4251 Wiegand Underpass\nEast Ednastad, MO 29706","subscribed":true}

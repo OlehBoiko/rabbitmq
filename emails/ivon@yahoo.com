@@ -1,1 +1,0 @@
-{"name":"Mr. Gennaro Quigley V","email":"ivon@yahoo.com","address":"8615 Hessel Estates\nFaustinoborough, CT 63452","subscribed":true}

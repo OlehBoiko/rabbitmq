@@ -1,1 +1,0 @@
-{"name":"Mr. Kale Konopelski","email":"purdy.nya@hotmail.com","address":"161 Mittie Wells\nEast Henriette, NV 78922-4669","subscribed":true}

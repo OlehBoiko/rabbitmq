@@ -1,1 +1,0 @@
-{"name":"Mr. Nicholaus Schultz","email":"josiah96@yahoo.com","address":"3969 Jast Parkways\nHoppeside, MD 88158-5198","subscribed":true}

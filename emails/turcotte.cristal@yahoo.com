@@ -1,1 +1,0 @@
-{"name":"Valentina Barton","email":"turcotte.cristal@yahoo.com","address":"984 Eleonore Locks Suite 908\nNorth Isabell, MS 75002","subscribed":true}

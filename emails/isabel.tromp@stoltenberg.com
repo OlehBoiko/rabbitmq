@@ -1,1 +1,0 @@
-{"name":"Mr. Elliott Vandervort","email":"isabel.tromp@stoltenberg.com","address":"805 Herzog Path Suite 977\nEast Laney, NH 65802","subscribed":true}

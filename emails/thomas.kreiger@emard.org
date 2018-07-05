@@ -1,1 +1,0 @@
-{"name":"Prof. Rachael Rempel I","email":"thomas.kreiger@emard.org","address":"574 Emelie Creek\nNew Audrey, RI 48922-3941","subscribed":true}

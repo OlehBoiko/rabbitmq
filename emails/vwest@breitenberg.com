@@ -1,1 +1,0 @@
-{"name":"Mr. Patrick Boyle MD","email":"vwest@breitenberg.com","address":"1545 Dicki Port\nRuthport, OH 95256-0351","subscribed":true}

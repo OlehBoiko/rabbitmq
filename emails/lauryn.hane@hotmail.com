@@ -1,1 +1,0 @@
-{"name":"Dr. Lucious Boehm","email":"lauryn.hane@hotmail.com","address":"483 Veda Harbor Suite 880\nNorth Rubye, TN 75918","subscribed":true}

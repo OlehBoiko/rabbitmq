@@ -1,1 +1,0 @@
-{"name":"Prof. Van Kreiger","email":"lauren.trantow@hotmail.com","address":"424 Larson Center\nSouth Gonzalo, OK 06041","subscribed":true}

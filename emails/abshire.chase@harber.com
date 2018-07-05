@@ -1,1 +1,0 @@
-{"name":"Prof. Moses Mante IV","email":"abshire.chase@harber.com","address":"4060 Blanche Spur\nNorth Adahtown, TX 13767","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Magali Mayert","email":"vance12@gmail.com","address":"1299 Georgianna Crossroad Suite 556\nLake Fredaport, TN 76619-6363","subscribed":true}

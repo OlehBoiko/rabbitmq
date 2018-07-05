@@ -1,1 +1,0 @@
-{"name":"Selina Connelly","email":"blick.blanca@upton.com","address":"4708 Velda Row Suite 470\nHermannton, NJ 54972","subscribed":true}

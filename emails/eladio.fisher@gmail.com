@@ -1,1 +1,0 @@
-{"name":"Claude Wilkinson","email":"eladio.fisher@gmail.com","address":"40146 Cummerata Lane\nDionview, SC 22218-0638","subscribed":true}

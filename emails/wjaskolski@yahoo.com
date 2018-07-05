@@ -1,1 +1,0 @@
-{"name":"Maxime Hane","email":"wjaskolski@yahoo.com","address":"55104 Wisoky Forge\nDemetrisbury, WV 16129-1498","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Rose Koss","email":"iflatley@yahoo.com","address":"874 Joel Drive\nWaltonborough, ME 04212-6374","subscribed":true}

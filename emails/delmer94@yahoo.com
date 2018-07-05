@@ -1,1 +1,0 @@
-{"name":"Thomas Bernier","email":"delmer94@yahoo.com","address":"800 Barrows Course Suite 650\nNew Freddiehaven, VT 44862-4882","subscribed":true}

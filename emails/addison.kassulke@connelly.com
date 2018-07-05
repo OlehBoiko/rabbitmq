@@ -1,1 +1,0 @@
-{"name":"Winfield Fritsch","email":"addison.kassulke@connelly.com","address":"9579 Dashawn Gateway\nStrackefurt, UT 06222-3816","subscribed":true}

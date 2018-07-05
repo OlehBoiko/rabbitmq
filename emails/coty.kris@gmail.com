@@ -1,1 +1,0 @@
-{"name":"Fay Friesen","email":"coty.kris@gmail.com","address":"72608 McGlynn Green Suite 290\nNew Adellaport, DE 78021","subscribed":true}

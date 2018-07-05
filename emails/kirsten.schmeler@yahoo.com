@@ -1,1 +1,0 @@
-{"name":"Callie Stehr","email":"kirsten.schmeler@yahoo.com","address":"7844 Gislason Fields Apt. 142\nNew Adellafurt, PA 96109","subscribed":true}

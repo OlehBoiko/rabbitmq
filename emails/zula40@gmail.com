@@ -1,1 +1,0 @@
-{"name":"Margarete Considine PhD","email":"zula40@gmail.com","address":"273 Waters Stravenue\nRutherfordton, OR 67423","subscribed":true}

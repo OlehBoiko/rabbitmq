@@ -1,1 +1,0 @@
-{"name":"Julie Mante IV","email":"rmante@tillman.com","address":"4190 Chelsey Manor Suite 964\nElwyntown, IA 22399","subscribed":true}

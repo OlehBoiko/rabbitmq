@@ -1,1 +1,0 @@
-{"name":"Dr. Michel Funk I","email":"tkunde@gmail.com","address":"450 Heaney Inlet\nSheridanburgh, IN 98429-7034","subscribed":true}

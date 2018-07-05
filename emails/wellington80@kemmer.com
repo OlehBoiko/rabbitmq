@@ -1,1 +1,0 @@
-{"name":"Waldo Dickinson","email":"wellington80@kemmer.com","address":"94340 Rubie Plain Apt. 225\nConsidineburgh, DE 81016","subscribed":true}

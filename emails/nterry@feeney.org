@@ -1,1 +1,0 @@
-{"name":"Prof. Marshall Becker I","email":"nterry@feeney.org","address":"370 Turcotte Dale Apt. 220\nKylerfurt, UT 75502-7449","subscribed":true}

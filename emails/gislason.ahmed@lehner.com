@@ -1,1 +1,0 @@
-{"name":"Lindsey King","email":"gislason.ahmed@lehner.com","address":"81690 Madilyn Spur\nKulashaven, MS 38183-8069","subscribed":true}

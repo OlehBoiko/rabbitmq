@@ -1,1 +1,0 @@
-{"name":"Alfred Homenick","email":"hallie.hyatt@hotmail.com","address":"88770 Balistreri Island\nHarrisview, RI 81047","subscribed":true}

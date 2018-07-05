@@ -1,1 +1,0 @@
-{"name":"Prof. Francisco Jakubowski","email":"cedrick18@gislason.com","address":"80419 Stamm Trafficway Suite 326\nPort Lerashire, WY 69007-6982","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Kevin Kunze V","email":"soledad.donnelly@feeney.com","address":"8480 Koch Prairie Suite 388\nPort Myaberg, OR 67042","subscribed":true}

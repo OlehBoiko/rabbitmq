@@ -1,1 +1,0 @@
-{"name":"Tyrique Muller","email":"casimir.abernathy@fadel.com","address":"9760 Edwin Ford\nNorth Ezra, OR 20825","subscribed":true}

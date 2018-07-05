@@ -1,1 +1,0 @@
-{"name":"Prof. Donavon Bashirian","email":"madelynn.barrows@yahoo.com","address":"33522 Bins Garden Apt. 157\nSouth Queen, NE 64165","subscribed":true}

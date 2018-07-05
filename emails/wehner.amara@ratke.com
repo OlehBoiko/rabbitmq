@@ -1,1 +1,0 @@
-{"name":"Alena Ritchie","email":"wehner.amara@ratke.com","address":"6275 Paucek Landing Apt. 476\nPort Opal, SD 90793-3542","subscribed":true}

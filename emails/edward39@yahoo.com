@@ -1,1 +1,0 @@
-{"name":"Dr. Giovanna Friesen","email":"edward39@yahoo.com","address":"3234 Keeley Road\nWillmston, PA 31379","subscribed":true}

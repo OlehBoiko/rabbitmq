@@ -1,1 +1,0 @@
-{"name":"Prof. Xavier Kirlin","email":"pbeatty@yahoo.com","address":"542 Kihn View\nLeannhaven, NM 06353","subscribed":true}

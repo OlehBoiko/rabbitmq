@@ -1,1 +1,0 @@
-{"name":"Prof. Colt Kovacek IV","email":"gutkowski.richard@metz.com","address":"459 Jenifer Springs\nSouth Gudrunview, KY 43183-5596","subscribed":true}

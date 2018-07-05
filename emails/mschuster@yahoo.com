@@ -1,1 +1,0 @@
-{"name":"Georgette Lehner","email":"mschuster@yahoo.com","address":"38264 Gaylord Ways Suite 382\nRiceville, KS 21861","subscribed":true}

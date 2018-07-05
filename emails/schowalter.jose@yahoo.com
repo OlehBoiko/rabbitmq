@@ -1,1 +1,0 @@
-{"name":"Edwardo Lehner IV","email":"schowalter.jose@yahoo.com","address":"405 Hanna Common\nNorth Cielo, ID 15634","subscribed":true}

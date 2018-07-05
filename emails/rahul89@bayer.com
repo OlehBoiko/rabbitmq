@@ -1,1 +1,0 @@
-{"name":"Dr. Freddy Corwin","email":"rahul89@bayer.com","address":"7489 Sipes Highway\nReingerberg, SD 29499","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Marc Pouros I","email":"bwiegand@gmail.com","address":"4054 Torphy Plains Apt. 570\nMannmouth, ID 06920","subscribed":true}

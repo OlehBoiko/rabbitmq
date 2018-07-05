@@ -1,1 +1,0 @@
-{"name":"Prof. Eliane Blanda PhD","email":"joaquin14@wilkinson.com","address":"73555 Kristian Falls Suite 304\nNorth Emily, MS 22523-9628","subscribed":true}

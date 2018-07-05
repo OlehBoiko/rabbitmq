@@ -1,1 +1,0 @@
-{"name":"Eunice Kshlerin","email":"clement.klocko@gmail.com","address":"924 Myra Spurs Apt. 454\nKuhicmouth, ND 63170","subscribed":true}

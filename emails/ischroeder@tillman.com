@@ -1,1 +1,0 @@
-{"name":"Edyth Batz DVM","email":"ischroeder@tillman.com","address":"29036 Josiane Points Suite 424\nMcGlynnview, DC 75060","subscribed":true}

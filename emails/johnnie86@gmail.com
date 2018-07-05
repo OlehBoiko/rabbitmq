@@ -1,1 +1,0 @@
-{"name":"Blanca Daugherty","email":"johnnie86@gmail.com","address":"72038 Stehr Ways Suite 754\nSouth Efrenside, RI 06543","subscribed":true}

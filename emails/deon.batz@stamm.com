@@ -1,1 +1,0 @@
-{"name":"Domenic Hintz","email":"deon.batz@stamm.com","address":"6585 Kuhn Knolls Suite 895\nPort Donavon, KS 88804","subscribed":true}

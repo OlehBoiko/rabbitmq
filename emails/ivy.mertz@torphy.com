@@ -1,1 +1,0 @@
-{"name":"Prof. Joshuah Ullrich III","email":"ivy.mertz@torphy.com","address":"723 Veda Dam\nEast Lawrence, KY 28302","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mrs. Lucinda Nolan DVM","email":"keeling.lavern@yahoo.com","address":"29769 Corine Route\nSouth Edchester, WI 55413","subscribed":true}

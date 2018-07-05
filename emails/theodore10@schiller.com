@@ -1,1 +1,0 @@
-{"name":"Prof. Jamaal Steuber Jr.","email":"theodore10@schiller.com","address":"2885 Zemlak Isle Suite 320\nColemouth, NJ 32610","subscribed":true}

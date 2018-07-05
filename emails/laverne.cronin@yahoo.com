@@ -1,1 +1,0 @@
-{"name":"Waldo Kiehn","email":"laverne.cronin@yahoo.com","address":"496 Walsh Heights\nBartolettiburgh, CA 36563-7772","subscribed":true}

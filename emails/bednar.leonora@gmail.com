@@ -1,1 +1,0 @@
-{"name":"Maybell Romaguera","email":"bednar.leonora@gmail.com","address":"4845 Halvorson Circle\nCummerataport, OH 69243-1973","subscribed":true}

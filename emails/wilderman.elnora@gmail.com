@@ -1,1 +1,0 @@
-{"name":"Hester Cormier","email":"wilderman.elnora@gmail.com","address":"38456 Bartoletti Mission\nNorth Karlie, MA 61875","subscribed":true}

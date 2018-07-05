@@ -1,1 +1,0 @@
-{"name":"Meta Cummings","email":"jeramie.jenkins@wilkinson.com","address":"949 Morar Plaza\nWest Valentin, WI 11614","subscribed":true}

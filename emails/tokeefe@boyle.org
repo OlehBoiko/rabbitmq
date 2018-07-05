@@ -1,1 +1,0 @@
-{"name":"Glennie Price","email":"tokeefe@boyle.org","address":"4789 Domingo Mills Suite 241\nDeangeloshire, MI 03052","subscribed":true}

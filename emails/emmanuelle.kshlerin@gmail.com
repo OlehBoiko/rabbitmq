@@ -1,1 +1,0 @@
-{"name":"Jordi Schmeler","email":"emmanuelle.kshlerin@gmail.com","address":"5082 Bernardo Fall Suite 125\nWest Pierre, IA 83519-4448","subscribed":true}

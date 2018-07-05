@@ -1,1 +1,0 @@
-{"name":"Angus Hayes","email":"bode.graciela@gmail.com","address":"53069 Ephraim Drives\nNew Isaiahside, OR 56633","subscribed":true}

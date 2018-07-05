@@ -1,1 +1,0 @@
-{"name":"Prof. Beau Gottlieb","email":"alfreda.wehner@glover.com","address":"79582 Padberg Isle\nEveretteberg, CA 74166-2158","subscribed":true}

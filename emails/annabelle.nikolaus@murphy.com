@@ -1,1 +1,0 @@
-{"name":"Jorge Mayer","email":"annabelle.nikolaus@murphy.com","address":"6416 Abbott Hollow Apt. 458\nEast Deliatown, VT 72084","subscribed":true}

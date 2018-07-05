@@ -1,1 +1,0 @@
-{"name":"Mr. Dashawn Farrell","email":"vandervort.destiny@stark.com","address":"32390 Friedrich Mall Suite 168\nSouth Ryleigh, CT 70969","subscribed":true}

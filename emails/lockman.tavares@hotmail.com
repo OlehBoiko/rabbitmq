@@ -1,1 +1,0 @@
-{"name":"Glenna Cummings Jr.","email":"lockman.tavares@hotmail.com","address":"971 Ella Lodge Suite 040\nKeiraview, MO 61642-3971","subscribed":true}

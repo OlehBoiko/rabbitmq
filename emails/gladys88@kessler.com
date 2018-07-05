@@ -1,1 +1,0 @@
-{"name":"Prof. Shanelle Schinner","email":"gladys88@kessler.com","address":"9938 Neal Mews Suite 125\nStrackeview, ID 69311","subscribed":true}

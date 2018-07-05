@@ -1,1 +1,0 @@
-{"name":"Prof. Cary Stanton","email":"bergstrom.chadd@gmail.com","address":"38080 Benton Via Suite 329\nSatterfieldmouth, DE 44553","subscribed":true}

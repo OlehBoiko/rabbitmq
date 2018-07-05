@@ -1,1 +1,0 @@
-{"name":"Roslyn Wisozk PhD","email":"corkery.queenie@hotmail.com","address":"450 Prohaska Spur Suite 635\nRowestad, KY 63747","subscribed":true}

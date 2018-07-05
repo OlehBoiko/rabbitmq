@@ -1,1 +1,0 @@
-{"name":"Prof. Antonina Larson","email":"phintz@jenkins.org","address":"7508 Santino Dam Apt. 912\nNorth Randy, WV 88089","subscribed":true}

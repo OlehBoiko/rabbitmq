@@ -1,1 +1,0 @@
-{"name":"Summer Fadel","email":"genoveva36@mosciski.com","address":"399 Oberbrunner Drive\nPort Terry, CO 45649-3114","subscribed":true}

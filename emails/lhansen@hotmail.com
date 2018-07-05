@@ -1,1 +1,0 @@
-{"name":"Lamar Kuhlman","email":"lhansen@hotmail.com","address":"8993 Breitenberg Shoal Suite 702\nNorth Ervin, OK 79286-1240","subscribed":true}

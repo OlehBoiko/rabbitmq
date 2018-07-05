@@ -1,1 +1,0 @@
-{"name":"Manley Kris IV","email":"cletus.stoltenberg@hotmail.com","address":"124 Clifford Burgs Apt. 751\nWest Lenny, MT 20654","subscribed":true}

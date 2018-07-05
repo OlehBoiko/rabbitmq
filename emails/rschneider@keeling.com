@@ -1,1 +1,0 @@
-{"name":"Vernie Reynolds","email":"rschneider@keeling.com","address":"283 Osbaldo Walks Suite 733\nEast Gunner, DC 60949-6859","subscribed":true}

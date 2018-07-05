@@ -1,1 +1,0 @@
-{"name":"Madeline Kuphal","email":"zsporer@gmail.com","address":"870 Jaskolski Summit\nPort Brannon, UT 01214","subscribed":true}

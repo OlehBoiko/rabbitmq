@@ -1,1 +1,0 @@
-{"name":"Loma Schaefer","email":"angelica77@hotmail.com","address":"35707 Lang Stream Apt. 935\nDaisyport, MN 72964-2199","subscribed":true}

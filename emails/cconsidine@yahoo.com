@@ -1,1 +1,0 @@
-{"name":"Jo Hintz DVM","email":"cconsidine@yahoo.com","address":"1934 Conor Villages Suite 491\nPort Clint, LA 96880-1007","subscribed":true}

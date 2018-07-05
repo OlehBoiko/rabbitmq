@@ -1,1 +1,0 @@
-{"name":"Prof. Josue Rogahn Sr.","email":"ned.funk@stamm.com","address":"47155 Langworth Road\nNorth Genevieve, LA 10159","subscribed":true}

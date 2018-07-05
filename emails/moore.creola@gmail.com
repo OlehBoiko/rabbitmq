@@ -1,1 +1,0 @@
-{"name":"Jovany Bosco DDS","email":"moore.creola@gmail.com","address":"89149 Mante Isle\nLake Jennie, NY 96029","subscribed":true}

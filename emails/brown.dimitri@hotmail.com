@@ -1,1 +1,0 @@
-{"name":"Nicolas Hammes","email":"brown.dimitri@hotmail.com","address":"895 Jared Extension\nRuthiestad, KY 49295","subscribed":true}

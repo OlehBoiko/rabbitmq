@@ -1,1 +1,0 @@
-{"name":"Chadd Kuhic","email":"jody.medhurst@hotmail.com","address":"5266 Cecilia Pike\nEmiliastad, SC 67062-9628","subscribed":true}

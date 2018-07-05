@@ -1,1 +1,0 @@
-{"name":"Andrew Satterfield","email":"osenger@pfeffer.com","address":"4830 Ebba Centers Apt. 586\nLake Kelsiview, DC 37496-5393","subscribed":true}

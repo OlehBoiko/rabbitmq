@@ -1,1 +1,0 @@
-{"name":"Cordia Bernier","email":"zelma05@schiller.org","address":"10571 Emmerich Isle Suite 699\nPort Parismouth, CT 47756","subscribed":true}

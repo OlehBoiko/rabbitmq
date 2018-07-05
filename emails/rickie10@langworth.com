@@ -1,1 +1,0 @@
-{"name":"Madisen Collier","email":"rickie10@langworth.com","address":"518 Will Junction Apt. 561\nWest Isabell, IN 22537","subscribed":true}

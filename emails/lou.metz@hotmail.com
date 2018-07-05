@@ -1,1 +1,0 @@
-{"name":"Dr. Rahsaan Daniel Jr.","email":"lou.metz@hotmail.com","address":"19440 Kessler Turnpike Suite 912\nNorth Lane, IA 64969-0455","subscribed":true}

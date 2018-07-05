@@ -1,1 +1,0 @@
-{"name":"Prof. Walton Green","email":"hwuckert@rohan.com","address":"99452 Jerod Tunnel Suite 315\nNew Julianhaven, IL 92953-4518","subscribed":true}

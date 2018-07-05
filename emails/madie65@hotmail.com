@@ -1,1 +1,0 @@
-{"name":"Karli Ondricka","email":"madie65@hotmail.com","address":"305 Beer Brook Suite 572\nNolanville, WI 74736","subscribed":true}

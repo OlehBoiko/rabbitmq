@@ -1,1 +1,0 @@
-{"name":"Leopold Moore","email":"kreiger.camille@yahoo.com","address":"3225 Harber Estate\nWardberg, OK 20459","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Charity Baumbach","email":"langworth.katheryn@price.com","address":"8173 Margie Ridge Apt. 452\nEast Rosanna, CT 13106-5181","subscribed":true}

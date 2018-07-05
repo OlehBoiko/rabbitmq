@@ -1,1 +1,0 @@
-{"name":"Ms. Adriana Ankunding","email":"rebeca.murray@hotmail.com","address":"52003 Kihn Estate\nSouth Lila, KS 58272-3164","subscribed":true}

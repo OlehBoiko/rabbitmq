@@ -1,1 +1,0 @@
-{"name":"Lenny Simonis","email":"glueilwitz@prosacco.com","address":"9745 Jazmyn Curve Suite 468\nBorisstad, DC 78299-5714","subscribed":true}

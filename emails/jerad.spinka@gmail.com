@@ -1,1 +1,0 @@
-{"name":"Vernice Bergnaum","email":"jerad.spinka@gmail.com","address":"202 Steve Ranch Suite 696\nHillsstad, RI 21457","subscribed":true}

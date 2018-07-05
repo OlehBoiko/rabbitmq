@@ -1,1 +1,0 @@
-{"name":"Fred Cummings","email":"whaley@yahoo.com","address":"2603 Albin Estates Suite 249\nO'Connerfurt, AR 16189","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Isobel Schneider","email":"helga.huel@murazik.com","address":"15616 Turcotte Circles Suite 102\nJessberg, NC 82866","subscribed":true}

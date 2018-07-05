@@ -1,1 +1,0 @@
-{"name":"Darrel Gutkowski","email":"waelchi.david@yahoo.com","address":"116 Kuvalis Stream\nParkerstad, SC 33079","subscribed":true}

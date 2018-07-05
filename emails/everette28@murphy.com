@@ -1,1 +1,0 @@
-{"name":"Georgette Stoltenberg","email":"everette28@murphy.com","address":"6136 Kasey Circle\nRuthberg, OK 84562","subscribed":true}

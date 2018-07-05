@@ -1,1 +1,0 @@
-{"name":"Mr. Ismael Heller PhD","email":"floyd00@gmail.com","address":"1654 Hudson Passage Apt. 555\nPort Wallace, NC 23130","subscribed":true}

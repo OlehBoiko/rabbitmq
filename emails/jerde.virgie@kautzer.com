@@ -1,1 +1,0 @@
-{"name":"Amara Schmeler","email":"jerde.virgie@kautzer.com","address":"356 Jast Keys Suite 992\nLucioshire, WY 16746","subscribed":true}

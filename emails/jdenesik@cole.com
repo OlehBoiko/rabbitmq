@@ -1,1 +1,0 @@
-{"name":"Hans Cole Jr.","email":"jdenesik@cole.com","address":"49816 Jaskolski Glen\nSouth Dionton, SD 96505","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Nicole Franecki","email":"macejkovic.erling@hegmann.com","address":"45182 Stark Ridge Apt. 100\nVirgilstad, WV 24401-3585","subscribed":true}

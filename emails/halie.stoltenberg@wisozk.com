@@ -1,1 +1,0 @@
-{"name":"Ms. Alayna Hauck","email":"halie.stoltenberg@wisozk.com","address":"680 Schneider Village Suite 211\nVidaview, RI 11204","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mrs. Stacy Schmidt V","email":"mallie.nicolas@heidenreich.com","address":"546 Margie Passage Suite 474\nRosemarystad, RI 72489","subscribed":true}

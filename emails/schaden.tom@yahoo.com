@@ -1,1 +1,0 @@
-{"name":"Prof. Modesto Strosin Jr.","email":"schaden.tom@yahoo.com","address":"2435 Crooks Ways\nWest Jarod, AR 13941","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Noble Marvin Jr.","email":"gorczany.chandler@yahoo.com","address":"256 Kirlin Avenue\nNew Justicefort, NV 64085","subscribed":true}

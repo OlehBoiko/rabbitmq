@@ -1,1 +1,0 @@
-{"name":"Ramon Predovic DVM","email":"eldon.strosin@yahoo.com","address":"71768 Heathcote Meadows Suite 616\nBoganfurt, AZ 62143","subscribed":true}

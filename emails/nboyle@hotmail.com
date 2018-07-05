@@ -1,1 +1,0 @@
-{"name":"Frida Bayer","email":"nboyle@hotmail.com","address":"121 Wava Plaza\nWest Jerroldbury, PA 04862-2541","subscribed":true}

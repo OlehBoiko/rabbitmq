@@ -1,1 +1,0 @@
-{"name":"Louvenia DuBuque","email":"mandy18@bednar.com","address":"630 Devan Cape\nLake Hillard, RI 89772","subscribed":true}

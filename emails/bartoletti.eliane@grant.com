@@ -1,1 +1,0 @@
-{"name":"Aric Welch","email":"bartoletti.eliane@grant.com","address":"1836 Brady Passage\nWest Demario, TX 89644","subscribed":true}

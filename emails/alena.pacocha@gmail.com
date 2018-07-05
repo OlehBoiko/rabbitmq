@@ -1,1 +1,0 @@
-{"name":"Prof. Dawson McDermott I","email":"alena.pacocha@gmail.com","address":"786 Ari Park\nSouth Ahmedchester, KS 58709","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ms. Jalyn Jakubowski","email":"donnelly.helen@yahoo.com","address":"412 Earlene Village Suite 943\nLake Darrion, AL 31445-9875","subscribed":true}

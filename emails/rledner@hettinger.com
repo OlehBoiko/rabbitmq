@@ -1,1 +1,0 @@
-{"name":"Delphia Lehner","email":"rledner@hettinger.com","address":"3251 Marjolaine Shoal\nKaileyport, NE 31563-4804","subscribed":true}

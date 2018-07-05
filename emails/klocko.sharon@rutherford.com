@@ -1,1 +1,0 @@
-{"name":"Bruce Hayes","email":"klocko.sharon@rutherford.com","address":"5357 Alexa Highway\nSouth Raegantown, VT 06044-9115","subscribed":true}

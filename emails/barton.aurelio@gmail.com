@@ -1,1 +1,0 @@
-{"name":"Vernie Kuphal","email":"barton.aurelio@gmail.com","address":"79030 Hermiston Ramp\nPetrafort, AR 04125","subscribed":true}

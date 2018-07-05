@@ -1,1 +1,0 @@
-{"name":"Dario Metz","email":"cristobal.ward@nolan.com","address":"2105 Doyle Oval Suite 827\nMayertfurt, IA 55399","subscribed":true}

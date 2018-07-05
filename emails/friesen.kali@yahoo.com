@@ -1,1 +1,0 @@
-{"name":"Mrs. Cordie Lynch MD","email":"friesen.kali@yahoo.com","address":"2524 Douglas Shores\nHilllview, NC 50118-2834","subscribed":true}

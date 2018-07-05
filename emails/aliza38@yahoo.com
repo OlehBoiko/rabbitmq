@@ -1,1 +1,0 @@
-{"name":"Miss Verdie Kunde MD","email":"aliza38@yahoo.com","address":"356 Samir Forges\nFriesenton, KS 47478","subscribed":true}

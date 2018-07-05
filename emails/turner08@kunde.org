@@ -1,1 +1,0 @@
-{"name":"Prof. Katheryn Morissette","email":"turner08@kunde.org","address":"645 Heaney Throughway Suite 778\nNorth Dewittborough, WV 45732","subscribed":true}

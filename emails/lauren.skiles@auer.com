@@ -1,1 +1,0 @@
-{"name":"Andrew Aufderhar V","email":"lauren.skiles@auer.com","address":"785 Corkery Coves Apt. 821\nWest Benjaminfurt, TN 40135","subscribed":true}

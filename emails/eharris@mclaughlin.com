@@ -1,1 +1,0 @@
-{"name":"Mr. Misael Fritsch Sr.","email":"eharris@mclaughlin.com","address":"241 Marlon Lane\nLeschburgh, MN 93239","subscribed":true}

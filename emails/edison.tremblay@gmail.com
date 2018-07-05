@@ -1,1 +1,0 @@
-{"name":"Prof. Cassandre Hettinger Sr.","email":"edison.tremblay@gmail.com","address":"79343 Araceli Neck\nTommouth, MO 68506-9638","subscribed":true}

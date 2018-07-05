@@ -1,1 +1,0 @@
-{"name":"Mr. Immanuel Pfeffer","email":"lfunk@bernier.com","address":"7360 Edna Trace\nRydertown, NY 00304","subscribed":true}

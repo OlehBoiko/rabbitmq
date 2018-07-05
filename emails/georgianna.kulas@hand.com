@@ -1,1 +1,0 @@
-{"name":"Prof. Carleton Bernier DVM","email":"georgianna.kulas@hand.com","address":"769 Lawson Rapid Suite 301\nSchummview, NM 03844","subscribed":true}

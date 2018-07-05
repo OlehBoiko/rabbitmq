@@ -1,1 +1,0 @@
-{"name":"Dr. Adelle Zieme PhD","email":"durward97@hotmail.com","address":"7043 Wolf Ways Suite 648\nSchoenton, GA 33431-2420","subscribed":true}

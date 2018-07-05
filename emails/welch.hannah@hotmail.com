@@ -1,1 +1,0 @@
-{"name":"Derick Hartmann","email":"welch.hannah@hotmail.com","address":"8145 Goldner Streets Suite 576\nAmirshire, MA 65341","subscribed":true}

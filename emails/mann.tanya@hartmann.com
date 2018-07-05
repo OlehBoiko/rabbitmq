@@ -1,1 +1,0 @@
-{"name":"Lessie Beatty","email":"mann.tanya@hartmann.com","address":"747 Eva Locks\nVergiestad, CT 60041-7585","subscribed":true}

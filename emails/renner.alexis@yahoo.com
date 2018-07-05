@@ -1,1 +1,0 @@
-{"name":"Turner Buckridge","email":"renner.alexis@yahoo.com","address":"924 Howell Shoal\nNorth Broderick, ME 67456","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Felipe Altenwerth IV","email":"kuhic.bertha@yahoo.com","address":"441 Conn Crossroad\nO'Connellstad, TX 82942","subscribed":true}

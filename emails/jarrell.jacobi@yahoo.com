@@ -1,1 +1,0 @@
-{"name":"Prof. Graciela Daugherty Jr.","email":"jarrell.jacobi@yahoo.com","address":"338 Thad Terrace Suite 198\nLavernamouth, MN 44090-1872","subscribed":true}

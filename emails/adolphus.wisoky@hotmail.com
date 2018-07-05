@@ -1,1 +1,0 @@
-{"name":"Francesco Gerhold","email":"adolphus.wisoky@hotmail.com","address":"19262 Sauer Parks\nMaeganbury, KY 78330","subscribed":true}

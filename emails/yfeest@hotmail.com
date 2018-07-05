@@ -1,1 +1,0 @@
-{"name":"Durward Zulauf","email":"yfeest@hotmail.com","address":"854 Durgan Roads Apt. 169\nSouth Marquiseport, SC 82534","subscribed":true}

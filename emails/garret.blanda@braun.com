@@ -1,1 +1,0 @@
-{"name":"Dr. Malcolm Douglas DDS","email":"garret.blanda@braun.com","address":"355 Quitzon Tunnel\nMyrtisstad, TN 34408-4495","subscribed":true}

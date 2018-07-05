@@ -1,1 +1,0 @@
-{"name":"Prof. Jordon Jones III","email":"mina18@gmail.com","address":"38492 Rice Crossroad\nSouth Rowan, UT 54641","subscribed":true}

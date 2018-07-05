@@ -1,1 +1,0 @@
-{"name":"Miss Marie Schultz DDS","email":"sporer.lauretta@price.com","address":"2286 Harber Roads\nRosenbaumchester, SC 13110","subscribed":true}

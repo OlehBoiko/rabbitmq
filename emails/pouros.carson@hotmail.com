@@ -1,1 +1,0 @@
-{"name":"Mrs. Chasity Gulgowski DDS","email":"pouros.carson@hotmail.com","address":"42903 Loyal Ridges\nMittieberg, IA 52066-2756","subscribed":true}

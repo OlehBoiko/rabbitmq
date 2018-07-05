@@ -1,1 +1,0 @@
-{"name":"Prof. Jarod Hessel V","email":"celia.mertz@gmail.com","address":"2132 Schuppe Cape Suite 051\nJaysonmouth, KS 84892-4554","subscribed":true}

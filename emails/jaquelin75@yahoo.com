@@ -1,1 +1,0 @@
-{"name":"Prof. Michael Emmerich","email":"jaquelin75@yahoo.com","address":"960 Donald Cliffs Suite 561\nNew Murphy, ND 33770-9587","subscribed":true}

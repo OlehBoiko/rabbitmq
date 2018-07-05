@@ -1,1 +1,0 @@
-{"name":"Malvina Sporer MD","email":"candida.hansen@yahoo.com","address":"94810 Lee Stream Suite 268\nAbernathymouth, OR 98889","subscribed":true}

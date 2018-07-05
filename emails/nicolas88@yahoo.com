@@ -1,1 +1,0 @@
-{"name":"Jerome O'Reilly MD","email":"nicolas88@yahoo.com","address":"37729 Sven Overpass Apt. 937\nCummingsburgh, CT 73261-3780","subscribed":true}

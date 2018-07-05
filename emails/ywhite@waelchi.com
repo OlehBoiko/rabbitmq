@@ -1,1 +1,0 @@
-{"name":"Dr. Noelia Blick","email":"ywhite@waelchi.com","address":"41468 Dietrich Port Apt. 270\nWest Tevinmouth, UT 03056","subscribed":true}

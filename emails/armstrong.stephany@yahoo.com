@@ -1,1 +1,0 @@
-{"name":"Prof. German Moen","email":"armstrong.stephany@yahoo.com","address":"70734 Idell Orchard Apt. 785\nEast Berneiceport, NC 22007-3781","subscribed":true}

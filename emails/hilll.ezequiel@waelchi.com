@@ -1,1 +1,0 @@
-{"name":"Obie Ward","email":"hilll.ezequiel@waelchi.com","address":"143 Howard Summit\nGerlachmouth, IA 33300","subscribed":true}

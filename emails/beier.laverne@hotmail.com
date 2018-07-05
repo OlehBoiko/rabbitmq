@@ -1,1 +1,0 @@
-{"name":"Prof. Lionel Kuhlman III","email":"beier.laverne@hotmail.com","address":"9220 Fritsch Prairie\nSouth Alainabury, WY 53485","subscribed":true}

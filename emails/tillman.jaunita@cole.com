@@ -1,1 +1,0 @@
-{"name":"Shanel Franecki","email":"tillman.jaunita@cole.com","address":"397 Effertz Avenue\nEmmerichmouth, IL 07542-1092","subscribed":true}

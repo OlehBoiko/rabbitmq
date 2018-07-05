@@ -1,1 +1,0 @@
-{"name":"Dr. Regan Walker DDS","email":"dalton.cummerata@hotmail.com","address":"97706 Hadley Mill\nWest Nellieville, PA 09414-0715","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Raymond Cummerata Jr.","email":"nkonopelski@yahoo.com","address":"25104 Greta Well\nSouth Kirastad, IA 75229","subscribed":true}

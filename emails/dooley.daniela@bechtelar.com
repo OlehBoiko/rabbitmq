@@ -1,1 +1,0 @@
-{"name":"Ressie Mitchell","email":"dooley.daniela@bechtelar.com","address":"2253 Dortha Crossroad Suite 178\nDaughertytown, NE 76969-8816","subscribed":true}

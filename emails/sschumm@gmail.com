@@ -1,1 +1,0 @@
-{"name":"Osborne Schuppe Sr.","email":"sschumm@gmail.com","address":"8549 Lind Summit Apt. 434\nPfannerstilltown, LA 45945-8782","subscribed":true}

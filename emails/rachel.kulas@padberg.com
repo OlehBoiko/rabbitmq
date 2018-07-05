@@ -1,1 +1,0 @@
-{"name":"Brooks Ward","email":"rachel.kulas@padberg.com","address":"5123 Monahan Parkway\nNorth Lucious, OR 75328","subscribed":true}

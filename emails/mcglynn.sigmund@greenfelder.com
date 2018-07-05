@@ -1,1 +1,0 @@
-{"name":"Adaline Mertz","email":"mcglynn.sigmund@greenfelder.com","address":"13609 Denesik Ways\nHageneschester, OK 95033","subscribed":true}

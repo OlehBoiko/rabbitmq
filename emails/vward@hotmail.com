@@ -1,1 +1,0 @@
-{"name":"Dr. Raymond Hansen MD","email":"vward@hotmail.com","address":"6236 Doyle Shoals Suite 631\nLeorashire, MN 28302-1967","subscribed":true}

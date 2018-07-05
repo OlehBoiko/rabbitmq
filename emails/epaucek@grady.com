@@ -1,1 +1,0 @@
-{"name":"Dandre Cole PhD","email":"epaucek@grady.com","address":"705 Faye Light\nHellerland, HI 08900","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Ayden Kutch I","email":"moore.adan@hotmail.com","address":"368 Ebert Alley Apt. 399\nHunterton, CT 71814","subscribed":true}

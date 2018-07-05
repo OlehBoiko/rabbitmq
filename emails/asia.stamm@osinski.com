@@ -1,1 +1,0 @@
-{"name":"Adella Hermiston I","email":"asia.stamm@osinski.com","address":"770 Joe Road Apt. 027\nWernerborough, MA 35258-5849","subscribed":true}

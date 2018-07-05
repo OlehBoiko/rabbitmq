@@ -1,1 +1,0 @@
-{"name":"Nickolas Bradtke","email":"estell.gutkowski@kautzer.org","address":"146 Collins Hill\nEast Lavon, DC 56495-9486","subscribed":true}

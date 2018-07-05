@@ -1,1 +1,0 @@
-{"name":"Nasir Cronin","email":"oberbrunner.whitney@halvorson.com","address":"701 Hessel Crescent\nWebsterside, NV 60311","subscribed":true}

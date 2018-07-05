@@ -1,1 +1,0 @@
-{"name":"Claire Donnelly","email":"lstanton@reichel.com","address":"6853 Viva Locks\nNorth Blaze, SC 49286","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ashley Kunde V","email":"pschulist@yahoo.com","address":"507 Javonte Plaza\nEinoton, SD 22530","subscribed":true}

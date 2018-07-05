@@ -1,1 +1,0 @@
-{"name":"Prof. Sylvester Bruen","email":"murray.delmer@gmail.com","address":"472 Macejkovic Expressway Suite 163\nNew Eulaliamouth, VA 70751-0895","subscribed":true}

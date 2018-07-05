@@ -1,1 +1,0 @@
-{"name":"Prof. Maegan Luettgen Sr.","email":"brody25@gmail.com","address":"751 Britney Pike Apt. 291\nHeathcotehaven, AL 13211-1816","subscribed":true}

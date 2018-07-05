@@ -1,1 +1,0 @@
-{"name":"Cletus Ankunding","email":"aurore.kunde@trantow.com","address":"481 Huel Spurs Apt. 776\nLake Wade, WA 09062","subscribed":true}

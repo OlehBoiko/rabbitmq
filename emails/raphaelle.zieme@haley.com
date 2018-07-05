@@ -1,1 +1,0 @@
-{"name":"Prof. Junior Bosco","email":"raphaelle.zieme@haley.com","address":"400 Destinee Land Apt. 483\nEvieborough, FL 86778","subscribed":true}

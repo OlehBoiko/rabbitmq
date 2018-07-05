@@ -1,1 +1,0 @@
-{"name":"Miss Georgiana Kunze","email":"connelly.sandrine@schuster.com","address":"147 Jamil Club Apt. 729\nLowebury, WA 30837","subscribed":true}

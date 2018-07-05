@@ -1,1 +1,0 @@
-{"name":"Miss Yasmin Greenfelder","email":"hayes.elmore@morissette.com","address":"690 Josh Gateway Suite 527\nOsinskichester, MN 92434-2284","subscribed":true}

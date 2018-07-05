@@ -1,1 +1,0 @@
-{"name":"Prof. Coleman McKenzie I","email":"bergnaum.karianne@hotmail.com","address":"3993 Considine Rest Suite 330\nPort Diamondside, UT 00500","subscribed":true}

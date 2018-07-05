@@ -1,1 +1,0 @@
-{"name":"Prof. Ruben Kautzer","email":"dillan95@mcdermott.com","address":"92212 Friesen Camp\nSouth Raphaelton, MN 94358","subscribed":true}

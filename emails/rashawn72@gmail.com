@@ -1,1 +1,0 @@
-{"name":"Prof. Ismael White DDS","email":"rashawn72@gmail.com","address":"757 Casper Springs Apt. 575\nMorissetteville, WY 42458-2034","subscribed":true}

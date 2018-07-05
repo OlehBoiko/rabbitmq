@@ -1,1 +1,0 @@
-{"name":"Doug Altenwerth","email":"dorothy.altenwerth@wisoky.com","address":"22112 Bernadette Turnpike Suite 405\nMackburgh, MO 90002-4019","subscribed":true}

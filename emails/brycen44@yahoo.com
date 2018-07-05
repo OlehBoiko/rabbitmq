@@ -1,1 +1,0 @@
-{"name":"Prof. Natalia Maggio PhD","email":"brycen44@yahoo.com","address":"1806 Huel Way\nKarolannchester, OR 59479","subscribed":true}

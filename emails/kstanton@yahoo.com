@@ -1,1 +1,0 @@
-{"name":"Edmond Morissette PhD","email":"kstanton@yahoo.com","address":"4228 Walter Brook\nEast Reese, WV 70413","subscribed":true}

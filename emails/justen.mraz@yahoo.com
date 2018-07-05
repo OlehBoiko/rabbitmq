@@ -1,1 +1,0 @@
-{"name":"Prof. Giles Bartoletti","email":"justen.mraz@yahoo.com","address":"44301 Cindy Junction Apt. 537\nRossborough, IN 55432","subscribed":true}

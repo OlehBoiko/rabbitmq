@@ -1,1 +1,0 @@
-{"name":"Prof. Toy Collier Sr.","email":"camila.murray@yahoo.com","address":"301 Balistreri Manor Suite 980\nNorth Corinemouth, TX 89364-0890","subscribed":true}

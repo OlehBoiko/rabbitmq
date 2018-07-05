@@ -1,1 +1,0 @@
-{"name":"Cedrick Kris Jr.","email":"veum.krystal@gmail.com","address":"783 Stanton Crest\nPort Nia, KY 54942","subscribed":true}

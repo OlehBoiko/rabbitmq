@@ -1,1 +1,0 @@
-{"name":"Wallace Boyer","email":"pearline.weissnat@gmail.com","address":"70467 Rebeca Isle Suite 066\nLake Mariloumouth, IL 58337","subscribed":true}

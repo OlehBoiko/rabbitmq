@@ -1,1 +1,0 @@
-{"name":"Brock Konopelski","email":"watsica.camden@hotmail.com","address":"2925 Marlen Expressway Suite 496\nGibsonside, SC 92219-2021","subscribed":true}

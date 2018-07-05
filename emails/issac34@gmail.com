@@ -1,1 +1,0 @@
-{"name":"Jabari Stamm","email":"issac34@gmail.com","address":"6644 Lindgren Spring\nSouth Lila, ND 60171","subscribed":true}

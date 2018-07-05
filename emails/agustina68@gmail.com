@@ -1,1 +1,0 @@
-{"name":"Curt Fay","email":"agustina68@gmail.com","address":"3015 Sipes Springs Suite 476\nCoraliebury, VT 63818-4824","subscribed":true}

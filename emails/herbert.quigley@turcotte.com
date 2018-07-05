@@ -1,1 +1,0 @@
-{"name":"Fletcher Stark Sr.","email":"herbert.quigley@turcotte.com","address":"635 Eichmann Crossing\nKristyville, WY 86225-9931","subscribed":true}

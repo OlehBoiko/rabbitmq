@@ -1,1 +1,0 @@
-{"name":"Junior Kuphal","email":"kreiger.mariano@turcotte.com","address":"53161 Arielle Ridge\nWest Lorenz, GA 25453-4511","subscribed":true}

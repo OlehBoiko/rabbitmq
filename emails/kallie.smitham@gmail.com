@@ -1,1 +1,0 @@
-{"name":"Prof. Michale Streich II","email":"kallie.smitham@gmail.com","address":"10764 Kshlerin Freeway Suite 113\nFaemouth, NH 78207","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Cleve Jones PhD","email":"vlueilwitz@yahoo.com","address":"37199 Berry Squares Suite 942\nNorth Lynnstad, MN 30338-7502","subscribed":true}

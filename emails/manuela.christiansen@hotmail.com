@@ -1,1 +1,0 @@
-{"name":"Prof. Chaim Blanda","email":"manuela.christiansen@hotmail.com","address":"72685 Langosh Squares Apt. 836\nSouth Camilleborough, OK 21357-9039","subscribed":true}

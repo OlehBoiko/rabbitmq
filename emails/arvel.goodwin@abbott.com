@@ -1,1 +1,0 @@
-{"name":"Ransom Gorczany","email":"arvel.goodwin@abbott.com","address":"325 Lockman Route\nSadyemouth, PA 10817","subscribed":true}

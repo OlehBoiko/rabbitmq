@@ -1,1 +1,0 @@
-{"name":"Dr. Raleigh Koepp","email":"schmeler.theresia@gmail.com","address":"505 Reichert Brook Apt. 967\nAngelton, ND 21428-0243","subscribed":true}

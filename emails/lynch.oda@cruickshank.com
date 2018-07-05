@@ -1,1 +1,0 @@
-{"name":"Mr. Paris Kertzmann","email":"lynch.oda@cruickshank.com","address":"561 Windler Branch\nPort Florida, IL 42575","subscribed":true}

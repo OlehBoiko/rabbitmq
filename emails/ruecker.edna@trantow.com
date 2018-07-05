@@ -1,1 +1,0 @@
-{"name":"Frieda Macejkovic","email":"ruecker.edna@trantow.com","address":"7224 Janice Loop Apt. 210\nWest Euniceborough, NV 87567-6364","subscribed":true}

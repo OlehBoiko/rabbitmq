@@ -1,1 +1,0 @@
-{"name":"Mozelle Boyle V","email":"pat.harvey@yundt.com","address":"53958 Sporer Throughway Suite 881\nJerodborough, MO 55888","subscribed":true}

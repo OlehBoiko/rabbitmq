@@ -1,1 +1,0 @@
-{"name":"Freda Walter Jr.","email":"consuelo12@gmail.com","address":"8831 Stoltenberg Valley Apt. 577\nPrincessville, MS 07035","subscribed":true}

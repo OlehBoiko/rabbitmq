@@ -1,1 +1,0 @@
-{"name":"Prof. Robbie Hackett IV","email":"tatum.abernathy@bayer.com","address":"115 Lueilwitz Locks Suite 279\nNorth Mervin, OR 64233","subscribed":true}

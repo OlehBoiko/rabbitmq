@@ -1,1 +1,0 @@
-{"name":"Prof. Teagan Crist I","email":"tevin.wolff@nitzsche.com","address":"158 Carter Drives\nBernierville, VT 55765-1959","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Celestine Aufderhar","email":"rickey72@yahoo.com","address":"77884 Dorcas Shores\nWest Eltachester, IN 95103","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mrs. Kaya Dach DDS","email":"ritchie.shaun@trantow.com","address":"403 Alexandro Prairie\nLake Griffinmouth, OK 30328-7770","subscribed":true}

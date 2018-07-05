@@ -1,1 +1,0 @@
-{"name":"Isaiah Nikolaus","email":"gdubuque@yahoo.com","address":"37833 Davis Ford Suite 962\nClairemouth, AZ 82358","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dee Casper","email":"schinner.alverta@yahoo.com","address":"319 Crist Rest Suite 289\nNorth Chetmouth, IA 65727","subscribed":true}

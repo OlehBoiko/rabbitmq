@@ -1,1 +1,0 @@
-{"name":"Zita Stracke","email":"ashly.wilkinson@gmail.com","address":"5283 Schmidt Ridge Apt. 345\nJuniuschester, NY 56517","subscribed":true}

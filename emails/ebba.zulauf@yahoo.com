@@ -1,1 +1,0 @@
-{"name":"Dr. Howard Leuschke","email":"ebba.zulauf@yahoo.com","address":"38377 Elva Lights\nWest Kianland, SC 69652","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Shakira Osinski","email":"estevan.mante@gmail.com","address":"60871 Ashleigh Summit Apt. 244\nKayville, CT 02061-8840","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Presley Fritsch","email":"oabernathy@goldner.org","address":"707 Efren Points\nEast Veronica, MT 00698","subscribed":true}

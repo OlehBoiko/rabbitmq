@@ -1,1 +1,0 @@
-{"name":"Prof. Jolie McDermott","email":"sanford.arlie@hansen.org","address":"726 Lynch Villages Suite 896\nO'Haraton, IL 20240-4591","subscribed":true}

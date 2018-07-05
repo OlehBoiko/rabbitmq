@@ -1,1 +1,0 @@
-{"name":"Kristoffer VonRueden PhD","email":"wbailey@yahoo.com","address":"637 Kub Light\nPort Harmony, ND 60220","subscribed":true}

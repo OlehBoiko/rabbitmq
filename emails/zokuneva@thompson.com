@@ -1,1 +1,0 @@
-{"name":"Prof. Ferne Beier Jr.","email":"zokuneva@thompson.com","address":"143 Melany Trail Apt. 351\nNickfurt, HI 87746","subscribed":true}

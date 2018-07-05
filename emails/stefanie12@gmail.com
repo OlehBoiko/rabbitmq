@@ -1,1 +1,0 @@
-{"name":"Ansley Langworth DVM","email":"stefanie12@gmail.com","address":"187 Martin Village\nSouth Dewayne, MN 38918","subscribed":true}

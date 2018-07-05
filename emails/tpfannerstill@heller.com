@@ -1,1 +1,0 @@
-{"name":"Bernie Gorczany","email":"tpfannerstill@heller.com","address":"29445 Brakus Extension Suite 541\nPort Chynaside, NE 33193-8426","subscribed":true}

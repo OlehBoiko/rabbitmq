@@ -1,1 +1,0 @@
-{"name":"Blake White","email":"shuel@hirthe.com","address":"2108 Julio Canyon\nLake Lynn, ND 66432","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mina Vandervort","email":"alexie77@gmail.com","address":"8399 Bechtelar Spring Suite 132\nNew Adalinefort, WI 25098","subscribed":true}

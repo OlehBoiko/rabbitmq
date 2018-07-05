@@ -1,1 +1,0 @@
-{"name":"Adan Gottlieb","email":"ferne.senger@gmail.com","address":"10416 Graciela Well Suite 317\nEast Buckville, KY 31170-2609","subscribed":true}

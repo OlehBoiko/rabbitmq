@@ -1,1 +1,0 @@
-{"name":"Dr. Raymundo Boyer","email":"sauer.milo@gmail.com","address":"50225 Sonia Mountain Apt. 992\nNorth Maeveborough, OR 66012","subscribed":true}

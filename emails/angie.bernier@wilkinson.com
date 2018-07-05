@@ -1,1 +1,0 @@
-{"name":"Malinda Kovacek II","email":"angie.bernier@wilkinson.com","address":"75454 O'Conner Shore\nFeeneyfurt, WY 39252-2336","subscribed":true}

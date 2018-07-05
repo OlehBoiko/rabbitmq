@@ -1,1 +1,0 @@
-{"name":"Ralph Hoppe","email":"karina.wiegand@hotmail.com","address":"660 Tamara Pike\nFisherton, MA 32417","subscribed":true}

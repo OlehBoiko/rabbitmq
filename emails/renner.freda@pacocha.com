@@ -1,1 +1,0 @@
-{"name":"Monroe Ritchie","email":"renner.freda@pacocha.com","address":"263 Adolph Shores\nSouth Danyka, PA 46860","subscribed":true}

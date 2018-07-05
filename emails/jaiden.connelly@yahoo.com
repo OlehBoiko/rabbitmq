@@ -1,1 +1,0 @@
-{"name":"Prof. Jillian Quitzon","email":"jaiden.connelly@yahoo.com","address":"990 Jaime Rapid Apt. 060\nAlejandraborough, KS 02462","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Idella Rippin MD","email":"nona.walsh@yahoo.com","address":"8352 Swift Turnpike Suite 559\nNorth Deeburgh, TN 82563-9094","subscribed":true}

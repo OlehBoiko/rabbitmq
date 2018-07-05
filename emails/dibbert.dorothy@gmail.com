@@ -1,1 +1,0 @@
-{"name":"Jordane D'Amore","email":"dibbert.dorothy@gmail.com","address":"5210 Jamarcus Crescent\nWest Adriennechester, MI 56442-3402","subscribed":true}

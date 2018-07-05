@@ -1,1 +1,0 @@
-{"name":"Katarina Hills","email":"schimmel.verona@jacobson.com","address":"114 Emmie Manors Suite 795\nLake Barton, IN 61695","subscribed":true}

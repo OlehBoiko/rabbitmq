@@ -1,1 +1,0 @@
-{"name":"Gretchen Kertzmann","email":"alford.kunze@west.com","address":"1214 Gibson Spurs\nNew Genoveva, KS 99806-7623","subscribed":true}

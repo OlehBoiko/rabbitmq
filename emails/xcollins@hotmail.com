@@ -1,1 +1,0 @@
-{"name":"Rudy Wuckert","email":"xcollins@hotmail.com","address":"716 Gutmann Dale Apt. 136\nErdmanstad, IL 13598","subscribed":true}

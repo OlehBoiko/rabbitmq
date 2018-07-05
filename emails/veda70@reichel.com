@@ -1,1 +1,0 @@
-{"name":"Quinton Daugherty","email":"veda70@reichel.com","address":"4399 Clark Place\nBartholomebury, GA 50422","subscribed":true}

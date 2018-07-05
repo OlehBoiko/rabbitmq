@@ -1,1 +1,0 @@
-{"name":"Mariane Rolfson","email":"jarod.koelpin@gmail.com","address":"647 Demarco Plaza\nLennieville, AL 13877","subscribed":true}

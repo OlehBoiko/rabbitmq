@@ -1,1 +1,0 @@
-{"name":"Julia Stamm","email":"zcrist@donnelly.org","address":"784 Hermann Loop\nHahnport, NH 00635","subscribed":true}

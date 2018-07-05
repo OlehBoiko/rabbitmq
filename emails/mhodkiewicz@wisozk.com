@@ -1,1 +1,0 @@
-{"name":"Morton Kulas","email":"mhodkiewicz@wisozk.com","address":"3280 Carter Expressway Apt. 551\nStaceymouth, NC 65540","subscribed":true}

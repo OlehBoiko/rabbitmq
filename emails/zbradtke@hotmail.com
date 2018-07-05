@@ -1,1 +1,0 @@
-{"name":"Xzavier Donnelly","email":"zbradtke@hotmail.com","address":"8791 Nader Oval Suite 576\nNew Richard, VT 88721","subscribed":true}

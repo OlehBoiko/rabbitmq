@@ -1,1 +1,0 @@
-{"name":"Thaddeus Windler II","email":"ward.rosa@pacocha.com","address":"528 Krajcik Field\nCoopershire, TX 92394","subscribed":true}

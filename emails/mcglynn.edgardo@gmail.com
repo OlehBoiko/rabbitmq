@@ -1,1 +1,0 @@
-{"name":"Stanton Schaefer","email":"mcglynn.edgardo@gmail.com","address":"4659 Johns Streets Suite 992\nPort Anitahaven, IA 70583","subscribed":true}

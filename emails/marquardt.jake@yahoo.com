@@ -1,1 +1,0 @@
-{"name":"Rafael Bergstrom","email":"marquardt.jake@yahoo.com","address":"579 Emmitt Station Apt. 914\nGreenholtton, NY 75534-2279","subscribed":true}

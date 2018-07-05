@@ -1,1 +1,0 @@
-{"name":"Miss Eudora Torp","email":"thiel.fatima@yahoo.com","address":"878 Wilkinson Drive\nMadisenchester, MS 23491","subscribed":true}

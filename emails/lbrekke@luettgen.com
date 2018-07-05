@@ -1,1 +1,0 @@
-{"name":"Rusty Herman MD","email":"lbrekke@luettgen.com","address":"188 Reva Mountains Apt. 826\nSouth Hardy, MT 81171","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Dan Runolfsdottir III","email":"bruen.violet@howe.org","address":"11027 Amir Coves Apt. 708\nKoelpinton, MN 90146-3078","subscribed":true}

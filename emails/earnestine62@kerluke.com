@@ -1,1 +1,0 @@
-{"name":"Dr. Janick Stanton","email":"earnestine62@kerluke.com","address":"320 Darrin Crescent Suite 391\nKianbury, AK 36548","subscribed":true}

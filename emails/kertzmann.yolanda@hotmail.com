@@ -1,1 +1,0 @@
-{"name":"Lily Daniel","email":"kertzmann.yolanda@hotmail.com","address":"35574 Jaskolski Canyon\nEast Lydiafurt, RI 64947","subscribed":true}

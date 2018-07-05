@@ -1,1 +1,0 @@
-{"name":"Prof. Rozella Parisian","email":"sylvan.kuvalis@hotmail.com","address":"1225 Lesch Crest Suite 633\nAllanchester, SC 78960-9889","subscribed":true}

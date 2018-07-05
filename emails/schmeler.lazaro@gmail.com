@@ -1,1 +1,0 @@
-{"name":"Nikolas Bahringer","email":"schmeler.lazaro@gmail.com","address":"10820 Augustine Ranch Apt. 440\nNew Mylene, WI 99050-5022","subscribed":true}

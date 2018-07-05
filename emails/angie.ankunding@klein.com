@@ -1,1 +1,0 @@
-{"name":"Edgardo Fay","email":"angie.ankunding@klein.com","address":"763 Gottlieb Turnpike Suite 277\nGutkowskifort, PA 21418","subscribed":true}

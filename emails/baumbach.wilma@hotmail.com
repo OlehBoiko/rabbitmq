@@ -1,1 +1,0 @@
-{"name":"Mack Stamm","email":"baumbach.wilma@hotmail.com","address":"25892 Farrell Drive\nO'Konstad, NJ 28649-4597","subscribed":true}

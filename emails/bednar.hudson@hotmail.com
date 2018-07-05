@@ -1,1 +1,0 @@
-{"name":"Michael Jakubowski V","email":"bednar.hudson@hotmail.com","address":"30745 Macejkovic Motorway\nLake Amara, ID 69759","subscribed":true}

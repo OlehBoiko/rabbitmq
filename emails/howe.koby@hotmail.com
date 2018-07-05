@@ -1,1 +1,0 @@
-{"name":"Prof. Jake Bahringer","email":"howe.koby@hotmail.com","address":"78398 Noe Parkways Suite 107\nMaiaberg, ND 94979-2378","subscribed":true}

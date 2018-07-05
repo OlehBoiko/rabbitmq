@@ -1,1 +1,0 @@
-{"name":"Shea Cassin DVM","email":"jordy65@gmail.com","address":"157 Ellie Avenue Suite 891\nNorth Suzanne, KS 32242","subscribed":true}

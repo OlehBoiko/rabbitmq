@@ -1,1 +1,0 @@
-{"name":"Hobart Shanahan","email":"pascale61@gmail.com","address":"4055 Davis Rapid Suite 027\nWest Shakiraburgh, MO 07567-9026","subscribed":true}

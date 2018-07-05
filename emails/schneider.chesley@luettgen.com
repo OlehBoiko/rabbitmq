@@ -1,1 +1,0 @@
-{"name":"Ken Nikolaus","email":"schneider.chesley@luettgen.com","address":"4068 Fisher Greens\nNew Olin, RI 28776","subscribed":true}

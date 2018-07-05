@@ -1,1 +1,0 @@
-{"name":"Mr. Cordelia Prohaska DDS","email":"otha.gottlieb@gmail.com","address":"223 Alda Gardens Suite 079\nKuvalisside, GA 70025-2794","subscribed":true}

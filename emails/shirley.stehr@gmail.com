@@ -1,1 +1,0 @@
-{"name":"Dr. Alejandrin Streich Sr.","email":"shirley.stehr@gmail.com","address":"67743 Arthur Forest\nBartonbury, NV 91235","subscribed":true}

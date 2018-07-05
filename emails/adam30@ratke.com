@@ -1,1 +1,0 @@
-{"name":"Dr. Arden Cormier IV","email":"adam30@ratke.com","address":"8559 Schaefer Motorway Apt. 140\nSouth Shea, KY 67192","subscribed":true}

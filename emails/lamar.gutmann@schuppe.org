@@ -1,1 +1,0 @@
-{"name":"Dr. Anika Sporer Jr.","email":"lamar.gutmann@schuppe.org","address":"305 Bernice Viaduct Suite 755\nNorth Rosinaport, MO 86193-1995","subscribed":true}

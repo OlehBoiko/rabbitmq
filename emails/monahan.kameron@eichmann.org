@@ -1,1 +1,0 @@
-{"name":"Augusta Hegmann","email":"monahan.kameron@eichmann.org","address":"196 Dorris Estates\nOndrickastad, WI 03903","subscribed":true}

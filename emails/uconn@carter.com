@@ -1,1 +1,0 @@
-{"name":"Ryann White","email":"uconn@carter.com","address":"7832 Edwardo Vista Apt. 560\nNorth Cesarland, MI 65342-7590","subscribed":true}

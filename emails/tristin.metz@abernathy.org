@@ -1,1 +1,0 @@
-{"name":"Mr. Jaron Cummings","email":"tristin.metz@abernathy.org","address":"95874 Joyce Bridge\nPort Aurorefort, DC 36479-1863","subscribed":true}

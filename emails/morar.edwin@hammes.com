@@ -1,1 +1,0 @@
-{"name":"Moses Jones","email":"morar.edwin@hammes.com","address":"6735 Rosina Rest Suite 128\nRosannaville, CT 75383","subscribed":true}

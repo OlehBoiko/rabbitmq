@@ -1,1 +1,0 @@
-{"name":"Mrs. Lysanne Kling","email":"parker.jakob@gmail.com","address":"2530 Roy Ville\nCristobalview, MD 36417","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Sally Hayes","email":"teagan45@bosco.com","address":"69845 Lubowitz Overpass\nAdamshaven, ND 79710","subscribed":true}

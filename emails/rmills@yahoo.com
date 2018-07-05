@@ -1,1 +1,0 @@
-{"name":"Prof. Mortimer Mann","email":"rmills@yahoo.com","address":"191 Broderick Bypass Suite 021\nAliviamouth, MI 83235","subscribed":true}

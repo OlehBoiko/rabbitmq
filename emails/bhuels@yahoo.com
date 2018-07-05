@@ -1,1 +1,0 @@
-{"name":"Howard Effertz","email":"bhuels@yahoo.com","address":"695 Charles Junction\nWintheiserberg, MT 70803","subscribed":true}

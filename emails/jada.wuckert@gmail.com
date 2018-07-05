@@ -1,1 +1,0 @@
-{"name":"Prof. Laury Keeling Jr.","email":"jada.wuckert@gmail.com","address":"438 Prudence Plain Suite 630\nLindberg, OH 24907","subscribed":true}

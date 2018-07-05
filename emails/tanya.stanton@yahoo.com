@@ -1,1 +1,0 @@
-{"name":"Judy Daugherty","email":"tanya.stanton@yahoo.com","address":"17666 Nitzsche Points\nNorth Luisaborough, MO 09744","subscribed":true}

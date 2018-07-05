@@ -1,1 +1,0 @@
-{"name":"Reagan Wunsch","email":"ardith47@wiegand.com","address":"455 Oda Walk\nPort Valerie, RI 67996","subscribed":true}

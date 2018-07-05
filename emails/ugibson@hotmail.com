@@ -1,1 +1,0 @@
-{"name":"Dr. Candelario Gleichner","email":"ugibson@hotmail.com","address":"22139 Halvorson Land\nEast Harold, AL 47646-7628","subscribed":true}

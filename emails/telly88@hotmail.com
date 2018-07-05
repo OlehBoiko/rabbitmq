@@ -1,1 +1,0 @@
-{"name":"Dr. Alisa Konopelski IV","email":"telly88@hotmail.com","address":"5658 Corine Brooks Suite 957\nEast Twila, NV 09612-6456","subscribed":true}

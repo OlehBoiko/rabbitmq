@@ -1,1 +1,0 @@
-{"name":"Rachael Schneider","email":"jodie83@yahoo.com","address":"6730 Daniela Pass\nEast Thad, IA 29635","subscribed":true}

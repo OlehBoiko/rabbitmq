@@ -1,1 +1,0 @@
-{"name":"Prof. Tevin Nikolaus Sr.","email":"stanley.ryan@hayes.com","address":"931 Ruecker Groves\nCarafurt, OR 84872-6781","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Trudie Langosh PhD","email":"gjohns@gmail.com","address":"56906 Schoen Drive Suite 942\nSouth Thomasmouth, KY 09179","subscribed":true}

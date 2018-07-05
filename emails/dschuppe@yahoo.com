@@ -1,1 +1,0 @@
-{"name":"Haylie Thompson","email":"dschuppe@yahoo.com","address":"360 Bernhard Motorway Suite 136\nNew Cliffordview, KS 35356-5978","subscribed":true}

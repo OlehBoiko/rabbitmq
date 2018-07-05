@@ -1,1 +1,0 @@
-{"name":"Prof. Adolfo Kuphal","email":"lmarquardt@yahoo.com","address":"19989 Douglas Fork\nJakubowskimouth, OH 98837","subscribed":true}

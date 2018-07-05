@@ -1,1 +1,0 @@
-{"name":"Reinhold Marks","email":"fatima.hartmann@hotmail.com","address":"852 Rosella Island Suite 075\nWymanchester, AL 76162","subscribed":true}

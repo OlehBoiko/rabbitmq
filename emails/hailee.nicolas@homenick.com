@@ -1,1 +1,0 @@
-{"name":"Zechariah Schuppe","email":"hailee.nicolas@homenick.com","address":"75902 Timothy Throughway\nBertramstad, NY 25431","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Carol Schumm","email":"kaitlyn61@yahoo.com","address":"331 Runolfsson Radial Apt. 445\nLake Gilbertoport, VT 96427","subscribed":true}

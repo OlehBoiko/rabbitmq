@@ -1,1 +1,0 @@
-{"name":"Oswald Rau","email":"rigoberto.doyle@gmail.com","address":"814 Marvin Estate\nNorth Else, AL 47533","subscribed":true}

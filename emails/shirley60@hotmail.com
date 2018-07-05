@@ -1,1 +1,0 @@
-{"name":"Prof. Savion Lindgren","email":"shirley60@hotmail.com","address":"772 Johnston Drives Suite 970\nHermistonhaven, AL 67456-7131","subscribed":true}

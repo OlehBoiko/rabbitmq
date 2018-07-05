@@ -1,1 +1,0 @@
-{"name":"Dr. Doris Stiedemann","email":"nitzsche.eveline@cruickshank.com","address":"7606 Konopelski Locks Apt. 977\nNorth Rebeccaside, SC 16094","subscribed":true}

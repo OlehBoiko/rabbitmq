@@ -1,1 +1,0 @@
-{"name":"Green Osinski","email":"earl24@rolfson.com","address":"479 Nader Lodge Suite 522\nEast Colinside, RI 20198","subscribed":true}

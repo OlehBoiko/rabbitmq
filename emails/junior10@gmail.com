@@ -1,1 +1,0 @@
-{"name":"Omari O'Connell","email":"junior10@gmail.com","address":"374 Turcotte Well Suite 745\nSengerborough, NC 33675","subscribed":true}

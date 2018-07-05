@@ -1,1 +1,0 @@
-{"name":"Emmanuel Jerde","email":"dolly.dibbert@hotmail.com","address":"637 Krista Islands Apt. 051\nPort Kurtshire, AR 73601","subscribed":true}

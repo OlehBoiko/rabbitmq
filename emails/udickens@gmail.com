@@ -1,1 +1,0 @@
-{"name":"Lorena Kassulke","email":"udickens@gmail.com","address":"467 Manley Square\nEast Talonville, NE 80985","subscribed":true}

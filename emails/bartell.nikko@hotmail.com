@@ -1,1 +1,0 @@
-{"name":"Mrs. Yadira Mann V","email":"bartell.nikko@hotmail.com","address":"74532 Pouros Harbors Suite 343\nNorth Paigestad, NM 37758-6739","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Maurice Stanton","email":"fcremin@gmail.com","address":"107 Samara Terrace\nCameronhaven, CT 46631","subscribed":true}

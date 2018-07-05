@@ -1,1 +1,0 @@
-{"name":"Prof. Eugene Brown I","email":"areilly@konopelski.com","address":"3069 Maxine Light Suite 532\nPouroston, HI 50543-5028","subscribed":true}

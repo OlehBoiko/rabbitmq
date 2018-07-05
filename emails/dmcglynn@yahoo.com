@@ -1,1 +1,0 @@
-{"name":"Jarrod Swaniawski","email":"dmcglynn@yahoo.com","address":"1197 Anderson Branch\nNorth Hazel, MN 69880","subscribed":true}

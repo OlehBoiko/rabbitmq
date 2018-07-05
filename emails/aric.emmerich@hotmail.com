@@ -1,1 +1,0 @@
-{"name":"Prof. Darrell Bernhard","email":"aric.emmerich@hotmail.com","address":"10887 Efrain Spur Apt. 625\nWest Emilia, NJ 54089","subscribed":true}

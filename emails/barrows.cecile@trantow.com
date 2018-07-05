@@ -1,1 +1,0 @@
-{"name":"Magnolia Padberg","email":"barrows.cecile@trantow.com","address":"570 Cummerata Creek Suite 652\nTownemouth, KS 10804-4237","subscribed":true}

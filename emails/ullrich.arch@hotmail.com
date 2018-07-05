@@ -1,1 +1,0 @@
-{"name":"Prof. Richard Walter Sr.","email":"ullrich.arch@hotmail.com","address":"8885 Strosin Lakes\nLake Ezrafurt, MI 36127-7669","subscribed":true}

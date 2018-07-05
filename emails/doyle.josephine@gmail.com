@@ -1,1 +1,0 @@
-{"name":"Prof. Liam Orn","email":"doyle.josephine@gmail.com","address":"26301 Nasir Spring\nSouth Natchester, SD 18252","subscribed":true}

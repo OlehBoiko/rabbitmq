@@ -1,1 +1,0 @@
-{"name":"Prof. Lou Ruecker","email":"jalon.metz@gmail.com","address":"3390 Berge Point\nJenkinsville, IL 29179-3414","subscribed":true}

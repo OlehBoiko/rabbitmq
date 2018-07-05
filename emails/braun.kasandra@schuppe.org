@@ -1,1 +1,0 @@
-{"name":"Dr. Winston Dietrich Sr.","email":"braun.kasandra@schuppe.org","address":"881 Mertz Pike\nKohlershire, UT 71261","subscribed":true}

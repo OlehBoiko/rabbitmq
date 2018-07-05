@@ -1,1 +1,0 @@
-{"name":"Prof. Marcelino Baumbach Jr.","email":"ywyman@hotmail.com","address":"43105 Odie Springs Suite 656\nBorerberg, OH 78412-2246","subscribed":true}

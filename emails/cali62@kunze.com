@@ -1,1 +1,0 @@
-{"name":"Lionel Kling","email":"cali62@kunze.com","address":"107 Dare Valley\nMadgeberg, AR 18798","subscribed":true}

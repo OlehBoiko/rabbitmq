@@ -1,1 +1,0 @@
-{"name":"Mrs. Geraldine Deckow","email":"bosco.jakob@gmail.com","address":"581 Klocko Walk\nJewellhaven, GA 41423-0166","subscribed":true}

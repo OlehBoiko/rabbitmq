@@ -1,1 +1,0 @@
-{"name":"Vida Cassin","email":"cora19@lubowitz.org","address":"1601 Heaney Field\nVanceburgh, NE 54681","subscribed":true}

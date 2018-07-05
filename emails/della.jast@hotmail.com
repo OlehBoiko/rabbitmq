@@ -1,1 +1,0 @@
-{"name":"Pietro Mueller","email":"della.jast@hotmail.com","address":"639 Dare Haven Suite 410\nGibsonland, OR 31090","subscribed":true}

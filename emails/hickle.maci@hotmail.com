@@ -1,1 +1,0 @@
-{"name":"Emmanuelle Haley","email":"hickle.maci@hotmail.com","address":"16233 Naomi Green Suite 805\nBoehmton, CO 80274","subscribed":true}

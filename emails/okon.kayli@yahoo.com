@@ -1,1 +1,0 @@
-{"name":"Prof. Taryn Kreiger PhD","email":"okon.kayli@yahoo.com","address":"503 Nya Ville\nHarberhaven, MO 98557","subscribed":true}

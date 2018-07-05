@@ -1,1 +1,0 @@
-{"name":"Prof. Pauline Walter","email":"cierra.ernser@hotmail.com","address":"88962 Concepcion Spur Apt. 898\nRyleeberg, WA 62382","subscribed":true}

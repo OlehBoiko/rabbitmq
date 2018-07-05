@@ -1,1 +1,0 @@
-{"name":"Prof. Oscar Hickle","email":"kling.schuyler@homenick.com","address":"495 Oran Corners\nEast Tyramouth, WI 66795-3056","subscribed":true}

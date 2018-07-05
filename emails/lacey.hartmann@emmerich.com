@@ -1,1 +1,0 @@
-{"name":"Lola Hand","email":"lacey.hartmann@emmerich.com","address":"184 Feeney Village\nNew Halleville, OK 63774-2921","subscribed":true}

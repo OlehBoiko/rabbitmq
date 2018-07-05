@@ -1,1 +1,0 @@
-{"name":"Prof. Eloisa Anderson PhD","email":"concepcion42@hotmail.com","address":"80953 Watsica Bypass Suite 387\nGoyetteborough, IN 87667","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Isabella Gleichner","email":"delbert.mohr@morissette.com","address":"139 Thiel Skyway\nFraneckifort, AR 17900","subscribed":true}

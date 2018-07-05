@@ -1,1 +1,0 @@
-{"name":"Angeline Effertz","email":"duane.corwin@nienow.com","address":"88657 Pietro Junctions\nErnsertown, AK 73316","subscribed":true}

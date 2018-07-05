@@ -1,1 +1,0 @@
-{"name":"Dr. Modesto Halvorson","email":"bradtke.jaquan@yahoo.com","address":"26205 Rosalyn Trail Apt. 434\nWest Zulahaven, TX 61846","subscribed":true}

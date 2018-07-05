@@ -1,1 +1,0 @@
-{"name":"Osbaldo Bradtke","email":"walter.noe@schuster.com","address":"7375 Weldon Plain\nSabinaville, CT 52349","subscribed":true}

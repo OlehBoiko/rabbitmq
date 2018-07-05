@@ -1,1 +1,0 @@
-{"name":"Prof. Gilda Berge","email":"leatha19@oconnell.org","address":"468 Batz Fort\nDaughertyville, KY 73922","subscribed":true}

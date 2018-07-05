@@ -1,1 +1,0 @@
-{"name":"Jedidiah Schulist II","email":"xlakin@yahoo.com","address":"33031 Estefania Plaza\nWinifredstad, RI 05240","subscribed":true}

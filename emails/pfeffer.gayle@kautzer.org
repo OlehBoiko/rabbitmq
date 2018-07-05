@@ -1,1 +1,0 @@
-{"name":"Prof. Doyle Douglas","email":"pfeffer.gayle@kautzer.org","address":"37308 Lind Village\nEast Terrenceborough, VA 47877","subscribed":true}

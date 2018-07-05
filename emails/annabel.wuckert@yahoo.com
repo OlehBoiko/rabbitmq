@@ -1,1 +1,0 @@
-{"name":"Mr. Sebastian Mante Sr.","email":"annabel.wuckert@yahoo.com","address":"5475 Kuhn Islands Apt. 729\nNorth Carleton, NM 00627","subscribed":true}

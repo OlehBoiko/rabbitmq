@@ -1,1 +1,0 @@
-{"name":"Dr. Brenden Kiehn","email":"purdy.leora@gmail.com","address":"12928 Dach Junction Suite 324\nLarsonfurt, NV 94916","subscribed":true}

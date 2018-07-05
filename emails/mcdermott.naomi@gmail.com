@@ -1,1 +1,0 @@
-{"name":"Estella Kuphal","email":"mcdermott.naomi@gmail.com","address":"1487 Peyton Ford Suite 019\nEast Vitomouth, WY 75664-5879","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Thomas Cassin Sr.","email":"polly.mitchell@kerluke.org","address":"503 Williamson Parkways\nWest Carlotta, WV 12395-3496","subscribed":true}

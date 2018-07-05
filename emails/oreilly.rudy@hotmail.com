@@ -1,1 +1,0 @@
-{"name":"Dr. Oral Schmeler II","email":"oreilly.rudy@hotmail.com","address":"928 Christiana Center Suite 290\nDedrickborough, RI 55144","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Monica Hermann Jr.","email":"wreichel@hane.com","address":"62777 Boyer Stravenue\nDoyleborough, OH 24845","subscribed":true}

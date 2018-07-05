@@ -1,1 +1,0 @@
-{"name":"Mrs. Rhianna Luettgen","email":"jacklyn.hills@morissette.org","address":"8977 Haag Garden\nMalindatown, IA 58154","subscribed":true}

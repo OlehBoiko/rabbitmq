@@ -1,1 +1,0 @@
-{"name":"Everett Goodwin DDS","email":"beatty.haylie@gmail.com","address":"3325 Tia Village\nEast Oswaldobury, NV 73229-4603","subscribed":true}

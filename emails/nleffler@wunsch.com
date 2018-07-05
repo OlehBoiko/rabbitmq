@@ -1,1 +1,0 @@
-{"name":"Nicholas Fadel","email":"nleffler@wunsch.com","address":"8331 Jadyn Drive\nEast Josefaside, WY 94988","subscribed":true}

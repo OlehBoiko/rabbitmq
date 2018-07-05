@@ -1,1 +1,0 @@
-{"name":"Wade Predovic","email":"dare.madaline@hotmail.com","address":"80069 Lura Alley\nWest Tobyfurt, OK 48775-4890","subscribed":true}

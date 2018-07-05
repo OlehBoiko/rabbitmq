@@ -1,1 +1,0 @@
-{"name":"Dr. Ryleigh Fritsch","email":"virgie.friesen@beer.com","address":"156 Nyasia Way\nWest Jovany, WI 66837","subscribed":true}

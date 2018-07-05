@@ -1,1 +1,0 @@
-{"name":"Prof. Dee Daniel","email":"varmstrong@hotmail.com","address":"46006 Corkery Key Apt. 381\nLake Earlineside, WA 01358","subscribed":true}

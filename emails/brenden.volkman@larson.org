@@ -1,1 +1,0 @@
-{"name":"Prof. Dino Larson","email":"brenden.volkman@larson.org","address":"2512 Eloise Walk\nWest Ryleybury, CO 79456","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Herta Klocko","email":"maegan42@yahoo.com","address":"393 Golden Skyway Suite 690\nSouth Ara, MT 38364","subscribed":true}

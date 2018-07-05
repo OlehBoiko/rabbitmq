@@ -1,1 +1,0 @@
-{"name":"Fausto Weimann MD","email":"pwilkinson@hotmail.com","address":"444 Lew Stravenue Suite 277\nNorth Loyview, IA 29440","subscribed":true}

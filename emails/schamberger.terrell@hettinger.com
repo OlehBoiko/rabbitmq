@@ -1,1 +1,0 @@
-{"name":"Ms. Wilhelmine Renner","email":"schamberger.terrell@hettinger.com","address":"23113 Schmeler Rest Apt. 926\nNealshire, MA 68299","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Duncan Welch","email":"rosalee.sanford@fritsch.com","address":"37061 Larkin Overpass Suite 839\nNorth Braulioberg, WA 56664-2628","subscribed":true}

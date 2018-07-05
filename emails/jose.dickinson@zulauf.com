@@ -1,1 +1,0 @@
-{"name":"Hunter Lind","email":"jose.dickinson@zulauf.com","address":"768 Bethel Turnpike Suite 006\nPort Hayden, OR 51881-7943","subscribed":true}

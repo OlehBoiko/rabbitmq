@@ -1,1 +1,0 @@
-{"name":"Prof. Jordane Hickle","email":"waldo32@waters.com","address":"661 Duane Road\nSouth Henriettehaven, AR 99669-8923","subscribed":true}

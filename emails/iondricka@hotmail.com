@@ -1,1 +1,0 @@
-{"name":"Mr. Humberto Hermann MD","email":"iondricka@hotmail.com","address":"8656 Shanon Shore\nNew Lucile, GA 51108","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mrs. Josiane Hane","email":"brayan.lebsack@cole.org","address":"9056 Armstrong Skyway Suite 615\nEnostown, TX 70721-3018","subscribed":true}

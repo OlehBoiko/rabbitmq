@@ -1,1 +1,0 @@
-{"name":"Mr. Manuel Bernhard","email":"ashley.spinka@hotmail.com","address":"349 Hudson Plaza Suite 764\nEdtown, KY 01153-5259","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ms. Leilani Ritchie DDS","email":"daugherty.edward@yahoo.com","address":"196 Eldred Lodge Suite 846\nWisozkhaven, MS 70538","subscribed":true}

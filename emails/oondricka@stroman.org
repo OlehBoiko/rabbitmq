@@ -1,1 +1,0 @@
-{"name":"Dr. Yolanda Cartwright MD","email":"oondricka@stroman.org","address":"951 Adelbert Pines\nEast Lempi, SD 94872","subscribed":true}

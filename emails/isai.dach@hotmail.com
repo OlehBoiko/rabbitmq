@@ -1,1 +1,0 @@
-{"name":"Dr. Jayme Schmidt DVM","email":"isai.dach@hotmail.com","address":"19502 Rozella Ville Apt. 580\nBrandimouth, RI 76017-1660","subscribed":true}

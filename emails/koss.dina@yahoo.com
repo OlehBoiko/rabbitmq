@@ -1,1 +1,0 @@
-{"name":"Prof. Jordy Ledner","email":"koss.dina@yahoo.com","address":"175 Schaefer Rue\nEast Hildaton, VT 26170","subscribed":true}

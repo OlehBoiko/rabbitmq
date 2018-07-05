@@ -1,1 +1,0 @@
-{"name":"Prof. Jalon Purdy","email":"purdy.lucius@hotmail.com","address":"85452 Jast Knoll\nNew Guyfurt, SC 29287","subscribed":true}

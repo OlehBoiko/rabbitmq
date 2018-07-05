@@ -1,1 +1,0 @@
-{"name":"Dr. Evangeline Zboncak","email":"hyatt.moshe@hotmail.com","address":"9177 Rodriguez Meadow Apt. 820\nJedidiahhaven, VT 31013-9789","subscribed":true}

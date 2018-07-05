@@ -1,1 +1,0 @@
-{"name":"Dr. Mac Welch","email":"mwest@moore.com","address":"1712 McDermott Alley Apt. 073\nGleichnermouth, CA 44269-5714","subscribed":true}

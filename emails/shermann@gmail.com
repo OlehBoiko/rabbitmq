@@ -1,1 +1,0 @@
-{"name":"Amira Thompson","email":"shermann@gmail.com","address":"74902 Cletus Crossroad Suite 176\nMitchellburgh, LA 06209","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Leonora Dickens","email":"njohnson@kuhic.com","address":"3197 Kaylee Canyon\nWeimannbury, UT 77795-4442","subscribed":true}

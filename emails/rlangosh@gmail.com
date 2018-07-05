@@ -1,1 +1,0 @@
-{"name":"Mariana Schmidt","email":"rlangosh@gmail.com","address":"273 Reid Groves Apt. 492\nSouth Annetta, RI 20135","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Marc Carroll","email":"prohaska.imani@langosh.com","address":"798 Arvel Course Apt. 461\nStromanton, OH 26368","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Cordie Hessel MD","email":"pshanahan@stiedemann.com","address":"6479 Norma Gateway\nNew Mae, WI 14914-4335","subscribed":true}

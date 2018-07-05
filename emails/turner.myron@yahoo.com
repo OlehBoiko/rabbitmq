@@ -1,1 +1,0 @@
-{"name":"Dr. Magnus Cummerata","email":"turner.myron@yahoo.com","address":"201 Florence Manors Suite 997\nKaiamouth, VA 09964-0145","subscribed":true}

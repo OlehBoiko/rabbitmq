@@ -1,1 +1,0 @@
-{"name":"Mr. Jessie Jast","email":"cole.jaeden@cormier.com","address":"687 Demarcus Rest Apt. 724\nNorth Antwan, MN 50002","subscribed":true}

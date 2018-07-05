@@ -1,1 +1,0 @@
-{"name":"Dr. Marianne D'Amore Sr.","email":"torphy.hilma@effertz.com","address":"112 O'Keefe Trail Suite 938\nLake Bridgetberg, OK 92487","subscribed":true}

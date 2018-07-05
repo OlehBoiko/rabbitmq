@@ -1,1 +1,0 @@
-{"name":"Mr. Rickie Rohan","email":"kemmer.angie@gibson.com","address":"34569 Angeline Shores\nEast Samantafort, NY 04382-0629","subscribed":true}

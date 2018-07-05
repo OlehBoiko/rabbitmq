@@ -1,1 +1,0 @@
-{"name":"Bernardo Glover Jr.","email":"kunde.carleton@yahoo.com","address":"8471 Adeline Land Suite 322\nEast Braulioborough, OH 96201","subscribed":true}

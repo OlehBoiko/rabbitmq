@@ -1,1 +1,0 @@
-{"name":"Delta Price","email":"dzemlak@yahoo.com","address":"6302 Mauricio Glens Suite 591\nEast Rosamond, ME 48118-9962","subscribed":true}

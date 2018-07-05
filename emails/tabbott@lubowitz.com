@@ -1,1 +1,0 @@
-{"name":"Van Effertz","email":"tabbott@lubowitz.com","address":"821 Margarete Keys Suite 114\nEbonyshire, NV 39336-8115","subscribed":true}

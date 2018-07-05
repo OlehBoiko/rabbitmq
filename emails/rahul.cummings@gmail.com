@@ -1,1 +1,0 @@
-{"name":"Pinkie Sanford","email":"rahul.cummings@gmail.com","address":"1384 Jerde Bridge Suite 740\nKulaston, DE 75653","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Randal Cole","email":"pedro.welch@hyatt.com","address":"678 Senger Shoal Apt. 312\nNew Kaileyberg, TN 99937","subscribed":true}

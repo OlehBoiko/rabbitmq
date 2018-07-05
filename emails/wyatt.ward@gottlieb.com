@@ -1,1 +1,0 @@
-{"name":"Dane Senger DDS","email":"wyatt.ward@gottlieb.com","address":"33107 Lewis Flats Suite 483\nEast Petra, KY 11969","subscribed":true}

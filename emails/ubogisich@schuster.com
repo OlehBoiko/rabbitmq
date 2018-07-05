@@ -1,1 +1,0 @@
-{"name":"Mrs. Alisa Rodriguez","email":"ubogisich@schuster.com","address":"3486 Bednar Burg\nWeimannton, MT 84174","subscribed":true}

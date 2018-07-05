@@ -1,1 +1,0 @@
-{"name":"Marjory McCullough","email":"elyssa.flatley@fay.com","address":"5730 Griffin Loaf Apt. 940\nNew Barbara, DC 80015","subscribed":true}

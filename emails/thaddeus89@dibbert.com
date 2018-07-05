@@ -1,1 +1,0 @@
-{"name":"Clinton Kuhic","email":"thaddeus89@dibbert.com","address":"17119 John Trail\nDaijastad, CT 68313-7385","subscribed":true}

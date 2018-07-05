@@ -1,1 +1,0 @@
-{"name":"Miss Chaya Littel","email":"kris.vesta@yahoo.com","address":"9803 Stoltenberg Path Apt. 032\nLake Kristianhaven, GA 47843-3040","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Wendell Bednar","email":"pgrimes@gmail.com","address":"2436 Kessler Isle Suite 505\nChadmouth, CO 37627","subscribed":true}

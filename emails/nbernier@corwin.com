@@ -1,1 +1,0 @@
-{"name":"Mr. Abelardo Mohr","email":"nbernier@corwin.com","address":"312 Murray Land Suite 894\nEast Susana, KY 01884-9336","subscribed":true}

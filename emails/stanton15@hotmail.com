@@ -1,1 +1,0 @@
-{"name":"Prof. Edmond Considine Jr.","email":"stanton15@hotmail.com","address":"8905 Nikolaus Creek\nBernierberg, MO 62208-0852","subscribed":true}

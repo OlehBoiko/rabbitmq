@@ -1,1 +1,0 @@
-{"name":"Obie Trantow","email":"tatyana.stiedemann@yahoo.com","address":"68961 Eichmann Knoll Suite 651\nJastberg, MI 50671","subscribed":true}

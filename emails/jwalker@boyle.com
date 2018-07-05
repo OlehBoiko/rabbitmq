@@ -1,1 +1,0 @@
-{"name":"Dr. Jarrell Rutherford","email":"jwalker@boyle.com","address":"4047 Bosco River Apt. 664\nNorth Casey, PA 97665-5342","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Rafaela Thiel","email":"pouros.norwood@hotmail.com","address":"98909 Franecki Pines Apt. 924\nStantonberg, MA 07455","subscribed":true}

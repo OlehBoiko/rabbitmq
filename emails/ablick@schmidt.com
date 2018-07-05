@@ -1,1 +1,0 @@
-{"name":"Dedrick Gislason","email":"ablick@schmidt.com","address":"92015 Jacobs Fall Apt. 622\nMichelburgh, GA 43010","subscribed":true}

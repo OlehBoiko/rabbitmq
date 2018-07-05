@@ -1,1 +1,0 @@
-{"name":"Madyson Ebert","email":"klein.quinten@gmail.com","address":"9991 Victoria Vista Suite 602\nPacochaside, AR 39329","subscribed":true}

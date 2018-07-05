@@ -1,1 +1,0 @@
-{"name":"Dr. Angelita Feeney","email":"mcclure.serenity@hotmail.com","address":"243 Trevor Flat\nNikolausberg, IA 26258","subscribed":true}

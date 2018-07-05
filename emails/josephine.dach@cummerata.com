@@ -1,1 +1,0 @@
-{"name":"Vernie Beer","email":"josephine.dach@cummerata.com","address":"9258 Dejuan Forges\nPeggieborough, NY 10441-9852","subscribed":true}

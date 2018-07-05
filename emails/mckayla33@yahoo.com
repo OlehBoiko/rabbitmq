@@ -1,1 +1,0 @@
-{"name":"Rosetta Buckridge","email":"mckayla33@yahoo.com","address":"1291 Chester Meadow Apt. 245\nEast Berneicemouth, WV 80796-4856","subscribed":true}

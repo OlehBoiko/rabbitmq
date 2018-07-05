@@ -1,1 +1,0 @@
-{"name":"Bernard Volkman","email":"easton29@yahoo.com","address":"84574 Nick Lights\nEast Kurtis, IL 34176-1901","subscribed":true}

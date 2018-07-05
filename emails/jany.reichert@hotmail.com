@@ -1,1 +1,0 @@
-{"name":"D'angelo Stroman","email":"jany.reichert@hotmail.com","address":"1858 Brady Mission\nMadelineshire, RI 98367-7238","subscribed":true}

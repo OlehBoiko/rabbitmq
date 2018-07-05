@@ -1,1 +1,0 @@
-{"name":"Mr. Eriberto Franecki","email":"kariane43@adams.com","address":"690 Strosin Islands\nEast Gilbert, ND 70742","subscribed":true}

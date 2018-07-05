@@ -1,1 +1,0 @@
-{"name":"Nikolas Bahringer","email":"gaetano.greenholt@gmail.com","address":"6970 Yundt Vista\nEmelychester, GA 59496","subscribed":true}

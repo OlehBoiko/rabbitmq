@@ -1,1 +1,0 @@
-{"name":"Alfred Sipes","email":"alisha.morar@renner.com","address":"30031 Sheila Fort Apt. 696\nLake Nilsburgh, WA 65023","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Adrienne Fadel","email":"cole.gladyce@yahoo.com","address":"170 Macejkovic Causeway\nKassulkeville, NC 03748-2353","subscribed":true}

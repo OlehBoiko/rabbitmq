@@ -1,1 +1,0 @@
-{"name":"Dr. Amir Corwin V","email":"cortez51@schumm.com","address":"542 Altenwerth Mews Suite 111\nEast Trentshire, AR 76567","subscribed":true}

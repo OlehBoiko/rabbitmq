@@ -1,1 +1,0 @@
-{"name":"Cornell Kuhic DVM","email":"lehner.nannie@rolfson.com","address":"65439 Hyatt Parkways Suite 179\nEast Carissa, TX 18871","subscribed":true}

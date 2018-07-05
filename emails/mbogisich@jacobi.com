@@ -1,1 +1,0 @@
-{"name":"Ted McCullough II","email":"mbogisich@jacobi.com","address":"17235 Dagmar Ford\nFerryton, DE 47633","subscribed":true}

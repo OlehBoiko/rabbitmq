@@ -1,1 +1,0 @@
-{"name":"Walter Stokes","email":"cwiza@daniel.com","address":"517 Murazik Ferry\nKristoferfurt, CO 85901","subscribed":true}

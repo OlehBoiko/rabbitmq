@@ -1,1 +1,0 @@
-{"name":"Karli Rodriguez","email":"mcclure.estella@hotmail.com","address":"283 Schimmel Glen Suite 683\nAraceliport, HI 76879","subscribed":true}

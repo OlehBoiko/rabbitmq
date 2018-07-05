@@ -1,1 +1,0 @@
-{"name":"Chesley Schiller","email":"tess.kertzmann@yahoo.com","address":"40124 Gianni River\nWest Wardside, MN 39320-3656","subscribed":true}

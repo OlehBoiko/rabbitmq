@@ -1,1 +1,0 @@
-{"name":"Rasheed Pagac","email":"waelchi.norbert@heaney.com","address":"7642 Neoma Loaf Apt. 060\nWest Virgilfurt, MS 29130","subscribed":true}

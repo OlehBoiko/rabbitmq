@@ -1,1 +1,0 @@
-{"name":"Stella Macejkovic","email":"mmaggio@gmail.com","address":"2693 Jaycee Landing Apt. 295\nLake Tobyville, VT 48307-4629","subscribed":true}

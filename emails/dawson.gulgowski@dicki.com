@@ -1,1 +1,0 @@
-{"name":"Parker Ratke III","email":"dawson.gulgowski@dicki.com","address":"37329 Vicky Mountain Apt. 381\nWymanmouth, CA 77776-4685","subscribed":true}

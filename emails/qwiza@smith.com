@@ -1,1 +1,0 @@
-{"name":"Joyce Wiegand PhD","email":"qwiza@smith.com","address":"8004 Sophia Dale\nNew Mariano, MS 59315","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Donnell Adams","email":"erwin.west@christiansen.com","address":"23998 Weimann Brook Apt. 253\nWest Elyse, AK 84703","subscribed":true}

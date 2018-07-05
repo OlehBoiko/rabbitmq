@@ -1,1 +1,0 @@
-{"name":"Mr. Chaim Douglas","email":"pat39@yahoo.com","address":"1859 Chanelle Isle Apt. 661\nAnnetteville, MN 24856","subscribed":true}

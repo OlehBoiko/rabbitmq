@@ -1,1 +1,0 @@
-{"name":"Dr. Ibrahim Cartwright III","email":"mcdermott.horace@hotmail.com","address":"5038 Konopelski Mission Apt. 843\nEast Zackaryhaven, WV 60906","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Garnett Pollich","email":"richard.carroll@gmail.com","address":"20903 Zboncak Green Suite 514\nEast Jamieland, AK 40587-4865","subscribed":true}

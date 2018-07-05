@@ -1,1 +1,0 @@
-{"name":"Prof. Alexandrine Swaniawski I","email":"gaylord.maximillian@gerlach.com","address":"720 Bechtelar Plaza Suite 338\nNew Coty, OH 16666","subscribed":true}

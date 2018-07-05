@@ -1,1 +1,0 @@
-{"name":"Mr. Ronaldo Klein","email":"janae.bradtke@gmail.com","address":"107 Jaime Avenue\nEast Martyview, KS 94108-9079","subscribed":true}

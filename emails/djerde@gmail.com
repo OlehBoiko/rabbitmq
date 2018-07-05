@@ -1,1 +1,0 @@
-{"name":"Garfield Bechtelar V","email":"djerde@gmail.com","address":"9374 Tatyana Square\nSunnyshire, UT 87712","subscribed":true}

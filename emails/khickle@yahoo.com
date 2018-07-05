@@ -1,1 +1,0 @@
-{"name":"Claude Cronin Jr.","email":"khickle@yahoo.com","address":"225 Will Locks\nHaleighfort, GA 50132-8839","subscribed":true}

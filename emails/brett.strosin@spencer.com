@@ -1,1 +1,0 @@
-{"name":"Prof. Trenton Nader","email":"brett.strosin@spencer.com","address":"53651 Nolan Flat Suite 141\nWest Leonel, NH 50893-2108","subscribed":true}

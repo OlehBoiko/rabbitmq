@@ -1,1 +1,0 @@
-{"name":"Wyatt Rath PhD","email":"fschoen@gmail.com","address":"4816 Crooks Locks\nLake Reginaldside, NM 43732-1836","subscribed":true}

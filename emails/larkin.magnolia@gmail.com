@@ -1,1 +1,0 @@
-{"name":"Dr. Alverta Ward","email":"larkin.magnolia@gmail.com","address":"2578 Frieda Corner Suite 262\nReynoldston, WY 83599-7342","subscribed":true}

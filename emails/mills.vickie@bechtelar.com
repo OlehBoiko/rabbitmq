@@ -1,1 +1,0 @@
-{"name":"Mr. Christop Bednar III","email":"mills.vickie@bechtelar.com","address":"2032 Christiansen Run\nHowellberg, MT 06714","subscribed":true}

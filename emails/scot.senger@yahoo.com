@@ -1,1 +1,0 @@
-{"name":"Prof. Brannon Ferry","email":"scot.senger@yahoo.com","address":"41679 Dion Pass Apt. 303\nVeldatown, CT 87651","subscribed":true}

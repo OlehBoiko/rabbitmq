@@ -1,1 +1,0 @@
-{"name":"Prof. Harvey Heidenreich MD","email":"moshe.ortiz@parisian.com","address":"22243 Conroy Field\nMelissaview, AR 83363","subscribed":true}

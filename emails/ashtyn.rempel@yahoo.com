@@ -1,1 +1,0 @@
-{"name":"Novella Hickle Sr.","email":"ashtyn.rempel@yahoo.com","address":"649 Tillman Trail Suite 170\nKovacekberg, OK 74928","subscribed":true}

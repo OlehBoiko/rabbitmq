@@ -1,1 +1,0 @@
-{"name":"Augustus Hoppe I","email":"lilla53@yahoo.com","address":"805 Mervin Harbor Apt. 774\nNew Harmonyview, DC 97886","subscribed":true}

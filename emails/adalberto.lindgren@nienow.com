@@ -1,1 +1,0 @@
-{"name":"Corbin Friesen","email":"adalberto.lindgren@nienow.com","address":"47744 Karlee Springs\nNorth Misaelborough, OH 50327","subscribed":true}

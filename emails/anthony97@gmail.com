@@ -1,1 +1,0 @@
-{"name":"Dr. Darren Ankunding","email":"anthony97@gmail.com","address":"945 Keira Squares Suite 074\nChamplinhaven, OR 63829","subscribed":true}

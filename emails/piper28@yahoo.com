@@ -1,1 +1,0 @@
-{"name":"Prof. Hobart Jacobs","email":"piper28@yahoo.com","address":"6424 Eda Pass\nAngelaport, KS 52051-2631","subscribed":true}

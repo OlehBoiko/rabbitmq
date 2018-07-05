@@ -1,1 +1,0 @@
-{"name":"Mr. Immanuel Hilpert PhD","email":"prohaska.javier@hotmail.com","address":"61586 Senger Isle\nCalebchester, MN 55288-8425","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Malachi Schuster","email":"kovacek.bailey@yahoo.com","address":"18729 Rusty Ville\nSouth Derrickside, OK 00360-6641","subscribed":true}

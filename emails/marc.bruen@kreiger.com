@@ -1,1 +1,0 @@
-{"name":"Prof. Timmy Schmeler","email":"marc.bruen@kreiger.com","address":"111 Earlene Freeway\nEast Laneyburgh, WA 02492","subscribed":true}

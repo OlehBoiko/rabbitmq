@@ -1,1 +1,0 @@
-{"name":"Henderson Beer","email":"florencio.harber@hotmail.com","address":"8435 Antonetta Square\nAngieton, CT 37658","subscribed":true}

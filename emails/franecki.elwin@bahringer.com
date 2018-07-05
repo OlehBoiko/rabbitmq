@@ -1,1 +1,0 @@
-{"name":"Claire Ratke","email":"franecki.elwin@bahringer.com","address":"98351 Keeling Knolls Apt. 890\nNorth Misaelland, NV 39872","subscribed":true}

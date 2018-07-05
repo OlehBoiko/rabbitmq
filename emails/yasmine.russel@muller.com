@@ -1,1 +1,0 @@
-{"name":"Durward Hegmann","email":"yasmine.russel@muller.com","address":"141 Donny Rapids\nLiafurt, SD 97031","subscribed":true}

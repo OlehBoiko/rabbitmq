@@ -1,1 +1,0 @@
-{"name":"Dr. Rosendo Johns","email":"aidan.rutherford@yahoo.com","address":"842 Homenick Plains\nLake Edwardo, LA 28577","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Stanley Schultz","email":"ealtenwerth@yahoo.com","address":"7401 Dennis Plaza\nMoenchester, WA 46307-0359","subscribed":true}

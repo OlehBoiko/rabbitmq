@@ -1,1 +1,0 @@
-{"name":"Prof. Joy Bernhard","email":"mariam.lemke@konopelski.com","address":"8768 Mueller Station\nTowneberg, ND 70267-2744","subscribed":true}

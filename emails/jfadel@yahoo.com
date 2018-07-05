@@ -1,1 +1,0 @@
-{"name":"Mrs. Selena Terry PhD","email":"jfadel@yahoo.com","address":"2280 Precious Prairie\nBradtkeland, TN 57533","subscribed":true}

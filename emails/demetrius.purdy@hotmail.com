@@ -1,1 +1,0 @@
-{"name":"Dr. Vincenza Mueller","email":"demetrius.purdy@hotmail.com","address":"587 Bogan Prairie\nEast Ameliechester, OH 37387","subscribed":true}

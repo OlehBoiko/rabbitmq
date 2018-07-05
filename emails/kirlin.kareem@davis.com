@@ -1,1 +1,0 @@
-{"name":"Eldridge Ratke","email":"kirlin.kareem@davis.com","address":"360 Toy Forks Apt. 823\nPaoloview, AR 88993","subscribed":true}

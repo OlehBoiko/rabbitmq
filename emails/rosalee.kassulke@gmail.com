@@ -1,1 +1,0 @@
-{"name":"Amani Ratke PhD","email":"rosalee.kassulke@gmail.com","address":"49595 Johnson Knolls\nWest Caseyshire, HI 61036","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Brody Wilderman","email":"edythe.blanda@hotmail.com","address":"187 Claude Parkway\nWest Chet, AR 58242-4111","subscribed":true}

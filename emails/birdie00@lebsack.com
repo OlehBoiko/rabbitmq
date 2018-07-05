@@ -1,1 +1,0 @@
-{"name":"Elton Zemlak","email":"birdie00@lebsack.com","address":"434 McKenzie Lodge Apt. 724\nPort Kaylin, AK 17006","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Maxwell Welch I","email":"jaquan22@sporer.com","address":"203 Amaya Drives\nNew Ignacio, TN 86848-0084","subscribed":true}

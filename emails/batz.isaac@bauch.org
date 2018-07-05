@@ -1,1 +1,0 @@
-{"name":"Prof. London Walker II","email":"batz.isaac@bauch.org","address":"464 Green Fork\nWest Giuseppe, NJ 03322-8562","subscribed":true}

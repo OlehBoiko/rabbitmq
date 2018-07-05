@@ -1,1 +1,0 @@
-{"name":"Mr. Osvaldo Jacobson","email":"koelpin.katlyn@gmail.com","address":"99771 Robel Streets Suite 494\nHerzogberg, NV 91050-3722","subscribed":true}

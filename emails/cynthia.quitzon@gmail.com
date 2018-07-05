@@ -1,1 +1,0 @@
-{"name":"Ms. Shanna Deckow DDS","email":"cynthia.quitzon@gmail.com","address":"356 Luis Pass\nMoorechester, SC 37628-2935","subscribed":true}

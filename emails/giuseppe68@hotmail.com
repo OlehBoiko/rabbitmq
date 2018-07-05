@@ -1,1 +1,0 @@
-{"name":"Dereck Kertzmann","email":"giuseppe68@hotmail.com","address":"33835 Wisozk Hills\nTurcotteburgh, OK 58987","subscribed":true}

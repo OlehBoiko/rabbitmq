@@ -1,1 +1,0 @@
-{"name":"Mrs. Opal Batz I","email":"baumbach.guy@gmail.com","address":"37062 Wintheiser Parkway\nRatketon, NE 35941-7704","subscribed":true}

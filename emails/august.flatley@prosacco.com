@@ -1,1 +1,0 @@
-{"name":"Mr. Jovan Kshlerin MD","email":"august.flatley@prosacco.com","address":"154 Kassulke Road Apt. 361\nSouth Nigel, IA 59092","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Hector Adams I","email":"yschiller@mayer.com","address":"55153 Carlo Islands Suite 803\nHandchester, IN 42010","subscribed":true}

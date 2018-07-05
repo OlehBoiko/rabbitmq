@@ -1,1 +1,0 @@
-{"name":"Marianna Stokes","email":"cruickshank.kole@gmail.com","address":"4749 Webster Neck Apt. 768\nLefflerside, WV 61919","subscribed":true}

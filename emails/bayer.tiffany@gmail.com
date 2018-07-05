@@ -1,1 +1,0 @@
-{"name":"Dr. Jose Jakubowski II","email":"bayer.tiffany@gmail.com","address":"3410 Tiana Center Apt. 410\nEast Sophia, LA 55053-2965","subscribed":true}

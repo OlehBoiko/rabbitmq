@@ -1,1 +1,0 @@
-{"name":"Janick Weimann","email":"paucek.hermina@yahoo.com","address":"1731 Omer River\nElseshire, NM 71067","subscribed":true}

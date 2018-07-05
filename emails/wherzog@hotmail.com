@@ -1,1 +1,0 @@
-{"name":"Miss Loyce Rippin","email":"wherzog@hotmail.com","address":"115 Coty Greens Suite 538\nPort Wilfordville, SD 49191","subscribed":true}

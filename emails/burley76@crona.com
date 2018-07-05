@@ -1,1 +1,0 @@
-{"name":"Rusty Jakubowski","email":"burley76@crona.com","address":"410 Adams Summit\nConnellyside, AR 73916","subscribed":true}

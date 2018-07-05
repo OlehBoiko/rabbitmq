@@ -1,1 +1,0 @@
-{"name":"Sonia Stamm","email":"sawayn.maryjane@jakubowski.com","address":"5106 Jaskolski Isle Apt. 977\nNew Demetriusfort, HI 71797","subscribed":true}

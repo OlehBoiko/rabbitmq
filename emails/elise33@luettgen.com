@@ -1,1 +1,0 @@
-{"name":"Lurline Bartell Jr.","email":"elise33@luettgen.com","address":"193 Crona Village\nNorth Allisonburgh, NH 15224","subscribed":true}

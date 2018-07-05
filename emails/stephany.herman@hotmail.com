@@ -1,1 +1,0 @@
-{"name":"Prof. Oscar Schowalter I","email":"stephany.herman@hotmail.com","address":"22111 Rice Underpass Suite 670\nSouth Triston, NC 42265-6211","subscribed":true}

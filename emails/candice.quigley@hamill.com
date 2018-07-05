@@ -1,1 +1,0 @@
-{"name":"Jared Anderson","email":"candice.quigley@hamill.com","address":"94750 Gottlieb Shores\nHickletown, SC 90016-7185","subscribed":true}

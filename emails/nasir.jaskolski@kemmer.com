@@ -1,1 +1,0 @@
-{"name":"Vicky Bogisich","email":"nasir.jaskolski@kemmer.com","address":"37842 Delfina Knoll Apt. 879\nNew Rosieport, ME 53259","subscribed":true}

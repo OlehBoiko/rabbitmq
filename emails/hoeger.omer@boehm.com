@@ -1,1 +1,0 @@
-{"name":"Miss Katheryn Satterfield II","email":"hoeger.omer@boehm.com","address":"3827 Oscar Square Apt. 584\nStephentown, RI 42428","subscribed":true}

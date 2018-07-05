@@ -1,1 +1,0 @@
-{"name":"Madaline Klocko","email":"jessica.sawayn@yahoo.com","address":"85245 Yessenia Islands Apt. 587\nMantefort, KY 34308-0105","subscribed":true}

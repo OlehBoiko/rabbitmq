@@ -1,1 +1,0 @@
-{"name":"Dr. Ibrahim Vandervort","email":"reuben.miller@treutel.org","address":"302 Welch Mission\nHallieton, NY 78150-9655","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Rashad Torp","email":"oren.trantow@cummings.org","address":"61624 Deckow Summit\nLake Lucio, NC 65746-5623","subscribed":true}

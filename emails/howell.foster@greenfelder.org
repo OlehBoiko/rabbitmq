@@ -1,1 +1,0 @@
-{"name":"Jamal Bartell","email":"howell.foster@greenfelder.org","address":"599 Bridgette Road Suite 094\nWest Janberg, PA 32173-3482","subscribed":true}

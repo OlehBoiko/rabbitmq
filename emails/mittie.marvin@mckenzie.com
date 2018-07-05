@@ -1,1 +1,0 @@
-{"name":"Stanley Lemke","email":"mittie.marvin@mckenzie.com","address":"3566 Coleman Fork\nIlianaberg, MT 33272","subscribed":true}

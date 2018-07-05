@@ -1,1 +1,0 @@
-{"name":"Wilhelmine Stamm","email":"ehagenes@beer.com","address":"89868 Simonis Green\nEverettfurt, RI 02279","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dewitt Homenick MD","email":"phermann@hotmail.com","address":"914 Angeline Ways Suite 345\nDiannashire, CA 11443","subscribed":true}

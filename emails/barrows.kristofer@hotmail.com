@@ -1,1 +1,0 @@
-{"name":"Anais Douglas III","email":"barrows.kristofer@hotmail.com","address":"53358 Bobby Divide Apt. 856\nLynchville, AR 68069-7826","subscribed":true}

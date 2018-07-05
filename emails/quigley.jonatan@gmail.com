@@ -1,1 +1,0 @@
-{"name":"Dimitri Zboncak","email":"quigley.jonatan@gmail.com","address":"7801 Richie Village\nNorth Augustineside, CO 83521","subscribed":true}

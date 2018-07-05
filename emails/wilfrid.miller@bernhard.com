@@ -1,1 +1,0 @@
-{"name":"Mr. Johnpaul Wiza","email":"wilfrid.miller@bernhard.com","address":"3359 Lockman Meadows Suite 454\nHaneburgh, GA 46410","subscribed":true}

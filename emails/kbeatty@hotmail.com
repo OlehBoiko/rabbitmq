@@ -1,1 +1,0 @@
-{"name":"Devyn Wiegand PhD","email":"kbeatty@hotmail.com","address":"291 Stark Groves\nMedhurstview, KS 14866","subscribed":true}

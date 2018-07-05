@@ -1,1 +1,0 @@
-{"name":"Jadyn Jerde MD","email":"iupton@gmail.com","address":"538 Trever Pike\nBechtelarstad, SD 71097-4751","subscribed":true}

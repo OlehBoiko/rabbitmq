@@ -1,1 +1,0 @@
-{"name":"Prof. Eudora Yundt","email":"carlie78@yahoo.com","address":"4971 Schneider Creek Suite 918\nMathildeport, NJ 46366-3489","subscribed":true}

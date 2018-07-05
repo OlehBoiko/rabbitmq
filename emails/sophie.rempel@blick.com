@@ -1,1 +1,0 @@
-{"name":"Annamae Blanda","email":"sophie.rempel@blick.com","address":"9766 Jodie Park Apt. 054\nLakinport, CT 60940","subscribed":true}

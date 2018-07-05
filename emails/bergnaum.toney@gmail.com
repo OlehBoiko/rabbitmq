@@ -1,1 +1,0 @@
-{"name":"Diamond Davis","email":"bergnaum.toney@gmail.com","address":"61279 Sunny Mountain Suite 535\nPort Thorafort, NE 57640-0001","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Freddie Jakubowski","email":"maryse.deckow@gmail.com","address":"6433 Freda Oval Suite 563\nQuentinberg, CO 16316","subscribed":true}

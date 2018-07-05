@@ -1,1 +1,0 @@
-{"name":"Ellen Wilkinson","email":"yesenia19@mcglynn.com","address":"7639 Ritchie Route\nRaynorton, SD 04876","subscribed":true}

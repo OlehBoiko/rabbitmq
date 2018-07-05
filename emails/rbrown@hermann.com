@@ -1,1 +1,0 @@
-{"name":"Prof. Cleve Doyle","email":"rbrown@hermann.com","address":"939 Karli Key\nMalachimouth, PA 67850-0764","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ms. Krystel Wisozk I","email":"marisa09@gutmann.com","address":"364 Elvera Rue Suite 607\nLittelmouth, KY 75788-1123","subscribed":true}

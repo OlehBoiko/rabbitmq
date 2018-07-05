@@ -1,1 +1,0 @@
-{"name":"Sage Ratke","email":"pedro.crooks@hilll.com","address":"53773 Petra Brooks Apt. 654\nNew Arielle, HI 90132","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Josiah Schmidt","email":"durward.fay@pfannerstill.org","address":"73860 Farrell Lodge\nLake Stewartville, ME 47096-9935","subscribed":true}

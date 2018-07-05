@@ -1,1 +1,0 @@
-{"name":"Giovanny Hyatt","email":"durward11@kertzmann.com","address":"380 Gleason Prairie Suite 683\nLake Norval, IL 29635","subscribed":true}

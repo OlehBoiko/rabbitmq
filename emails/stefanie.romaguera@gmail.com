@@ -1,1 +1,0 @@
-{"name":"Kassandra Buckridge","email":"stefanie.romaguera@gmail.com","address":"960 Prosacco Landing\nSouth Chandler, SC 42072-5997","subscribed":true}

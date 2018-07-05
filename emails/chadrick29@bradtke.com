@@ -1,1 +1,0 @@
-{"name":"Ward Koch","email":"chadrick29@bradtke.com","address":"44255 Ike Skyway Apt. 588\nSouth Garettmouth, ME 69245","subscribed":true}

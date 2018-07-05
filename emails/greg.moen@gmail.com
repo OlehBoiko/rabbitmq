@@ -1,1 +1,0 @@
-{"name":"Sophia Swaniawski","email":"greg.moen@gmail.com","address":"57971 Klocko Parkways\nSouth Adrienne, MI 87867-0098","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Daphne Gutmann","email":"ibernier@wuckert.com","address":"10067 Bosco Square Apt. 045\nLake Bufordville, OR 27110","subscribed":true}

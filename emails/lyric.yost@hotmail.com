@@ -1,1 +1,0 @@
-{"name":"Prof. Santos Kuhlman","email":"lyric.yost@hotmail.com","address":"8826 Elmira Parkway Apt. 349\nSouth Jacquelyntown, IL 47725","subscribed":true}

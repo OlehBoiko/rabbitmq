@@ -1,1 +1,0 @@
-{"name":"Prof. Reese Parker","email":"zmiller@schulist.org","address":"337 Alejandra Lane\nJakubowskiview, HI 66207-7514","subscribed":true}

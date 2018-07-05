@@ -1,1 +1,0 @@
-{"name":"Prof. Magali Gottlieb","email":"trutherford@fisher.com","address":"75716 Helen Mountains\nSouth Heaven, CO 39545","subscribed":true}

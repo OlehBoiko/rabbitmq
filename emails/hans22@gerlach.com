@@ -1,1 +1,0 @@
-{"name":"Itzel Effertz","email":"hans22@gerlach.com","address":"3687 Stokes Burg\nEast Gayburgh, IN 46326","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Edison Smitham","email":"quitzon.yolanda@hotmail.com","address":"83102 Beahan Ferry Suite 931\nEmeliastad, CA 31780","subscribed":true}

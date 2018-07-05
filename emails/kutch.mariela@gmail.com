@@ -1,1 +1,0 @@
-{"name":"Dr. Julien Jaskolski DVM","email":"kutch.mariela@gmail.com","address":"66169 Ankunding Extension\nWillmshaven, NM 85407","subscribed":true}

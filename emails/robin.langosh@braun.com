@@ -1,1 +1,0 @@
-{"name":"Prince Fritsch","email":"robin.langosh@braun.com","address":"43224 Collins Passage Suite 882\nLake Erickmouth, SC 09195","subscribed":true}

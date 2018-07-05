@@ -1,1 +1,0 @@
-{"name":"Imelda Bartell","email":"tanner.ward@sanford.com","address":"848 Monahan Hollow Apt. 354\nLeuschkeside, GA 98389-1533","subscribed":true}

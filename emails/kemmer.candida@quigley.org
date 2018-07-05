@@ -1,1 +1,0 @@
-{"name":"Lelah Bartell","email":"kemmer.candida@quigley.org","address":"80633 Rosanna Highway Suite 845\nJacobsonborough, DC 20798","subscribed":true}

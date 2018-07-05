@@ -1,1 +1,0 @@
-{"name":"Prof. Elbert Skiles","email":"kaylah13@fay.org","address":"6625 Daugherty Summit\nWest Corene, ME 76873-8433","subscribed":true}

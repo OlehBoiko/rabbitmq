@@ -1,1 +1,0 @@
-{"name":"Patrick Hegmann DDS","email":"tracy.considine@yahoo.com","address":"173 Reyna Mission Apt. 977\nWeimannton, NM 55300-3223","subscribed":true}

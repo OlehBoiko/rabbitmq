@@ -1,1 +1,0 @@
-{"name":"Lonzo Raynor","email":"bonnie15@lindgren.com","address":"6469 Wilfred Island\nPort Joanny, MA 60635-6851","subscribed":true}

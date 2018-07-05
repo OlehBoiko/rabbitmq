@@ -1,1 +1,0 @@
-{"name":"Simeon Boyle DVM","email":"jamar05@yahoo.com","address":"93201 Bahringer Shoal\nSouth Ethelfurt, NM 92946","subscribed":true}

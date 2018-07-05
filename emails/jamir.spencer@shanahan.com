@@ -1,1 +1,0 @@
-{"name":"Clair Kertzmann","email":"jamir.spencer@shanahan.com","address":"81914 Margarita Drives\nWest Vickyland, IN 23417","subscribed":true}

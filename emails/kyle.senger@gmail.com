@@ -1,1 +1,0 @@
-{"name":"Vidal Wilderman","email":"kyle.senger@gmail.com","address":"2553 Jennyfer Locks\nEnahaven, KY 39148-4629","subscribed":true}

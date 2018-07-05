@@ -1,1 +1,0 @@
-{"name":"Prof. Prudence Turcotte","email":"leatha.raynor@nitzsche.com","address":"653 Christophe Row Apt. 785\nDarbyfort, MO 88032","subscribed":true}

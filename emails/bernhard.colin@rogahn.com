@@ -1,1 +1,0 @@
-{"name":"Prof. Kaleigh Schmitt V","email":"bernhard.colin@rogahn.com","address":"9638 Ashly Brooks\nSouth Orion, NJ 20265-0008","subscribed":true}

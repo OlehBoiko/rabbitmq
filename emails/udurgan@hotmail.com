@@ -1,1 +1,0 @@
-{"name":"Prof. Marcelino McLaughlin","email":"udurgan@hotmail.com","address":"2783 Mante Divide Apt. 057\nSouth Devonte, AL 46254","subscribed":true}

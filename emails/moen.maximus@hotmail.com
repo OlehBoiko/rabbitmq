@@ -1,1 +1,0 @@
-{"name":"Prof. Leann Friesen MD","email":"moen.maximus@hotmail.com","address":"795 Glover Crest\nPort Elroy, VA 04541","subscribed":true}

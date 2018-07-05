@@ -1,1 +1,0 @@
-{"name":"Prof. Adella Labadie Sr.","email":"quigley.rubye@gmail.com","address":"8032 Jerde Islands\nWest Edna, NH 58437-6572","subscribed":true}

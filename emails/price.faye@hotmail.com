@@ -1,1 +1,0 @@
-{"name":"Ms. Greta Krajcik","email":"price.faye@hotmail.com","address":"84531 Neal Shores Apt. 315\nPort Jerad, CA 86125","subscribed":true}

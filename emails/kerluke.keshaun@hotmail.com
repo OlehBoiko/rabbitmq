@@ -1,1 +1,0 @@
-{"name":"Edd Konopelski","email":"kerluke.keshaun@hotmail.com","address":"93074 Mante Highway\nNorth Madison, AL 75158-0999","subscribed":true}

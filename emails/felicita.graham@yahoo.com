@@ -1,1 +1,0 @@
-{"name":"Prof. Trystan Moore II","email":"felicita.graham@yahoo.com","address":"288 Reynolds Point Suite 714\nEast Fredaberg, NY 20868-1866","subscribed":true}

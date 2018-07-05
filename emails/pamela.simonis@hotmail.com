@@ -1,1 +1,0 @@
-{"name":"Elinore Adams","email":"pamela.simonis@hotmail.com","address":"115 Ullrich Stravenue\nNew Gustaveshire, ME 10773-1843","subscribed":true}

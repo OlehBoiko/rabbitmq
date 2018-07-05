@@ -1,1 +1,0 @@
-{"name":"Shany Klein","email":"kim.swift@gmail.com","address":"31764 Ottis Manors Suite 425\nKovacekside, PA 09921","subscribed":true}

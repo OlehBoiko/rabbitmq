@@ -1,1 +1,0 @@
-{"name":"Waylon Cummerata","email":"marlen.legros@yahoo.com","address":"4009 Camylle Circle\nBartonport, CA 93004","subscribed":true}

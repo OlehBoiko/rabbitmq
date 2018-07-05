@@ -1,1 +1,0 @@
-{"name":"Prof. Uriel Sanford Sr.","email":"sherman.bogisich@gmail.com","address":"43618 Lola Mountains Apt. 260\nAlexandriafort, MS 75259-3864","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Zena Schmeler","email":"lea68@streich.com","address":"8288 Madonna Shore Suite 693\nWest Jaquelinland, NV 98710","subscribed":true}

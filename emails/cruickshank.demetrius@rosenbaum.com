@@ -1,1 +1,0 @@
-{"name":"Frida O'Conner","email":"cruickshank.demetrius@rosenbaum.com","address":"1326 Nora Springs\nNew Arictown, VT 33915-0157","subscribed":true}

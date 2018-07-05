@@ -1,1 +1,0 @@
-{"name":"Dr. Jerald Pagac","email":"raymundo19@gmail.com","address":"3310 Johnny Parks Suite 309\nLabadieshire, MN 00656","subscribed":true}

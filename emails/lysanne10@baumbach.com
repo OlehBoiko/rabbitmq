@@ -1,1 +1,0 @@
-{"name":"Annette Bechtelar","email":"lysanne10@baumbach.com","address":"117 Huels Trace Suite 579\nMagaliburgh, NV 07746","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Bobby Beier","email":"jay.aufderhar@gmail.com","address":"34709 Porter Rapids\nWest Tomasa, WA 22650-4814","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mrs. Damaris Reichert","email":"hahn.johanna@mccullough.com","address":"8913 Boyd Drive\nPort Brice, IA 76210","subscribed":true}

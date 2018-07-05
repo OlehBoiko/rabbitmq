@@ -1,1 +1,0 @@
-{"name":"Dr. Edwardo Kuhn II","email":"halvorson.florencio@schumm.com","address":"3523 Patience Branch\nPort Russ, ND 29050","subscribed":true}

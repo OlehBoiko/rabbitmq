@@ -1,1 +1,0 @@
-{"name":"Lupe Bernhard","email":"cooper.dicki@hotmail.com","address":"81571 Karen Fort Suite 851\nRodolfoton, ID 82711-9666","subscribed":true}

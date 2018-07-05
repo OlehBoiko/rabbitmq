@@ -1,1 +1,0 @@
-{"name":"Prof. Scotty Bashirian I","email":"vida19@yahoo.com","address":"85505 Ryann Rapids\nNorth Jimmy, SC 26096","subscribed":true}

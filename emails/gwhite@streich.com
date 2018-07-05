@@ -1,1 +1,0 @@
-{"name":"Fleta Kiehn","email":"gwhite@streich.com","address":"3919 Renner Loaf Suite 494\nLake Elwin, ND 54750","subscribed":true}

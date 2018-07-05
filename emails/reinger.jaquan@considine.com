@@ -1,1 +1,0 @@
-{"name":"Candice Abshire","email":"reinger.jaquan@considine.com","address":"4943 Kozey Wells Apt. 928\nNorth Estel, UT 89843-8522","subscribed":true}

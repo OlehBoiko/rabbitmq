@@ -1,1 +1,0 @@
-{"name":"Adelbert Fay","email":"mann.sadie@deckow.org","address":"482 Thiel Turnpike\nSydniborough, VT 89981","subscribed":true}

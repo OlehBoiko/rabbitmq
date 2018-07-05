@@ -1,1 +1,0 @@
-{"name":"Prof. Jeffrey Wunsch","email":"trystan74@berge.org","address":"764 Altenwerth Track\nNorth Lexieview, MT 62082","subscribed":true}

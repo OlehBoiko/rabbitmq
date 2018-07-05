@@ -1,1 +1,0 @@
-{"name":"Dr. Coleman Strosin Jr.","email":"omaggio@fahey.com","address":"683 Glover Parkways\nNorth Vickie, OR 45045","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ms. Cora Kohler III","email":"enoch.mante@hotmail.com","address":"451 Zemlak Loop Suite 680\nNew Andres, SD 59464-1365","subscribed":true}

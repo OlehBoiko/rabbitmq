@@ -1,1 +1,0 @@
-{"name":"Deondre Halvorson V","email":"jacobson.lorenzo@gmail.com","address":"178 Raphaelle Mountain\nStrosinview, NM 22839","subscribed":true}

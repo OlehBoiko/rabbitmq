@@ -1,1 +1,0 @@
-{"name":"Prof. Cole McGlynn I","email":"kiehn.connie@yahoo.com","address":"814 Hermiston Stravenue\nCarrollton, NM 83563-1709","subscribed":true}

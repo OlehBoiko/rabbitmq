@@ -1,1 +1,0 @@
-{"name":"Delpha Bartoletti","email":"ashlee.herman@gmail.com","address":"347 Monica Stravenue Suite 718\nLake Libbychester, DE 69028","subscribed":true}

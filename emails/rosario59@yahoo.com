@@ -1,1 +1,0 @@
-{"name":"Mrs. Virginie McLaughlin","email":"rosario59@yahoo.com","address":"450 Geraldine Garden Suite 831\nNorth Jazlynport, IA 37878","subscribed":true}

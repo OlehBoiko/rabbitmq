@@ -1,1 +1,0 @@
-{"name":"Prof. Albina Rice DDS","email":"hpredovic@yahoo.com","address":"579 Kuphal Plaza\nSylvesterside, LA 59292","subscribed":true}

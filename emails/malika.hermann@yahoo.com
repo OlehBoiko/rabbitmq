@@ -1,1 +1,0 @@
-{"name":"Prof. Jovanny Runolfsson I","email":"malika.hermann@yahoo.com","address":"65690 Herzog Skyway Suite 625\nAricborough, KY 76204","subscribed":true}

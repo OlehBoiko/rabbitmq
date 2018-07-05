@@ -1,1 +1,0 @@
-{"name":"Prof. Herbert Klocko","email":"keith04@yahoo.com","address":"36345 Hoppe Estate\nWehnerfort, MI 34367","subscribed":true}

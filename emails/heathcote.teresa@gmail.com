@@ -1,1 +1,0 @@
-{"name":"Prof. Juanita Kuhn IV","email":"heathcote.teresa@gmail.com","address":"18034 Kurt Curve\nWest Jennyfermouth, IL 09055","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Tessie Lowe DVM","email":"kyle66@yahoo.com","address":"7438 Vladimir Land Suite 199\nSouth Anna, KS 13300-6456","subscribed":true}

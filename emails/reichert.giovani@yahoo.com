@@ -1,1 +1,0 @@
-{"name":"Dr. Wava Waelchi","email":"reichert.giovani@yahoo.com","address":"539 Auer Lane\nVivianport, LA 84931","subscribed":true}

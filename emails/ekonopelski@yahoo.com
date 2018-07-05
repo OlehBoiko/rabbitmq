@@ -1,1 +1,0 @@
-{"name":"Ole Murray","email":"ekonopelski@yahoo.com","address":"57747 Rachael Branch\nNew Moriahmouth, RI 78858","subscribed":true}

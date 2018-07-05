@@ -1,1 +1,0 @@
-{"name":"Mrs. Madisyn Swift","email":"kunde.ward@yahoo.com","address":"640 Maximo Rapids\nNorth Shaylee, TN 37729-5454","subscribed":true}

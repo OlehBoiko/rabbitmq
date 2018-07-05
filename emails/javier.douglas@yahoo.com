@@ -1,1 +1,0 @@
-{"name":"Violette Wiza","email":"javier.douglas@yahoo.com","address":"25887 Kelly Manor\nMaxbury, MO 90433","subscribed":true}

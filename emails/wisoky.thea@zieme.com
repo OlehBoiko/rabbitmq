@@ -1,1 +1,0 @@
-{"name":"Amparo Shanahan","email":"wisoky.thea@zieme.com","address":"5001 Elza Skyway\nGussiestad, AZ 64440","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Ubaldo Torphy III","email":"evan.vonrueden@bailey.com","address":"12591 Windler Squares\nEast Violet, NE 37677","subscribed":true}

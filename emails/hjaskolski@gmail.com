@@ -1,1 +1,0 @@
-{"name":"Prof. Torey Nader","email":"hjaskolski@gmail.com","address":"1025 Corine Mills\nLake Manley, VT 32307-6610","subscribed":true}

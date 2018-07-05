@@ -1,1 +1,0 @@
-{"name":"Arjun Schamberger","email":"ekoepp@brown.com","address":"2057 Rippin Mall Suite 971\nNew Roseberg, DC 20474-6016","subscribed":true}

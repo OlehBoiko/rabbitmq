@@ -1,1 +1,0 @@
-{"name":"Viola Quigley","email":"douglas.dale@gmail.com","address":"5324 Marina Crest Suite 371\nNew Kade, UT 00665","subscribed":true}

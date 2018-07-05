@@ -1,1 +1,0 @@
-{"name":"Prof. Dwight Hirthe MD","email":"durward.halvorson@gmail.com","address":"788 Ken Avenue Apt. 326\nNorth Carmelohaven, LA 67355-5382","subscribed":true}

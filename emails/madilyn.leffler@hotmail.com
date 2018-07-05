@@ -1,1 +1,0 @@
-{"name":"Clementina Kohler","email":"madilyn.leffler@hotmail.com","address":"41575 Schulist Causeway\nCristville, CA 99010","subscribed":true}

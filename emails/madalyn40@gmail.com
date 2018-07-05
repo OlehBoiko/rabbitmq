@@ -1,1 +1,0 @@
-{"name":"Estrella Hayes","email":"madalyn40@gmail.com","address":"829 McKenzie Mission\nLake Obiefurt, MN 78645-9317","subscribed":true}

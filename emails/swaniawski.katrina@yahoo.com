@@ -1,1 +1,0 @@
-{"name":"Dayton Kuhic PhD","email":"swaniawski.katrina@yahoo.com","address":"16462 Roman Walk Suite 888\nEast Keegan, UT 92306-1862","subscribed":true}

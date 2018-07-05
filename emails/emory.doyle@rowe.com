@@ -1,1 +1,0 @@
-{"name":"Kitty Hayes","email":"emory.doyle@rowe.com","address":"6723 Jakubowski Mountain Apt. 422\nLake Lilliana, ND 51270","subscribed":true}

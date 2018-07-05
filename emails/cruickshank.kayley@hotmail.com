@@ -1,1 +1,0 @@
-{"name":"Fausto Walter Sr.","email":"cruickshank.kayley@hotmail.com","address":"2253 Larissa Meadow Suite 991\nNorth Arnulfo, ME 40919","subscribed":true}

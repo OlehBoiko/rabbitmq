@@ -1,1 +1,0 @@
-{"name":"Eda Hudson","email":"vkub@hotmail.com","address":"282 Kuhlman Alley\nLake Alvinabury, AR 98389","subscribed":true}

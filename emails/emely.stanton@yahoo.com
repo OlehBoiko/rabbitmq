@@ -1,1 +1,0 @@
-{"name":"Brigitte Dickinson","email":"emely.stanton@yahoo.com","address":"32363 Lucienne Rue\nLake Alvisstad, AL 61804-0386","subscribed":true}

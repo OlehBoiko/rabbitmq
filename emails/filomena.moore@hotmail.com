@@ -1,1 +1,0 @@
-{"name":"Mr. Holden Rodriguez","email":"filomena.moore@hotmail.com","address":"7773 Stokes Loop Apt. 572\nEast Alvinaburgh, CA 34008-3864","subscribed":true}

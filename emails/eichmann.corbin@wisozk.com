@@ -1,1 +1,0 @@
-{"name":"Fabiola Schroeder DDS","email":"eichmann.corbin@wisozk.com","address":"20067 Emil Centers Suite 781\nPort Amandashire, SD 66976","subscribed":true}

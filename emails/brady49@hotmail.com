@@ -1,1 +1,0 @@
-{"name":"Prof. Angie Medhurst DDS","email":"brady49@hotmail.com","address":"679 Reichert Ridges\nPort Pansy, NC 88164","subscribed":true}

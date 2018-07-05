@@ -1,1 +1,0 @@
-{"name":"Opal West","email":"pinkie44@collins.com","address":"741 Dejuan Plaza Suite 492\nLawsonmouth, MA 72422-7090","subscribed":true}

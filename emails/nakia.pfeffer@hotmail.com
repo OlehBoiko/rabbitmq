@@ -1,1 +1,0 @@
-{"name":"Muhammad Bahringer PhD","email":"nakia.pfeffer@hotmail.com","address":"276 Daniel Crescent Apt. 061\nPort Cletabury, TN 85719-1568","subscribed":true}

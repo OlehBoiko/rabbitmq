@@ -1,1 +1,0 @@
-{"name":"Mrs. Brandyn Kunze MD","email":"hahn.brooklyn@batz.com","address":"8796 Bartell Fort\nSamaramouth, MN 57929","subscribed":true}

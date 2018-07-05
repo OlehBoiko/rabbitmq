@@ -1,1 +1,0 @@
-{"name":"Therese Swift PhD","email":"kimberly.carroll@hotmail.com","address":"863 Cloyd Corner Apt. 574\nSouth Mackview, CA 43853-2058","subscribed":true}

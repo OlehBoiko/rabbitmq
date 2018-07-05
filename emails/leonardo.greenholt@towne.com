@@ -1,1 +1,0 @@
-{"name":"Lorna Crist DDS","email":"leonardo.greenholt@towne.com","address":"7543 Melba Harbors Suite 673\nWolfhaven, TN 53757","subscribed":true}

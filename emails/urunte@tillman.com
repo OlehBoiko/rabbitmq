@@ -1,1 +1,0 @@
-{"name":"Prof. Stephen Leffler DDS","email":"urunte@tillman.com","address":"98509 Kemmer Inlet\nPort Frederiqueton, NH 57394","subscribed":true}

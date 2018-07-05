@@ -1,1 +1,0 @@
-{"name":"Prof. Laurel Nolan","email":"fupton@wisozk.com","address":"750 Brian Fork Suite 577\nBeattytown, IN 16805","subscribed":true}

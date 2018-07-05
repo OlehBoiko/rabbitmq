@@ -1,1 +1,0 @@
-{"name":"Santino Renner","email":"wisoky.freddie@hotmail.com","address":"78725 Mitchell Shores Suite 389\nKubport, MO 80757","subscribed":true}

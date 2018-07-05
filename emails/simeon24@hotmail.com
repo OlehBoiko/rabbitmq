@@ -1,1 +1,0 @@
-{"name":"Celia Parker Jr.","email":"simeon24@hotmail.com","address":"8815 Goodwin Roads\nSouth Daphne, IN 70958-0796","subscribed":true}

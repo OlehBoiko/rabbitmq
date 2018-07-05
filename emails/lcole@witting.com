@@ -1,1 +1,0 @@
-{"name":"Summer Upton Sr.","email":"lcole@witting.com","address":"55990 Murazik Fort Apt. 107\nKennybury, DC 49725","subscribed":true}

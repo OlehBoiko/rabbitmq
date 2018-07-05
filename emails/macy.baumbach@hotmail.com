@@ -1,1 +1,0 @@
-{"name":"Mr. Nicklaus Satterfield Jr.","email":"macy.baumbach@hotmail.com","address":"868 Richmond Crossroad Apt. 170\nLake Josefina, IL 71653-3736","subscribed":true}

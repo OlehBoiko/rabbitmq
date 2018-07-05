@@ -1,1 +1,0 @@
-{"name":"Prof. Sabrina Beer","email":"vjerde@hotmail.com","address":"232 Newell Wall\nEast Erick, WY 64420","subscribed":true}

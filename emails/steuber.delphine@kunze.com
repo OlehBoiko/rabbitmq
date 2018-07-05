@@ -1,1 +1,0 @@
-{"name":"Prof. Eric Kulas V","email":"steuber.delphine@kunze.com","address":"198 Kozey Gardens\nKertzmannville, NH 53091","subscribed":true}

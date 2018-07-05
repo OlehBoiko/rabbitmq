@@ -1,1 +1,0 @@
-{"name":"Mrs. Allene Farrell I","email":"lynn12@hotmail.com","address":"6649 Wehner Pine Suite 346\nPort Deannaside, CA 85796","subscribed":true}

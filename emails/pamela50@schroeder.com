@@ -1,1 +1,0 @@
-{"name":"Mafalda Greenfelder","email":"pamela50@schroeder.com","address":"83119 Nolan Crescent\nLake Margarettechester, UT 63441","subscribed":true}

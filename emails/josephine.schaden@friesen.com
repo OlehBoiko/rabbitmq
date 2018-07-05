@@ -1,1 +1,0 @@
-{"name":"Lucious Kerluke","email":"josephine.schaden@friesen.com","address":"642 Marquardt Bypass\nNorth Theo, WY 66256","subscribed":true}

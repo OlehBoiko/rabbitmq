@@ -1,1 +1,0 @@
-{"name":"Sister Walter","email":"treva.stroman@hotmail.com","address":"64058 Adams Prairie Apt. 959\nLittelstad, NY 01570","subscribed":true}

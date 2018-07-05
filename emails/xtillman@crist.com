@@ -1,1 +1,0 @@
-{"name":"Isaias Klein II","email":"xtillman@crist.com","address":"90012 Nichole Causeway\nPort Jeramieview, WY 65779","subscribed":true}

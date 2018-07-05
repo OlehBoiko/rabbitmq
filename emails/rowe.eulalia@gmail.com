@@ -1,1 +1,0 @@
-{"name":"Madge Rice","email":"rowe.eulalia@gmail.com","address":"1900 Raphaelle Valleys\nNorth Mekhi, MD 42058-0192","subscribed":true}

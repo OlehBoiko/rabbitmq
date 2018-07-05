@@ -1,1 +1,0 @@
-{"name":"Dr. Alden Kub Jr.","email":"raoul92@hotmail.com","address":"21274 Kathryne Vista\nNorth German, UT 44109","subscribed":true}

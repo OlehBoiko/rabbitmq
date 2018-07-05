@@ -1,1 +1,0 @@
-{"name":"Mr. Cory Bartell DDS","email":"ihirthe@ferry.com","address":"1409 Rowland Expressway\nNew Abelardo, GA 77067-8849","subscribed":true}

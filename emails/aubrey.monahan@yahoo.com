@@ -1,1 +1,0 @@
-{"name":"Dr. Nola Klocko PhD","email":"aubrey.monahan@yahoo.com","address":"580 Lesch Ranch Suite 758\nSmithamshire, LA 20470","subscribed":true}

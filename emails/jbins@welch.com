@@ -1,1 +1,0 @@
-{"name":"Henry Bechtelar PhD","email":"jbins@welch.com","address":"6660 Senger Locks\nShyanneport, PA 85868-1434","subscribed":true}

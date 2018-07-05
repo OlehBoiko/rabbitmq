@@ -1,1 +1,0 @@
-{"name":"Clay D'Amore","email":"krystel.konopelski@yahoo.com","address":"462 Prosacco Isle Suite 011\nWelchport, OR 26690","subscribed":true}

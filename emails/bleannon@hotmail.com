@@ -1,1 +1,0 @@
-{"name":"Prof. Jose Swift","email":"bleannon@hotmail.com","address":"51627 Bernice Road Suite 511\nCruickshankview, ME 03813-3692","subscribed":true}

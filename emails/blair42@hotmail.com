@@ -1,1 +1,0 @@
-{"name":"Prof. Turner Huel","email":"blair42@hotmail.com","address":"2157 Cartwright Circle Suite 668\nWest Chadrick, HI 52153","subscribed":true}

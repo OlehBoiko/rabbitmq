@@ -1,1 +1,0 @@
-{"name":"Virginia Parker","email":"nkassulke@buckridge.com","address":"725 Osinski Ferry Suite 664\nPort Norrisstad, NV 21769-1267","subscribed":true}

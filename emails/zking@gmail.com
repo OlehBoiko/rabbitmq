@@ -1,1 +1,0 @@
-{"name":"Prof. Joany McCullough DDS","email":"zking@gmail.com","address":"216 Kameron Stravenue\nPort Joan, WY 57067-3677","subscribed":true}

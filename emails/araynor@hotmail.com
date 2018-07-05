@@ -1,1 +1,0 @@
-{"name":"Fredy Jerde","email":"araynor@hotmail.com","address":"144 Aliyah Street\nPort Rebeccatown, GA 98831","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Elwyn Metz","email":"kovacek.reilly@smith.com","address":"650 Tamara Lakes Apt. 248\nLake Devyn, TX 73766-7075","subscribed":true}

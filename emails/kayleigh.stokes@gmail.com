@@ -1,1 +1,0 @@
-{"name":"Agustin Powlowski","email":"kayleigh.stokes@gmail.com","address":"26351 Sipes Dale\nDooleystad, RI 69931","subscribed":true}

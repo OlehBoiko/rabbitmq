@@ -1,1 +1,0 @@
-{"name":"Sigmund Johnston","email":"kasandra.ullrich@rosenbaum.com","address":"2464 Jacques Summit Apt. 692\nHarberchester, AR 13170","subscribed":true}

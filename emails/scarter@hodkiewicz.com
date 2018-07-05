@@ -1,1 +1,0 @@
-{"name":"Nelda Jaskolski","email":"scarter@hodkiewicz.com","address":"357 Demond Dam Suite 733\nKautzerchester, VT 37016","subscribed":true}

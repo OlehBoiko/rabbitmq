@@ -1,1 +1,0 @@
-{"name":"Prof. Gillian Connelly III","email":"rudy.leannon@trantow.org","address":"69984 Becker Center\nGardnerchester, KS 21218","subscribed":true}

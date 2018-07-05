@@ -1,1 +1,0 @@
-{"name":"Dr. Lafayette Hodkiewicz DVM","email":"muriel.cremin@gmail.com","address":"40040 Rosalee Drives Suite 004\nSpencerside, MI 16804","subscribed":true}

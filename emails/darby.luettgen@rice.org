@@ -1,1 +1,0 @@
-{"name":"Lauriane Kassulke","email":"darby.luettgen@rice.org","address":"2030 Guadalupe Skyway\nNew Jeffreyport, TX 69611-5068","subscribed":true}

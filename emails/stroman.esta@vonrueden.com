@@ -1,1 +1,0 @@
-{"name":"Rossie Bartell","email":"stroman.esta@vonrueden.com","address":"180 Quigley Well Suite 414\nWaelchiview, CA 59939","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Cedrick Schuppe II","email":"jaeden.mohr@yahoo.com","address":"37873 Lynch Garden\nSwiftstad, AR 45684-2885","subscribed":true}

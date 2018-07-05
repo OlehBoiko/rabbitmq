@@ -1,1 +1,0 @@
-{"name":"Devon Ankunding","email":"ledner.chance@yahoo.com","address":"820 Runte Ford\nEast Dean, SD 89206-5154","subscribed":true}

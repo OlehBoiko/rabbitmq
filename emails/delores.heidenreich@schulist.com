@@ -1,1 +1,0 @@
-{"name":"Miss Chelsea Emmerich","email":"delores.heidenreich@schulist.com","address":"90506 Treutel Garden Suite 579\nLake Hayden, LA 25777-0739","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Paris Bergnaum","email":"mrunte@gmail.com","address":"8481 Hane Islands Suite 314\nNorth Lila, HI 90534-9520","subscribed":true}

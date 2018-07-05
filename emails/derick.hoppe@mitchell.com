@@ -1,1 +1,0 @@
-{"name":"Domenica Waelchi I","email":"derick.hoppe@mitchell.com","address":"554 Odell Forest Apt. 874\nRobynhaven, TN 80897","subscribed":true}

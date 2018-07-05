@@ -1,1 +1,0 @@
-{"name":"Abner King","email":"adelbert.stiedemann@goodwin.org","address":"517 Anthony Bridge Suite 967\nLake Quentin, PA 16877","subscribed":true}

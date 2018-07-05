@@ -1,1 +1,0 @@
-{"name":"Ramon Mante","email":"vada.lebsack@vandervort.com","address":"5419 Jacey Run\nSouth Blancheland, NV 99756","subscribed":true}

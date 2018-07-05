@@ -1,1 +1,0 @@
-{"name":"Prof. Josie Johnston Jr.","email":"ggibson@yahoo.com","address":"2709 Purdy Way\nDevenfurt, MI 11545","subscribed":true}

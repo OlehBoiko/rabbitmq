@@ -1,1 +1,0 @@
-{"name":"Prof. Monroe Schaden IV","email":"thurman20@williamson.com","address":"139 Heathcote Skyway Suite 585\nEast Judy, IN 64521","subscribed":true}

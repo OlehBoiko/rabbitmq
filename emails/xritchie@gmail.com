@@ -1,1 +1,0 @@
-{"name":"Miss Fay Heaney MD","email":"xritchie@gmail.com","address":"2666 Crist Underpass\nLake Madelyn, AZ 48620","subscribed":true}

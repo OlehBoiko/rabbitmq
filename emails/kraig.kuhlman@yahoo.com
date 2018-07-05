@@ -1,1 +1,0 @@
-{"name":"Juvenal Kuhic","email":"kraig.kuhlman@yahoo.com","address":"35789 Dominique Keys Apt. 988\nPurdyland, MT 36908","subscribed":true}

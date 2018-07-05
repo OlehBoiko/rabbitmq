@@ -1,1 +1,0 @@
-{"name":"Katherine Wilderman","email":"bradtke.hollis@gmail.com","address":"802 Edgar Point Apt. 937\nStehrborough, IL 65309-0176","subscribed":true}

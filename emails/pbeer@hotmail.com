@@ -1,1 +1,0 @@
-{"name":"Prof. Tristian Bode DDS","email":"pbeer@hotmail.com","address":"6925 Boyer Crossroad Suite 459\nErichhaven, MO 91452-7798","subscribed":true}

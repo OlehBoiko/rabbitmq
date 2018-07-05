@@ -1,1 +1,0 @@
-{"name":"Dr. Jacklyn Morar","email":"alexa.torphy@yahoo.com","address":"73475 Pacocha Prairie\nPort Clay, OH 48136","subscribed":true}

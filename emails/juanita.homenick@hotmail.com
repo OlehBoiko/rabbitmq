@@ -1,1 +1,0 @@
-{"name":"Lorenzo Zulauf","email":"juanita.homenick@hotmail.com","address":"5736 Matteo Fort Apt. 543\nNew Cristobaltown, NM 53209","subscribed":true}

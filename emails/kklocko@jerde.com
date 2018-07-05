@@ -1,1 +1,0 @@
-{"name":"Prof. Ruth Nolan","email":"kklocko@jerde.com","address":"24343 Koelpin Parks\nEast Eulahtown, VA 41773","subscribed":true}

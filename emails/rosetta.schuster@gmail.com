@@ -1,1 +1,0 @@
-{"name":"Frances Marvin","email":"rosetta.schuster@gmail.com","address":"48320 Legros Throughway Suite 473\nNew Carmen, MO 02757","subscribed":true}

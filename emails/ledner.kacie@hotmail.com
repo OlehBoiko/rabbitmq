@@ -1,1 +1,0 @@
-{"name":"Miss Lauriane Schultz","email":"ledner.kacie@hotmail.com","address":"3527 Noemi Freeway Apt. 784\nCletaland, NY 38025","subscribed":true}

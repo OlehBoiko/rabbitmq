@@ -1,1 +1,0 @@
-{"name":"Prof. Oceane Schamberger","email":"theresia.shanahan@yahoo.com","address":"672 Rylan Harbors\nDurwardville, GA 17398-1595","subscribed":true}

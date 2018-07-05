@@ -1,1 +1,0 @@
-{"name":"Dr. Giuseppe Kling","email":"cecilia.schaefer@spinka.com","address":"7927 Ebba Island\nPort Ryan, VA 33057","subscribed":true}

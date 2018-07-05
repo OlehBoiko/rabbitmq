@@ -1,1 +1,0 @@
-{"name":"Kitty Yost","email":"lessie26@yahoo.com","address":"108 Spencer Corners Suite 706\nNew Angus, KS 94858","subscribed":true}

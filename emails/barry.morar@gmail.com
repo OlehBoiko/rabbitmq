@@ -1,1 +1,0 @@
-{"name":"Ulises Schneider","email":"barry.morar@gmail.com","address":"957 Auer Port Apt. 302\nGiovannaton, WI 02357","subscribed":true}

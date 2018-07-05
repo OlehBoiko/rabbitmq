@@ -1,1 +1,0 @@
-{"name":"Kristin Doyle PhD","email":"obie.prosacco@bednar.com","address":"1110 Romaguera Stravenue\nCordietown, NH 81732","subscribed":true}

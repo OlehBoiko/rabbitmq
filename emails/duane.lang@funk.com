@@ -1,1 +1,0 @@
-{"name":"Vernice Kautzer","email":"duane.lang@funk.com","address":"1763 Favian Radial Apt. 091\nSouth Shanelleborough, OH 44250-4118","subscribed":true}

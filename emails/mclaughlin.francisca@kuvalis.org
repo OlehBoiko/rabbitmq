@@ -1,1 +1,0 @@
-{"name":"Francisca Thompson","email":"mclaughlin.francisca@kuvalis.org","address":"138 Hilll Landing\nRonaldoshire, OK 61138","subscribed":true}

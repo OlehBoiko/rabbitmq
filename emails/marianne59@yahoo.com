@@ -1,1 +1,0 @@
-{"name":"Madalyn Ritchie","email":"marianne59@yahoo.com","address":"67685 Jacinthe Lane Suite 075\nPort Alfreda, MT 21552","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mr. Ignacio Kerluke","email":"kyler15@yahoo.com","address":"573 Pfannerstill Summit\nNew Michaela, SD 48425-3607","subscribed":true}

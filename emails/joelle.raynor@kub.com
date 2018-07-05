@@ -1,1 +1,0 @@
-{"name":"Holly Runte MD","email":"joelle.raynor@kub.com","address":"809 Kshlerin Drive\nNew Cassidy, ME 43036","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Bradford Hegmann IV","email":"keira.lowe@gmail.com","address":"647 Ankunding Road Suite 095\nNorth Michele, MN 08229","subscribed":true}

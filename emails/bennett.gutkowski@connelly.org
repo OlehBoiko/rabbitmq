@@ -1,1 +1,0 @@
-{"name":"Miss Summer Ratke","email":"bennett.gutkowski@connelly.org","address":"2066 Hills Fields\nPort Hayleyton, HI 82875","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Paris Kshlerin","email":"fblanda@kunde.com","address":"802 Trudie Well Apt. 011\nWest Kristopher, MI 85979","subscribed":true}

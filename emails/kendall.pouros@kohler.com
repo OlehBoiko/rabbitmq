@@ -1,1 +1,0 @@
-{"name":"Samara Trantow","email":"kendall.pouros@kohler.com","address":"61312 Enrique Burgs Suite 440\nPort Ramiroville, MS 05961","subscribed":true}

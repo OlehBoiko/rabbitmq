@@ -1,1 +1,0 @@
-{"name":"Dr. Desiree Kirlin","email":"hintz.lenna@considine.com","address":"343 Stokes Turnpike\nLonnymouth, OH 30931","subscribed":true}

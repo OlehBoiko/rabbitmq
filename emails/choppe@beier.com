@@ -1,1 +1,0 @@
-{"name":"Germaine Kutch PhD","email":"choppe@beier.com","address":"863 Tamia Ways Apt. 486\nRempelhaven, OH 23230","subscribed":true}

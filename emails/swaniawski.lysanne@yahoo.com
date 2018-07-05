@@ -1,1 +1,0 @@
-{"name":"Aida Feest PhD","email":"swaniawski.lysanne@yahoo.com","address":"408 Schaefer Center\nSwaniawskihaven, LA 28502","subscribed":true}

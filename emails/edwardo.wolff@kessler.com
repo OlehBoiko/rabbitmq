@@ -1,1 +1,0 @@
-{"name":"Amiya Weissnat","email":"edwardo.wolff@kessler.com","address":"2653 Keyon Springs\nJoneshaven, MN 40215","subscribed":true}

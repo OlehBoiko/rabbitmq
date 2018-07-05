@@ -1,1 +1,0 @@
-{"name":"Leta Abshire I","email":"haylee.gusikowski@gmail.com","address":"92764 Beulah Inlet Apt. 506\nKundebury, MN 68500","subscribed":true}

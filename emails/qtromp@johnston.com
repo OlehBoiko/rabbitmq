@@ -1,1 +1,0 @@
-{"name":"Prof. Rigoberto Labadie II","email":"qtromp@johnston.com","address":"75754 Dagmar Common\nWest Eldon, LA 36365","subscribed":true}

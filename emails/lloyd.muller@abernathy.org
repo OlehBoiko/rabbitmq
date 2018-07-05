@@ -1,1 +1,0 @@
-{"name":"Prof. Margarette Turner","email":"lloyd.muller@abernathy.org","address":"42240 Eliane Stream Suite 206\nKirlinborough, VT 76428","subscribed":true}

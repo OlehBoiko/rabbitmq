@@ -1,1 +1,0 @@
-{"name":"Dr. Stone Greenfelder","email":"roger.osinski@okuneva.com","address":"5238 Emmett Stream\nBaumbachside, OK 25728","subscribed":true}

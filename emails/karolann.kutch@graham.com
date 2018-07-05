@@ -1,1 +1,0 @@
-{"name":"Prof. Carlos Morar","email":"karolann.kutch@graham.com","address":"31453 Kuhn Flats Apt. 445\nPort Roel, AK 79975","subscribed":true}

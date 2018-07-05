@@ -1,1 +1,0 @@
-{"name":"Sigmund Auer","email":"quigley.tristin@hotmail.com","address":"422 Gusikowski Road Apt. 016\nChristopheburgh, NJ 73522","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Dr. Ryan Stiedemann","email":"gmoen@konopelski.com","address":"753 Langosh Fort Suite 515\nWest Tomas, IL 28379","subscribed":true}

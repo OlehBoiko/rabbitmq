@@ -1,1 +1,0 @@
-{"name":"Prof. Norma Cole II","email":"hmorissette@gmail.com","address":"4258 Derick Coves\nNorth Cydney, TN 30721-4057","subscribed":true}

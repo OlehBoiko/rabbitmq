@@ -1,1 +1,0 @@
-{"name":"Emma Krajcik","email":"karlie.jacobs@murazik.com","address":"858 Rosanna Mill Suite 639\nAntoneland, GA 35049","subscribed":true}

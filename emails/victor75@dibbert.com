@@ -1,1 +1,0 @@
-{"name":"Prof. Kelsie Wisozk PhD","email":"victor75@dibbert.com","address":"2143 Forest Mills\nWest Keeganfort, MD 96081","subscribed":true}

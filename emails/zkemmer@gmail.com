@@ -1,1 +1,0 @@
-{"name":"Prof. Uriel Gutkowski","email":"zkemmer@gmail.com","address":"282 Lindgren Hollow\nEast Juliana, CA 17316-8007","subscribed":true}

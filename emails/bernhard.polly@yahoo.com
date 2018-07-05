@@ -1,1 +1,0 @@
-{"name":"Alek Rice","email":"bernhard.polly@yahoo.com","address":"24202 Mariam Oval Apt. 664\nGreenshire, MO 26274","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ms. Minnie Romaguera","email":"maxine49@yahoo.com","address":"922 Timmy Bridge Apt. 049\nEast Noe, WI 03291","subscribed":true}

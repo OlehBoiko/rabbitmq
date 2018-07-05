@@ -1,1 +1,0 @@
-{"name":"Junior Rippin","email":"pinkie.pfeffer@yahoo.com","address":"20121 Clay Rapids Apt. 108\nBernhardstad, MO 74824","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Tyrel Zboncak","email":"funk.rudy@kuphal.com","address":"9895 Huel Inlet\nMurrayburgh, NH 35014","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Durward Abernathy I","email":"marlen03@gislason.com","address":"16893 Leuschke Way Apt. 291\nDanikamouth, IL 30264","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Earline Gorczany Jr.","email":"leone.cassin@turner.com","address":"170 Donnell Avenue\nRunolfsdottirburgh, UT 62002-2547","subscribed":true}

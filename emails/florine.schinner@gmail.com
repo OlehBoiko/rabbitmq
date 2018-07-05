@@ -1,1 +1,0 @@
-{"name":"Prof. Amiya Hickle","email":"florine.schinner@gmail.com","address":"5968 Caroline Green\nLonnyburgh, TX 76969","subscribed":true}

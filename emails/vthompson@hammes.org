@@ -1,1 +1,0 @@
-{"name":"Efrain Bailey","email":"vthompson@hammes.org","address":"17498 Brown Way Apt. 335\nJaydachester, DC 00817-1191","subscribed":true}

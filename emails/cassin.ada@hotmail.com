@@ -1,1 +1,0 @@
-{"name":"Prof. Christina Breitenberg Jr.","email":"cassin.ada@hotmail.com","address":"219 Pagac Islands Suite 926\nAminaview, NH 88154","subscribed":true}

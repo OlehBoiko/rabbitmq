@@ -1,1 +1,0 @@
-{"name":"Mrs. Karli Berge","email":"uschmitt@yahoo.com","address":"826 Durward Square Suite 962\nSouth Selinachester, AL 15978","subscribed":true}

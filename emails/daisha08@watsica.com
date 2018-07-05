@@ -1,1 +1,0 @@
-{"name":"Prof. Mariam Daugherty","email":"daisha08@watsica.com","address":"82658 Liana Hollow Apt. 277\nPort Titoton, MO 58217-5717","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Tate Hackett DDS","email":"rosanna.rath@gmail.com","address":"36392 Edwina Coves Suite 388\nNorth Maxime, IN 48978","subscribed":true}

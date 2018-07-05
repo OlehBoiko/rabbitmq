@@ -1,1 +1,0 @@
-{"name":"Serenity Frami","email":"johanna.bernier@sporer.com","address":"7414 Medhurst Groves\nEmelystad, NE 97202-9767","subscribed":true}

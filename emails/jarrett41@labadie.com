@@ -1,1 +1,0 @@
-{"name":"Blake Glover Sr.","email":"jarrett41@labadie.com","address":"1755 Zora Pine\nParisianview, TX 71643","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Darron Pfeffer II","email":"quitzon.fredy@gmail.com","address":"41006 Devante Courts Suite 478\nBarrowstown, FL 24704","subscribed":true}

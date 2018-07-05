@@ -1,1 +1,0 @@
-{"name":"Candida Little","email":"evangeline.shanahan@yahoo.com","address":"823 Muhammad Estates\nMcCulloughstad, NC 55720","subscribed":true}

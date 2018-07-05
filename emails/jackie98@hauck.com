@@ -1,1 +1,0 @@
-{"name":"Mr. Ethel Dare Jr.","email":"jackie98@hauck.com","address":"77322 Dereck Shore Suite 422\nEast Vicentamouth, MD 88693","subscribed":true}

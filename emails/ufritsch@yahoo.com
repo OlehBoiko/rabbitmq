@@ -1,1 +1,0 @@
-{"name":"Cora Maggio","email":"ufritsch@yahoo.com","address":"9357 Rice Court Suite 928\nHammesmouth, VT 73550-5504","subscribed":true}

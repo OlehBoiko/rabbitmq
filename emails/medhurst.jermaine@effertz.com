@@ -1,1 +1,0 @@
-{"name":"Dr. Walter Ritchie Jr.","email":"medhurst.jermaine@effertz.com","address":"2888 Schiller Oval Apt. 688\nSkilesville, WA 55291","subscribed":true}

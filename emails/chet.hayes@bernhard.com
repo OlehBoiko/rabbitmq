@@ -1,1 +1,0 @@
-{"name":"Vernon Rice II","email":"chet.hayes@bernhard.com","address":"5103 Johnson Key\nWest Margaritachester, MO 16615-9586","subscribed":true}

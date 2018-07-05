@@ -1,1 +1,0 @@
-{"name":"Prof. Kennedi Ondricka MD","email":"qpfannerstill@hotmail.com","address":"717 Mayert Plains\nYostchester, NC 33669","subscribed":true}

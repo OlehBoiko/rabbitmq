@@ -1,1 +1,0 @@
-{"name":"Lionel Rippin II","email":"christiana27@yahoo.com","address":"217 Kihn Land Suite 843\nWest Andersonfort, CT 74725-0303","subscribed":true}

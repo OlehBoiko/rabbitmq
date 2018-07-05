@@ -1,1 +1,0 @@
-{"name":"Mrs. Sandrine Hickle MD","email":"ipurdy@gmail.com","address":"19015 Mills Route\nNorth Rafaelland, IA 06130-5973","subscribed":true}

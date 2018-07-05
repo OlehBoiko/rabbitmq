@@ -1,1 +1,0 @@
-{"name":"Mr. Arno Konopelski V","email":"pstanton@gmail.com","address":"9881 Kreiger Shoal\nYesseniaport, RI 64174-2694","subscribed":true}

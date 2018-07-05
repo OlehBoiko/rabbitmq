@@ -1,1 +1,0 @@
-{"name":"Prof. Herta Sipes","email":"modesta.terry@gmail.com","address":"94333 Cronin Gateway\nLefflerfurt, DC 09878","subscribed":true}

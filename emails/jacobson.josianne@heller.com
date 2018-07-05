@@ -1,1 +1,0 @@
-{"name":"Prof. Efren Bashirian","email":"jacobson.josianne@heller.com","address":"73632 Lamar Fall Apt. 514\nSouth Jadenborough, MS 89308","subscribed":true}

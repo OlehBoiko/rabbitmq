@@ -1,1 +1,0 @@
-{"name":"Jordan Fadel Jr.","email":"katelin93@mante.com","address":"818 Runte Radial Suite 323\nEvalynburgh, OH 46034","subscribed":true}

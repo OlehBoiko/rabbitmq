@@ -1,1 +1,0 @@
-{"name":"Daphnee Franecki","email":"ferry.olaf@hotmail.com","address":"41630 Zieme Villages Suite 207\nSouth Leonieland, IA 73311","subscribed":true}

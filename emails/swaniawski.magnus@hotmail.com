@@ -1,1 +1,0 @@
-{"name":"Brad Jacobi","email":"swaniawski.magnus@hotmail.com","address":"804 Hilpert Heights Suite 439\nPowlowskifort, MO 11734","subscribed":true}

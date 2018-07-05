@@ -1,1 +1,0 @@
-{"name":"Prof. Lyric Jacobs","email":"sporer.kraig@hotmail.com","address":"14711 Berneice Union\nPort Arnoport, FL 90148-8769","subscribed":true}

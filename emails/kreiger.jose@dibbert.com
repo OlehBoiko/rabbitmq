@@ -1,1 +1,0 @@
-{"name":"Mr. Wyatt Ullrich V","email":"kreiger.jose@dibbert.com","address":"3790 Monserrate Coves\nAlbertomouth, IN 98488","subscribed":true}

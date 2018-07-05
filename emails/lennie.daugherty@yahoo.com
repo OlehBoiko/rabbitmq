@@ -1,1 +1,0 @@
-{"name":"Prof. Thad Jacobi","email":"lennie.daugherty@yahoo.com","address":"995 Haley Cape Apt. 427\nSouth Alishaview, NM 46387-0809","subscribed":true}

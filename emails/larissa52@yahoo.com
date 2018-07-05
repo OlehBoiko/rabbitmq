@@ -1,1 +1,0 @@
-{"name":"Ms. Freida Schaden V","email":"larissa52@yahoo.com","address":"2576 Mitchell Burg Suite 541\nJaidentown, ND 36916","subscribed":true}

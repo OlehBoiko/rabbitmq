@@ -1,1 +1,0 @@
-{"name":"Dr. Arianna Schneider PhD","email":"kelsie02@fisher.com","address":"12515 Angelita Crossroad\nSouth Jackson, MD 46772","subscribed":true}

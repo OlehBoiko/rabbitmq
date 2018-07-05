@@ -1,1 +1,0 @@
-{"name":"Prof. Dewitt Kertzmann","email":"vkoch@yahoo.com","address":"171 Charlotte Heights Suite 234\nKossview, KS 05508-3989","subscribed":true}

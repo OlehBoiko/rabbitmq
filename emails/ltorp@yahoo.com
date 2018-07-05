@@ -1,1 +1,0 @@
-{"name":"Trinity Vandervort","email":"ltorp@yahoo.com","address":"37659 Leuschke Well Suite 828\nJacobistad, WV 84926","subscribed":true}

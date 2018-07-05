@@ -1,1 +1,0 @@
-{"name":"Prof. Gabe Fay","email":"jgoldner@gmail.com","address":"4878 Bartoletti Ways Suite 691\nBridgettown, AL 53405-0793","subscribed":true}

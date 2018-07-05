@@ -1,1 +1,0 @@
-{"name":"Palma Fay DDS","email":"vandervort.marc@hotmail.com","address":"9952 Tiana Ville Suite 954\nChamplinshire, OK 63931","subscribed":true}

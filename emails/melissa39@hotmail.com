@@ -1,1 +1,0 @@
-{"name":"Horace Schuppe DDS","email":"melissa39@hotmail.com","address":"52193 Gaylord Forges Apt. 985\nNew Ansel, TX 06288-5486","subscribed":true}

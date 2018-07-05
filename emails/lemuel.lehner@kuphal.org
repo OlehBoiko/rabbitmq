@@ -1,1 +1,0 @@
-{"name":"Dr. Dixie Fay DVM","email":"lemuel.lehner@kuphal.org","address":"7101 Sonia Plains Suite 535\nStonechester, MI 68112-3346","subscribed":true}

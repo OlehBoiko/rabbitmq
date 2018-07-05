@@ -1,1 +1,0 @@
-{"name":"Naomie Walsh PhD","email":"hlubowitz@gmail.com","address":"263 Davis Landing\nWolffton, SD 77906","subscribed":true}

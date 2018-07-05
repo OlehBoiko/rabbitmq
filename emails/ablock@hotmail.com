@@ -1,1 +1,0 @@
-{"name":"Sheridan Ward","email":"ablock@hotmail.com","address":"565 Justice Station\nAliport, VT 55758","subscribed":true}

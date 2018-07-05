@@ -1,1 +1,0 @@
-{"name":"Dr. Jamie Bechtelar","email":"dhartmann@bartoletti.com","address":"401 Randal Ridges\nHazleland, IL 61879","subscribed":true}

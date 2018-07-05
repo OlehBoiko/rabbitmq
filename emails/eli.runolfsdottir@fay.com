@@ -1,1 +1,0 @@
-{"name":"Prof. Solon Kautzer","email":"eli.runolfsdottir@fay.com","address":"92946 Hammes Trafficway\nKariview, WY 73150","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Kari Fadel Sr.","email":"schowalter.cornell@yahoo.com","address":"78812 Randi Mills\nSchmidtberg, WA 16107-5900","subscribed":true}

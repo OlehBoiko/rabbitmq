@@ -1,1 +1,0 @@
-{"name":"Isaiah D'Amore","email":"bergnaum.zula@hessel.com","address":"3768 Nikolaus Causeway Apt. 167\nBryanatown, WV 70254-0994","subscribed":true}

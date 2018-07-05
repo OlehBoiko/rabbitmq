@@ -1,1 +1,0 @@
-{"name":"Prof. Jessy Boehm PhD","email":"aric11@hotmail.com","address":"820 Gerlach Pines Suite 942\nRueckerport, ME 73319","subscribed":true}

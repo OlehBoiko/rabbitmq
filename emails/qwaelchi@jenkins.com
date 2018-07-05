@@ -1,1 +1,0 @@
-{"name":"Ms. Chaya Bernhard DDS","email":"qwaelchi@jenkins.com","address":"8952 Rosina Ranch Apt. 440\nNew Kaylin, MN 93146","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ruthie Konopelski Sr.","email":"rudolph33@yahoo.com","address":"7101 Kshlerin Tunnel Apt. 939\nHuelbury, NY 26646-6394","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Prof. Corrine McClure","email":"celestino72@gmail.com","address":"7132 Santina Valley\nNew Mitchellstad, IA 32242","subscribed":true}

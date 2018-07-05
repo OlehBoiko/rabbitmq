@@ -1,1 +1,0 @@
-{"name":"Prof. Garrick Hammes DDS","email":"federico.padberg@yahoo.com","address":"12487 Clemens Union\nKeeganhaven, ME 58165-6046","subscribed":true}

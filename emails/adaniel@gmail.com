@@ -1,1 +1,0 @@
-{"name":"Prof. Felix Boyle","email":"adaniel@gmail.com","address":"3569 Laura Park Suite 506\nKaymouth, CA 24721","subscribed":true}

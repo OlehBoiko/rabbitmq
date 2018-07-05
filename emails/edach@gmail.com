@@ -1,1 +1,0 @@
-{"name":"Mrs. Aurore Mante","email":"edach@gmail.com","address":"5660 Paula Expressway\nCassinfort, DE 49247-3663","subscribed":true}

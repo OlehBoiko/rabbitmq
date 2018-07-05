@@ -1,1 +1,0 @@
-{"name":"Hermann Romaguera","email":"ckoelpin@beatty.com","address":"7715 Helen Green Suite 123\nSouth Iketown, WV 63173-4076","subscribed":true}

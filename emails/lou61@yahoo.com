@@ -1,1 +1,0 @@
-{"name":"Jordane Stracke Sr.","email":"lou61@yahoo.com","address":"192 Alejandra Divide Suite 573\nLake Bridgette, WY 23049","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Ismael Bartoletti","email":"cristian26@yahoo.com","address":"98729 Logan Island Suite 660\nLegrosburgh, MO 05196","subscribed":true}

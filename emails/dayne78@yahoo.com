@@ -1,1 +1,0 @@
-{"name":"Dr. Eula Quigley I","email":"dayne78@yahoo.com","address":"862 Destiney Springs\nNew Joy, OH 65091","subscribed":true}

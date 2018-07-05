@@ -1,1 +1,0 @@
-{"name":"Prof. Rosendo Kessler IV","email":"crystel.corkery@yahoo.com","address":"774 Nikko Pines Apt. 267\nHirthebury, DE 05557-4676","subscribed":true}

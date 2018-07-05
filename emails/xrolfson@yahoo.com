@@ -1,1 +1,0 @@
-{"name":"Dr. Dereck Streich","email":"xrolfson@yahoo.com","address":"179 Tess Bridge Suite 377\nSouth Cortezview, MI 82608","subscribed":true}

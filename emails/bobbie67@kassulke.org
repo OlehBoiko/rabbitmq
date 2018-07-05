@@ -1,1 +1,0 @@
-{"name":"Prof. Arnaldo King IV","email":"bobbie67@kassulke.org","address":"58998 Jenkins Walk Apt. 941\nEast Eulaville, AL 17716","subscribed":true}

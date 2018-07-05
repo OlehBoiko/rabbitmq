@@ -1,1 +1,0 @@
-{"name":"Vernie Crona","email":"schuppe.leanna@cartwright.com","address":"964 Jacobson Fork\nLavernborough, CO 49870","subscribed":true}

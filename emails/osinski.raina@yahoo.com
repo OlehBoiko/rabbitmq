@@ -1,1 +1,0 @@
-{"name":"Dr. Kaylin Moore MD","email":"osinski.raina@yahoo.com","address":"44480 Altenwerth Green\nNelsmouth, TX 41479-2591","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Noemi Rutherford","email":"kshlerin.kailee@wisozk.com","address":"795 Neoma Shores\nPort Constanceview, WV 36312","subscribed":true}

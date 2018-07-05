@@ -1,1 +1,0 @@
-{"name":"Prof. Nicole Kshlerin DVM","email":"rebecca.schmitt@hotmail.com","address":"70132 Ledner Villages Suite 113\nNorth Maybelleburgh, OK 05654","subscribed":true}

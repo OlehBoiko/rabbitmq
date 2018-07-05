@@ -1,1 +1,0 @@
-{"name":"Prof. Bertha Weissnat","email":"tschuppe@pacocha.com","address":"7531 Trantow Shores\nKlingville, RI 05258-5263","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Adela Rohan","email":"harvey.carter@stracke.org","address":"8725 Josiah Key\nJakaylachester, OH 71673","subscribed":true}

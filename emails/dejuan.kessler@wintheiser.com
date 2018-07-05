@@ -1,1 +1,0 @@
-{"name":"Dr. Clementina Berge PhD","email":"dejuan.kessler@wintheiser.com","address":"26409 Jerde Mills Suite 304\nNew Cory, ID 70101-3203","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Shayna Ondricka","email":"bhomenick@hotmail.com","address":"2188 Nader Rapid\nNorth Odell, ME 20701","subscribed":true}

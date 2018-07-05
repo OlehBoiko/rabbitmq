@@ -1,1 +1,0 @@
-{"name":"Dr. Joshuah O'Connell Sr.","email":"garland11@konopelski.com","address":"776 Pearlie Mission\nPort Beulahshire, IN 22972-9651","subscribed":true}

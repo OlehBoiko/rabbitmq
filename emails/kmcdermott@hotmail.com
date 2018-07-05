@@ -1,1 +1,0 @@
-{"name":"Wendy Krajcik","email":"kmcdermott@hotmail.com","address":"7923 Ortiz Tunnel Suite 560\nSchadenshire, RI 52524-2114","subscribed":true}

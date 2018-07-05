@@ -1,1 +1,0 @@
-{"name":"Valerie Bruen","email":"brock.bartell@funk.org","address":"57501 McDermott Knoll\nWest Arnoldburgh, WI 10390","subscribed":true}

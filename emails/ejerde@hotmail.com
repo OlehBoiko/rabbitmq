@@ -1,1 +1,0 @@
-{"name":"Prince Schulist","email":"ejerde@hotmail.com","address":"169 Collier Manor Suite 976\nKuhicview, WY 31705-9321","subscribed":true}

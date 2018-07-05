@@ -1,1 +1,0 @@
-{"name":"Prof. Aric Flatley DVM","email":"tiara.schneider@hotmail.com","address":"832 Torp Extension Suite 784\nRigobertofurt, CT 08704","subscribed":true}

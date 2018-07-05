@@ -1,1 +1,0 @@
-{"name":"Prof. Misty Koelpin Jr.","email":"pmraz@hamill.org","address":"7860 Breitenberg Forges Suite 563\nGleasonfort, OR 13181-0955","subscribed":true}

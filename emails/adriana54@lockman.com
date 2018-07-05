@@ -1,1 +1,0 @@
-{"name":"Amanda Sawayn","email":"adriana54@lockman.com","address":"711 Emma Inlet\nReingerhaven, ND 25922","subscribed":true}

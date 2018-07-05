@@ -1,1 +1,0 @@
-{"name":"Prof. Reggie Carter","email":"sstroman@yahoo.com","address":"3596 Margarett Forest Apt. 748\nNew Noahstad, OH 49751-8384","subscribed":true}

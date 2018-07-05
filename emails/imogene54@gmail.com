@@ -1,1 +1,0 @@
-{"name":"Prof. Axel Wisoky","email":"imogene54@gmail.com","address":"81232 Austin Island Suite 430\nNew Brooke, SC 46826-8393","subscribed":true}

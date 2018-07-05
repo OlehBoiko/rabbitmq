@@ -1,1 +1,0 @@
-{"name":"Edward Oberbrunner Sr.","email":"genoveva.renner@hotmail.com","address":"57810 Hackett Mountains\nNorth Idellland, AZ 93699-7069","subscribed":true}

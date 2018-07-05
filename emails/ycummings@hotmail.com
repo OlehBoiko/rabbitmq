@@ -1,1 +1,0 @@
-{"name":"Mr. Vincenzo Williamson I","email":"ycummings@hotmail.com","address":"484 Madelynn Highway Apt. 006\nNorth Anjali, MN 19229","subscribed":true}

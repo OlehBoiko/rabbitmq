@@ -1,1 +1,0 @@
-{"name":"Mr. Steve Fritsch","email":"ewell27@yahoo.com","address":"43320 Macie Dam\nNorth Jadon, GA 40110","subscribed":true}

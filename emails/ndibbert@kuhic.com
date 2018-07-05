@@ -1,1 +1,0 @@
-{"name":"Prof. Noemie Hirthe I","email":"ndibbert@kuhic.com","address":"81851 Funk Junction\nLittleview, VT 71098","subscribed":true}

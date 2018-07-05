@@ -1,1 +1,0 @@
-{"name":"Devon DuBuque Sr.","email":"daniella.larson@vonrueden.com","address":"696 Lazaro Brook\nAlexaland, LA 49819","subscribed":true}

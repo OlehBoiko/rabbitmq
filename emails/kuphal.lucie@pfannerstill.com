@@ -1,1 +1,0 @@
-{"name":"Mrs. Cathrine Crist PhD","email":"kuphal.lucie@pfannerstill.com","address":"6694 Green Point\nWelchfort, ND 62141-8253","subscribed":true}

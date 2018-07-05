@@ -1,1 +1,0 @@
-{"name":"Susana Price","email":"dach.francesco@mcdermott.com","address":"2743 Leffler Divide Suite 120\nJoannestad, CA 23388","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Mrs. Lorine Bechtelar DDS","email":"brendan.bode@reichel.com","address":"489 Marge Station Suite 761\nNew Deondre, MN 16994-5239","subscribed":true}

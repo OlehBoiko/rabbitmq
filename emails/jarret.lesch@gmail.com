@@ -1,1 +1,0 @@
-{"name":"Ozella Rippin Sr.","email":"jarret.lesch@gmail.com","address":"14996 Louie Drive\nSouth Sandy, MI 69078","subscribed":true}

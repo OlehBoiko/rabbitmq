@@ -1,1 +1,0 @@
-{"name":"Mrs. Anissa Rosenbaum","email":"winona.shields@yahoo.com","address":"730 Balistreri Walk Suite 172\nNorth Brett, RI 55930-9894","subscribed":true}

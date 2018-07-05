@@ -1,1 +1,0 @@
-{"name":"Jeramy Lang PhD","email":"gibson.gerardo@mayer.org","address":"545 Hyatt Wells Suite 942\nCummingsport, LA 72869-2008","subscribed":true}

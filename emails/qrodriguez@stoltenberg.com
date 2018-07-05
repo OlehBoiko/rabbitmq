@@ -1,1 +1,0 @@
-{"name":"Noel Bahringer","email":"qrodriguez@stoltenberg.com","address":"232 Hermann Coves\nKobyville, AZ 69154","subscribed":true}

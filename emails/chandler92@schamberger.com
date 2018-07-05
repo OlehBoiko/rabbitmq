@@ -1,1 +1,0 @@
-{"name":"Idell Durgan","email":"chandler92@schamberger.com","address":"40815 Gage Mission Suite 543\nHermannview, OR 28221","subscribed":true}

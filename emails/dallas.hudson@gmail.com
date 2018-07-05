@@ -1,1 +1,0 @@
-{"name":"Prof. Cicero Heaney","email":"dallas.hudson@gmail.com","address":"1802 Mann Lights\nSouth Dianna, RI 71789-0961","subscribed":true}

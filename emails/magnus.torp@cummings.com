@@ -1,1 +1,0 @@
-{"name":"Delfina Borer","email":"magnus.torp@cummings.com","address":"745 Estrella Ferry\nSouth Sonia, TX 83263-8733","subscribed":true}

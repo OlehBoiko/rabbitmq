@@ -1,1 +1,0 @@
-{"name":"Prof. Donnell Dietrich","email":"calista.kulas@kessler.com","address":"3044 Yundt Mall\nLynchhaven, ME 76218-4331","subscribed":true}

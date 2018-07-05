@@ -1,1 +1,0 @@
-{"name":"Einar Rempel Jr.","email":"evan.macejkovic@oconnell.org","address":"2484 Terry Points\nAlisonborough, KS 25452","subscribed":true}

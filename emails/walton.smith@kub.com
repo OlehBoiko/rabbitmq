@@ -1,1 +1,0 @@
-{"name":"Kailyn Bartoletti","email":"walton.smith@kub.com","address":"8760 Mayra Knolls Suite 189\nPort Delphine, ND 19917-3771","subscribed":true}

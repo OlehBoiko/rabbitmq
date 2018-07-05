@@ -1,1 +1,0 @@
-{"name":"Jolie Paucek Sr.","email":"connie19@yahoo.com","address":"74928 Savannah Green Apt. 014\nNew Lunaberg, CO 66061","subscribed":true}

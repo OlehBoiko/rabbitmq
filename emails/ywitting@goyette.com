@@ -1,1 +1,0 @@
-{"name":"Dr. Rogers Feeney","email":"ywitting@goyette.com","address":"2692 Cormier Station\nHermanhaven, CT 19324","subscribed":true}

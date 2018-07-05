@@ -1,1 +1,0 @@
-{"name":"Jamal Douglas","email":"arturo.schaefer@yahoo.com","address":"4702 Malika Wells\nZettaport, ND 69353","subscribed":true}

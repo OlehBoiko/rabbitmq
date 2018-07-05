@@ -1,1 +1,0 @@
-{"name":"Prof. Margret Lubowitz","email":"jalyn09@yahoo.com","address":"8045 Janick Valleys\nRogahnbury, AR 06488","subscribed":true}

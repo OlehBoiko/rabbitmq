@@ -1,1 +1,0 @@
-{"name":"Prof. Derrick Muller","email":"konopelski.hillard@hotmail.com","address":"9178 Stephania Locks Suite 141\nPort Micahburgh, FL 32262","subscribed":true}

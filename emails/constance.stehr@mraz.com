@@ -1,1 +1,0 @@
-{"name":"Eli O'Reilly","email":"constance.stehr@mraz.com","address":"205 Elda Prairie\nMackenzieport, MT 58255","subscribed":true}

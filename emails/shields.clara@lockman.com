@@ -1,1 +1,0 @@
-{"name":"Prof. Dewitt Jast","email":"shields.clara@lockman.com","address":"822 Wisoky Vista Apt. 642\nWest Groverport, AL 70024","subscribed":true}

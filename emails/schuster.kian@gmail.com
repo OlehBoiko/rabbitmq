@@ -1,1 +1,0 @@
-{"name":"Guiseppe Krajcik","email":"schuster.kian@gmail.com","address":"332 Fahey Rapids Apt. 283\nSchimmelshire, OR 20319","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Destini Kovacek","email":"huel.marian@hotmail.com","address":"6492 Koepp Mount Suite 702\nNorth Celestinofurt, CT 60080-2045","subscribed":true}

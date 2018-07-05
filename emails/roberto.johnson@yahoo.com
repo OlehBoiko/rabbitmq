@@ -1,1 +1,0 @@
-{"name":"Prof. Carter Mayer V","email":"roberto.johnson@yahoo.com","address":"8021 Waters Spring Suite 481\nNorth Rogelio, IL 89977","subscribed":true}

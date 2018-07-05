@@ -1,1 +1,0 @@
-{"name":"Taurean Lemke PhD","email":"uruecker@gmail.com","address":"1693 Wilmer Path Suite 341\nNew Deondre, CT 14325","subscribed":true}

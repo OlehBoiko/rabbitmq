@@ -1,1 +1,0 @@
-{"name":"Prof. Fidel Wuckert V","email":"abbott.casper@koch.com","address":"924 Meagan Trafficway\nWest Orlohaven, SC 08792-3864","subscribed":true}

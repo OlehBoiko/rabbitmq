@@ -1,1 +1,0 @@
-{"name":"Buck Ritchie","email":"brandyn36@gmail.com","address":"149 Neva Lock Suite 652\nTerryburgh, NC 87174","subscribed":true}

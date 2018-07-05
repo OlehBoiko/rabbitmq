@@ -1,1 +1,0 @@
-{"name":"Lukas Runolfsson MD","email":"tremblay.celestine@lesch.com","address":"755 Johns Orchard\nEugeniafurt, MS 56856","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Cathy Bartoletti","email":"antonio72@yahoo.com","address":"760 Kling Mount Suite 488\nWilliamsonton, RI 35412-7564","subscribed":true}

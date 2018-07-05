@@ -1,1 +1,0 @@
-{"name":"Prof. Corene King","email":"jairo24@hotmail.com","address":"272 Allene Stravenue\nTroyton, NC 43517-9977","subscribed":true}

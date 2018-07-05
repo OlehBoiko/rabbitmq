@@ -1,1 +1,0 @@
-{"name":"Rodrigo Kertzmann","email":"kmorissette@yahoo.com","address":"200 Korey Motorway\nWolffhaven, TN 93614","subscribed":true}

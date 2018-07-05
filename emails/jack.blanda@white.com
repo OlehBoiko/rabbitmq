@@ -1,1 +1,0 @@
-{"name":"Hazel Schowalter","email":"jack.blanda@white.com","address":"35605 Madie Unions\nSouth Corene, IL 51435","subscribed":true}

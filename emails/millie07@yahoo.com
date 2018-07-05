@@ -1,1 +1,0 @@
-{"name":"Prof. Ebba Johns PhD","email":"millie07@yahoo.com","address":"6298 Yundt Turnpike\nChaseburgh, UT 29211-2767","subscribed":true}

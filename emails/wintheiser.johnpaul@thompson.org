@@ -1,1 +1,0 @@
-{"name":"Art Ernser III","email":"wintheiser.johnpaul@thompson.org","address":"435 Oberbrunner Port Suite 126\nSouth Melvin, OH 56058-5960","subscribed":true}

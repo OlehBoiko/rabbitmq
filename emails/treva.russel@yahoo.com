@@ -1,1 +1,0 @@
-{"name":"Margarete Pfannerstill III","email":"treva.russel@yahoo.com","address":"95880 Kohler Walk Suite 355\nEast Kayaberg, VT 19115","subscribed":true}

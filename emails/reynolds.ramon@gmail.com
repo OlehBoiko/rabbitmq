@@ -1,1 +1,0 @@
-{"name":"Dr. Monte Gislason MD","email":"reynolds.ramon@gmail.com","address":"3747 Blanda Union\nMichelstad, MN 41718-7018","subscribed":true}

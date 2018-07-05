@@ -1,1 +1,0 @@
-{"name":"Amanda Kemmer","email":"maximillia.eichmann@gmail.com","address":"4122 Abraham Point\nDejachester, HI 29867","subscribed":true}

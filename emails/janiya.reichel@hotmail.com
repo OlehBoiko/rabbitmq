@@ -1,1 +1,0 @@
-{"name":"Jerry Simonis","email":"janiya.reichel@hotmail.com","address":"36171 Angelita Wall Apt. 917\nEast Lomahaven, TX 65757","subscribed":true}

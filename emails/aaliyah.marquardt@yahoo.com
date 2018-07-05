@@ -1,1 +1,0 @@
-{"name":"Prof. Clinton Tromp PhD","email":"aaliyah.marquardt@yahoo.com","address":"36447 Mattie Village\nJaskolskiville, TN 64653","subscribed":true}

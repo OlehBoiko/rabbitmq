@@ -1,1 +1,0 @@
-{"name":"Arthur Langosh III","email":"friesen.delphia@yahoo.com","address":"28531 Greenholt Squares Apt. 876\nZiemannborough, MN 96915-5938","subscribed":true}

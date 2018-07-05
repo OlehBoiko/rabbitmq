@@ -1,1 +1,0 @@
-{"name":"Chaim Bergstrom","email":"willy70@hotmail.com","address":"46607 Bednar Forks\nChynaport, NH 01250","subscribed":true}

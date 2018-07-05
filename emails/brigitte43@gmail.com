@@ -1,1 +1,0 @@
-{"name":"Dante Rohan","email":"brigitte43@gmail.com","address":"29848 Yundt Vista Suite 719\nPort Kendra, VT 41302","subscribed":true}

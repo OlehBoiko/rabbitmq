@@ -1,1 +1,0 @@
-{"name":"Cooper Sporer","email":"juvenal.simonis@hotmail.com","address":"324 Hayes Meadows\nShanelshire, OR 33240","subscribed":true}

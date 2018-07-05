@@ -1,1 +1,0 @@
-{"name":"Patricia Rutherford","email":"west.grayson@mckenzie.com","address":"615 Nico Streets Apt. 524\nNorth Brenda, NY 91762","subscribed":true}

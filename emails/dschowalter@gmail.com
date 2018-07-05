@@ -1,1 +1,0 @@
-{"name":"Prof. Scottie Schumm V","email":"dschowalter@gmail.com","address":"93523 Hoppe Drives\nWest Carolina, MN 71847","subscribed":true}

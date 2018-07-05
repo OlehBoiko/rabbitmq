@@ -1,1 +1,0 @@
-{"name":"Dr. Brielle Parisian I","email":"fritsch.jaida@yahoo.com","address":"95015 Anderson Cliff Apt. 055\nSouth Tabithaville, MA 58778-9309","subscribed":true}

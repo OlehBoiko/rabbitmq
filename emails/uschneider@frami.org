@@ -1,1 +1,0 @@
-{"name":"Francisco Weber","email":"uschneider@frami.org","address":"8262 Gulgowski Street\nPaulatown, WA 65828","subscribed":true}

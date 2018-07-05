@@ -1,1 +1,0 @@
-{"name":"Jermain Kuvalis DDS","email":"reuben17@hotmail.com","address":"5387 Pearl Lane\nPort Emiliabury, CA 69295","subscribed":true}

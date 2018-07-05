@@ -1,1 +1,0 @@
-{"name":"Dr. Margarete Grady","email":"joanny.veum@yahoo.com","address":"240 Considine Springs Apt. 422\nBoehmmouth, DE 18843","subscribed":true}

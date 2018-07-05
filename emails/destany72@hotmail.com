@@ -1,1 +1,0 @@
-{"name":"Dock Hettinger","email":"destany72@hotmail.com","address":"987 Meta Gateway Suite 565\nWest Karolann, OK 31332","subscribed":true}

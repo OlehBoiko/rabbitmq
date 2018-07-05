@@ -1,1 +1,0 @@
-{"name":"Ulices Thompson DVM","email":"brycen.hessel@littel.com","address":"66667 Noelia Village Suite 496\nFilomenatown, MS 38902","subscribed":true}

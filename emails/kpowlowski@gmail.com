@@ -1,1 +1,0 @@
-{"name":"Prof. Maudie Marquardt","email":"kpowlowski@gmail.com","address":"54050 Terry Port\nChelseahaven, CA 06612","subscribed":true}

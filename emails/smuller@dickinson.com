@@ -1,1 +1,0 @@
-{"name":"Frank Schuppe","email":"smuller@dickinson.com","address":"9749 Schowalter Corner Suite 764\nCaesarfort, NE 77125","subscribed":true}

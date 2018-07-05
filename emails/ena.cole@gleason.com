@@ -1,1 +1,0 @@
-{"name":"Prof. Jonathan Turcotte","email":"ena.cole@gleason.com","address":"6850 Marvin Radial\nEast Josiah, MS 99392","subscribed":true}

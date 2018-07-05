@@ -1,1 +1,0 @@
-{"name":"Prof. Brenda Prohaska","email":"gquitzon@hotmail.com","address":"28188 Ritchie Ferry\nHirtheview, SD 96939-0100","subscribed":true}

@@ -1,1 +1,0 @@
-{"name":"Candelario Schmitt","email":"gilberto.adams@yahoo.com","address":"907 Farrell Turnpike\nSouth Aimee, AZ 84314-5761","subscribed":true}

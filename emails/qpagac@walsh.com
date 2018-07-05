@@ -1,1 +1,0 @@
-{"name":"Prof. Vincent Rice","email":"qpagac@walsh.com","address":"85914 Carter Pines Suite 621\nWest Nehaton, IN 02470","subscribed":true}
